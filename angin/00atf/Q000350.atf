@@ -81,7 +81,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=17
 
 18. kur gu₂-erim₂-ŋal₂-še₃# X-am₃ al-zi#?-[(zi?)]
-#lem: kur[mountain(s)]; guʾerimŋal[hostile]; u; zig[rise]
+#lem: kur[mountain(s)]; guʾerimŋal[hostile]; u; +zig[rise]
 #etcsl: line-id=18
 
 19. bad₃ ki-bal-a-še₃ a-ŋi₆-am₃ al-[(x)]
@@ -96,8 +96,8 @@ $ (Line numbering follows ETCSL)
 #lem: en[lord]; sulim[awesome radiance]; huš[reddish]; u; u
 #etcsl: line-id=21
 
-22. an ki-bi-da ŋiri₃#-x# [...]
-#lem: an[sky]; ki[place]; ŋiri[foot]; u
+22. an ki-bi-da ŋiri₃# x# [...]
+#lem: an[sky]; ki[place]; ŋiri[foot]; u; u
 #etcsl: line-id=22
 
 23. ti-zu₂ mir#? x x x x [...]
@@ -125,7 +125,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=28
 
 29. [{tug₂}]lu-bu-uš-tum a₂ me₃#? (x) da#-da-ra ba-an-du₈
-#lem: lubuštum[clothing]; a[arm]; me[battle]; u; dadara[tied up]; du[spread]
+#lem: +lubuštum[clothing]/{tug₂}lu-bu-uš-tum#~; a[arm]; me[battle]; u; dadara[tied up]; du[spread]
 #etcsl: line-id=29
 
 30. lugal-ŋu₁₀ a₂#? nam#-ur#-saŋ?-ŋa₂?-ni#-še₃
@@ -137,7 +137,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=31
 
 32. šeg₉-saŋ#-aš₃ kur za-gin₃ uru₁₆-na-ta nam-ta#-an-e₃
-#lem: Šeŋsaŋmin[1]DN; kur[mountain]; zagin[lapis lazuli]; urun[exalted]; e[leave]
+#lem: Šeŋsaŋaš[1]DN; kur[mountain]; zagin[lapis lazuli]; urun[exalted]; e[leave]
 #etcsl: line-id=32
 
 #note: var. šeg₉-sag-min.
@@ -208,7 +208,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=48
 
 49. mir-a-ni-x# ki-bal-a zar?-[re]-eš mu-un-du₈-du₈
-#lem: mir[anger]; kibala[rebel land]; zar[sheaf (of barley)]; du[spread]
+#lem: +mir[angry]/mir#~,ani.x; kibala[rebel land]; zar[sheaf (of barley)]; du[spread]
 #etcsl: line-id=49
 
 50. lugal-e a₂# nam#-ur-saŋ#-[ŋa₂-ni]-še₃# šu#-na# mi#-ni#-in#-gi₄#
@@ -216,7 +216,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=50
 
 51. en {d}[nin]-urta# a₂ nam-ur-saŋ-ŋa₂-še₃#? šu#-na# mi#-ni-in#-gi₄#
-#lem: en[lord]; Ninurtak[1]DN; a[arm]; namursaŋ[heroism]; šu[hand]; gi[turn]
+#lem: en[lord]; Ninurtak[1]DN; a[arm]; +namursaŋ[heroism]/nam-ur-saŋ#~,ŋu.ak.eše; šu[hand]; gi[turn]
 #etcsl: line-id=51
 
 52. {ŋiš}gigir# za#-gin₃-na ni₂ huš gur₃-ru#-ni [...]
@@ -238,11 +238,11 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=55
 
 56. ušum ur-saŋ saŋ-dur₂-ra-ka bi₂-in-la₂
-#lem: Ušum[1]DN; ursaŋ[warrior]; saŋdur[seat]; la[hang]
+#lem: Ušum[1]DN; ursaŋ[warrior]; +saŋdur[seat]/saŋ-dur₂+-ra=r.a#~,ak.a; la[hang]
 #etcsl: line-id=56
 
-57. ma₂-gi₄-lum še-er-DU₈-na-ka bi₂-in-la₂
-#lem: Magilum[1]DN; šergabana[object of wood or cloth for a wagon]; la[hang]
+57. ma₂-gi₄-lum še-er-gaba-na-ka bi₂-in-la₂
+#lem: Magilum[1]DN; +šergabana[object of wood or cloth for a wagon]N/še-er-gaba-na#~,ak.a; la[hang]
 #etcsl: line-id=57
 
 58. gud-alim ad-us₂-a bi₂-in-la₂
@@ -288,8 +288,8 @@ $ (Line numbering follows ETCSL)
 
 #note: For sign-form Attinger/Glenn n.49 refers to aBZL 125 #316 citing EWO A.
 
-68. ni₂ kur-kur-ra {[d]}lugal-kur-dub₂-(x#?)
-#lem: ni[fear]; kur[mountain(s)]; Lugalkurdub[1]DN
+68. ni₂ kur-kur-ra {[d]}lugal-kur-dub₂ (x#?)
+#lem: ni[fear]; kur[mountain(s)]; Lugalkurdub[1]DN; u
 #etcsl: line-id=68
 
 69. en {d}nin-urta-ke₄# X X X [egir-ra-ni nam-mi-in-us₂]
@@ -323,7 +323,7 @@ $ (Line numbering follows ETCSL)
 #note: Restored from FM version.
 
 75. ud-dam an-ur₂-ra [dum]-dam# mu-ni#?-[x-za]
-#lem: ud[storm]; anur[horizon]; dumdam[sound]; za[cvve]
+#lem: ud[storm]; anur[horizon]; dumdam[sound]; +za[cvve]/za#mu.ni:~
 #etcsl: line-id=75
 
 76. du-ni inim {d}en-lil₂-la₂ e₂-kur-še₃ ŋa₂#-[ŋa₂-da?]
@@ -339,7 +339,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=78
 
 79. {d}nuska sukkal-mah {d}en-lil₂-la₂ e₂-kur-ta gaba# [x-x-ri-(eš)]
-#lem: Nuska[1]DN; sukkalmah[an official]; Enlil[1]DN; Ekur[1]TN; gaba[breast]; ri[oppose]
+#lem: Nuska[1]DN; sukkalmah[an official]; Enlil[1]DN; Ekur[1]TN; gaba[breast]; +ri[oppose]V/t/ri#x:~;eš
 #etcsl: line-id=79
 
 80. en {d}nin-urta-ra silim-ma mu-un-na-[ab-be₂]
@@ -371,7 +371,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=86
 
 87. {[d]}a-nun-na diŋir gal-gal-e-ne en šar₂-ra nam-mi-in-tar
-#lem: Anunak[1]DN; diŋir[deity]; gal[big]; en[lord]; šar[all]; tar[cut]
+#lem: Anunak[1]DN; diŋir[deity]; gal[big]; en[lord]; šar[totality]; +tar[cut]V/t/tar#na.Vmma.i.n:~
 #etcsl: line-id=87
 
 #note: This is line 89 in Attinger/Glenn; omitted in OB version.
@@ -449,7 +449,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=105
 
 106. kur gal# {d}en-lil₂-le giri₁₇ šu am₃#-[x-(x)]-ŋal₂#
-#lem: kur[mountain(s)]; gal[big]; Enlil[1]DN; kiri[nose]; šu[hand]; ŋal[⟦be⟧ to be]
+#lem: kur[mountain(s)]; gal[big]; Enlil[1]DN; kiri[nose]; šu[hand]; +ŋal[⟦be⟧ to be]V/i/ŋal₂#Vmma.x:~
 #etcsl: line-id=106
 
 107. {d}dil-im₂-babbar-re u₃-gul mu-un-na#-ŋa₂#-ŋa₂#
@@ -457,7 +457,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=107
 
 108. ama gal {d}nin-lil₂-le šag₄ ki-aŋ₂#?-a-ni-ta
-#lem: ama[mother]; gal[big]; Ninlil[1]DN; šag[heart]; kiʾaŋa[beloved]
+#lem: ama[mother]; gal[big]; Ninlil[1]DN; šag[heart]; +kiʾaŋa[beloved]AJ/ki-aŋ₂#~,ani.ta
 #etcsl: line-id=108
 
 109. en {d}nin-urta-ra mi₂# zid na-mu#-un-ne#
@@ -497,7 +497,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=117
 
 118. kur gi-sig-gin₇ dub₂-bu#-[da-ŋu₁₀-ne? ...]
-#lem: kur[mountain(s)]; gisig[reed fence]; dub[tremble]; X
+#lem: kur[mountain(s)]; gisig[reed fence]; +dub[tremble]V/i/dub₂+-bu=b.e#~;e.de.a,ŋu.ne; u
 #etcsl: line-id=118
 
 119. me₃-ŋu₁₀ a mah e₃-a-gin₇ kur-re ba-ra-ab-[e₃]
@@ -508,8 +508,8 @@ $ (Line numbering follows ETCSL)
 #lem: kuš[hide]; piriŋ[lion]; sa[sinew]; piriŋ[lion]; kibala[rebel land]; zig[rise]
 #etcsl: line-id=120
 
-121. diŋir am₃-mi-tar hur-saŋ-ŋa₂-[(x)]
-#lem: diŋir[deity]; tar[cut]; hursaŋ[mountain]
+121. diŋir am₃-mi-tar hur-saŋ-ŋa₂ [(x)]
+#lem: diŋir[deity]; +tar[cut]V/t/tar#Vmma.i:~; hursaŋ[mountain]; u
 #etcsl: line-id=121
 
 122. buru₅{mušen}-gin₇ a₂-bulug₂-ba mu-un-da-dub₂#-[dub₂]
@@ -533,7 +533,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=126
 
 127. {d}a-nun-na-ke₄-e-ne peš₂-gin₇ a₂-ur₂-bi im-ma?#-[...]
-#lem: Anunak[1]DN; peš[large mouse]; aʾur[hidden place]; dab[seize]
+#lem: Anunak[1]DN; peš[large mouse]; aʾur[hidden place]; u
 #etcsl: line-id=127
 
 128. kur-re a₂ nam-ur-saŋ-ŋa₂-ŋu₁₀ ki-bi u₃-mu-[x-gi₄?]
@@ -550,7 +550,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=130
 
 131. ug-zu₂-ninnu-ŋu₁₀ mi-tum an#-[na]-ŋu₁₀ mu-da-an-ŋal₂-la-[am₃]
-#lem: +Uzuninnu[1]ON; mitum[divine weapon]; an[sky]; ŋal[⟦be⟧ to be]
+#lem: +Uzuninnu[1]ON/ug-zu₂-ninnu#~; mitum[divine weapon]; an[sky]; ŋal[⟦be⟧ to be]
 #etcsl: line-id=131
 
 132. meš₃ kur gal ed₃-de₃ ud-ba-[nu-il₂]-la#-ŋu₁₀ mu-da-an-ŋal₂-la-am₃#
@@ -558,7 +558,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=132
 
 133. {ŋiš}tukul ušumgal-gin₇# ad₆# gu₇#-[x] aga!-silig!-ŋu₁₀ mu-da-an-ŋal₂-la-am₃#
-#lem: tukul[weapon]; ušumgal[great dragon]; adda[corpse]; gu[eat]; agasilig[an ax]; ŋal[⟦be⟧ to be]
+#lem: tukul[weapon]; ušumgal[great dragon]; adda[corpse]; +gu[eat]V/t/gu₇#~;x; agasilig[an ax]; ŋal[⟦be⟧ to be]
 #etcsl: line-id=133
 
 134. niŋ₂# kur# gul-gul udug₂ idim an-na#-ŋu₁₀ mu-da-an-ŋal₂-la-am₃#
@@ -578,7 +578,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=137
 
 138. muš-mah zu₂ imin saŋ ŋiš ra-ra {urud?}gag-ŋu₁₀ mu-da-an-ŋal₂#-[la-am₃]
-#lem: mušmah[mythical creature]; zu[tooth]; imin[seven]; saŋ[head]; ŋeš[tree]; rah[beat]; gag[nail]; ŋal[⟦be⟧ to be]
+#lem: mušmah[mythical creature]; zu[tooth]; imin[seven]; saŋ[head]; ŋeš[tree]; rah[beat]; +gag[nail]N/{urud}gag#~,ŋu; ŋal[⟦be⟧ to be]
 #etcsl: line-id=138
 
 139. kur gu₂-guru₅ dug₄-dug₄ ŋiri₂ gal ŋiri₂ an-na-ŋu₁₀ mu-da-an-ŋal₂#-[la-am₃]
@@ -640,11 +640,11 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=152
 
 153. {d}en-lil₂ a₂ nam-ur-saŋ-ŋa₂-ŋu₁₀ a he₂-em-tu₅-tu₅#-[x]
-#lem: Enlil[1]DN; a[arm]; namursaŋ[heroism]; a[water]; tu[cvve]
+#lem: Enlil[1]DN; a[arm]; namursaŋ[heroism]; a[water]; +tu[cvve]V/t/tu₅-tu₅#ha.i.b:~;x
 #etcsl: line-id=153
 
 154. a₂ huš {ŋiš}tukul-ŋa₂ a-gub₂-ba ha-ma-ni-ib₂-be₂-ne
-#lem: a[arm]; huš[reddish]; tukul[weapon]; aguba[holy water]; e[speak]
+#lem: a[arm]; huš[reddish]; tukul[weapon]; +aguba[holy water]N/a-gub₂-ba#~; e[speak]
 #etcsl: line-id=154
 
 155. ŋišgal gi-rin-na gu₂-en-na si ha-ma-ab-sa₂-e-ne
@@ -652,7 +652,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=155
 
 156. {ŋiš}gigir an-na-ŋu₁₀ ki-gal-la he₂-em-mi-in-gub-bu-ne
-#lem: gigir[chariot]; an[sky]; kigal[platform]; gub[stand]
+#lem: gigir[chariot]; an[sky]; kigal[platform]; +gub[stand]/gub#ha.Vmma.i.n:~;ene
 #etcsl: line-id=156
 
 157. ur-saŋ dab₅-ba-ŋu₁₀ am du₇-du₇-gin₇ saman he₂-me-šub
@@ -680,7 +680,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=162
 
 163. [an-ne₂] a₂ gal-la#-[ni]-eš# pad₃#-[da-me-en]
-#lem: An[1]DN; a[arm]; gal[big]; pad[find]
+#lem: An[1]DN; a[arm]; +gal[big]AJ/gal+-la=l.a#~,ani.eše; pad[find]
 #etcsl: line-id=163
 
 163a. TUMU#? kur gul#-gul an-ta nam-lugal DU-a me-en
@@ -698,8 +698,8 @@ $ (Line numbering follows ETCSL)
 #lem: namlugal[kingship]; zag[side]; anki[universe]; pa[branch]; e[leave]
 #etcsl: line-id=166
 
-167. a₂-ŋal₂# diŋir-re-e-ne-me-en ni₂ gal hu-mu-u₈-da-ri
-#lem: aŋal[strong]; diŋir[deity]; ni[fear]; gal[big]; ri[impose]
+167. a₂-ŋal₂# diŋir-re-e-ne me-en ni₂ gal hu-mu-u₈-da-ri
+#lem: aŋal[strong]; diŋir[deity]; me[be]; ni[fear]; gal[big]; +ri[impose]V/t/ri#ha.mu.e.da:~
 #etcsl: line-id=167
 
 168. iri ki-aŋ₂-ŋu₁₀ eš₃ nibru{ki} an-gin₇ gu₂# he₂-eb₂-us₂#
@@ -759,11 +759,11 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=181
 
 182. eš₃ nibru{ki#} iri ki-aŋ₂-ŋa₂-zu šag₄-zu he₂#-[em-ma]-huŋ#
-#lem: eš[shrine]; Nibru[1]SN; iri[city]; kiʾaŋa[place]; šag[heart]; huŋ[pacify]
+#lem: eš[shrine]; Nibru[1]SN; iri[city]; kiʾaŋa[beloved]; šag[heart]; huŋ[pacify]
 #etcsl: line-id=182
 
 183. e₂-šu-me-ša₄ e₂ ki-aŋ₂-zu dili ku₄#-[ku₄-da-zu]-ne#
-#lem: Ešumeša[1]TN; e[house]; kiʾaŋa[place]; dili[single]; kur[enter]
+#lem: Ešumeša[1]TN; e[house]; kiʾaŋa[beloved]; dili[single]; kur[enter]
 #etcsl: line-id=183
 
 184. nitalam-zu-ur₂ ki-sikil {d}[nin-nibru]{ki#}
@@ -783,7 +783,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=187
 
 188. ud-ba KA sizkur₂-ra-ka-ni
-#lem: ud[storm]; X; siškur[prayer]
+#lem: ud[day]; X; +siškur[prayer]N/siškur₂+-ra=r.a#~,ak.ani
 #etcsl: line-id=188
 
 189. šag₄ kadra a sed su₃-a-ni
@@ -870,90 +870,248 @@ $ (Line numbering follows ETCSL)
 
 @end trailer
 
-
 @translation labeled en project
 
-@(1 - 6) Created like An, O son of Enlil, Ninurta, created like Enlil, born by Nintur, mightiest of the Anuna gods, who came forth from the mountain range, imbued with terrible awesomeness, son of Enlil, confident in his strength, my sovereign, you are magnificent -- let your magnificence therefore be praised. Ninurta, you are magnificent -- let your magnificence therefore be praised.
+@(1 - 6) Created like An, O son of Enlil,
+Ninurta, created like Enlil, born by Nintur,
+mightiest of the Anuna gods, who came forth from the mountain range,
+imbued with terrible awesomeness, son of Enlil, confident in his strength,
+my sovereign, you are magnificent -- let your magnificence therefore be praised.
+Ninurta, you are magnificent -- let your magnificence therefore be praised.
 
-@(7 - 12) Sovereign of all the lands, in your massive might, warrior of Enlil, in your great might, fierce warrior, you have taken up the divine powers which are like heaven, son of Enlil, you have taken up the divine powers which are like the earth, you have taken up the divine powers of the mountains, which are heavy as heaven, you have taken up the divine powers of Eridug, which are huge as the earth.
+@(7 - 12) Sovereign of all the lands, in your massive might,
+warrior of Enlil, in your great might,
+fierce warrior, you have taken up the divine powers which are like heaven,
+son of Enlil, you have taken up the divine powers which are like the earth,
+you have taken up the divine powers of the mountains, which are heavy as heaven,
+you have taken up the divine powers of Eridug, which are huge as the earth.
 
-@(13 - 15) You have made the gods prostrate (?) themselves before you. You have made the Anuna salute (?) you. Ninurta, you are made complete by heroic strength.
+@(13 - 15) You have made the gods prostrate (?) themselves before you.
+You have made the Anuna salute (?) you.
+Ninurta, you are made complete by heroic strength.
 
-@(16 - 17) The utterance of the sovereign is a storm ……. The word of Lord Ninurta is a storm …….
+@(16 - 17) The utterance of the sovereign is a storm …….
+The word of Lord Ninurta is a storm …….
 
-@(18 - 23) To the hostile mountains ……. To the fortress of the rebellious land …….
-1 line unclear
-Lord, frighteningly fierce, ……. Fierce in heaven and earth, …….
-1 line unclear
+@(18 - 23) To the hostile mountains …….
+To the fortress of the rebellious land …….
+$ 1 line unclear
+Lord, frighteningly fierce, …….
+Fierce in heaven and earth, …….
+$ 1 line unclear
 
-@(24 - 25) His angry utterance made a corpse of the mountains. His fierce countenance …….
+@(24 - 25) His angry utterance made a corpse of the mountains.
+His fierce countenance …….
 
-@(26 - 29) Horned wild bull ……. Wild ram and stag ……. The great wild bull of the mountains …… from its ……. He put his ……, the strength in battle, in his belt.
+@(26 - 29) Horned wild bull …….
+Wild ram and stag …….
+The great wild bull of the mountains …… from its …….
+He put his ……, the strength in battle, in his belt.
 
-@(30 - 40) The sovereign, with his heroic arms, Ninurta, the son of Enlil, in his great might, brought forth the Six-headed wild ram from the shining, lofty house. He brought forth the Warrior dragon from the great fortress of the mountains. He brought forth the Magilum boat from …… his abzu. He brought forth the Bison from his battle dust. He brought forth the Mermaid from the limits of heaven and earth. He brought forth the Gypsum from the soil of the mountain range. He brought forth the Strong copper from the shattered mountain range. He brought forth the Anzud bird from the ḫalub-ḫaran tree. He brought forth the Seven-headed serpent from the …… of the mountains.
+@(30 - 40) The sovereign, with his heroic arms,
+Ninurta, the son of Enlil, in his great might,
+brought forth the Six-headed wild ram from the shining, lofty house.
+He brought forth the Warrior dragon from the great fortress of the mountains.
+He brought forth the Magilum boat from …… his abzu.
+He brought forth the Bison from his battle dust.
+He brought forth the Mermaid from the limits of heaven and earth.
+He brought forth the Gypsum from the soil of the mountain range.
+He brought forth the Strong copper from the shattered mountain range.
+He brought forth the Anzud bird from the ḫalub-ḫaran tree.
+He brought forth the Seven-headed serpent from the …… of the mountains.
 
-@(41 - 46) He mustered them all before him ……. He spoke ……. He was unhappy ……. He spoke ……. He seized the axe ……. He took his …….
+@(41 - 46) He mustered them all before him …….
+He spoke …….
+He was unhappy …….
+He spoke …….
+He seized the axe …….
+He took his …….
 
-@(47 - 51) The warrior …… made a corpse of the mountains. Lord Ninurta, who destroys (?) ……, made a corpse of the mountains. He piled up ……. The sovereign, with his heroic strength, wreaked his vengeance (?). The warrior Ninurta, with his heroic strength, wreaked his vengeance (?).
+@(47 - 51) The warrior …… made a corpse of the mountains.
+Lord Ninurta, who destroys (?) ……, made a corpse of the mountains.
+He piled up …….
+The sovereign, with his heroic strength, wreaked his vengeance (?).
+The warrior Ninurta, with his heroic strength, wreaked his vengeance (?).
 
-@(52 - 54) On his shining chariot, which inspires terrible awe, he hung his captured wild bulls on the axle and hung his captured cows on the cross-piece of the yoke.
+@(52 - 54) On his shining chariot, which inspires terrible awe,
+he hung his captured wild bulls on the axle
+and hung his captured cows on the cross-piece of the yoke.
 
-@(55 - 63) He hung the Six-headed wild ram on the dust-guard. He hung the Warrior dragon on the seat. He hung the Magilum boat on the ……. He hung the Bison on the beam. He hung the Mermaid on the foot-board. He hung the Gypsum on the forward part of the yoke. He hung the Strong copper on the inside pole pin (?). He hung the Anzud bird on the front guard. He hung the Seven-headed serpent on the shining cross-beam.
+@(55 - 63) He hung the Six-headed wild ram on the dust-guard.
+He hung the Warrior dragon on the seat.
+He hung the Magilum boat on the …….
+He hung the Bison on the beam.
+He hung the Mermaid on the foot-board.
+He hung the Gypsum on the forward part of the yoke.
+He hung the Strong copper on the inside pole pin (?).
+He hung the Anzud bird on the front guard.
+He hung the Seven-headed serpent on the shining cross-beam.
 
-@(64 - 69) Lord Ninurta stepped into his battle-worthy chariot. Ud-ane, the all-seeing god, and Lugal-anbara, the bearded (?) lord, went before him, and the awesome one of the mountains, Lugal-kur-dub, the …… of Lord Ninurta, followed behind him.
+@(64 - 69) Lord Ninurta stepped into his battle-worthy chariot.
+Ud-ane, the all-seeing god,
+and Lugal-anbara, the bearded (?) lord, went before him,
+and the awesome one of the mountains, Lugal-kur-dub,
+the …… of Lord Ninurta, followed behind him.
 
-@(70 - 72) The lion who …… from the abzu, who …… An's awesomeness and radiance -- the Anuna, the great gods …….
+@(70 - 72) The lion who …… from the abzu,
+who …… An's awesomeness and radiance --
+the Anuna, the great gods …….
 
-@(73 - 75) As the sovereign swept on like the deluge, as Ninurta, storm of the rebellious land, swept on like the deluge, he rumbled like a storm on the horizon.
+@(73 - 75) As the sovereign swept on like the deluge,
+as Ninurta, storm of the rebellious land, swept on like the deluge,
+he rumbled like a storm on the horizon.
 
-@(76 - 79) When, at Enlil's command, he was making his way towards E-kur, the warrior of the gods was levelling the Land; and before he had yet approached Nibru from afar, Nuska, the chancellor of Enlil, came forth from the E-kur to meet him.
+@(76 - 79) When, at Enlil's command, he was making his way towards E-kur,
+the warrior of the gods was levelling the Land;
+and before he had yet approached Nibru from afar,
+Nuska, the chancellor of Enlil, came forth from the E-kur to meet him.
 
-@(80 - 82) He greeted Lord Ninurta: "My sovereign, perfect warrior, heed yourself. Ninurta, perfect warrior, heed yourself."
+@(80 - 82) He greeted Lord Ninurta:
+"My sovereign, perfect warrior, heed yourself.
+Ninurta, perfect warrior, heed yourself."
 
-@(83 - 86) "Your radiance has covered Enlil's temple like a cloak. When you step into your chariot, whose creaking is a pleasant sound, heaven and earth tremble. When you raise your arm ……."
+@(83 - 86) "Your radiance has covered Enlil's temple like a cloak.
+your chariot's creaking is a pleasant sound,
+when you step in heaven and earth tremble.
+When you raise your arm ……."
 
-@(87 - 91) "The Anuna, the great gods ……. Do not frighten your father in his residence. Do not frighten Enlil in his residence. May your father give you gifts because of your heroic strength. May Enlil give you gifts because of your heroic strength."
+@(87 - 91) "The Anuna, the great gods …….
+Do not frighten your father in his residence.
+Do not frighten Enlil in his residence.
+May your father give you gifts because of your heroic strength.
+May Enlil give you gifts because of your heroic strength."
 
-@(92 - 97) "O sovereign, shackle of An, first among the gods, seal-bearer of Enlil, life-source of E-kur, O warrior, because you have toppled the mountains your father need send out no other god beside you. Ninurta, because you have toppled the mountains Enlil need send out no other god beside you."
+@(92 - 97) "O sovereign, shackle of An, first among the gods,
+seal-bearer of Enlil, life-source of E-kur,
+O warrior, because you have toppled the mountains
+your father need send out no other god beside you.
+Ninurta, because you have toppled the mountains
+Enlil need send out no other god beside you."
 
-@(98 - 101) While these words were yet in Nuska's mouth, Ninurta put the whip and goad away in the rope-box. He leaned his mace, the strength in battle, against the box and entered into the temple of Enlil.
+@(98 - 101) While these words were yet in Nuska's mouth,
+Ninurta put the whip and goad away in the rope-box.
+He leaned his mace, the strength in battle, against the box
+and entered into the temple of Enlil.
 
-@(102 - 107) He directed his captive wild bulls into the temple. He directed his captive cows, like the wild bulls, into the temple. He laid out the booty of his plundered cities. The Anuna were amazed ……. Enlil, the Great Mountain, made obeisance to him, and Ašimbabbar prayed to him.
+@(102 - 107) He directed his captive wild bulls into the temple.
+He directed his captive cows, like the wild bulls, into the temple.
+He laid out the booty of his plundered cities.
+The Anuna were speechless …….
+Enlil, the Great Mountain, made obeisance to him, and Dilimbabbar prayed to him.
 
-@(108 - 112) The great mother Ninlil, from within her Ki-ur, spoke admiringly to Lord Ninurta: "O wild bull, with fierce horns raised, son of Enlil, you have struck blows in the mountains. Warrior, Lord Ninurta, you have ……. You have …… the rebellious land."
+@(108 - 112) The great mother Ninlil, from within her Ki-ur,
+spoke admiringly to Lord Ninurta:
+"O wild bull, with fierce horns raised, son of Enlil, you have struck blows in the mountains.
+Warrior, Lord Ninurta, you have …….
+You have …… the rebellious land."
 
-@(113 - 118) Lord Ninurta answered her: "My mother, I alone cannot …… with you ……. Ninlil, I alone cannot …… with you, for me alone ……. Battle arrayed like heaven -- no one can rival me (?). Like the deluge ……. Smashing the mountains like reed huts ……."
+@(113 - 118) Lord Ninurta answered her: "My mother, I alone cannot …… with you …….
+Ninlil, I alone cannot …… with you, for me alone …….
+Battle arrayed like heaven -- no one can rival me (?).
+Like the deluge …….
+Smashing the mountains like reed huts ……."
 
-@(119 - 124) "My battle, like an onrushing flood, overflowed in the mountains. With a lion's body and lion's muscles, it rose up in the rebellious land. The gods have become worried and flee (?) to the mountain ranges. They beat their wings like a flock of small birds. They stand hiding in the grass like wild bulls ……. No one can confront my radiance, heavy as heaven."
+@(119 - 124) "My battle, like an onrushing flood, overflowed in the mountains.
+With a lion's body and lion's muscles, it rose up in the rebellious land.
+The gods have become worried and flee (?) to the mountain ranges.
+They beat their wings like a flock of small birds.
+They stand hiding in the grass like wild bulls …….
+No one can confront my radiance, heavy as heaven."
 
-@(125 - 127) "Because I am the lord of the terraced mountain ranges, in every direction ……. Because I have subjugated these mountain ranges of alabaster and lapis lazuli, the Anuna hide like mice."
+@(125 - 127) "Because I am the lord of the terraced mountain ranges, in every direction …….
+Because I have subjugated these mountain ranges of alabaster and lapis lazuli,
+the Anuna hide like mice."
 
-@(128 - 134) "Now I have reestablished my heroic strength in the mountains. On my right, I bear my Mows-down-a-myriad. On my left, I bear my Crushes-a-myriad. I bear my Fifty-toothed-storm, my heavenly mace. I bear the hero who comes down from the great mountains, my No-resisting-this-storm. I bear the weapon which devours corpses like a dragon, my agasilig axe. I bear my ……."
+@(128 - 134) "Now I have reestablished my heroic strength in the mountains.
+On my right, I bear my Mows-down-a-myriad.
+On my left, I bear my Crushes-a-myriad.
+I bear my Fifty-toothed-storm, my heavenly mace.
+I bear the hero who comes down from the great mountains, my No-resisting-this-storm.
+I bear the weapon which devours corpses like a dragon, my @agasilig axe.
+I bear my ……."
 
-@(135 - 139) "I bear my ……. I bear the alkad net of the rebellious land, my alkad net. I bear that from which the mountains cannot escape, my šušgal net. I bear the seven-mouthed mušmaḫ serpent, the slayer, my spike (?). I bear that which strips away the mountains, the sword, my heavenly dagger."
+@(135 - 139) "I bear my …….
+I bear the @alkad net of the rebellious land, my alkad net.
+I bear that from which the mountains cannot escape, my @šušgal net.
+I bear the seven-mouthed @mušmaḫ serpent, the slayer, my spike (?).
+I bear that which strips away the mountains, the sword, my heavenly dagger."
 
-@(140 - 145) "I bear the deluge of battle, my fifty-headed mace. I bear the storm that attacks humans, my bow and quiver. I bear those which carry off the temples of the rebellious land, my throw-stick and shield. I bear the helper of men, my spear. I bear that which brings forth light like the day, my Obliterator-of-the-mountains. I bear the maintainer of the people in heaven and earth, my The-enemy-cannot-escape."
+@(140 - 145) "I bear the deluge of battle, my fifty-headed mace.
+I bear the storm that attacks humans, my bow and quiver.
+I bear those which carry off the temples of the rebellious land, my throw-stick and shield.
+I bear the helper of men, my spear.
+I bear that which brings forth light like the day, my Obliterator-of-the-mountains.
+I bear the maintainer of the people in heaven and earth, my The-enemy-cannot-escape."
 
-@(146 - 151) "I bear that whose awesome radiance covers the Land, which is grandly suited for my right hand, finished in gold and lapis lazuli, whose presence is amazing, my Object-of-trust. I bear the perfect weapon, exceedingly magnificent, trustworthy in battle, having no equal, well-suited for my wrist on the battlefield, my fifty-headed mace, I bear the weapon which consumes the rebellious land like fire, my fifty-headed club."
+@(146 - 151) "I bear that whose awesome radiance covers the Land,
+which is grandly suited for my right hand,
+finished in gold and lapis lazuli, whose presence is amazing, my Object-of-trust.
+I bear the perfect weapon, exceedingly magnificent, trustworthy in battle, having no equal,
+well-suited for my wrist on the battlefield, my fifty-headed mace,
+I bear the weapon which consumes the rebellious land like fire, my fifty-headed club."
 
-@(152 - 158) "Let my father therefore bring in my battle trophies and weapons for me. Let Enlil bathe my heroic arms. Let him pour holy water on the fierce arms which bore my weapons. Let him set up a holy dais in the throne room for me. Let him set my heavenly chariot upon a pedestal. Let him tether my captured warriors there like butting bulls. Let him have my captured kings make obeisance to me there, as to the light of heaven."
+@(152 - 158) "Let my father therefore bring in my battle trophies and weapons for me.
+Let Enlil bathe my heroic arms.
+Let him pour holy water on the fierce arms which bore my weapons.
+Let him set up a holy dais in the throne room for me.
+Let him set my heavenly chariot upon a pedestal.
+Let him tether my captured warriors there like butting bulls.
+Let him have my captured kings make obeisance to me there, as to the light of heaven."
 
-@(159 - 163) "I am the strong one, unopposed in the mountains, I am Ninurta -- let them prostrate themselves at my name. I am the exceedingly mighty lion-headed one of Enlil, whom he engendered in his strength. The storm of heaven, shackle of the gods, I am the one whom An in his great might has chosen."
+@(159 - 163) "I am the strong one, unopposed in the mountains,
+I am Ninurta -- let them prostrate themselves at my name.
+I am the exceedingly mighty lion-headed one of Enlil, whom he engendered in his strength.
+The storm of heaven, shackle of the gods, I am the one whom An in his great might has chosen."
 
-@(164 - 167) "I am the ……, the life-source of Inana. I am the warrior, destined with Enki to be suited for the fearsome divine powers. Let my kingship be manifest unto the ends of heaven and earth. I am most able among the gods -- let me be imbued with great awesomeness."
+@(164 - 167) "I am the ……, the life-source of Inana.
+I am the warrior, destined with Enki to be suited for the fearsome divine powers.
+Let my kingship be manifest unto the ends of heaven and earth.
+I am most able among the gods -- let me be imbued with great awesomeness."
 
-@(168 - 174) "Let my beloved city, the sanctuary Nibru, raise its head as high as heaven. Let my city be pre-eminent among the cities of my brothers. Let my temple rise (?) the highest …… among the temples of my brothers. Let the territory of my city be the freshwater well of Sumer. Let the Anuna, my brother gods, bow down there. Let their flying birds establish nests in my city. Let their refugees refresh themselves in my shade."
+@(168 - 174) "Let my beloved city, the sanctuary Nibru, raise its head as high as heaven.
+Let my city be pre-eminent among the cities of my brothers.
+Let my temple rise (?) the highest …… among the temples of my brothers.
+Let the territory of my city be the freshwater well of Sumer.
+Let the Anuna, my brother gods, bow down there.
+Let their flying birds establish nests in my city.
+Let their refugees refresh themselves in my shade."
 
-@(175 - 179) As Ninurta went out from Enlil's temple, the most bright-faced of warriors, Ninkarnuna, having heard the favourable pronouncement of Ninurta, stepped before Lord Ninurta and prayed to him:
+@(175 - 179) As Ninurta went out from Enlil's temple,
+the most bright-faced of warriors, Ninkarnuna,
+having heard the favourable pronouncement of Ninurta,
+stepped before Lord Ninurta and prayed to him:
 
-@(180 - 186) "My sovereign, may you be well-disposed towards your beloved city. Lord Ninurta, may you be well-disposed towards your beloved city. May you be well-disposed towards the sanctuary Nibru, your beloved city. When you enter E-šu-me-ša, your beloved temple, alone, tell your wife, young lady Ninnibru, what is in your heart, tell her what is on your mind. Make an enduring favourable pronouncement to her for the king."
+@(180 - 186) "My sovereign, may you be well-disposed towards your beloved city.
+Lord Ninurta, may you be well-disposed towards your beloved city.
+May you be well-disposed towards the sanctuary Nibru, your beloved city.
+When you enter E-šu-me-ša, your beloved temple, alone,
+tell your wife, young lady Ninnibru,
+what is in your heart, tell her what is on your mind.
+Make an enduring favourable pronouncement to her for the king."
 
-@(187 - 194) The content of that prayer of the offspring of a prince, Ninkarnuna, his sprinkling Ninurta's heart with an offering of cool water, and the matter of prosperity about which he spoke were pleasing to Ninurta's heart as he went in procession to E-šu-me-ša to manifest the eternal divine powers. Lord Ninurta gazed approvingly at Ninkarnuna.
+@(187 - 194) offspring of a prince, Ninkarnuna,
+on that day, the words of his prayer
+when he sprinkled (Ninurta's) heart with an offering of cool water,
+and the matter of prosperity about which he spoke,
+to manifest the eternal divine powers
+as he went in procession to E-šu-me-ša
+pleased to Ninurta's heart.
+Lord Ninurta gazed approvingly at Ninkarnuna.
 
-@(195 - 198) When Ninurta entered E-šu-me-ša, his beloved temple, alone, he told his wife, young lady Ninnibru, what was in his heart, he told her what was on his mind and he made an enduring favourable pronouncement to her for the king.
+@(195 - 198) When Ninurta entered E-šu-me-ša, his beloved temple, alone,
+he told his wife, young lady Ninnibru, what was in his heart,
+he told her what was on his mind
+and he made an enduring favourable pronouncement to her for the king.
 
-@(199 - 201) The warrior, whose heroism is manifest, Ninurta, the son of Enlil, has firmly grounded his greatness in Enlil's sanctuary.
+@(199 - 201) The warrior, whose heroism is manifest,
+Ninurta, the son of Enlil,
+has firmly grounded his greatness in Enlil's sanctuary.
 
-@(202 - 207) Lord who has destroyed the mountains, who has no rival, who butts angrily in that magnificent battle, great warrior who goes forth in his …… might, strong one, deluge of Enlil, Ninurta, magnificent child of E-kur, pride of the father who engendered him, it is sweet to praise you.
+@(202 - 207) Lord who has destroyed the mountains, who has no rival,
+who butts angrily in that magnificent battle, g
+reat warrior who goes forth in his might,
+strong one, deluge of Enlil,
+Ninurta, magnificent child of E-kur,
+pride of the father who engendered him, it is sweet to praise you.
 
-@(208) Šir - gida of Ninurta.
+@(208) Šir-gida of Ninurta.
