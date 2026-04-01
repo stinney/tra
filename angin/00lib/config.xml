@@ -1,0 +1,36 @@
+<project n="tra/angin" 
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <title>Angin</title>
+  <name>Angin</name>
+  <abbrev>Angin</abbrev>
+  <project-type>user</project-type>
+  <blurb>Materials for working on Angin</blurb>
+  <type>corpus</type>
+  <logo type="text">Angin</logo>
+  <option name="asl-auto" value="yes"/>
+  <option name="asl-font" value="oobf"/>
+  <!--
+      <option name="asl-merge" value="00lib/gudea.mrg"/>
+      <option name="asl-script" value="middle"/>
+      <option name="asl-stats" value="yes"/>
+      <option name="catalog-build-policy" value="auto"/>
+      <option name="cbd-oid" value="yes"/>
+      <option name="cfy-key" value="cv01-150-middle-."/>
+  -->
+  <option name="build-approved-policy" value="atf"/>
+  <option name="catalog-build-policy" value="auto"/>
+  <option name="outline-default-select" value="true"/>
+  <option name="outline-default-sort-fields" value="period,genre"/>
+  <option name="outline-default-sort-labels" value="period,genre"/>
+  <option name="outline-default-catalog-fields" value="designation,primary_edition,distribution"/>
+  <option name="outline-default-catalog-widths" value="35,25,25"/>
+  <option name="%sux" value="dumuzisdream obel epsd2/literary epsd2/names epsd2"/>
+  <option name="%sux-x-emesal" value=". obel epsd2/emesal"/>
+  <option name="%akk-x-oldbab" value=". obel dcclt:akk-x-oldbab"/>
+  <option name="%akk-x-stdbab" value=". eisl"/>
+  <option name="sum-alias" value="yes"/>
+  <option name="fuzzy-alias" value="yes"/>
+  <option name="gh-user" value="stinney"/>
+  <option name="gh-repo" value="tra"/>
+</project>

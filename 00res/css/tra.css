@@ -1,0 +1,33 @@
+/* Styling for prettier tables. RH 9.7.2009 */
+table.pretty {
+    margin: auto;
+    background: #f5f5f5;
+    border-collapse: collapse;
+    width: 80%;
+}
+
+table.pretty th,
+table.pretty td {
+        border: 1px #c0c0c0 solid;
+        padding: 0.2em;
+        vertical-align: top;
+}
+
+table.pretty th {
+        background: #dcdcdc;
+        text-align: left;
+        font-weight: normal;
+}
+
+table.pretty caption {
+        margin-left: inherit;
+        margin-right: inherit;
+}
+
+td:nth-child(1) { width: 7%; }
+td:nth-child(2) { width: 4%; }
+td:nth-child(3) { width: 10%; }
+td:nth-child(4) { width: 20%; }
+td:nth-child(5) { width: 20%; }
+td:nth-child(6) { width: 15%; }
+td:nth-child(7) { width: 15%; }
