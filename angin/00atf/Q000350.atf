@@ -101,7 +101,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=22
 
 23. ti-zu₂ mir#? x x x x [...]
-#lem: X; dug[speak]; mir[angry]; u; u; u; u; u
+#lem: X; mir[angry]; u; u; u; u; u
 #etcsl: line-id=23
 
 24. ib₂ dug₄-ga-ni kur ad₆-e#?-eš#? mu#?-[x-(x)-AK?]
@@ -109,7 +109,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=24
 
 25. igi huš-a-ni [...]
-#lem: igi[eye]; huš[reddish]; X; X
+#lem: igi[eye]; huš[reddish]; u
 #etcsl: line-id=25
 
 26. am si mu₂#-e# URUDA#? x# x# [...]
@@ -125,7 +125,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=28
 
 29. [{tug₂}]lu-bu-uš-tum a₂ me₃#? (x) da#-da-ra ba-an-du₈
-#lem: lubuštum[clothing]; a[arm]; me[battle]; dadara[tied up]; du[spread]
+#lem: lubuštum[clothing]; a[arm]; me[battle]; u; dadara[tied up]; du[spread]
 #etcsl: line-id=29
 
 30. lugal-ŋu₁₀ a₂#? nam#-ur#-saŋ?-ŋa₂?-ni#-še₃
@@ -216,7 +216,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=50
 
 51. en {d}[nin]-urta# a₂ nam-ur-saŋ-ŋa₂-še₃#? šu#-na# mi#-ni-in#-gi₄#
-#lem: ursaŋ[warrior]; Ninurtak[1]DN; a[arm]; namursaŋ[heroism]; šu[hand]; gi[turn]
+#lem: en[lord]; Ninurtak[1]DN; a[arm]; namursaŋ[heroism]; šu[hand]; gi[turn]
 #etcsl: line-id=51
 
 52. {ŋiš}gigir# za#-gin₃-na ni₂ huš gur₃-ru#-ni [...]
@@ -367,7 +367,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=85
 
 86. a₂ il₂-la-[zu ...] ŋissu# x# la₂?#-a?#-bi#
-#lem: a[arm]; il[raise]; X; ŋissu[shade]; la[hang]
+#lem: a[arm]; il[raise]; u; ŋissu[shade]; u; la[hang]
 #etcsl: line-id=86
 
 87. {[d]}a-nun-na diŋir gal-gal-e-ne en šar₂-ra nam-mi-in-tar
@@ -493,7 +493,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=116
 
 117. a#-ma#-ru#-gin₇# zi#? [...]
-#lem: amaru[flood]; zi[rise]; u
+#lem: amaru[flood]; zig[rise]; u
 #etcsl: line-id=117
 
 118. kur gi-sig-gin₇ dub₂-bu#-[da-ŋu₁₀-ne? ...]
@@ -509,7 +509,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=120
 
 121. diŋir am₃-mi-tar hur-saŋ-ŋa₂-[(x)]
-#lem: diŋir[deity]; gig[sick]; hursaŋ[mountain]
+#lem: diŋir[deity]; tar[cut]; hursaŋ[mountain]
 #etcsl: line-id=121
 
 122. buru₅{mušen}-gin₇ a₂-bulug₂-ba mu-un-da-dub₂#-[dub₂]
@@ -566,7 +566,7 @@ $ (Line numbering follows ETCSL)
 #etcsl: line-id=134
 
 135. niŋ₂# [kur] gurum#-gurum# nun-la₂ tar imin-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
-#lem: niŋ[thing]; kur[mountain]; gurum[bend]; Y; tar[cut]; ŋal[⟦be⟧ to be]
+#lem: niŋ[thing]; kur[mountain]; gurum[bend]; Y; tar[cut]; imin[seven]; ŋal[⟦be⟧ to be]
 #etcsl: line-id=135
 
 136. {sa}al-kad₄ ki-bal-a x |LU₂×GAN₂@t|-ŋu₁₀ mu-da-an-ŋal₂-la-am₃
@@ -679,43 +679,46 @@ $ (Line numbering follows ETCSL)
 #lem: ud[storm]; an[sky]; raba[clamp]; diŋir[deity]
 #etcsl: line-id=162
 
-163. [an-ne₂] a₂ gal-la#-[ni]-še₃# pad₃#-[da-me-en]
+163. [an-ne₂] a₂ gal-la#-[ni]-eš# pad₃#-[da-me-en]
 #lem: An[1]DN; a[arm]; gal[big]; pad[find]
 #etcsl: line-id=163
 
-164. [...] zi-šag₄-ŋal₂# {d}inana-me-en#
-#lem: X; zišagŋal[encouragement]; Inanak[1]DN
+163a. TUMU#? kur gul#-gul an-ta nam-lugal DU-a me-en
+#lem: Y; kur[mountain]; gul[destroy]; an[sky]; namlugal[kingship]; Y; me[be]
+
+164. a₂ kalag-ga me₃-a zi-šag₄-ŋal₂# {d}inana-me-en#
+#lem: a[weapon]; kalag[strong]; me[battle]; zišagŋal[encouragement]; Inanak[1]DN
 #etcsl: line-id=164
 
-165. ur#-[saŋ] nam# tar#-ra {d}en-ki-da me huš tum₂-[a-me]-en#
-#lem: ursaŋ[warrior]; nam[fate]; tar[cut]; Enkik[1]DN; me[Being]; huš[reddish]; tum[suitable]
+165. ur#-[saŋ] nam# tar#-ra {d}en-ki-da me huš tum₂-[a me]-en#
+#lem: ursaŋ[warrior]; nam[fate]; tar[cut]; Enkik[1]DN; me[Being]; huš[reddish]; tum[suitable]; me[be]
 #etcsl: line-id=165
 
-166. nam-lugal-ŋu₁₀ zag an ki-še₃ pa he₂-em-ma-ni-[ib₂]-e₃#
-#lem: namlugal[kingship]; zag[side]; an[sky]; ki[place]; pa[branch]; e[leave]
+166. nam-lugal-ŋu₁₀ zag an-ki-še₃ pa he₂-em-ma-ni-[ib₂]-e₃#
+#lem: namlugal[kingship]; zag[side]; anki[universe]; pa[branch]; e[leave]
 #etcsl: line-id=166
 
-167. [a₂]-ŋal₂# diŋir-re-e-ne-me-en ni₂ gal he₂-[...]-ab-ri#
+167. a₂-ŋal₂# diŋir-re-e-ne-me-en ni₂ gal hu-mu-u₈-da-ri
 #lem: aŋal[strong]; diŋir[deity]; ni[fear]; gal[big]; ri[impose]
 #etcsl: line-id=167
 
-168. iri ki aŋ₂-ŋu₁₀ eš₃ nibru{ki} an-gin₇ gu₂# he₂-eb₂-us₂#
-#lem: iri[city]; ki[place]; aŋ[measure]; eš[shrine]; Nibru[1]SN; an[sky]; gu[neck]; us[accompany]
+168. iri ki-aŋ₂-ŋu₁₀ eš₃ nibru{ki} an-gin₇ gu₂# he₂-eb₂-us₂#
+#lem: iri[city]; kiʾaŋa[beloved]; eš[shrine]; Nibru[1]SN; an[sky]; gu[neck]; us[accompany]
 #etcsl: line-id=168
 
-169. iri-ŋu₁₀ iri šeš-ŋu₁₀-ne-ka gu₂-gal#-[bi] he₂-a
+169. iri-ŋu₁₀ iri šeš-ŋu₁₀-ne-ka gu₂-gal-bi he₂-a
 #lem: iri[city]; iri[city]; šeš[brother]; gugal[foremost]; me[be]
 #etcsl: line-id=169
 
-170. e₂-ŋu₁₀ e₂ šeš-ŋu₁₀-ne-ka a-MIR# zi-bi# he₂-a
+170. e₂-ŋu₁₀ e₂ šeš-ŋu₁₀-ne-ka a-MIR# zi-bi he₂-a
 #lem: e[house]; e[house]; šeš[brother]; X; zi[life]; me[be]
 #etcsl: line-id=170
 
-171. ki-sur-ra %e uru₂-ŋa₂ %s pu₂ a dug₃-ga ki-en-gi-ra he₂-a
-#lem: kisura[border]; uru[city]; pu[cistern]; a[water]; dug[good]; Kengir[1]; me[be]
+171. ki-sur-ra ki %e uru₂-ŋa₂ %s pu₂ a dug₃-ga ki-en-gi-ra he₂-a
+#lem: kisura[border]; ki[place]; uru[city]; pu[cistern]; a[water]; dug[good]; Kengir[1]; me[be]
 #etcsl: line-id=171
 
-172. {[d]}[a]-nun#-na diŋir šeš#-ŋu₁₀-ne# he₂-em-ši-gam-e-de₃-eš
+172. {d}a-nun-na diŋir šeš#-ŋu₁₀#-ne# he₂-em-ši-gam-e-de₃-eš
 #lem: Anunak[1]DN; diŋir[deity]; šeš[brother]; gurum[bend]
 #etcsl: line-id=172
 
@@ -739,7 +742,7 @@ $ (Line numbering follows ETCSL)
 #lem: inim[word]; sag[good]; Ninurtak[1]DN
 #etcsl: line-id=177
 
-178. {d}nin-kar-nun-na-ke₄ ŋiš ba-an-tuku!#-ta
+178. {d}nin-kar-nun-na-ke₄ ŋiš ba-an-tuku#-a-ta
 #lem: Ninkarnunak[1]DN; ŋeš[tree]; tuku[acquire]
 #etcsl: line-id=178
 
@@ -747,20 +750,20 @@ $ (Line numbering follows ETCSL)
 #lem: en[lord]; Ninurtak[1]DN; gub[stand]; siškur[prayer]; e[speak]
 #etcsl: line-id=179
 
-180. lugal#-ŋu₁₀ iri ki aŋ₂-ŋa₂-zu šag₄-zu he₂-em#-[ma]-huŋ#
-#lem: lugal[king]; iri[city]; ki[place]; aŋ[measure]; šag[heart]; huŋ[pacify]
+180. lugal#-ŋu₁₀ iri ki-aŋ₂-ŋa₂-zu šag₄-zu he₂-em#-[ma]-huŋ#
+#lem: lugal[king]; iri[city]; kiʾaŋa[beloved]; šag[heart]; huŋ[pacify]
 #etcsl: line-id=180
 
-181. en# {[d]}[nin]-urta# iri ki aŋ₂-ŋa₂#-zu šag₄-zu he₂#-[em-ma]-huŋ#
-#lem: en[lord]; Ninurtak[1]DN; iri[city]; ki[place]; aŋ[measure]; šag[heart]; huŋ[pacify]
+181. en# {[d]}[nin]-urta# iri ki#-aŋ₂-ŋa₂-zu šag₄-zu he₂#-[em-ma]-huŋ#
+#lem: en[lord]; Ninurtak[1]DN; iri[city]; kiʾaŋa[beloved]; šag[heart]; huŋ[pacify]
 #etcsl: line-id=181
 
-182. eš₃ nibru{ki#} iri ki aŋ₂-ŋa₂-zu šag₄-zu he₂#-[em-ma]-huŋ#
-#lem: eš[shrine]; Nibru[1]SN; iri[city]; ki[place]; aŋ[measure]; šag[heart]; huŋ[pacify]
+182. eš₃ nibru{ki#} iri ki-aŋ₂-ŋa₂-zu šag₄-zu he₂#-[em-ma]-huŋ#
+#lem: eš[shrine]; Nibru[1]SN; iri[city]; kiʾaŋa[place]; šag[heart]; huŋ[pacify]
 #etcsl: line-id=182
 
-183. e₂-šu-me-ša₄ e₂ ki aŋ₂-zu dili ku₄#-[ku₄-da-zu]-ne#
-#lem: Ešumeša[1]TN; e[house]; ki[place]; aŋ[measure]; dili[single]; kur[enter]
+183. e₂-šu-me-ša₄ e₂ ki-aŋ₂-zu dili ku₄#-[ku₄-da-zu]-ne#
+#lem: Ešumeša[1]TN; e[house]; kiʾaŋa[place]; dili[single]; kur[enter]
 #etcsl: line-id=183
 
 184. nitalam-zu-ur₂ ki-sikil {d}[nin-nibru]{ki#}
@@ -779,8 +782,8 @@ $ (Line numbering follows ETCSL)
 #lem: a[water]; nun[prince]; ri[impose]; Ninkarnunak[1]DN
 #etcsl: line-id=187
 
-188. ud-ba KA sizkur₂ ba-ni
-#lem: ud[storm]; X; siškur[prayer]; ba[allot]
+188. ud-ba KA sizkur₂-ra-ka-ni
+#lem: ud[storm]; X; siškur[prayer]
 #etcsl: line-id=188
 
 189. šag₄ kadra a sed su₃-a-ni
@@ -795,7 +798,7 @@ $ (Line numbering follows ETCSL)
 #lem: me[Being]; niŋ[thing]; ud[sun]; ul[distant time]; pa[branch]; e[leave]; ak[do]
 #etcsl: line-id=191
 
-192. e₂-šu-me-ša₄ pa e₃ dib-dib-be₂-da-ni
+192. e₂-šu-me-ša₄ pa# e₃ dib-dib-be₂-da-ni
 #lem: Ešumeša[1]TN; pa[branch]; e[leave]; dib[pass]
 #etcsl: line-id=192
 
@@ -803,8 +806,8 @@ $ (Line numbering follows ETCSL)
 #lem: šag[heart]; Ninurtak[1]DN; sag[good]
 #etcsl: line-id=193
 
-194. en {d}nin-urta#-ke₄ igi zid mu-un#-[X-bar]
-#lem: en[lord]; Ninurtak[1]DN; igi[eye]; zid[right]; bar[place outside]
+194. en {d}nin-urta#-ke₄ igi zid mu-un#-ši-in#-bar# nam dug₃? mi-ni?-tar#?
+#lem: en[lord]; Ninurtak[1]DN; igi[eye]; zid[right]; bar[cvve]; nam[fate]; dug[good]; tar[cut]
 #etcsl: line-id=194
 
 195. e₂-šu-me-[ša₄ e₂ ki] aŋ₂-ŋa₂-ni dili-ni ku₄#-[ku₄-da-ni]
@@ -831,7 +834,7 @@ $ (Line numbering follows ETCSL)
 #lem: Ninurtak[1]DN; dumu[child]; Enlil[1]DN
 #etcsl: line-id=200
 
-201. nam-[mah]-a-ni e₂ {d}en-lil₂-la₂-ke₄ ki ba-ni-ib-us₂
+201. nam-mah-a-ni e₂ {d}en-lil₂-la₂-ke₄ ki ba-ni-ib-us₂
 #lem: nammah[greatness]; e[house]; Enlil[1]DN; ki[place]; us[accompany]
 #etcsl: line-id=201
 
@@ -843,8 +846,8 @@ $ (Line numbering follows ETCSL)
 #lem: me[battle]; mah[great]; sumur[angry]; du[push]
 #etcsl: line-id=203
 
-204. ur-saŋ gal a₂ X [...] e₃-a
-#lem: ursaŋ[warrior]; gal[big]; a[arm]; X; X; e[leave]
+204. ur-saŋ gal a₂-ni-ta e₃-a
+#lem: ursaŋ[warrior]; gal[big]; a[arm]; e[leave]
 #etcsl: line-id=204
 
 205. kalag-ga a-ma-ru {d}en-lil₂-la₂
@@ -855,13 +858,13 @@ $ (Line numbering follows ETCSL)
 #lem: Ninurtak[1]DN; dumu[child]; mah[great]; Ekur[1]TN
 #etcsl: line-id=206
 
-207. nir-ŋal₂# [a]-a ugu-na za₃-mi₂-zu dug₃-ga#-am₃
+207. nir-ŋal₂# a-a ugu-na za₃-mi₂-zu dug₃-ga#-am₃
 #lem: nirŋal[authoritative]; aya[father]; ugu[bear]; zamin[praise]; dug[good]
 #etcsl: line-id=207
 
 @div trailer 
 
-208. šir₃-gid₂-da {d}nin-urta-ka
+208. šir₃-gid₂-da {d}nin-urta-kam
 #lem: širgida[literary subscript]; Ninurtak[1]DN
 #etcsl: line-id=208
 
