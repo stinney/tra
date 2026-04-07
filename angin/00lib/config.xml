@@ -20,12 +20,14 @@
   -->
   <option name="build-approved-policy" value="atf"/>
   <option name="catalog-build-policy" value="auto"/>
+  <option name="cbd-no-harvest" value="dumuzisdream epsd2 epsd2/literary epsd2/emesal epsd2/names obel"/>
+  <option name="cbd-use-psus" value="%sux:epsd2"/>
   <option name="outline-default-select" value="true"/>
   <option name="outline-default-sort-fields" value="period,genre"/>
   <option name="outline-default-sort-labels" value="period,genre"/>
   <option name="outline-default-catalog-fields" value="designation,primary_edition,distribution"/>
   <option name="outline-default-catalog-widths" value="35,25,25"/>
-  <option name="%sux" value="dumuzisdream obel epsd2/literary epsd2/names epsd2"/>
+  <option name="%sux" value=". dumuzisdream obel epsd2/literary epsd2/names epsd2"/>
   <option name="%sux-x-emesal" value=". obel epsd2/emesal"/>
   <option name="%akk-x-oldbab" value=". obel dcclt:akk-x-oldbab"/>
   <option name="%akk-x-stdbab" value=". eisl"/>
