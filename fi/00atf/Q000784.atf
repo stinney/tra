@@ -1,6 +1,6 @@
 &Q000784 = The farmer's instructions
 @composite
-#project: epsd2/literary
+#project: tra/fi
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.5.6.3
@@ -463,7 +463,7 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 6.	watch the spots with standing water in the field, it should be fenced.
 7.	Do not let the cattle herds trample it (anymore).
 8.	After you cut the weed growth and establish the limits of the field,
-9.	level it many times with a thin hoe (of a weight) of two-thirds of a mana.
+9.	level it many times with a thin hoe (of a weight) of two-thirds of a @mana.
 10.	Let a flat hoe erase the oxen tracks, let (the field) be swept clean.
 11.	A maul should flatten the spots (with traces) of the (old) furrow bottoms.
 12.	The hoes should go around the four edges of the field.
@@ -473,19 +473,19 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 16.	Your new whip should hang (ready) from a nail.
 17.	The handle bindings of your old whip
 18.	should be repaired by artisans.
-19.	your tools, adze, drill, and saw should be in good order 
-20.	Let braided thongs, straps, leather wrappings, and whips be firmly attached      
+19.	your tools, adze, drill, and saw should be in good order
+20.	Let braided thongs, straps, leather wrappings, and whips be firmly attached
 21.	Let your sowing basket be gauged, its sides made strong.
-22.	All necessary things for the field should be at hand. Carefully inspect your work           
-23.	The plow oxen will have backup oxen                      
-24.	The attachments of ox to ox should be loose (enough)  
-25.	Each plow will have a backup plow 
-26.	The assigned task for one plow is 180 iku.         
-27.	(but) you, (re)build the implement at 144 iku.     
+22.	All necessary things for the field should be at hand. Carefully inspect your work
+23.	The plow oxen will have backup oxen
+24.	The attachments of ox to ox should be loose (enough)
+25.	Each plow will have a backup plow
+26.	The assigned task for one plow is 180 @iku.
+27.	(but) you, (re)build the implement at 144 @iku.
 28.	(The work] will be pleasantly performed for you)
-29.	180(?) sila of grain will be spent on each bur.  
-30.	After working one plow's area with the bar-dil-plow,     
-31.	(and) after working the bar-dil-plow's (area with a tug-sig-plow, till it with the tug-gur.  
+29.	180(?) @sila of grain will be spent on each @bur.
+30.	After working one plow's area with the @bardil-plow,
+31.	(and) after working the @bardil-plow's (area) with a @tugsig-plow, till it with the @tuggur.
 32.	Harrow once, twice, three times.
 33.	When you flatten the stubborn spots with a heavy maul,
 34.	the handle of your maul should be firmly attached, otherwise it will not perform as needed.
@@ -497,15 +497,15 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 40.	The hoe should work everything.
 41.	When you have to work the field with the seeder-plow,
 42.	your plow should be properly adjusted.
-43.	Put a leather sealing on the kašu of your plow.
+43.	Put a leather sealing on the @kašu of your plow.
 44.	Install your beam with narrow pegs.
 45.	The boards should be spread.
-46.	Make eight furrows per ninda of width,
+46.	Make eight furrows per @ninda of width,
 47.	the barley will lodge in more closely spaced furrows.
 48.	When you have to work the field with the seeder-plow,
 49.	keep your eye on your man who drops the seed.
 50.	The grain should fall two fingers (deep),
-51.	one should put one gin of seed per ninda.
+51.	one should put one @gin of seed per @ninda.
 52.	If the barley seed is not inserted in the bottom of the furrow,
 53.	change the wedge of your plow share.
 54.	If the bindings become loose, tighten them.
@@ -527,13 +527,13 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 70.	Water the plants in heading.
 71.	When the plants are fully formed, do not water them, they would become infected by rust.
 72.	When the barley is right for husking, water it.
-73.	It will provide a yield increase of one sila per ban.
+73.	It will provide a yield increase of one @sila per @ban.
 74.	When you have to reap the barley, do not let the plants become overripe.
 75.	Harvest at the proper time
 76.	One man to cut the grain, one to tie the sheaves,
-77.	and one before him should apportion the sheaves,
-78	(these) three men should harvest it for you.
-79.	The ones who gather the barley should not "bruise" the grain.
+77.	and one before him should apportion the sheaves:
+78.	(these) three men should harvest it for you.
+79.	The ones who gather the barley should not @"bruise"@ the grain.
 80.	They should not scatter the grain in the stacks.
 81.	Your daily work (should start) at daybreak.
 83.	Gather a (sufficient) number for
@@ -544,7 +544,7 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 87.	(but) let the sheaves have a rest.
 88.	The rites for the sheaves should be performed daily.
 89.	When you transport your barley,
-90.	your barley carriers should handle small amounts?).
+90.	your barley carriers should handle small amounts(?).
 91.	Mark the limits of an uncultivated plot of yours.
 92.	Establish properly your paths.
 93.	Your wagons should be in working order.
@@ -552,14 +552,14 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 95.	Your implements should be ...
 96.	Let your prepared threshing floor rest for a few days.
 97.	To open your threshing floor, smooth it completely.
-98.	When you thresh,)
+98.	When you thresh,
 99.	the teeth of your threshing sledge and its leather straps should be secured with bitumen.
 100.	When you make the oxen trample (the grain),
 101.	your threshers should be strong.
 102.	When your grain is spread on the ground,
 103.	perform the rites of the grain not yet clean.
 104.	When you winnow,
-105.	put an intelligent person a s your second winnower.
+105.	put an intelligent person as your second winnower.
 106.	Two persons should work at moving the grain around.
 107.	When the grain is clean, lay it down "under the stick" (to measure it).
 108.	Perform the rites in the evening and at night.
