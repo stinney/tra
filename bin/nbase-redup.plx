@@ -12,6 +12,11 @@ my $trace = 1;
 my $cf = '';
 my $curr_cfgw = '';
 
+my %needrr = (); my @x = `cat bad-need-RR.lst`; chomp @x; @needrr{@x} = ();
+my %stemsr = (); @x = `cat bad-stems-R.lst`; chomp @x; @stemsr{@x} = ();
+
+open(R, '>R.tsv');
+open(RR, '>RR.tsv');
 bases_init();
 while (<>) {
     if (/^[-+>]?\@(entry|bases)/) {
@@ -39,12 +44,22 @@ bases_term();
 ##########################################################################
 
 sub ineligible {
-    my $x = shift;
-    my $o = $x;
+    my ($cgp,$o) = @_;
+    my $x = $o;
     $x =~ tr/-°·₀-₉//d;
     my $ok = ($x =~ /([bdgŋhḫklmnprsštwyz][aeiu])\1/);
-    warn "ineligible $o => $x\n"
-	if !$ok && $trace;
+    if (!$ok) {
+	if (exists($needrr{$x})) {
+	    my $n = $o;
+	    $n =~ tr/-/·/;
+	    print RR "$curr_cfgw\t$o\t*RR\t$n\n";
+	} elsif (exists($stemsr{$x})) {
+	    my $cf = $cgp; $cf =~ s/\[.*$//;
+	    print R "$curr_cfgw\t$o\tR\t$cf\n";
+	} else {
+	    warn "$x is not in needrr or stemsr\n";
+	}
+    }
     return !$ok;
 }
 
@@ -146,7 +161,7 @@ sub redup {
 	}
     }
 
-    return if ineligible($o);
+    return if ineligible($curr_cfgw, $o);
     
     warn "redup: never solved $s\n"
 	if $trace;
