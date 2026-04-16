@@ -1,0 +1,548 @@
+1.
+G1
+MAH 15861
+Col. i: 1–2; 4–56
+Col. ii: 57–100
+Col. iii: 104–147
+Col. iv: 156–200
+2.
+G2
+MAH 16015
+Obv: 79–105
+Rev: 111–137
+3.
+K1
+Ash 1932,415 (OECT 5 12)
+Obv: 272–280
+Lower Edge: 281–283
+Reverse: 284–293
+4.
+K2
+Ash 1932,526o (OECT 5 14)
+Obv: 339–343
+Lower Edge: 344
+Rev: 345–358
+5.
+K3
+Ash 1932,522 (OECT 5 15)
++ Ash 1932,526j (OECT 5 13)
+obv: 375–397a
+Lower Edge: 397b–398
+rev: 400–436
+6.
+L
+PUL 550 (RA 63 5ff.)
+Obv: 1−40
+Rev: 41−77
+7.
+N1
+Ni 2780 (SLTN 94 = AS 12 pl. 1f.)
+Col. i: 1−37
+Col. ii: 47−72
+Col. iii: 90−1
+Col. iv: 153−18
+Col. v: 198−224
+Col. vi: 231−254
+8.
+N2
+HS 1487 (TMH NF 4 24)
+Obv: 1−24
+51
+Rev: 25−40
+9.
+N3
+3N−T680 = IM 58615
+Obv: 1−10
+Rev: 32−40
+10.
+N4
+3N−T458 = IM 58492
+Obv: 1–6
+Rev: 29–35
+Upper Edge: 36–38
+Left Edge: 39–40
+11.
+N5
+UM 29−16−774
++ UM 29−16−778
+Obv: 1−10
+Rev: uninscribed
+12.
+N6
+N 3752
+Obv: 2–9
+Rev: 65–74
+13.
+N7
+UM 29−13−240
+Col. i: 2–22
+Col. ii: 65–70
+14.
+N8
+N 3267
+Obv: 2−13
+Rev: 25−37
+15.
+N9
+Ni 2518 (SRT 45)
+Col. i: 10−28
+Col. ii': 433−436
+16.
+N10
+3N−T918,420
+Obv: 11–13
+Rev: 14–16
+17.
+N11
+CBS 7080 (PBS 10/4 11)
++CBS 14110 (STVC 17)
++ N 3076
++N 2757
+Col. i: 16–32
+Col. ii : 66–96
+Col. iii : 97–149
+Col. iv : 150–197
+Col. v : 198–248
+Col. vi : 255–284
+Col. vii : 297–322
+Col. viii : 323–360
+Col. ix : 361–391
+Col. x :406–431
+52
+18.
+N12
+Ni 1162 (SLTN 97)
+Obv: 16–23
+Rev: destroyed
+19.
+N13
+3N−T918,414
+21–28
+(Other side destroyed)
+20.
+N14
+CBS 7975 (STVC 21)
++CBS 14234 (PBS 13 20)
++ UM 29−16−246
+Col. i: 23−33
+Col. ii: 70−85
+Col. iii: 104−148
+Col. iv: 158−206
+21.
+N15
+3N−T901,46
+Obv: 25–26
+Rev: 180−182
+22.
+N16
+N 3536
+Obv: 25−38
+Lower Edge: 39
+Rev: 41−50
+23.
+N17
+Ni 3166 (SLTN 96 = AS 12 pl. 4)
+Col. i: 36–61
+Col ii': uncertain
+Col. iii': 400–410
+Left Edge: 434–435
+24.
+N18
+Ni 4424 (ISET 1 p. 153)
+43–51
+(other side destroyed)
+53
+25.
+N19
+CBS 3878 (STVC 22)
++ CBS 3901
++ CBS 3927
++ CBS 3916
++ CBS 11078
++ CBS 19827
+(+)CBS 6889 (STVC 19)
++ CBS 6905 (STVC 20)
++ CBS 8023
++N 6378
++N 7927
++N 6843
++N 7269
+Col. ii: 60–67
+Col. iii: 108–133; 146–160
+Col. iv: 161–184; 193–207
+Col. v: 209–229
+Col. vi: 254–256; 275–294
+Col. vii: 295–300; 311–330
+Col. viii: 331–338; 349–364
+Col. ix: 398−403
+26.
+N20
+Ni 9599 (ISET 1 p. 173)
+Obv: destroyed
+Rev: 62–67
+27.
+N21
+UM 29−16−397
+Obv: 77−103
+Rev: 112−136, 139
+28.
+N22
+3N−T921ii = A 33551
+Obv: 77−81
+Rev: 131−135
+Upper Edge: 136−137
+29.
+N23
+3N−T357 = IM 58443
+Obv: 77–91
+Rev: 101–122
+Upper Edge: 123–125
+30.
+N24
+CBS 12512
+Obv: 78–89
+Rev: destroyed
+31.
+N25
+3N-T 902,88
+Obv: 78–86
+Rev: destroyed
+32.
+N26
+CBS 13593
++ CBS 13605
++ CBS 13624
++ CBS 13638
+Obv: 82−107
+Rev: 119−137
+54
+33.
+N27
+N 893
+Obv: 84−92
+Rev: 99−106
+34.
+N28
+3N−T546 = IM 58544
+Obv: 91–95
+Rev: 96–101
+35.
+N29
+Ni 9822 (ISET 1 p. 197)
+Obv: 92–100
+Rev: 107–117
+36.
+N30
+CBS 10432c (STVC 18)
+Col. i: 95–102
+Col ii: 152–159
+37.
+N31
+CBS 6795
+104–111
+(other side destroyed)
+38.
+N32
+3N-T 906,241 (SLFN 12)
+Obv: destroyed
+Rev: 104–109
+39.
+N33
+3N−T416 = IM 58468
+Obv: 137–148
+Rev: 170–173
+40.
+N34
+3N−T519 = IM 58532
++3N−T906,233
++3N−T553 = IM 58548
+Obv: 138–156
+Rev: 157–173
+41.
+N35
+N 6552
+Obv: 141−145
+Rev: 164−168
+Left Edge: 173
+42. N35' Ni 4296 Obv: 146‒157 Rev: 158‒169
+43.
+N36
+Ni 4116 (TAD 8/2 pl. 6)
+168−174
+(other side destroyed)
+44.
+N37
+3N−T904,151
+172–178
+(other side destroyed)
+45.
+N38
+N 3182
++ N 3283
++ N 3301
+Obv: 173−187
+Rev: 206−208
+55
+46.
+N39
+N 2205
+Obv: 173−175
+Rev: 205−208
+47.
+N40
+Ni 9623 (ISET 1 p. 176)
+Obv: 173–180
+Rev: destroyed
+48.
+N41
+3N−T492 = IM 58517
+Obv: 185–197
+Rev: 198–208
+49.
+N42
+CBS 15091
+Obv: 187–193
+Rev: 194–200
+50.
+N43
+Ni 4474 (ISET 1 p. 165)
+Obv: 189–196
+Rev: 197–198
+51.
+N44
+Ni 4459 (ISET 1 p. 139)
+192–194
+(other side destroyed)
+52.
+N45
+CBS 8079 (STVC 23)
+Col i: uncertain
+Col. ii: 194−207
+Col. iii: 238−249
+Col. iv: 269−277
+Col. v: 304−310
+53.
+N46
+HS 1553 (TMH NF 4 23)
+Obv: 208−219
+Rev: 237–251
+Upper Edge: 252−254
+54.
+N47
+CBS 4584 (PBS 10/2 10)
+Obv : 208−216
+Rev: 252–254
+55.
+N48
+CBS 2191
++ UM 29−16−789
+Obv: 214−235
+Rev: 236−243, 247−254
+56.
+N49
+VAT 4595 (VAS 10 171)
+Obv: 219–231
+Lower Edge: 232−233
+56
+Rev: 234−248
+57.
+N50
+CBS 13911 (STVC 24)
+Obv: 254− 274
+Rev: 283− 298
+58.
+N51
+HS 1426 (TMH NF 4 18)
++ HS 1427 (TMH NF 4 19)
++ HS 1575 (TMH NF 4 20)
++ HS 1452 (TMH NF 4 21)
++ HS 1579 (TMH NF 4 22)
++ HS 2504 (WK=KSLT 58)
+Col. i: 255−298
+Col. ii: 301−345
+Col. iii: 346−384a
+Col. iv: 395−426
+59.
+N52
+CBS 11555
+Col. i: 256−270
+Col. ii: 306−315
+Col. iv: 420−433
+60.
+N53
+CBS 2204
++ CBS 2270
++ CBS 2302
++ CBS 19751 (MBI 6)
++ N 3144
+Col. i: 260–296
+Col. ii: 297–334
+Col. iii: 335–367
+Col. iv: 368–397
+61.
+N54
+N 4253
+Obv: 271−277a
+Rev: 278−288
+62.
+N55
+Ni 2401 (SLTN 95 = AS 12 pl. 3)
+Obv: 298–312
+Rev: 329–331
+63.
+N56
+N 6270
++ Ni 4496 (ISET 1 p. 158)
+Obv: 298−314
+Rev: 320−331
+64.
+N57
+N 1331
+Col. i: 314−320
+Col. ii: 351−356
+65.
+N58
+CBS 15135
++ N 3715
++N 3758
+Obv: 331−346
+Rev: 376−388
+66.
+N59
+3N−T901,41
+Obv: 331–335
+57
+176 The obverse is destroyed; ll. 338 and 342 are reconstructed according to their ends which appear on the reverse. For the line sequence of this duplicate cf. note on l. 388 in the score.
+177 Cf. description of this tablet.
+178 Note that the join of this fragment to HS 1427+ in ETCSL's list of manuscripts is erroneous.
+Rev: 366–371
+Upper Edge: 370–371
+67.
+N60
+Ni 9969 (ISET 1 p. 200)
+Obv: 331–334
+Rev: destroyed
+68.
+N61
+CBS 8336
++ N 6651
+Obv: 333−356
+Rev: 357−380
+69.
+N62
+Ni 4024 (SLTN 98 = AS 12 pl. 4)
+Obv:176 338, 342
+Rev: 357–359
+70.
+N63
+N 2529
+Obv: 351−355
+Rev: 356−362
+71.
+N64
+N 1810
+Obv: 359−365
+Rev: blank
+72.
+N65
+N 3609
+Col. i: 362−365
+Col. ii: uncertain177
+73.
+N66
+CBS 15179178
+Obv: 370−386
+Rev: 394−397
+74.
+N67
+CBS 10227 (STVC 33)
++N 2569
++N 3194
++N 3195
+Col. i: 376–380; 383−384a
+Col. ii: 407−436
+75.
+N68
+Ni 4074 (TAD 8/2 pl. 35)
+Col. i: 384−388
+Col. ii: 428−434
+76.
+N69
+HS 1510 (TMH NF 4 25)
+Obv: 388−418
+Rev: 419−437
+77.
+N70
+Ni 4429 (ISET 1 p. 153)
++UM 29−16−153
+Obv: 407−415
+Rev: 416−421
+78.
+N71
+SLTN 99 = AS 12 pl. 4179
+Obv: destroyed
+Rev: 411–422
+79.
+N72
+Ni 2510 (SRT 32)
+Obv: destroyed
+Rev: 430−436
+80.
+N73
+Ni 9586 (ISET 1 p. 205)
+Obv: destroyed
+Rev: 435−436
+81.
+P
+AO 6446 (TCL 16 40 = TRS 2 40)
+Col. i: 1−89
+Col. ii: 90−175
+Col. iii: 176−257
+Col. iv: 258−341
+Col. v: 342−426
+Col. vi: 427−436
+82.
+U1
+UET 6 135 = U 8840
+Col. i: 1−28
+Col. ii: 67−82
+Col. iii: 164−176
+83.
+U2
+UET 6 136 = U 16900J
+Obv: 1−65
+Rev: 60−122
+84.
+U3
+UET 6 137 = U 16900K
+Obv: 122−173
+Rev: 174−232
+85.
+U4
+U 16900N
+(+) UET 6/3, 509 (=*290)
+Obverse: 135−166
+Lower Edge: 167−170
+Reverse: 171−208
+86.
+U5
+UET 6 138 = U 16900L
+Obv: 208−246
+Rev: 247−281
+87.
+U6
+UET 6 139 = U 16900M
+Obv: 351−390
+Lower Edge: 391−395
+Rev: 396−436
+59
+88.
+Y1
+YBC 7159
+Obv: 137−168
+Rev: 180−208
+89.
+Y2
+YBC 4661
+Obv: 208−239
+Rev: 240–254
