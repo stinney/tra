@@ -1,0 +1,3638 @@
+&Q000539 = 1. Aradmu to Šulgi 1 (ArŠ1, 3.1.1, A1, RCU 1)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+
+#key: name.long Aradmu to Šulgi 1
+#key: name.short CKU 1
+#key: name.index 1
+
+1. 	lugal-ŋu₁₀-ra ù-na-a-dug₄
+#lem: lugal[king]N; dug[speak]
+
+2.	{m}árad-mu árad-zu na-ab-bé-a
+#lem: Aradŋu[1]PN; arad[slave]N; e[speak]
+
+3.	kur su-bir₄{ki}-šè har-ra-an kaskal si sá-sá-e-ra
+#lem: kur[mountain]N; Subir[1]GN; harran[route]N; kaskal[way]N; si[horn]N; sa[equal]
+
+4.	gun ma-da-zu ge-en-ge-né-dè
+#lem: gun[load]N; mada[land]N; gin[establish]
+
+5.	a-rá ma-da zu-zu-dè
+#lem: ara[times]N; mada[land]N; zu[know]
+
+6.	ugu a-pi-il-la-ša gal-zu unken-na-ka
+#lem: ugu[skull]N; Apillaša[1]PN; galanzu[wise]AJ; unkin[assembly]N
+
+7.	ad gi₄-gi₄-da gù-téš-a si-ke-dè
+#lem: ad[voice]N; gi[turn]; guteš[agreement]N; sig[put]
+
+8.	inim u₄-da ka-ne-ne-a hé-en-tùm á-še mu-e-da-a-a-áŋ
+#lem: inim[word]N; ud[sun]N; kag[mouth]N; de[bring]; aše[now]N; aŋ[measure]
+
+9.	ká é-gal-la-šè gub-a-ŋu₁₀-ne
+#lem: kan[gate]N; egal[palace]N; gub[stand]
+
+10.	silim-ma lugal-ŋá-ke₄ èn li-bí-in-tar
+#lem: silim[healthy]; lugal[king]N; en[cvne]N; tar[cut]
+
+11.	dúr na-ma-ta-an-zi ki-a nu-ub-za
+#lem: dur[buttocks]N; zig[rise]; ki[place]N; za[bow]
+
+12.	ba-an-da-mud-en
+#lem: mud[scared]
+
+13.	te-ŋá-e-da-ŋu₁₀-ne
+#lem: teŋ[approach]
+
+14.	é kaskal-la kuš ga-ríŋ-ak šukur kù-sig₁₇ kù-babbar 
+#lem: e[house]N; kaskal[way]N; kuš[skin]N; garigak[comb]N; šukur[lance]N; kugsig[gold]N; kugbabbar[silver]N
+
+15.	{na₄}gug {na₄}za-gìn ŋar-ra-ta
+#lem: gug[carnelian]N; zagin[lapis]N; ŋar[place]
+
+16.	a-ab-dù-dù-a ùšu sar-àm i-íb-tuš
+#lem: du[build]; ušu[thirty]N; sar[garden]N; tuš[sit]
+
+17.	kù-sig₁₇ {na₄}za-gìn-na mí zi-dè-eš im-me 
+#lem: kugsig[gold]N; zagin[lapis]N; mi[cvne]N; zid[right]; e[speak]
+
+18.	{ŋiš}gu-za barag {túg}šutur-e ri-a i-íb-tuš
+#lem: guza[chair]N; barag[sanctum]N; šutur[garment]N; ri[impose]; tuš[sit]
+
+19.	{ŋiš}ŋìri-gub kù-sig₁₇-ka ŋìri-ni i-íb-ŋar
+#lem: ŋirigub[footstool]N; kugsig[gold]N; ŋiri[foot]N; ŋar[place]
+
+# giri₃/ŋiri₃
+20.	ŋìri-ni na-ma-ta-an-kúr
+#lem: ŋiri[foot]N; kur[different]
+
+21.	àga-ús saŋ-ŋá-na iá li-mu-um-ta-àm zi-da gùb-bu-na íb-ta-an-gub-bu-uš
+#lem: aga'us[soldier]N; saŋ[head]N; ya[five]N; limum[thousand]N; zid[right]; gab[left]N; gub[stand]
+
+22.	àš gud niga ŋéš udu niga níŋ-zú-gub-šè in-ŋar
+#lem: aš[six]N; gud[ox]N; niga[fattened]; ŋeš[sixty]N; udu[sheep]N; niga[fattened]; niŋzugub[meal]N; ŋar[place]
+
+# níg/níŋ
+# gar/ŋar
+23.	šu-luh lugal-ŋá-ke₄ sá bí-in-dug₄
+#lem: šuluh[cleansing]N; lugal[king]N; sa[equal]; dug[speak]
+
+24.	ká-na èn nu-tar-ra-bi lú na-ma-ši-in-ku₄-re-en
+#lem: kan[gate]N; en[cvne]N; tar[cut]; lu[person]N; kur[enter]
+
+25.	ku₄-ku₄-da-ŋu₁₀-ne
+#lem: kur[enter]
+
+26.	{ŋiš}gu-za gàr-ba kù-sig₁₇ huš-a ŋar-ra lú ma-an-de₆ tuš-a ma-an-dug₄
+#lem: guza[chair]N; gar[knob]N; kugsig[gold]N; huš[reddish]; ŋar[place]; lu[person]N; de[bring]; tuš[sit]; dug[speak]
+
+27.	á-áŋ-ŋá lugal-ŋá-ke₄ ì-gub-bé-en nu-tuš-ù-dè-en bí-dug₄
+#lem: a'aŋa[assignment]N; lugal[king]N; gub[stand]; tuš[sit]; dug[speak]
+
+28.	min gud niga niš udu niga {ŋiš}banšur-ŋu₁₀ lú ma-an-ŋar
+#lem: min[two]N; gud[ox]N; niga[fattened]; niš[twenty]N; udu[sheep]N; niga[fattened]; banšur[table]N; lu[person]N; ŋar[place]
+
+# giš/ŋiš
+# gar/ŋar
+29.	nu-kár-kár-dè àga-ús lugal-ŋá-ke₄ {ŋiš}banšur-ŋu₁₀ íb-bal-a-aš
+#lem: kar[blow]; aga'us[soldier]N; lugal[king]N; banšur[table]N; bala[turn]
+
+# giš/ŋiš
+30.	ní ba-da-te su ba-da-zi 
+#lem: ni[fear]N; teŋ[approach]; su[flesh]N; zig[rise]
+
+31.	iti ezen-{d}nin-a-zu u₄ iá-àm zal-la-àm
+#lem: itud[moon]N; Ezenninazu[1]MN; ud[sun]N; ya[five]N; zal[pass]
+
+32.	lugal-ŋu₁₀ á-še mu-e-da-a-a-áŋ
+#lem: lugal[king]N; aše[now]N; aŋ[measure]
+
+33.	iti u₅-bí{mušen}-gu₇ u₄ diš-àm zal-la-àm
+#lem: itud[moon]N; Ubigu[1]MN; ud[sun]N; diš[one]N; zal[pass]
+
+34.	lú kaš₄-e mu-e-ši-gi₄
+#lem: lu[person]N; kaš[run]; gi[turn]
+
+35.	u₄ sa₉-àm šen-e ba-te
+#lem: ud[sun]N; sa[half]N; šen[pure]; teŋ[approach]
+
+36.	lugal-ŋu₁₀ hé-en-zu
+#lem: lugal[king]N; zu[know]
+
+@translation labeled en project
+@(1) Speak to my king, @lab{2}saying (the words) of Aradmu, your servant: 
+
+@(3 = 8) You commanded me, @lab{3}while I was on an expedition to Subir, @lab{4}to firmly secure the taxes on the frontier territory, @lab{5}to thoroughly investigate the state of (this) frontier, @lab{6–7}to confer (with the elites of Subir) about Apilaša, the high commissioner, and have them come to agreement, @lab{8}@i{so that he could bring to them (i.e., the Subir elites) up-to-date instructions}.^1^
+
+@note ^1^  Alternative translation: so that as part of the daily instructions he could bring them (the people of Subir) good news.
+
+
+@(9) When I stood at the gate of the (local) palace, @lab{10}no one inquired about my king’s well-being, @lab{11}no one rose from (his) seat for me, nor did anyone prostrate himself (before me); @lab{12}this (all) made me very worried.
+
+@(13) But when I drew nearer, @lab{14–16}(I discovered that Apilaša) was dwelling in a @i{portable structure} constructed by means of finely combed fleece (panels stretched between) staked poles inlaid with gold, silver, carnelian, and lapis-lazuli covering an area of thirty sar (ca. 1080 sq. m.). @lab{17}He was all decked out in precious stones and metals. @lab{18}He sat on a throne on a dais placed over a fine carpet,^2^ @lab{19}and had set his feet on a golden footstool. @lab{20}He would not remove his feet in my presence! @lab{21}He had stationed no less than five thousand of his @i{choice} guards to his right and left. @lab{22}(He ordered) six grass-fed oxen and sixty fattened sheep placed (on tables) for a meal; @lab{23}and he took over the performance of my king’s cleansing rites. @lab{24}No one bothered to bring me in through the very gate at which no-one had inquired about your (well-being).
+
+@note ^2^  Alternative translation: under an awning.
+
+@(25 - 30) As I entered (anyway), @lab{26}someone brought me a chair with red gold encrusted knobs and told me: “Sit!” @lab{27}I answered him: “When I am on my king’s orders I stand—I do not sit!” @lab{28}Someone placed^3^ two grass-fed oxen and twenty grass-fed sheep onto my table, @lab{29}but even though I had given no offense, my king’s (own) guardsmen overturned my table. @lab{30}I was so frightened that my skin crawled!
+
+@note ^3^  Var.: heaped up.
+
+@(31 - 32) My king, you gave me orders the evening of the fifth day of the Ninazu Festival Month;
+
+@(33 - 34) I am sending you a courier the evening of the first day of the Swan-Eating Month. @lab{35}It is midday, and war is brewing! @lab{36}Now my king is informed (about all of this)!
+
+&Q003412 = 1a. Letter from Aradmu to Šulgi 1a (ArŠ1a)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+# X1 = MS 2199/1
+1. 	[lugal]-⸢ŋu₁₀-ra ù-na⸣-dug₄	
+#lem: lugal[king]; dug[speak]
+
+# || ArŠ1:1
+2. 	[{m}árad-mu] ⸢árad⸣-[zu] ⸢na-ab⸣-bé-a	
+#lem: Aradŋu[1]; arad[slave]; e[speak]
+
+# sjt: removed () around I
+# || ArŠ1:2
+3. 	⸢kur⸣ [su]-⸢bir₄{ki}-šè har-ra-an⸣ kaskal si sá-sá-dè 	
+#lem: kur[mountain]; Subir[1]; harran[route]; kaskal[way]; si[horn]; sa[equal]
+
+# || ArŠ1:3
+4. 	⸢gú⸣-un ⸢kalam-ma ge⸣-en-ge-ne	
+#lem: gun[load]; kalam[land]; gin[establish]
+
+# || ArŠ1:4
+5. 	á-⸢áŋ-ŋá zu⸣^1^-zu-dè 	
+#lem: a aŋ[command]; zu[know]
+
+#note: ^1^  Followed by an erased zu.
+# || ArŠ1:5
+6. 	ugu a-pi-la-ša ⸢gal-zu⸣ unken-na-šè 	
+#lem: ugu[skull]; Apillaša[1]PN; galanzu[wise]; unkin[assembly]
+
+# || ArŠ1:6
+7. 	ad gi-gi-dè gù-téš sì-⸢ke?⸣-dè	
+#lem: ad[voice]; gi[turn]; guteš[agreement]; sig[put]
+
+## ad-gi -> ad gi
+
+# || ArŠ1:7
+8. 	inim u₄ ka-ne-ne hé-eb-tùm	
+#lem: inim[word]; ud[sun]; kag[mouth]; tum[carry]
+
+# || ArŠ1:8
+9. 	á-šè me-da-ak!	
+#lem: a[arm]; aŋ[measure]
+
+# || ArŠ1:8
+10. 	sìg-sìg eden-na lib₄-lib₄ a-šà-ga ú-gu dé-e-ne	
+#lem: sisig[breeze]; eden[back]; liblib[plunderer]; ašag[field]; ugu[cvne]; de[pour]
+
+# || ŠAr1:13
+11. 	en-na a-pi-la-ša sa e-ne	
+#lem: enna[until]; Apillaša[1]PN; sa[sinew]; e[speak]
+
+# || ŠAr1:14
+12. 	igi-zu hé-dib igi-zu ib-ši-UD	
+#lem: igi[eye]; dib[pass]; igi[eye]; UD[(meaning unknown)]
+
+# || ŠAr1:15
+13. 	lú ⸢gal⸣-gal-bi inim-bi hé-zu	
+#lem: lu[person]; gal[big]; inim[word]; zu[know]
+
+# || ŠAr1:9
+14. 	za-⸢pa?-áŋ?⸣-zu kur-kur-ra hé-eb-ul 	
+#lem: zipaŋ[breath]; kur[mountain]; X
+
+## sjt: although it's almost pointless to guess at these things, hé-eb-du₇ ~ ḫe-eb-si
+## would be a more plausible mistake given dental/sibilant and u/i alternations.
+
+# || ŠAr1:10
+15. 	x x ta hur-saŋ-ŋá x x x ba-ra?-ŋá-ŋá 	
+#lem: u; u; ana[what?]; hursaŋ[mountain]; u; u; u; ŋar[place]
+
+## g -> ŋ four times in 15.
+# || ?
+16. 	⸢šukur⸣ kù-sig₁₇ gug za-gìn ŋar-ra-ta íb-ta-⸢gi₄⸣-gi₄	
+#lem: šukur[lance]; kugsig[gold]; gug[tooth]; zagin[lapis]; ŋar[place]; gi[turn]
+
+# || ArŠ1:14–15?
+17. 	{na₄}nir₇ kù-⸢sig₁₇⸣ gug za-⸢gìn⸣ x x [...] x 	
+#lem: nir[stone]; kugsig[gold]; gug[tooth]; zagin[lapis]; u; u; u; u
+
+# || ?
+18. 	[àga]-⸢ús⸣ saŋ-ŋá 5(diš) li-⸢mu-um⸣ x x x [z]i-da á gùb!-⸢bu⸣ x# [...]	
+#lem: aga'us[soldier]; saŋ[head]; n; limum[thousand]; u; u; u; zid[right]; a[arm]; gab[left]; u; u
+
+## á-gùb -> á gùb
+
+@m=reverse
+
+$ (One illegible line.)
+
+@translation labeled en project
+
+@(1) Speak to my king, @lab{2}saying (the words of) Aradmu, your servant: 
+
+@(3 = 9) You commanded me @lab{3}to undertake an expedition to Subir, @lab{4}to secure the taxes on the frontier territory, @lab{5}to inform (them) about (your) orders, @lab{6–7}to confer (with the elites of Subir) about Apilaša, the high commissioner, and have them come to agreement, @lab{8}@i{so that he could bring to them (i.e. the Subir elites) up-to-date instructions}.^2^
+
+@note ^2^  Alternative translation: so that as part of the daily instructions he could bring them (the people of Subir) good news.
+
+@(10 - 18)  @i{Drop (chasing) winds in the desert and robbers in the fields}!^3^ @lab{11}Until you have reached Apilaša, my high commissioner, @lab{12}@i{ignore all of this so that you can ... your face before him (without delay)},” {-13 }so that their (local) dignitaries learn their orders, @lab{14}so that your battle cries should cover the land(s). @lab{15}... @lab{16}staked poles/lances inlaid with silver, carnelian, and lapis ... @lab{17}nir-stone, gold, carnelian, lapis, ... @lab{18}Choice guards, five hundred strong, (stood to) his right and left ...
+
+@note ^3^  Alternative translation: make winds and robbers disappear from the desert!
+&Q000540 = 2. Šulgi to Aradmu 1 (ŠAr1, 3.1.2, RCU 2)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1.	{m}árad-mu-ra ù-na-a-dug₄
+#lem: Aradŋu[1]; dug[speak]
+
+2.	{d}šul-gi lugal-zu na-ab-bé-a
+#lem: Šulgir[1]; lugal[king]; e[speak]
+
+3.	lú in-ši-gi₄-in-na-zu lú-dun-a-zu in-nu-ù
+#lem: lu[person]; gi[turn]; luduna[ward]; me[be]
+
+4.	šu-zu-ta-àm á-áŋ-ŋá šu la-ba-ra-ab-te-ŋá-e
+#lem: šu[hand]; a'aŋa[assignment]; šu[hand]; teŋ[approach]
+
+5.	a-na-aš-àm níŋ-a-na an-ga-àm bí-in-ak-a-ni ur₅ ì-me-a nu-e-zu
+#lem: anaš[why?]; niŋana[whatever]; angam[consequently]; ak[do]; ur[he]; me[be]; zu[know]
+
+6.	ŋá-e níŋ ŋá-e-gin₇-nam ma-da ge-né-dè
+#lem: ŋa'e[I]; niŋ[thing]; ŋa'e[I]; mada[land]; gin[establish]
+
+7.	ùŋ si sá-sá-e-dè gù-téš-a sì-ke-dè^1^ 
+#lem: uŋ[people]; si[horn]; sa[equal]; guteš[agreement]; sig[put]
+
+#note: ^1^  Var.: suhuš ma-da ge-en-ge-né-dè.
+8.	uru ma-da ba-te-ŋá-dè-na-zu umuš-bi zu-zu-àm
+#lem: urun[exalted]; mada[land]; teŋ[approach]; umuš[planning]; zu[know]
+
+9.	lú gal-gal-bé-ne inim-bi zu-àm
+#lem: lu[person]; gal[big]; inim[word]; zu[know]
+
+10.	za-pa-áŋ-ŋu₁₀ kur-kur hé-eb-si
+#lem: zipaŋ[breath]; kur[mountain]; si[fill]
+
+11.	á kala-ga á nam-ur-saŋ-ŋá-ŋu₁₀ kur-re hé-en-šub-šub
+#lem: a[arm]; kalag[strong]; a[arm]; namursaŋ[heroism]; kur[mountain]; šub[fall]
+
+12.	u₁₈-lu-ŋu₁₀ kalam-ma hé-eb-dul
+#lem: ulu[wind]; kalam[land]; dul[cover]
+
+13.	sìg-sìg eden-na lib₄-lib₄ a-šà-ga ú-gu dé-ni-ib
+#lem: sisig[breeze]; eden[back]; liblib[plunderer]; ašag[field]; ugu[cvne]; de[pour]
+
+14.	en-na a-pi-il-la-ša gal-zu-unken-na-ŋu₁₀ sá an-né-en
+#lem: enna[until]; Apillaša[1]; galzu'unkenak[official]; sa[equal]; e[speak]
+
+15.	igi-zu è-ta-ab igi-zu hé-en-ši-UD
+#lem: igi[eye]; e[leave]; igi[eye]; UD[(meaning unknown)]
+
+16. 	á-šè mu-e-da-a-áŋ
+#lem: a[arm]; aŋ[measure]
+
+16a. 	a-na-aš-àm ŋá-a-gin₇-nam nu-un-ak
+#lem: anaš[why?]; ŋa'e[I]; ak[do]
+
+17.	tukum-bi gal-zu-unken-na-ŋu₁₀ ŋá-a-gin₇-nam nu-ub-gur₄
+#lem: tukumbi[if]; galzu'unkenak[official]; ŋa'e[I]; gur[thick]
+
+18.	{ŋiš}gu-za barag {túg}šutur-e ri-a nu-ub-tuš
+#lem: guza[chair]; barag[sanctum]; šutur[garment]; ri[impose]; tuš[sit]
+
+19.	{ŋiš}ŋìri-gub kù-sig₁₇-ka ŋìri-ni nu-ub-ŋar
+#lem: ŋirigub[footstool]; kugsig[gold]; ŋiri[foot]; ŋar[place]
+
+20.	énsi nam-énsi-ta
+#lem: ensik[ruler]; namensik[office of ruler]
+
+21.	lú ŋárza ŋárza-ta
+#lem: lu[person]; ŋarza[rites]; ŋarza[rites]
+
+22.	ní-te-ní-te-a li-bí-ib-ŋar ù nu-ub-ta-gub-bu
+#lem: ni[self]; ŋar[place]; u[and]; gub[stand]
+
+23.	lú nu-un-gaz igi nu-un-hul
+#lem: lu[person]; gaz[kill]; igi[eye]; hulu[bad]
+
+24.	lú igi-bar-ra-ka-ni lú-a li-bí-in-diri
+#lem: lu[person]; igibar[seeing]; lu[abundant]; dirig[exceed]
+
+25.	a-na-gin₇-nam ma-da íb-gi-ne
+#lem: anagin[how?]; mada[land]; gin[establish]
+
+26.	tukum-bi ki um-mu-e-a-áŋ
+#lem: tukumbi[if]; ki[place]; aŋ[measure]
+
+27.	šà-zu šà zú-kešda ba-ra-na-ŋá-ŋá
+#lem: šag[heart]; šag[heart]; zukešda[assembled]; ŋar[place]
+
+28.	ì-gur₄-re-en àga-ús-zu nu-e-zu
+#lem: gur[thick]; aga'us[soldier]; zu[know]
+
+29.	nam lú-u₁₈-lu-bi ù nam ur-saŋ-ŋá-ka-ni igi-zu bí-in-zu
+#lem: nam[fate]; lulu[man]; u[and]; nam[fate]; ursaŋ[hero]; igi[eye]; zu[know]
+
+30.	tukum-bi émedu-ŋu₁₀ me-en-zé-en
+#lem: tukumbi[if]; ama'atud[slave]; menzen[you]
+
+31.	igi min-na-zu-ne-ne-a im-sar-e gù hé-em-ta-dé-dé-ne
+#lem: igi[eye]; min[two]; imsar[tablet]; gu[voice]; de[pour]
+
+32.	gù-téš-a sì-ke-dè-en-zé-en
+#lem: guteš[agreement]; sig[put]
+
+33.	suhuš ma-da ge-né-dè-en-zé-en
+#lem: suhuš[foundation]; mada[land]; gin[establish]
+
+34.	a-ma-ru-kam
+#lem: amaru[flood]
+
+@translation labeled en project
+@(1) Speak to Aradmu, @lab{2}saying (the words) of Šulgi, your king: 
+
+@(3) (Apilaša), the one I sent you to—is he not your own trusted subordinate? @lab{4}Did he not receive (his) orders from your very own hands? @lab{5}What is more, how could you so misunderstand the true meaning of all that he has been doing? 
+
+@(6) As far as I am concerned, you were to make the frontier territory secure as my representative, @lab{7}to organize the people and keep them obedient, @lab{8}and once you reached the cities of the frontier, to discern their attitudes @lab{9}and to learn what their dignitaries are saying, @lab{10}so that my battle cry would fill the mountains, @lab{11}my mighty battle weapons fall upon the foreign lands, @lab{12}and my “storm” cover over the homeland! @lab{13}“@i{Drop (chasing) winds in the desert and robbers in the fields}!^2^ @lab{14}Until you have reached Apilaša, my high commissioner, @lab{15}@i{ignore all of this so that you can ... your face before him (without delay)}!” @lab{16}Thus did I command you!^3^
+
+#note: ^2^  Alt. transl.: make winds and robbers disappear from the desert!
+
+#note: ^3^  Two texts have an additional line 16a; see commentary.
+
+
+@(17) If my high commissioner had not expanded (his powers), just as I would have,^4^ @lab{18}if he had not sat on a throne on a dais placed over a fine carpet,^5^ @lab{19}had not set his feet on a golden footstool, @lab{22}had not by his very own authority appointed and removed @lab{20}governors from the office of governor, @lab{21}office holders from official positions, @lab{23}had not (punished anyone) by death or blinding, @lab{24}(and) had not promoted those of his own choosing over others—@lab{25}how else could he have secured the frontier? @lab{26}If you (truly) love me @lab{27}then you will not be so set against him! 
+
+#note: ^4^  Var.: If you had not had not expanded my high commissioner’s powers as my representative. 
+
+#note: ^5^  Alt. transl.: under an awning.
+
+
+@(28) It is you who have expanded your powers so that you no longer understand your (own) guardsmen! @lab{29}He has made you learn (the hard way) the responsibilities of those people, as well as the responsibilities of his own warriors! 
+
+@(30 - 34) If you are indeed both my most faithful retainers,^6^ @lab{31}(you will listen together while) they read out this tablet before the two of you.^7^ @lab{32}Both of you must come to an agreement @lab{33}and secure the foundation-s of the frontier territory! @lab{34}It is urgent!
+
+#note: ^6^  Var.: If you (sing.) are indeed my faithful retainer...
+
+#note: ^7^  Viz.: have them read out aloud my inscribed tablet before your (pl.) very own eyes.
+&Q000541 = 3. Aradmu to Šulgi 2 (ArŠ 2, 3.1.3 + 3.1.11. A2a, RCU 3+4) 
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+
+1. 	lugal-ŋu₁₀-ra ù-na-dug₄
+#lem: lugal[king]; dug[speak]
+
+2.	{m}árad-mu árad-zu na-ab-bé-a
+#lem: Aradŋu[1]; arad[slave]; e[speak]
+
+3.	lugal-ŋu₁₀ níŋ-na-me-šè á-še mu-e-da-a-a-áŋ
+#lem: lugal[king]; niŋname[anything]; aše[now]; aŋ[measure]
+
+4.	a-ab-ba kur dilmun{ki}-na-ta
+#lem: a'abak[sea]; kur[mountain]; Dilmun[1]
+
+5.	a mun₄ gaba kur amurrum{ki}-šè
+#lem: a[water]; mun[salt]; gaba[chest]; kur[mountain]; Amurrum[1]
+
+6.	zag si-mu-ur₄-ru-um ma-da su-bir₄{ki}-šè
+#lem: zag[side]; Simurrum[1]; mada[land]; Subir[1]
+
+7.	uru{ki} didli ma-da-ma-da-bi^1^
+#lem: iri[city]; didli[several]; mada[land]
+
+#note: ^1^  Var.: iri{ki}-didli-bi ⸢ugnim-bi⸣-ne.
+# uru{ki}-didli -> uru{ki} didli
+8.	a-šà a-gàr-bi ù ég pa₅-bi
+#lem: ašag[field]; agar[meadow]; u[and]; eg[levee]; par[canal]
+
+9.	igi bí-in-kár è-dè en-nu-ùŋ bí-dab
+#lem: igi[eye]; kar[blow]; e[leave]; ennuŋ[imprisonment]; dib[pass]
+
+# sjt: dab was dab+mysterious character; collate for dab₅
+10.	uru{ki}-uru{ki} ŋiš-tuku lugal-ŋu₁₀
+#lem: iri[city]; ŋeštuku[obedient]; lugal[king]
+
+11.	ki x x a-bi ì-KU šu-úr im šu bí?-dab₅
+#lem: ki[place]; u; u; x; x; x; x; x; x
+
+# should we try to lemmatize more of this line?
+12.	bàd-bi en-nu-un kala-ga bí-gub
+#lem: bad[wall]; ennuŋ[imprisonment]; kalag[strong]; gub[stand]
+
+13.	ugnim-bi gú ŋiš bí-ŋar-ŋar
+#lem: ugnim[army]; gu[neck]; ŋeš[tree]; ŋar[place]
+
+# gú-ŋiš -> gú ŋiš
+14.	x du₁₀ ús x du-ús bí-dúr-ra
+#lem: u; x; x; u; x; x
+
+15.	a-gàr a ŋar-ra-bi a-ta im-ta-è
+#lem: agar[meadow]; a[water]; ŋar[place]; a[water]; e[leave]
+
+16.	kankal zal-la-bi sahar bí-ak
+#lem: kiŋal[land]; zal[pass]; sahar[dust]; ak[do]
+
+17.	x x a-šà-ga ŋiš-gi ambar-ra
+#lem: u; u; ašag[field]; gi[thicket]; ambar[reed-bed]
+
+18.	a bal saŋ-ŋá saŋ-sìg-ge x-bi
+#lem: a[water]; bal[dig]; saŋ[head]; saŋ-sig[XXX]; u
+
+19.	x x x x-ma {ŋiš}buniŋ-ta im-ta-ak
+#lem: u; u; u; u; buniŋ[trough]; ak[do]
+
+20.	[...]-x# a la-ba?-an?-dé?-ke₄-eš [...] ⸢kal?-ga? bí?⸣-x
+#lem: u; x; x; u; kalag[strong]; u
+
+21.	[...]-x# a-šà-ga kíŋ x x
+#lem: u; ašag[field]; kiŋ[work]; u; u
+
+22.	[...]-x#-ge-en-na-bi [...-n]e-ne bí-in-zu
+#lem: u; u; zu[know]
+
+@div B
+
+1’.	eden a du₁₁-ga íd-da mi-ni-ŋar-ŋar íd-da mi-ni-luh-luh 
+#lem: eden[back]; a[water]; dug[speak]; id[river]; ŋar[place]; id[river]; luh[clean]
+
+2’.	lú-la-ga lú-sa-gaz-e eden si-si-ig-ga-bi níŋ-gul-bi bí-ak
+#lem: laga[thief]; sagaz[robber]; eden[back]; sig[put]; niŋgul[hatchet]; ak[do]
+
+3’.	nita-bi-e-ne munus-bi-e-ne nita-bi ki šà-ga-na-šè ì-du-ne
+#lem: nita[male]; munus[woman]; nita[male]; ki[place]; šag[heart]; du[go]
+
+4’.	munus-bi {ŋiš}bala {ŋiš}kirid-da šu ba-e-si-ig har-ra-an šà-ga-na du-ù-ne
+#lem: munus[woman]; balak[spindle]; kirid[clasp]; šu[hand]; sig[put]; harran[route]; šag[heart]; du[go]
+
+## har-ra-an-šà-ga-na -> har-ra-an šà-ga-na
+5’.	eden níŋ-daŋal-la ŋá-rig₇ mu-ni-ib-ŋar
+#lem: eden[back]; niŋdaŋala[vastness]; ŋarig[pen]; ŋar[place]
+
+6’.	za-lam-ŋar maš-gána-bi ki um-mi-ŋar-ŋar^2^
+#lem: zalamŋar[tent]; mašgana[settlement]; ki[place]; ŋar[place]
+
+#note: ^2^  Var.: ⸢za⸣-lam-ŋar maš-gána-⸢bi⸣-ta ú-sal mu-un-nú-nú.
+7’.	lú kíŋ-ak-bi lú gud-apin-lá a-šà-ga u₄ mu-un-di-ni-ib-zal-e
+#lem: lu[person]; kiŋak[working]; lu[person]; gudapinla[ox]; ašag[field]; ud[sun]; zal[pass]
+
+8’.	á-áŋ-ŋá šul-gi lugal-ŋá-ke₄ gú-ŋu₁₀ nu-mu-da-šub
+#lem: a'aŋa[assignment]; Šulgir[1]; lugal[king]; gu[neck]; šub[fall]
+
+9’.	gú bí-dù ŋi₆ an-bar₇-ba á-bi-šè ì-du-dè-en
+#lem: gu[neck]; du[build]; ŋi[night]; anbar[mid-day]; a[arm]; du[go]
+
+10’.	{m}á-pi-il-la-ša u₄ tur-ra-ni-ta šu-ŋá mu-un-dim₄-e
+#lem: Apillaša[1]; ud[sun]; tur[small]; šu[hand]; dim[check]
+
+11’.	lú al-me-a-gin₇ šà-ŋu₁₀ ì-zu igi-zu um-mi-zu
+#lem: lu[person]; me[be]; šag[heart]; zu[know]; igi[eye]; zu[know]
+
+12’.	lugal-ŋu₁₀ igi-bar-ra diŋir-ra lú-ù-bi i-ni-in-zu
+#lem: lugal[king]; igibarra[scout]; diŋir[deity]; lu[person]; zu[know]
+
+13’.	lú ŋárza gal kur-kur-ra-ke₄ ugu-bi im-mi-diri
+#lem: lu[person]; ŋarza[rites]; gal[big]; kur[mountain]; ugu[skull]; dirig[exceed]
+
+14’.	lugal-ŋu₁₀ níŋ gal-gal ba-e-diri gaba-ri-ŋu₁₀ šu i-ni-i[n-gi₄?]
+#lem: lugal[king]; niŋ[thing]; gal[big]; dirig[exceed]; gabari[copy]; šu[hand]; gi[turn]
+
+15’.	du₁₁-ga-ab gi₄-bi^3^ inim-zu inim dugud-da níŋ-zu níŋ gal-la-àm
+#lem: dug[speak]; gi[turn]; inim[word]; inim[word]; dugud[heavy]; niŋ[thing]; niŋ[thing]; gal[big]
+
+#note: ^3^  Var.: du₁₁-ga-du₁₁-ga-ab.
+16’.	inim sa₆-ga-ni šà-za ì-ŋál u₄-šú-uš ì-ŋál-e 
+#lem: inim[word]; sag[good]; šag[heart]; ŋal[be]; udšuš[daily]; ŋal[be]
+
+## gál -> ŋál
+17’.	lú-u₈-lu-àm igi-zu an-sa₆
+#lem: lulu[man]; igi[eye]; sag[good]
+
+## really u₈ or u₁₈?
+18’.	šà-ŋu₁₀ šà zú-kešda a-gin₇ hé-en-ta-ŋá-ŋá
+#lem: šag[heart]; šag[heart]; zukešda[assembled]; agin[thus]; ŋar[place]
+
+## šà-zú-kešda -> šà zú-kešda
+19’.	ma-da suhuš bí-ge-en gù-téš-a bí-sì-ke
+#lem: mada[land]; suhuš[foundation]; gin[establish]; guteš[agreement]; sig[put]
+
+20’.	lugal-ŋu₁₀ lugal nu-mu-e-da-sá šà-zu hé-éb-du₁₀-ge
+#lem: lugal[king]; lugal[king]; sa[equal]; šag[heart]; dug[good]
+
+@end B
+
+@translation labeled en project
+
+@(1) Speak to my king, @lab{2}saying (the words) of Aradmu, your servant:
+
+@(3) (Concerning) everything that my king commanded me (to do): @lab{4}(The entire kingdom), from the sea of Dilmun land @lab{5}to the brackish waters at the foot of the Amorite Highlands, @lab{6}to the borders of Simurum in the land of Subir—@lab{7–9}I have inspected the various cities, their (surrounding) territories, their fields and agricultural tracts, and their levees and irrigation ditches; I have imprisoned (all) fugitives.^4^ @lab{10}All the cities obedient to my king @lab{11}... @lab{12}I strengthened the garrisons on their walls; @lab{13}I made their troops submit (to you). @lab{14}... @lab{15}I have drained flooded tracts @lab{16}and had earth work done on @i{dissipated} plots that had been abandoned. @lab{17}... in the fields, and canebrakes in the marshes ... @lab{18–19}Wherever the drawing of water was not sufficient (to irrigate gardens), I had ... pour water by means of buckets. @lab{20–22}(too fragmentary for translation).
+
+#note: ^4^  Alternative translation: @i{I have established a lookout for any leaks}.
+
+@h1 Part B
+
+@(B  1’) On the irrigated desert they set it in watercourses, they wash in the watercourses. 
+
+@(B  2’) Even rustlers and robbers break up the earth (for cultivation) on the (wind)-swept desert.^5^ @lab{3’}As for their men and women, their men go wherever they wish, @lab{4’}and their women hold spindles and needless, wandering on whatever roads they wish. @lab{5’}They set up animal pens in the far-flung desert, @lab{6’}and after pitching their tents and encampments,^6^ @lab{7’}their laborers and tenant farmers then spend their days (working) in the fields. 
+
+#note: ^5^  Alternative translation: I have made rustlers and robbers break up the earth (for cultivation) on the wind-swept steppe.
+
+#note: ^6^  Var.: They rest safely in their tents and encampments.
+
+@(B  8’) I have not neglected the orders of Šulgi, my king! @lab{9’}I resisted but now I attend to those orders (without sleep) at night or during the midday siesta! 
+
+@(B  10’) Apilaša, from childhood, has been loyal to me. @lab{11’}@i{And when he became a (grown) man}, I recognized him in my heart, and once it was clear to you, @lab{12’}my king, with divine insight, you recognized that person, @lab{13’}and promoted him above all the (other) high officials in the foreign territories. @lab{14’}My king, you surpass all great deeds, you [take revenge] on my opponents. @lab{15’ }Give a command; change it!^7^ Your orders are imperative orders; your deeds are great deeds! @lab{16’}(Apilaša’s) supplications are in your heart, daily they are. @lab{17’}He is the mortal who has found favor in your eyes, @lab{18’}so how could I ever be set against him?
+
+#note: ^7^  Var.: Give commands!
+
+@(B  19’)  I have secured the foundations of the frontier and made obedient (all of its inhabitants). @lab{20’}No king can rival my king!  May your heart be glad!
+
+## sjt: my copy had a ref to line 21' at 'May your...' -- but the translit ends at 20'.
+&Q000561 = 4. Abaindasa to Šulgi 1 (AbŠ1, B1, SEpM1, 3.1.21)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+@h1 Fully Reconstructed Ideal Text
+1.	lugal-ŋu₁₀-ra ù-na-a-dug₄
+#lem: lugal[king]; dug[speak]
+
+2.	máš hur-saŋ-ŋá á sa₆-sa₆-ŋá
+#lem: maš[goat]; hursaŋ[mountain]; a[arm]; sag[good]
+
+## gá -> ŋá
+3.	anše kur hur-saŋ-ŋá umbin hu-rí-in{mušen}-na
+#lem: anše[equid]; kur[mountain]; hursaŋ[mountain]; umbin[nail]; hurin[eagle]
+
+4.	{ŋiš}nimbar ki sikil-e mú-a zú-lum {na₄}za-gìn lá-ŋu₁₀-úr 
+#lem: ŋešnimbar[palm]; ki[place]; sikil[pure]; mu[grow]; zulum[date]; zagin[lapis]; la[hang]
+
+## mu -> ŋu₁₀
+5.	ù-na-dè-dah
+#lem: tah[add]
+
+6.	{m}a-ba-in-da-sá ugula éren^1^ zú-kešda 
+#lem: Abaindasa[1]; ugula[overseer]; erin[people]; zukešda[assembled]
+
+#note: ^1^  Var.: àga-ús.
+7.	saŋ-ki zalag lugal-la-na-šè šà lugal-a-ni-ir du₁₀-du₁₀-ge-ra 
+#lem: saŋki[forehead]; zalag[shine]; lugal[king]; šag[heart]; lugal[king]; dug[good]
+
+8.	árad-zu na-ab-bé-a
+#lem: arad[slave]; e[speak]
+
+9.	ì-kala-ga lugal-mu ga-ab-ús^2^
+#lem: kalag[strong]; lugal[king]; us[follow]
+
+#note: ^2^  Vars.: kala-ga-me-en lugal-mu ga-ab-ús; kala-ga-me-en àga-ús-zu hé-me-en.
+10.	igi-tuku igi-zu-šè ga-gin
+#lem: igituku[seeing]; igi[eye]; ŋen[go]
+
+11.	inim-ma-zu ra-gaba-zu hé-me-en
+#lem: inim[word]; ragaba[rider]; me[be]
+
+12.	a gub-ba-àm a mu-da-ak-e
+#lem: a[water]; gub[stand]; a[water]; ak[do]
+
+13.	tumu gub-ba-àm še mu-un-da-lá-a
+#lem: tumu[wind]; gub[stand]; sa[equal]; la[hang]
+
+14.	{ŋiš}má gub-ba-àm {ŋiš}ŋisal mu-un-sì-ge 
+#lem: ma[ship]; gub[stand]; ŋisal[rudder]; sig[put]
+
+15.	dub-sar me-en na-rú-a ab-sar-e
+#lem: dubsar[scribe]; me[be]; narua[stele]; sar[write]
+
+16.	inim ugnim-ma mu-da-[...]
+#lem: inim[word]; ugnim[army]; u
+
+17.	inim pu-úh-ru-um-ma šub-ba e₁₁-dè-bi mu-un-da-sì-ge
+#lem: inim[word]; puhrum[assembly]; šub[fall]; ed[ascend]; sig[put]
+
+18.	ŋiš-gin₇ tir-ŋá mu-un-dù-ù-nam mu-sír-re im-gam-me-en
+#lem: ŋeš[tree]; tir[forest]; du[build]; mudur[dirt]; gurum[bend]
+
+19.	{ŋiš}gu-za-ŋá lú mu-un-da-lá-a šu-mu éše im-ma-lá
+#lem: guza[chair]; lu[person]; la[hang]; numun[grass]; eše[length unit]; la[hang]
+
+20.	uru-ŋá túg dàn-na mi-ni-mu₄-ra túg mu-sír-ra ba-mu₄
+#lem: iri[city]; tug[textile]; dan[pure]; mur[dress]; tug[textile]; mudur[dirt]; mur[dress]
+
+21.	lag-e a mi-ni-íb-tu₅-tu₅-a sahar igi-ŋá ba-e-gub
+#lem: lag[clod]; a[water]; tu[cvve]; sahar[dust]; igi[eye]; gub[stand]
+
+22.	ur-e ad₆ íb-gu₇ gaba-bi íb-zi-zi-i
+#lem: ur[dog]; adda[corpse]; gu[eat]; gaba[chest]; zig[rise]
+
+23.	ušumgal-e saŋ ŋiš um-mi-íb-ra-ra ka-ta-tak₄ íb-tuku
+#lem: ušumgal[dragon]; saŋ[head]; ŋeš[tree]; rah[beat]; katatak[XXX]; tuku[acquire]
+
+24.	ŋiš-gi izi ub-gu₇ niŋin₅ ì-tuk-tuku
+#lem: gi[thicket]; izi[fire]; gu[eat]; niŋin[district]; tuku[acquire]
+
+25.	{d}utu ì un-gu₇ ga-àra un-gu₇ {ŋiš}banšur úku-ra-šè šu-ni íb-ši-in-tùm 
+#lem: Utu[1]; i[oil]; gu[eat]; ga'ar[cheese]; gu[eat]; banšur[table]; ukur[poor]; šu[hand]; tum[bring]
+
+## ga-ára -> ga-àra
+26.	zi-ŋu₁₀ ba-e-i šu-ŋu₁₀ ha-za-ab
+#lem: zi[life]; e[leave]; šu[hand]; haza[hold]
+
+27.	dumu nu-mu-un-kuš-me-en lú èn-tar-re la-ba-an-tuku
+#lem: dumu[child]; numunkuš[widow]; lu[person]; entar[asking]; tuku[acquire]
+
+28.	ŋá-àm me-na-àm^3^ šà {d}šul-gi lugal-ŋá ki-bi ha-ma-gi₄-gi₄
+#lem: ŋa'e[I]; menam[when?]; šag[heart]; Šulgir[1]; lugal[king]; ki[place]; gi[turn]
+
+#note: ^3^  No two manuscripts agree on the first two words of the line.
+29.	lugal-ŋu₁₀ èn-ŋu₁₀ hé-tar-re ki daŋal-ŋu₁₀-šè hé-em-mi-ib-gi₄-gi₄
+#lem: lugal[king]; en[cvne]; tar[cut]; ki[place]; daŋal[wide]; gi[turn]
+
+@translation parallel en project
+1.	 Speak to my king:
+2.	 To my mountain goat, fair of limb,
+3.	 Eagle-clawed highland horse,
+4.	 To my date palm growing in a sacred place, laden with glistening dates,
+5.	 Say moreover:
+6.	 Saying (the words of) Abaindasa, officer of the armed forces,
+# sjt: should be 6/8 -- need to implement align vs. display versions of tlat labels
+7.	 Who, (to obtain) his master’s favor, is a constant delight to his master’s heart:
+9.	 Being strong, I want to follow my king,^4^
+#note: ^4^  Vars.: I am strong, I want to follow my king; I am strong, so let me be your soldier.
+10.	Having vision, I want to go in your vanguard,
+11.	At your command please let me be your messenger!
+12.	Even when water is still, I can make water flow;
+13.	Even when the wind is still, I can winnow grain;
+14.	Even when the boat is still, I can row!
+15.	I am a (trained) scribe—I can inscribe a stele!
+16.	I can ... the orders of the army.
+17.	The orders of the assembly ...
+18.	As if I were planting a tree in my own woodlot, I kneel in the dirt;
+19.	As if someone had managed to tie me to my own chair, my hands are tied with rope;
+20.	In my own city, where I used to dress in fine clothing, I am forced to wear dirty rags;
+21.	Forced to wash in clods of dirt, there is dirt on my face.
+22.	A beast devours cadavers but then retreats,
+23.	Even after the king of beasts makes a kill, he slackens his jaw;^5^
+#note: ^5^  Var: it spares some remains.
+24.	Even after the canebrake is consumed by fire, the pond remains (intact),^6^
+#note: ^6^  Var.: it spares some ponds. 
+25.	And even Utu, after consuming (offerings of) ghee and cheese, still reaches out to (accept offerings from) a pauper’s table; 
+26.	(But now) my life hangs by a thread; please take my hand!
+27.	I am a widow’s son; I have no one to show concern for me.
+28.	Ah but me—when will Šulgi, my king, restore me to my position?
+29.	May my king show his concern for me and restore me to my prosperous position!
+&Q000553 = 5. Šulgi to Aradmu 2 (ŠAr2, 3.1.13.1, RCU 8)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1. 	{m}árad-m[u-ra ù-(na)-a-dug₄]
+#lem: Aradŋu[1]; dug[speak]
+
+2.	⸢{d}šul⸣-[gi lugal-zu na-ab-bé-a]
+#lem: Šulgir[1]; lugal[king]; e[speak]
+
+3.	{m}⸢a⸣-[ba-in-da-sá-a ugula éren zú-kešda (lugal)]
+#lem: Abaindasa[1]; ugula[overseer]; erin[people]; zukešda[assembled]; lugal[king]
+
+4.	⸢lú⸣ [...]
+#lem: lu[person]; u
+
+5. 	⸢inim-zu-šè⸣ [...] h[é-...]
+#lem: inim[word]; u; u
+
+6.	éren-bi-šè x [...] nu-x#-[...]
+#lem: erin[people]; u; u; u
+
+7. 	ba-ni-ib-zà[h?^1^ ...] i-[...]
+#lem: zah[disappear]; u; u
+
+#note: Only HA (of HA.A = zàh) is preserved. The only other possible restoration would be ha-[lam...].
+8.	éren-b[i ...] x [...]	
+#lem: erin[people]; u; u; u
+
+$ (rest of text broken)
+
+@translation labeled en project
+
+@(1) [Speak to] Aradm[u], @lab{2}[saying (the words) of Š[ulgi, your king]: 
+
+@(3 - 8) A[baindasa, captain of the royal army,] @lab{4}a man ... @lab{5}According to your message ... @lab{6}To those troops ... not ... @lab{7}He escaped? ... @lab{8}Those troops ...
+&Q000545 = 6. Šulgi to Aradmu 3 (ŠAr3, 3.1.61, RCU 16) 
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1. 	{m}árad-mu-ra ù-na-a-dug₄
+#lem: Aradŋu[1]; dug[speak]
+
+2. 	{m}{d}šul-gi lugal-zu na-ab-bé-a
+#lem: Šulgir[1]; lugal[king]; e[speak]
+
+3. 	u₄? {m}a-ba-an-da-sá ugula éren zú-kešda
+#lem: ud[sun]; Abaindasa[1]; ugula[overseer]; erin[people]; zukešda[assembled]
+
+4. 	[x] ù-na-a-dug₄-bi šu-ni mu-un-tak₄-a
+#lem: u; unadug[letter]; šu[hand]; taka[abandon]
+
+5. 	[x x]-šè? dugud RI-dè NIR-da íl-la-zu hu-mu-un-ši-in-gi
+#lem: u; u; dugud[heavy]; X; šerda[crime]; il[raise]; gi[turn]
+
+6. 	a-na-aš-àm éren-bi-ta mu-un-zi-zi
+#lem: anaš[why?]; erin[people]; zig[rise]
+
+7. 	en-nu-ùŋ-ŋá mu-ni-in-ku₄ 
+#lem: ennuŋ[imprisonment]; kur[enter]
+
+8. 	[saŋ? ba]-e-tùm-tùm-ma NIR-da šà-zu-a ba-e-ši-íl-la
+#lem: saŋ[head]; tum[bring]; šerda[crime]; šag[heart]; il[raise]
+
+## sag -> saŋ
+9. 	[lú] kúr-ra ba-ra-è-a éren-bi-ta gi₄-gi₄-mu-un-na-ab
+#lem: lu[person]; kur[different]; e[leave]; erin[people]; gi[turn]
+
+10. 	[x (x) ur]-{d}namma a-a ugu-ŋu₁₀-ta
+#lem: u; u; Urnamma[1]; aya[father]; ugu[skull]
+
+11. 	[x x]-x#-ra ha-ra-an-kalag šu? x-nam
+#lem: u; u; harrankalag[stronghold]; šu[hand]; u
+
+12. 	[x x]-bi ba-ab-ŋar-re-en-a
+#lem: u; u; ŋar[place]
+
+13. 	x x-bi/ga-šè ha-ra-an-kalag x-nam ha-ba-zu-zu
+#lem: u; u; harrankalag[stronghold]; u; zu[know]
+
+14. 	u₄ ù-na-a-dug₄-ŋu₁₀ šu-ni šu tak₄
+#lem: ud[sun]; unadug[letter]; šu[hand]; šu[hand]; taka[abandon]
+
+## mu -> ŋu₁₀
+## tag₄ -> tak₄
+15. 	éren-bi-šè gi₄-gi₄-mu-un-na-ab 
+#lem: erin[people]; gi[turn]
+
+16. 	[...]-bi sa₆-ga-zu pàd-dè 
+#lem: u; sag[good]; pad[find]
+
+17. 	uru?{ki}-bi nam-ba-an-pe-el-le-en
+#lem: iri[city]; pel[defile]
+
+18. 	nam-gur₄-bi éren-bi-šè níŋ mu-ra-ab-dug₄
+#lem: namgur[thickness]; erin[people]; niŋ[thing]; dug[speak]
+
+19. 	ki-saŋ-ŋál-la igi-zu-šè {ŋiš}gu-za-àm ha-ra-ab-dúr-dè-en
+#lem: kisaŋŋala[stronghold]; igi[eye]; guza[chair]; durun[sit]
+
+## not ha-ra-ab-durun-ne-en ?
+20. 	a-ma-ru-kam
+#lem: amaru[flood]
+
+@translation labeled en project
+@(1) Speak to Aradmu, @lab{2}saying (the words) of Šulgi, your king: 
+
+@(3) When Abaindasa, captain of the armed forces, @lab{4}sent that letter (to me/you) @lab{5}... important... so that he @i{could} @i{confirm} the punishment that you imposed on him. @lab{6}Why did you remove him from that regiment @lab{7}and throw him in prison? @lab{8}Having reduced the punishment that you had imposed by your own volition, @lab{9}now that the enemy is coming against you, reinstate him into that regiment! 
+
+@(10) [@i{By the order of}] Ur-Namma, the father who begot me, @lab{11}... fortress ... @lab{12}...I/ you establish/appoint... @lab{13}...fortress ... @lab{14}As soon as my letter concerning him has been sent, @lab{15}reinstate him into that regiment! @lab{16}... @lab{17}You must not diminish (the importance) of that city: @lab{18}its importance to that regiment is something that has (already) has been explained to you, @lab{19}so you should install him in a stronghold before you as if on a throne! @lab{20}It is urgent!
+
+&Q000543 = 7. Aradmu to Šulgi 3 (ArŠ3, 3.1.5, SEpM1a, RCU 7)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1. 	lugal-ŋu₁₀-ra ù-na-dug₄
+#lem: lugal[king]; dug[speak]
+
+2. 	árad-mu árad-zu na-ab-bé-a
+#lem: Aradŋu[1]; arad[slave]; e[speak]
+
+3. 	{m}a-ba-in-da-sá ugula éren zú-kešda lugal níŋ lugal-ŋu₁₀ ma-an-gi₄
+#lem: Abaindasa[1]; ugula[overseer]; erin[people]; zukešda[assembled]; lugal[king]; niŋ[thing]; lugal[king]; gi[turn]
+
+4. 	lugal-ŋu₁₀ bar inim-ma ha-ba-zu-zu
+#lem: lugal[king]; bar[outside]; inim[word]; zu[know]
+
+5. 	u₄ zi-mu-dar{ki}-ra-šè igi-ŋu₁₀ bí-in-ŋar-ra
+#lem: ud[sun]; Zimudar[1]; igi[eye]; ŋar[place]
+
+6. 	kaskal lugal-ŋu₁₀ éren zi-ga-ŋu₁₀
+#lem: kaskal[way]; lugal[king]; erin[people]; zig[rise]
+
+7. 	{m}a-ba-in-da-sá éren-bi igi ù-bí-in-kár
+#lem: Abaindasa[1]; erin[people]; igi[eye]; kar[blow]
+
+8. 	min li-mu-um éren-bi nu-ŋál
+#lem: min[two]; limum[thousand]; erin[people]; ŋal[be]
+
+9. 	x x-ne nu-un-DU nu-un-gi₄
+#lem: u; u; X; gi[turn]
+
+10. 	ha-ra-kalag lugal-ŋu₁₀ mu-un-tak₄ mu-un-dab₅
+#lem: harrankalag[stronghold]; lugal[king]; taka[abandon]; dab[seize]
+
+## tag₄ -> tak₄
+11. 	NIR-da-bi NIR-da lugal-ŋu₁₀ [ba-e]-dugud
+#lem: šerda[crime]; šerda[crime]; lugal[king]; dugud[heavy]
+
+12. 	[...]-ma lugal? [...] x
+#lem: u; lugal[king]; u; u
+
+13. 	[...]-x# ni x#-[...]-ŋar
+#lem: u; ni[fear]; u
+
+14. 	níŋ lugal-ŋu₁₀ ab-bé-na-ŋu₁₀
+#lem: niŋ[thing]; lugal[king]; e[speak]
+
+15. 	lugal-ŋu₁₀ hé-en-zu
+#lem: lugal[king]; zu[know]
+
+@translation labeled en project
+@(1) Speak to my king, @lab{2}saying (the words) of Aradmu, your servant:
+
+@(3) (Concerning the matter of) Abaindasa, captain of the royal armed forces, that my king sent me (a message) about; @lab{4}my king must be informed about the matter. 
+
+@(5) When I focused my attention on Zimudar, @lab{6}I was in the process of mustering troops for my king’s military service,^1^ @lab{7}but when Abaindasa inspected those troops, @lab{8}2000 of those men were missing. @lab{9}He had not gone to..., nor had he returned. @lab{10}He had abandoned the fortress, @i{o my king}, @i{and then (re)captured (it)!} @lab{11}That crime was a very serious crime against my king! @lab{12–13}...
+
+#note: ^1^  Alt. transl.: my king’s expedition.
+
+
+@(14) Whatever you, my king order me to do, (I will do)! @lab{15}Now my king is informed (about all of this)! 
+
+
+&Q003407 = 8. Aradmu to Šulgi 4 (ArŠ4)Source
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+# collated by Konrad Volk.
+# Tablet: Type III.
+@h1 X1 = MS 2199/2
+1. 	⸢lugal-ŋu₁₀-ra⸣ ù-na-a-⸢dug₄⸣
+#lem: lugal[king]; dug[speak]
+
+2. 	⸢árad⸣-mu árad-zu ⸢na-ab⸣-bé-⸢a⸣
+#lem: Aradŋu[1]; arad[slave]; e[speak]
+
+3. 	u₄ lugal-ŋu₁₀ kíŋ ⸢lugal?⸣ è-[dè] mu-e-ši-in-⸢gi₄?⸣
+#lem: ud[sun]; lugal[king]; kiŋ[work]; lugal[king]; e[leave]; gi[turn]
+
+4. 	u₄ éren-bi-šè bí-in-⸢te⸣-a-ŋu₁₀
+#lem: ud[sun]; erin[people]; teŋ[approach]
+
+5. 	ra-bi sí-ik-ka-tum ugula nu-bànda éren daŋal-⸢la lugal-ŋá⸣-ke₄ 
+#lem: rabi[cnne]; zigatum[cnne]; ugula[overseer]; nubanda[overseer]; erin[people]; daŋal[wide]; lugal[king]
+
+6. 	silim-ma lugal-ŋá-ke₄ èn mu-un-⸢tar-re⸣-eš
+#lem: silim[healthy]; lugal[king]; en[cvne]; tar[cut]
+
+7. 	lugal-me u₄ da-rí-šè hé-ti gù in-na-⸢dé?⸣-eš
+#lem: lugal[king]; ud[sun]; dari[eternal]; til[live]; gu[voice]; de[pour]
+
+## u₄-da-rí -> u₄ da-rí
+8. 	kíŋ-bi-šè te-ŋá-da-ŋu₁₀-ne
+#lem: kiŋ[work]; teŋ[approach]
+
+## mu -> ŋu₁₀
+9. 	kíŋ lugal-ŋu₁₀ mu-un-gi₄ igi ù-bí-kár
+#lem: kiŋ[work]; lugal[king]; gi[turn]; igi[eye]; kar[blow]
+
+10. 	lú NIR-da NIR-da ⸢šu?⸣ bí-in-šúm
+#lem: lu[person]; šerda[crime]; šerda[crime]; šu[hand]; šum[give]
+
+11. 	lú nam-tag nam-tag bí-íb-íl-e
+#lem: lu[person]; namtaga[sin]; namtaga[sin]; il[raise]
+
+12. 	lú kíŋ-bi tab-ba-a-ni mah-bi al-lá-e
+#lem: lu[person]; kiŋ[work]; tab[double]; mah[great]; la[hang]
+
+13. 	⸢á⸣-ni u₄-bi-e kù al-lá-e
+#lem: a[arm]; ud[sun]; kug[metal]; la[hang]
+
+## ud -> u₄
+14. 	{m}a-⸢ba-an⸣-da-sá ugula ⸢éren⸣ ⸢zú⸣-kešda ⸢lugal⸣-ŋá-ke₄
+#lem: Abaindasa[1]; ugula[overseer]; erin[people]; zukešda[assembled]; lugal[king]
+
+15. 	lú éren-a gi₄-gi₄ lugal-ŋu₁₀
+#lem: lu[person]; erin[people]; gi[turn]; lugal[king]
+
+16. 	⸢kíŋ⸣ lugal-ŋu₁₀ mu-un-šub bàd im-mi-in-dù
+#lem: kiŋ[work]; lugal[king]; šub[fall]; bad[wall]; du[build]
+
+17. 	[lug]al-ŋu₁₀ ⸢inim⸣-ma ⸢nu-húl?⸣-le-dè 
+#lem: lugal[king]; inim[word]; hul[rejoice]
+
+18. 	{m}{d}šul-gi-x-x-x lú-kaš₄-e im-⸢mi⸣-in-⸢gin?⸣-na?
+#lem: u; kaš[runner]; ŋen[go]
+
+19. 	gú mu-un-dù-a-ak-ke₄-⸢eš⸣ lú-kíŋ-gi₄-⸢a-ŋu₁₀⸣ nu-x-x
+#lem: gu[neck]; du[build]; kiŋgia[messenger]; u
+
+## lú kíŋ -> lú-kíŋ
+## -mu -> ŋu₁₀
+20. 	x x lugal x di-ne ŋá-e ù-x-du-x
+#lem: u; u; lugal[king]; u; x; ŋa'e[I]; u
+
+## gá -> ŋá
+21. 	x x-bi mu-un-gul NIR-⸢da⸣ bí-íb-⸢íl-e⸣
+#lem: u; u; gul[destroy]; šerda[crime]; il[raise]
+
+22. 	⸢ù⸣ éren-bi-šè íb-⸢zi⸣-zi
+#lem: u[and]; erin[people]; zig[rise]
+
+23. 	NIR-da-bi NIR-da lugal-⸢ŋu₁₀⸣ ba-e-⸢dugud⸣
+#lem: šerda[crime]; šerda[crime]; lugal[king]; dugud[heavy]
+
+24. 	lú mìn-kam-ma šu-ni-ta ha-ba-ab-lá-e
+#lem: lu[person]; min[two]; šu[hand]; la[hang]
+
+25. 	⸢NIR⸣-da ⸢šu⸣-ni-ta ⸢bí-íb⸣-ŋar
+#lem: šerda[crime]; šu[hand]; ŋar[place]
+
+26. 	[níŋ?] ⸢lugal-mu⸣ ab-bé ga-mu-na-ab-⸢dù?⸣
+#lem: niŋ[thing]; lugal[king]; e[speak]; du[build]
+
+27. 	[luga]l-ŋu₁₀ hé-en-zu
+#lem: lugal[king]; zu[know]
+
+28. 	[u₄?]-⸢bi-ta⸣ lugal-⸢ŋu₁₀?⸣ inim-ma nam-⸢ba⸣-ab-šub-bé-en
+#lem: ud[sun]; lugal[king]; inim[word]; šub[fall]
+
+29. 	[in]im ⸢lugal⸣-ŋu₁₀ ba-ra-ab-⸢bal⸣-e 
+#lem: inim[word]; lugal[king]; bala[turn]
+
+$ (Colophon D)
+@translation labeled en project
+@(1) Speak to my king, @lab{2}saying (the words) of Aradmu, your servant:
+
+@(3) When my king dispatched me to ... the task, @lab{4}once I approached those troops, @lab{5}the generals, lieutenants, and captains of my king’s far-flung troops @lab{6}inquired about the health of my king; @lab{7}and shouted out ‘Long Live the King!’” @lab{8}When I was close to the work(-site), @lab{9}after I inspected the work that my king had sent me to, @lab{10}the one guilty of a capital offence was handed over for execution, @lab{11}the sentenced had to bear their punishment. @lab{12}The one who doubled his work-(load) was very well paid, @lab{13}his wages were paid out in silver for each day. 
+
+@(14) Abaindasa, the captain of the royal armed forces, @lab{15}who had been returned to the ranks by my king, @lab{16}abandoned the task (assigned by) my king and rushed to work building fortifications. @lab{17}My king, because the orders were not being ... @lab{18}Šulgi-x dispatched? a messenger, ...@lab{19}but because he rebelled ... but could not send my messenger @lab{20}... @lab{21}He destroyed/broke ... and had to bear punishment @lab{22}and was ousted from that troop. @lab{23}That crime was a very serious crime against my king! @lab{24}After he was entrusted to a second man @lab{25}(that man) carried out the punishment. 
+
+@(26) Whatever my king orders me, I will do. @lab{27}My king should know (about all this). @lab{28}From this very [day] on, I will never neglect my king’s orders! @lab{29}My kings [orders?] must never be transgressed!
+
+
+&Q000544 = 9. Aradmu to Šulgi 5 (ArŠ5, 3.1.6, RCU 6)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+# Tablet: Type III.
+# Bibliography: Editions: C. Wilcke, @i{WO} 5 (1969–1970) 2–3, B. Sullivan, @i{Sumerian and Akkadian Sentence Structure}, 153–55.
+@h1 Si1 = CBS 346 (@i{PBS} 10/4 8) 	1–14
+@m=obverse
+1.	[lugal-ŋu₁₀-ra] ù-ne-[dug₄]
+#lem: lugal[king]; dug[speak]
+
+2.	⸢{m}árad-mu árad-zu na-ab-bé⸣-[a]
+#lem: Aradŋu[1]; arad[slave]; e[speak]
+
+3.	lugal-ŋu₁₀ inim-zu inim an-na níŋ nu-kúr-[ru-dam]
+#lem: lugal[king]; inim[word]; inim[word]; An[1]; niŋ[thing]; kur[different]
+
+# == %akk <...> a-wa-at-ka a-wa-at a-nim ša ⸢la⸣ [ut-ta-ka-ru]
+4.	nam-tar-ra-zu diŋir-gin₇ šu-zu ŋar-⸢ra⸣-[(àm)]
+#lem: nam tar[decree fate]; diŋir[deity]; šu[hand]; ŋar[place]
+
+## dingir -> diŋir
+
+# == %akk ⸢ši⸣-ma-tu-ka ki-ma DINGIR šu-ut-lu-ma-[ni-kum]
+5.	bàd lugal-ŋu₁₀ šu mu-un-gi₄ kíŋ-bi ⸢ki?⸣-b[i-šè im-ma]-ŋar
+#lem: bad[wall]; lugal[king]; šu[hand]; gi[turn]; kiŋ[work]; ki[place]; ŋar[place]
+
+# == %akk <...> ⸢ša⸣ be-lí ú-ša-lim-x ši-pí-ir-šu ⸢a?⸣-[na aš-ri-šu aš]-ku-un
+6.	ŋìri lú kúr-e {ka}kalam-šè ba-⸢bad⸣-[(re₆)]
+#lem: ŋiri[foot]; lu[person]; kur[different]; kalam[land]; bad[open]
+
+# == %akk še-ep na-ak-ri a-⸢na⸣ ma-tim pa-ar-⸢sa-at⸣
+7.	⸢mu⸣ mah lugal-ŋu₁₀ ⸢sig⸣ igi-⸢nim⸣-ma
+#lem: mu[name]; mah[great]; lugal[king]; sig[weak]; iginim[land]
+
+# == %akk šu-ma-am ṣi-rum ša be-lí-ia ⸢iš-tu⸣ ma-tim e-li-⸢tim⸣ a-na <...>
+8.	{d}utu-è-ta u₄-šú-uš zag-šè kalam til-la-a mi-ni-in-túm-⸢túm⸣-mu
+#lem: utu'e[sunrise]; udšuš[daily]; zag[side]; kalam[land]; til[complete]; de[bring]
+
+# == %akk ⸢iš⸣-tu <...> a-na <...> a-na pa-ṭe₄ ⸢gi⸣-mi-ir-ti ma-tim i-tam-mi-⸢ra⸣
+9.	amurrum gú-érim bí-in-ŋar ní-bi ⸢im-ma⸣-x-x [...] 
+#lem: Amurrum[1]; gu'erim[hostile]; ŋar[place]; ni[self]; u; u
+
+# == %akk	ki-ša-tum šu? ú-x-al na-ak?-[ri ...]
+10.	{m}kur-gam-ma-bi ⸢{d}šul⸣-gi-ra túm-⸢mu?⸣ x [...] x ($eras$) har-ra-an-kalag igi hur-⸢saŋ⸣-[ŋá-ka ...]  
+#lem: Kurgamabi[1]; Šulgir[1]; tum[bring]; u; u; u; harrankalag[stronghold]; igi[eye]; hursaŋ[mountain]; u
+
+# == %akk	ku-un-ši-ma-tum a-⸢na⸣ <...> [...] a-na ḫal-ṣí ša pa-⸢ni⸣ [ša-di-i ...]
+11.	⸢ù⸣ a-ba-àm-da-⸢sá⸣ [...]
+#lem: u[and]; sa[equal]; u
+
+# == %akk	<...>
+12.	⸢im-sar-re lugal-ŋu₁₀⸣ [...]
+#lem: sar[run]; lugal[king]; u
+
+# == %akk	⸢ṭup⸣-pí x ($eras.$) be-lí-⸢ia⸣ [...]
+13.	níŋ lugal-ŋu₁₀ ab-[bé-na-(ŋu₁₀ ga-ab-ak)]
+#lem: niŋ[thing]; lugal[king]; e[speak]; ak[do]
+
+# == %akk	⸢ša⸣ be-lí [i-qa-bu-ú (lu-pu-uš)]
+14.	[lugal]-⸢ŋu₁₀⸣ [hé-en-zu]
+#lem: lugal[king]; zu[know]
+
+@translation labeled en project
+@(1) Speak to my king, @lab{2}saying (the words) of Aradmu, your servant:
+
+@(3) My king, your pronouncements are as the pronouncements of An, which cannot be changed. @lab{4}Your destiny has been bestowed to you as to a god! @lab{5}And as for the fortifications that my king commissioned me to finish, I have restored the work to its previous condition. @lab{6}(As a result) the enemy’s access to the frontier territory has been blocked. @lab{7–8}My king’s name supreme illuminates (everything) from North to South, from East to West, to the borders of the entire homeland. @lab{9}The enemy Amorites.... @lab{10}Kurgamabi (Akk.: Kunši-matum) to Šulgi ... the fortress Igihursaŋa ... @lab{11}And Abaindasa ...
+
+@(12) The tablet(s) that my king ... @lab{13}Whatever you, my king or[der me to do, (I will do)].
+
+@(14) Now my king [is informed] (about all of this)! 
+
+
+&Q000542 = 10. Aradmu to Šulgi 6 (ArŠ6, 3.1.4, RCU 5)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+# Tablet: Type III.
+# Not collated. P. Steinkeller and J. Black both tried to collate the original but the tablet could not be located in Baghdad.
+# Bibliography: Edition: J. J. van Dijk, @i{Sumer} 15 (1959) 10–12.
+@h1 X1 = IM 13712 (@i{Sumer} 15 [1959] pl. 6; @i{TIM} 9 39)
+@m=obverse
+1.	⸢lugal⸣-ŋu₁₀-ra ù-na-a-dug₄
+#lem: lugal[king]; dug[speak]
+
+2.	[{m}árad-m]u árad-zu ⸢na⸣-ab-bé-a
+#lem: Aradŋu[1]; arad[slave]; e[speak]
+
+3.	[lugal]-⸢ŋu₁₀⸣ ma-da daŋal-la ⸢nam-en-na⸣-aš mu-ra-an-šúm-ma-a
+#lem: lugal[king]; mada[land]; daŋal[wide]; namen[priesthood]; šum[give]
+
+## dagal -> daŋal
+4.	[g]ù-téš-a sì-ke ⸢dím-ma⸣-bi aša-⸢àm⸣
+#lem: guteš[agreement]; sig[put]; dimma[thought]; aš[one]
+
+5.	[u]n ú-gin₇ lu-lu {d}šul-gi-ra sipa ⸢níŋ?-gi⸣-na-bi
+#lem: gun[load]; u[grass]; lu[abundant]; Šulgir[1]; sipad[shepherd]; niŋgina[truth]
+
+6.	[na]m-lú-ùlu sig ⸢igi-nim-ma⸣ diŋir-bi za-e-⸢me-en⸣
+#lem: namlulu[humanity]; sig[weak]; iginim[land]; diŋir[deity]; za'e[you]
+
+7.	⸢igi?⸣-bi ⸢ma-ra-ši-ŋál⸣
+#lem: igi[eye]; ŋal[be]
+
+8.	[u]n daŋal-la ú-gin₇ lu-lu ⸢a⸣ mah {íd}idigna {íd}buranun-na-ta
+#lem: gun[load]; daŋal[wide]; u[grass]; lu[abundant]; a[water]; mah[great]; Idigna[1]; Buranun[1]
+
+9.	[...]-x# {íd}idigna-⸢šè⸣ ⸢lugal⸣-ŋu₁₀ sá ma-ab-dug₄-ga
+#lem: u; Idigna[1]; lugal[king]; sa[equal]; dug[speak]
+
+## du₁₁ -> dug₄
+10.	[...]-x# ⸢íb⸣-zi-zi
+#lem: u; zig[rise]
+
+11.	[... b]a?-⸢da⸣-an-ŋar
+#lem: u; ŋar[place]
+
+12.	[...]-x#-ak-en
+#lem: u
+
+13.	[...]-⸢kal-la⸣-bi
+#lem: kal[rare]
+
+14.	[...]-x# x bí-si 
+#lem: u; u; si[fill]
+
+$ (Rest of obverse broken)
+@m=reverse
+1’.	[...]-x#
+#lem: u
+
+2’.	[...]-⸢an-tuk⸣-a
+#lem: u
+
+3’.	[...]-x#-me-en
+#lem: u
+
+4’.	[...]-x# x x
+#lem: u; u; u
+
+5’.	[...] ⸢dumu? ma-da⸣ gu-⸢tu-ú⸣-um{ki}
+#lem: u; dumu[child]; mada[land]; Gutium[1]
+
+6’.	[...]-x# ⸢ma/má?⸣-rí{ki} ù ra-pí-qum{ki}
+#lem: u; Mari[1]; u[and]; Rapiqum[1]
+
+7’.	[x?] x tuk-tuku-ne igi-ŋá ì-ŋál
+#lem: u; u; tuku[acquire]; igi[eye]; ŋal[be]
+
+8’.	níŋ lugal-ŋu₁₀ ab-bé-na ga-ab-ak
+#lem: niŋ[thing]; lugal[king]; e[speak]; ak[do]
+
+@translation labeled en project
+@(1) Speak to my king, @lab{2}saying (the words) of Aradmu, your servant:
+
+@(3) Your Majesty, the far-flung territories that have been given to you to rule—@lab{4}they are obedient, and of one mind. @lab{5–6}You are the rightful shepherd of Šulgi’s people, numerous as blades of grass, @lab{6}the god of mortals/the population, of the lower and the upper (lands), @lab{7}@i{they look to you (with reverence)} ! @lab{8}The far-flung peoples, numerous as blades of grass, from the mighty waters of the Tigris and Euphrates,{-9 }... of the Tigris, that my lord has @i{entrusted to me}, ...
+
+@(5’) ... citizens? of the land of Gutium, @lab{6’}... Mari? and Rapiqum, @lab{7’}who have ... are before me. @lab{8}Whatever you, my king, order me to do, I will do.
+
+
+&Q000550 = 11. Ur-dun to Šulgi 1 (UdŠ1, 3.1.11.1, 14)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+# Tablet: Type III.
+# Bibliography: Translation: H. Neumann, @i{TUAT} nf 3 (2006) 17–19.
+@h1 X1 = YBC 5011 = 1–20
+1. 	lugal-ŋu₁₀-ra ù-na-a-⸢dug₄⸣
+#lem: lugal[king]; dug[speak]
+
+2. 	ur-dun dam-gàr árad-zu na-ab-bé-a
+#lem: UrDUN[1]; damgar[merchant]; arad[slave]; e[speak]
+
+3. 	kù lugal-ŋu₁₀ mu-e-ne-šúm-ma
+#lem: kug[metal]; lugal[king]; šum[give]
+
+4. 	kur sù-rá-šè šim {ŋiš}erin-na
+#lem: kur[mountain]; sud[distant]; šim[aromatics]; eren[cedar]
+
+5. 	sa₁₀-sa₁₀-dè mu-e-ši-gi-na
+#lem: sa[pay for]; gi[turn]
+
+6. 	u₄ kur-šè <<BI>> ku₄-re-na-ŋu₁₀
+#lem: ud[sun]; kur[mountain]; kur[enter]
+
+7. 	šim {ŋiš}erin-na bí-sa₁₀-sa₁₀-ŋu₁₀
+#lem: šim[aromatics]; eren[cedar]; sa[pay for]
+
+8. 	{m}a-pi-la-ša gal-zu-unken-na ma-an-gi-ma
+#lem: Apillaša[1]; galzu'unkenak[official]; gi[turn]
+
+9. 	šám-ŋu₁₀ mu-da-an-kar-re-eš
+#lem: sam[price]; kar[flee]
+
+10. 	ká é-gal-la-ni ù-um-gub
+#lem: kan[gate]; egal[palace]; gub[stand]
+
+11. 	lú na-me ka-ŋu₁₀ èn nu-bi-tar
+#lem: lu[person]; name[any]; kag[mouth]; en[cvne]; tar[cut]
+
+12. 	{m}arad-mu arad-zu ù ba₄-ba₄-ti pisaŋ-dub-⸢ba⸣
+#lem: Aradŋu[1]; arad[slave]; u[and]; Babati[1]; bisaŋdubak[archivist]
+
+13. 	zi-mu-dar{ki}-ra-ta si-mu-ur₄-⸢ru⸣-um{ki}-šè 
+#lem: Zimudar[1]; Simurrum[1]
+
+14. 	ì^1^-re-eš-ma
+#lem: ŋen[go]
+
+#note: ^1^  Followed by an erasure.
+15. 	[(x) i]n-ne-zu-⸢ma⸣
+#lem: u; zu[know]
+
+16. 	[lú-kí]ŋ-gi₄-a-ne-ne in-⸢ši-gi?/gi₄?⸣ [...]
+#lem: kiŋgia[messenger]; gi[turn]; u
+
+17. 	[(x)]-x# lugal-ŋá ba-e-ni-x#-[...]
+#lem: u; lugal[king]; u
+
+18. 	⸢usu⸣ nu-tuku á-dar-re-bi nu-mu-⸢da-ŋar?⸣
+#lem: usu[strength]; tuku[acquire]; a dar[confiscate]; ŋar[place]
+
+19. 	dug₄-ga lugal mu-ra-an-šúm
+#lem: dug[speak]; lugal[king]; šum[give]
+
+## du₁₁-ga -> dug₄-ga
+20. 	níŋ lugal-ŋu₁₀ ab-bé-na-ŋu₁₀
+#lem: niŋ[thing]; lugal[king]; e[speak]
+
+$ (Colophon F)
+@translation labeled en project
+@(1) Speak to my king, @lab{2}saying (the words) of Ur-dun, commercial agent, your servant: 
+
+@(3) My king gave me capital @lab{4–5}and dispatched me to a distant foreign land to purchase juniper resin. @lab{6}But once I had entered the foreign land @lab{7}and purchased the resin, @lab{8}Apilaša, the royal commissioner, was very firm with me, and @lab{9}they appropriated my purchases. @lab{10}When I stood at the gate of his (local) palace, @lab{11}no one wanted to investigate my complaint.
+
+@(12) And as for Aradmu, your servant, and Babati, the high commissioner, @lab{14}they had gone @lab{13}from Zimudar to Simurum, @lab{15}@i{and to inform them}..., @lab{16}[they have sent] their messengers. @lab{17}My king-.... @lab{18}This confiscation cannot be undone without using force. @lab{19}O king, (my messenger) has given you my accounting (of the matter). @lab{20}Whatever you, my king, order me to do, (I will do).
+
+
+&Q003408 = 12. Aradmu? to Šulgi 7 (ArŠ7)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+# Tablet: Type III.
+# Text Transliteration
+@h1 Ur1 = @i{UET} 6/3 561 (*187) obv.; rev. 1’–19’	=1–20
+1.	[lugal-ŋu₁₀-ra ù-na-(a)-dug₄]
+#lem: lugal[king]; dug[speak]
+
+2.	[{m}árad-mu árad-zu na-ab-bé-a]
+#lem: Aradŋu[1]; arad[slave]; e[speak]
+
+3.	[...]
+#lem: u
+
+4.	[...]
+#lem: u
+
+5. 	[x] ($blank space$) è-[x] x x 
+#lem: u; e[leave]; u; u
+
+6. 	[x x x] x gi gíd? u₄-da-gin₇ ur₅? an gal-ta ⸢an⸣-pa-šè e₁₁-[(x)]
+#lem: u; u; u; u; gal[big]; gid[drag]; ud[sun]; ur[he]; an[sky]; gal[big]; ed[ascend]; u
+
+7. 	[x x] árad é lugal-ŋu₁₀ ba-UD-da x-lu
+#lem: u; u; arad[slave]; e[house]; lugal[king]; UD[(meaning unknown)]; u
+
+8. 	[mu ur-d]un dam-gàr-ra-ke₄-eš ⸢níŋ lugal⸣-⸢ŋu₁₀⸣ ma-an-gi₄
+#lem: mu[name]; UrDUN[1]; damgar[merchant]; niŋ[thing]; lugal[king]; gi[turn]
+
+9. 	[ur-d]un árad-zu-gin₇ á-áŋ-ŋá ⸢ì?-áŋ⸣-ŋá lugal-ŋu₁₀ ì-zu 
+#lem: UrDUN[1]; arad[slave]; a'aŋa[assignment]; aŋ[measure]; lugal[king]; zu[know]
+
+10. 	[x x]-x# ur-dun nu-du₁₀-ga-ni-ta mu^1^-ta-ni-tehi
+#lem: u; u; UrDUN[1]; dug[good]; tehi[approach]
+
+#note: ^1^  There are additional wedges after mu; either the scribe had problems with the sign or tried to write du₁₀.
+11. 	[x] x-ŋá-ni lul sì-sì-ke bí-⸢in⸣-šúm
+#lem: u; u; lul[false]; sig[put]; šum[give]
+
+12. 	[lugal-ŋ]u₁₀ bar-ŋá èn hé-⸢bí⸣-in-tar níŋ šà-⸢ga⸣-na ha-ma-an-ak?
+#lem: lugal[king]; bar[outside]; en[cvne]; tar[cut]; niŋ[thing]; šag[heart]; ak[do]
+
+## níŋ-šà -> níŋ šà
+13. 	[(x) x]-x#-ŋu₁₀ a-gin₇ me-er-⸢ga⸣ gi₄-bi nu-⸢du₁₀-ga-bi?⸣ mu-ra-an-dug₄ lugal-ŋu₁₀ ì-⸢zu⸣
+#lem: u; u; agin[thus]; merga[first]; gi[turn]; dug[good]; dug[speak]; lugal[king]; zu[know]
+
+14. 	[x x z]i-ta ur-dun dam-gàr-ra ⸢ur₅⸣-gin₇ ka bal-bal-e
+#lem: u; u; zid[right]; UrDUN[1]; damgar[merchant]; ur[he]; kag[mouth]; bala[turn]
+
+15. 	[x x]-x#{⸢ki⸣}-šè zag-bi-ta na₄-⸢nir₇-babbar₂⸣-dili na₄-duh-ši-a ⸢na₄⸣-za-gìn-na na₄-⸢gug⸣ bar-bi sá-a 
+#lem: u; u; zag[side]; babbardili[stone]; dušia[stone]; zagin[lapis]; gug[carnelian]; bar[outside]; sa[equal]
+
+16. 	[x x]-x# na₄-nir₇!(|<ZA>.MIR|) x ⸢na₄-gug/nir₇?⸣ zú-lum dili GAM-GAM NUN-KÁR kù-zu x x-bi-a DUB-DUB-me-eš
+#lem: u; u; nir[stone]; u; gug[carnelian]; zulum[date]; dili[single]; GAM.GAM[~aromatics]; x; kug[pure]; u; u; x
+
+17. 	[x x]-x# ŋál-ta ⸢na₄⸣ [x] ⸢na₄⸣ eme₅ gal kár-kár GIŠ? dili-àm x du₁₀-du₁₀-⸢ge šu?⸣-x-àm
+#lem: u; u; ŋal[be]; na[stone]; u; na[stone]; eme[donkey]; gal[big]; kar[blow]; GIŠ[unmng]; dili[single]; u; dug[good]; u
+
+18. 	[x x]-x#-la-mu ⸢kíŋ⸣-bi in-ne-lá
+#lem: u; u; kiŋ[work]; la[hang]
+
+19. 	[x x]-x#-àm ⸢ur⸣-dun ⸢šu in-ne-zi-zi-dè⸣ [...]
+#lem: u; u; UrDUN[1]; šu[hand]; zig[rise]; u
+
+20. 	($traces$)
+$ rest of tablet broken
+@translation labeled en project
+@(1) [Speak to my king: @lab{2}saying (the words of) Aradmu, your servant:]
+
+@(3 - 4) [... @lab{5}...] @lab{6}... like the day/sun, coming out from the great above to the zenith, @lab{7}... servant who ... my master’s estate, ...
+
+@(8) Concerning the matter of the merchant Ur-dun, that my master dispatched me about, @lab{9}Ur-dun, as your servant, @i{was given} instructions; but you, my master, know (this). @lab{10}But Ur-dun approached ... in deceit. @lab{11}(and) his ... were full of lies. @lab{12}May my master inquire about my wellbeing, ... @lab{13}Why did my ... speak deceitfully to you not once but twice? But you, my master know (this). @lab{14}By means of ..., addressing the merchant Ur-dun in the following terms: @lab{15}“To the city [of x], from its border ... @i{pappardillu}, chlorite, lapis, carnelian ...” @lab{16–20}(untranslatable)
+
+
+&Q000546 = 13. Puzur-Šulgi to Šulgi 1 (PuŠ1, 3.1.7, RCU 11)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+1. 	lugal-ŋu₁₀-ra ù-na-a-dug₄ 
+#lem: lugal[king]; dug[speak]
+
+2. 	{m}puzur₄-{d}šul-gi šakkana bàd igi-hur-saŋ-ŋá
+#lem: Puzuršulgi[1]; šakkanak[general]; bad[wall]; Igihursaŋa[1]
+
+## bàd-igi -> bàd igi
+3. 	árad-zu na-ab-bé-a
+#lem: arad[slave]; e[speak]
+
+4. 	lugal-ŋu₁₀ kù-sig₁₇ {na₄}za-gìn diŋir-re-e-ne-ka in-ne-en-dím-dím-ma
+#lem: lugal[king]; kugsig[gold]; zagin[lapis]; diŋir[deity]; dim[create]
+
+5. 	zi-ni-šè-àm in-nu-ù
+#lem: zi[life]; me[be]
+
+6. 	lugal-ŋu₁₀ zi ugnim ù kalam-ma-ni-šè
+#lem: lugal[king]; zi[life]; ugnim[army]; u[and]; kalam[land]
+
+7. 	bàd gal igi-hur-saŋ-ŋá mu lú kúr hul-ŋál
+#lem: bad[wall]; gal[big]; Igihursaŋa[1]; mu[name]; lu[person]; kur[different]; huluŋal[evil]
+
+8. 	un kalam-ma-ni-šè mu-un-dù
+#lem: gun[load]; kalam[land]; du[build]
+
+9. 	ugnim im-ma-zi
+#lem: ugnim[army]; zig[rise]
+
+10. 	diš-àm lú igi-ŋá záh-bi i-im-túm-ma 
+#lem: diš[one]; lu[person]; igi[eye]; zah[disappear]; de[bring]
+
+11. 	dib-dib-bé inim ma-an-dug₄-ma igi-šè ba-gin
+#lem: dib[pass]; inim[word]; dug[speak]; igi[eye]; ŋen[go]
+
+12. 	ŋiškim lú kúr-ra ŋá-e ì-zu
+#lem: ŋeškim[sign]; lu[person]; kur[different]; ŋa'e[I]; zu[know]
+
+13. 	lú kúr im-ma-til usu-ŋu₁₀ ì-tur
+#lem: lu[person]; kur[different]; til[complete]; usu[strength]; tur[small]
+
+14. 	bàd nu-mu-un-da-kal-la-ge en-nu-ùŋ nu-mu-da-ak-e
+#lem: bad[wall]; kalag[strong]; ennuŋ[imprisonment]; ak[do]
+
+15. 	nam {m}puzur₄-{d}nu-muš-da énsi ul₄-lum-TUR-RA{ki}
+#lem: nam[fate]; Puzurnumušda[1]; ensik[ruler]; UllumTUR.RA[1]
+
+16. 	ninnu nindan uš saŋ ba-ab-gíd murub₄-ba im-ma-an-ri
+#lem: ninnu[fifty]; nindan[pole]; uš[foundation]; saŋ[head]; gid[long]; murub[middle]; ri[impose]
+
+17. 	nam {m}lugal-me-lám šabra {íd}šeg₅-šeg₅
+#lem: nam[fate]; Lugalmelem[1]; šabra[administrator]; Šegšeg[1]
+
+18. 	iá nindan uš-ni ha-ni-dar-dar 
+#lem: ya[five]; nindan[pole]; uš[foundation]; dar[split]
+
+19. 	nam {m}ka-kù-ga-ni énsi ma-da murub₄{ki}
+#lem: nam[fate]; KAkugani[1]; ensik[ruler]; mada[land]; murub[middle]
+
+20. 	35 nindan uš gaba dúr-bi ba-gul-gul 
+#lem: n; nindan[pole]; uš[foundation]; gaba[chest]; dur[buttocks]; gul[destroy]
+
+21. 	nam {m}ta-ki-il-ì-lí-šu kù-ŋál {íd}áb-gal ù {íd}me-{d}en-líl-lá
+#lem: nam[fate]; Takililišu[1]; gugal[inspector]; Abgal[1]; u[and]; Me'enlila[1]
+
+22. 	nimin nindan uš-ni gúr ugu-bi-šè nu-ub-ŋar
+#lem: nimin[forty]; nindan[pole]; uš[foundation]; gur[circle]; ugu[skull]; ŋar[place]
+
+23. 	u₄ lú kúr im-ku-nu-a ugu-bi-šè ù-nu-ub-zu
+#lem: ud[sun]; lu[person]; kur[different]; kunu[approach]; ugu[skull]; zu[know]
+
+24. 	lú kúr mè-šè usu-ni im-til
+#lem: lu[person]; kur[different]; me[battle]; usu[strength]; til[complete]
+
+25. 	ugnim-bi šà hur-saŋ-ŋá-ka íb-tuš
+#lem: ugnim[army]; šag[heart]; hursaŋ[mountain]; tuš[sit]
+
+26. 	tukum-bi lugal-ŋá an-na-kam
+#lem: tukumbi[if]; lugal[king]; anna[approval]
+
+27. 	7200 éren lú kíŋ-ak-ne ha-ma-ab-íl-e ul₄-la-bi hu-mu-ši-gi₄-gi₄
+#lem: n; erin[people]; lu[person]; kiŋak[working]; il[raise]; ul[hasten]; gi[turn]
+
+28. 	70 àga-ús lú su-da-lu-nu-tum{ki}-a
+#lem: n; aga'us[soldier]; lu[person]; Sudalunutum[1]
+
+29. 	ugu-ŋu₁₀-šè hé-em-su₈-bé-eš 
+#lem: ugu[skull]; sub[go]
+
+30. 	dím-ma-ŋu₁₀ hé-dab₅ ki-tuš-bi ga-ba-da-an-kúr
+#lem: dimma[thought]; dab[seize]; kituš[dwelling]; kur[different]
+
+31. 	hé-zu ŋi₆-ta u₄ ul-lí-a-šè nam-tag-ni dugud
+#lem: zu[know]; ŋi[night]; ud[sun]; ullia[those]; namtaga[sin]; dugud[heavy]
+
+32. 	árad {d}šul-gi lugal gi-na me-en^1^
+#lem: arad[slave]; Šulgir[1]; lugal[king]; gin[establish]; me[be]
+
+#note: ^1^  32a (N4 only): [ù-na]-a-dug₄-ŋu₁₀ ⸢níŋ-gú-šub⸣-bu-bi in-nu-ù.
+33. 	nam-mu-da-til-en 
+#lem: til[complete]
+
+34. 	lugal-ŋu₁₀ hé-en-zu^2^
+#lem: lugal[king]; zu[know]
+
+#note: ^2^  34a (N4 only): ⸢a⸣-ma-ru-k[am].
+@translation labeled en project
+@(1) Speak to my king, @lab{2}saying (the words) of Puzur-Šulgi,^3^ general of Bad-Igihursaŋa, your servant:
+
+#note: ^3^  Var.: Puzur-Numušda, Puzur-Marduk.
+
+@(4 = 5) Is it not for the sake of his own well-being @lab{4}that my king fashions (objects) of silver and gold for the gods? @lab{6}My king, for the well-being of the army and of his homeland, @lab{7 - 8}has built the great fortifications of Igihursaŋa for the sake of the vile enemy and of the people of his homeland. 
+
+@(9) But now the (enemy?) troops have mustered (for battle). @lab{10}A certain individual who was brought before me as a deserter @lab{11}gave me some information as he was passing (through) and then went back out (again). @lab{12}Now I really know the enemy’s passwords! 
+
+@(13) The enemy has concentrated (all) his forces for battle but my forces are insufficient (to keep them off). @lab{14}It is impossible to strengthen the fortifications against him, nor (properly) guard it. @lab{15}In the sector under the responsibility of Puzur-Numušda,^4^ governor of Ullum-ṣeḫrum, @lab{16}a 300 m. section @i{had sagged} and collapsed in the middle; @lab{17}in the sector under the responsibility of Lugal-melam, the overseer of the Šeššektum canal, @lab{18}30 m. of his section can be breached; @lab{19}in the sector under the responsibility of Kakugani,^5^ governor of the inland territory, @lab{20}a 210 m. section, its face and based are badly damaged, @lab{21}(and) in the part under the responsibility of Takil-ilišu, canal inspector of the Abgal and Me-Enlila waterways, @lab{22}240 m. of his section @i{does not have its perimeter laid out yet}. @lab{23}Although I cannot know ahead of time when the enemy will advance against (the fortifications), @lab{24}(it is evident) that the enemy has concentrated (all) his forces for battle, @lab{25}and his troops are encamped in the mountain valleys. 
+
+#note: ^4^  Var.: Šu-Marduk, Šu-Nunu, Šu-Numušda.
+
+#note: ^5^  Var.: Šu-Numušda.
+
+@(26) If my king is agreeable, @lab{27}he will raise for me a very large contingent (viz. 7200) of workers and send them here immediately. @lab{-28 - 29}Seventy @i{Sudalunutum} troopers should also come here to me. @lab{-30}I am resolved, and so I shall dislodge them (i.e., the enemy), @lab{31}so let this be known, for his (the enemy’s) sins have been grievous from (primeval) night to the end of days! @lab{32}(Be assured), I am the true servant of my lord Šulgi,^6^ @lab{33}and I will definitely finish (this work)! @lab{34}Now my king is informed (about all of this)!^7^
+
+#note: ^6^  One text adds: @lab{32a}My letter, it will not be neglected, will it?
+
+#note: ^7^  One text adds: @lab{34a}It is urgent!
+
+
+&Q003409 = 14a. Šulgi to Puzur-Šulgi OB 1a (ŠPuOB1a, 3.1.08)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1. 
+:X1: {m}⸢puzur₄-šul-gi⸣ šak[kana bàd igi-hur-saŋ-ŋá-ra]	($1$)
+#lem: Puzuršulgi[1]; šakkanak[general]; bad[wall]; Igihursaŋa[1]
+
+2. 
+:X1: ù-⸢na-a⸣-[dug₄]	($1$)
+#lem: dug[speak]
+
+3. 
+:X1: {d}⸢šul-gi lugal⸣-zu na-ab-⸢bé⸣-[a]	($2$)
+#lem: Šulgir[1]; lugal[king]; e[speak]
+
+4. 
+:X1: ⸢u₄ bàd igi⸣-hur-⸢saŋ⸣-ŋá mu-dù-⸢a⸣	($3$)
+#lem: ud[sun]; bad[wall]; Igihursaŋa[1]; du[build]
+
+5. 
+:X1: kur-⸢kur⸣ ⸢ùŋ⸣ daŋal-la an-né {d}en-líl-⸢le⸣	($4$)
+#lem: kur[mountain]; uŋ[people]; daŋal[wide]; An[1]; Enlil[1]
+
+6. 
+:X1: nam-en-⸢na-bi ma-an-šúm-mu-uš⸣	($5$)
+#lem: namen[priesthood]; šum[give]
+
+7. 
+:X1: ŋá-e x#-[...] x x x x [...]
+#lem: ŋa'e[I]; u; u; u; u; u; u
+
+8. 
+:X1: uru!? ka[lam?-ma? ma]-da? ma?-[da-bi]	($6$)
+#lem: iri[city]; kalam[land]; mada[land]; mada[land]
+
+9. 
+:X1: ⸢un kalam daŋal-la⸣ [ú sal-la ì]-n[ú]	($7$)
+#lem: gun[load]; kalam[land]; daŋal[wide]; u[and]; sal[thin]; nud[lie]
+
+10. 
+:X1: ⸢ki níŋ daŋal-bi-a ki-tuš ne?-ha?⸣ [mu-un-tuš?]	($8$)
+#lem: ki[place]; niŋ[thing]; daŋal[wide]; kituš[dwelling]; neha[calm]; tuš[sit]
+
+11. 
+:X1: ⸢ki-tuš⸣ ($traces$)
+#lem: kituš[dwelling]
+
+12. 
+:X1: ⸢énsi? šabra⸣ l[ú?-bi hé-eb-túm]^1^	 ($23?$)
+#lem: ensik[ruler]; šabra[administrator]; lu[person]; tum[bring]
+
+13. 
+:X2: uru-uru-bi ha-ra-⸢ab⸣-zi-zi-ne	($23$)
+#lem: iri[city]; zig[rise]
+
+14. 
+:X2: lú saŋ kíŋ-bi hé-⸢en⸣-dab₅	($24$)
+#lem: lu[person]; saŋ[head]; kiŋ[work]; dab[seize]
+
+15.
+:X2: ki bàd šub-ba ki-bi-šè ⸢hu⸣-mu-un-ŋar	($25$)
+#lem: ki[place]; bad[wall]; šub[fall]; ki[place]; ŋar[place]
+
+16.
+:X2: hé-en-dag ù hé-⸢en⸣-dù	($26$)
+#lem: dag[demolish]; u[and]; du[build]
+
+17.
+:X2: ⸢šà⸣ iti diš-kam á šub-ba ⸢ha-ba⸣-til	($27$)
+#lem: šag[heart]; itud[moon]; diš[one]; a[arm]; šub[fall]; til[complete]
+
+18.
+:X2: kíŋ-⸢bi⸣-šè èn mu-na-⸢tar⸣-re-⸢en⸣	($28$)
+#lem: kiŋ[work]; en[cvne]; tar[cut]
+
+19.
+:X2: ⸢a-da-lam⸣-ma tidnum(|PIRIG.PIRIG|)-e kur-bi-ta ⸢ma-ra⸣-an-⸢gur?⸣
+#lem: adal[exclamation]; Tidnum[1]; kur[mountain]; gur[turn]
+
+20.
+:X2: {m}⸢lú⸣-{d}⸢nanna⸣ énsi ma-da zi-mu-dar-⸢ra⸣{ki}-⸢ke₄⸣	($29$)
+#lem: Lunanna[1]; ensik[ruler]; mada[land]; Zimudar[1]
+
+21.
+:X2: é[ren-na-n]i-ta im-mu-⸢e⸣-ši-⸢ri⸣	($30$)
+#lem: erin[people]; ri[impose]
+
+22.
+:X2: [ninda kaskal-l]a-ni-ta mu-ra-⸢ŋál⸣	($31$)
+#lem: ninda[bread]; kaskal[way]; ŋal[be]
+
+23.
+:X2: [níŋ-á-tak]a₄ ba-ra-⸢na-ŋál⸣ 	($32$)
+#lem: niŋataka[(meaning unknown)]; ŋal[be]
+
+24.
+:X2: [u₄?] ⸢bàd?-bi?⸣ x [...] x x [...] ⸢DU?⸣ 	($33?$)
+#lem: ud[sun]; bad[wall]; u; u; u; u; u; x
+
+1’.
+:X1: ($traces$)
+2’.
+:X1: [...] hé-⸢bí-ib-gi₄-gi₄⸣
+#lem: u; gi[turn]
+
+3’.
+:X1: [...] al-til-la-aš 
+#lem: u; til[complete]
+
+:X2: ($traces$)
+4’.
+:X1: [{m}lú-{d}nanna én]si ⸢ma-da zi⸣-mu-⸢dar⸣-ra-ke₄	($35$)
+#lem: Lunanna[1]; ensik[ruler]; mada[land]; Zimudar[1]
+
+:X2: ⸢{m}lú⸣-{d}⸢nanna⸣ [énsi ma-da] ⸢zi-mu⸣-dar-ra⸢{ki}⸣^2^
+#lem: Lunanna[1]; ensik[ruler]; mada[land]; Zimudar[1]
+
+5’.  
+:X1: [éren-na-ni-ta] ⸢ù⸣-mu-un-šub-bu-un-zé-en	($36$)
+#lem: erin[people]; šub[fall]
+
+:X2: éren-na-ni-ta ù-mu-e-šub-bu-un-⸢zé⸣-en
+#lem: erin[people]; šub[fall]
+
+6’.  
+:X1: [za-e {m}árad-mu] nam-ma-ab-lá-e-zé-en	($37$)
+#lem: za'e[you]; Aradŋu[1]; la[hang]
+
+:X2: za-e {m}árad-mu na-ma-ab-⸢bal-le-en⸣-zé-en
+#lem: za'e[you]; Aradŋu[1]; bala[turn]
+
+7’.  
+:X1: ($*$)	($39$)
+:X2: á-áŋ-ŋá kala-ga á-zu-ne-ne-a ⸢nam-ba-e-še-bé⸣-en-zé-⸢en⸣
+#lem: a aŋ[command]; kalag[strong]; a[arm]; šeba[negligent]
+
+8’.  
+:X1: ($*$)	($38$)
+:X2: ŋi₆ an-bar₇ kíŋ ⸢hé⸣-en-dù
+#lem: ŋi[night]; anbar[mid-day]; kiŋ[work]; du[build]
+
+9’.  
+:X1: ($*$)
+:X2: ŋi₆ an-bar₇ ù ⸢nu⸣-ku-ku-⸢un-zé⸣-en hé-zu-un-⸢zé⸣-en
+#lem: ŋi[night]; anbar[mid-day]; u[and]; ku[place]; zu[know]
+
+10’.
+:X1: [a-ma]-⸢ru⸣-kam	($40$)
+#lem: amaru[flood]
+
+:X2: ⸢a⸣-ma-⸢ru⸣-kam
+#lem: amaru[flood]
+
+$ (Colophon J (X2))
+@translation labeled en project
+@(1 - 2) Speak to Puzur-Šulgi, general of Bad-Igihursaŋa, @lab{3}saying (the words of) Šulgi, your king:
+
+@(4) When I had constructed Bad-Igihursaŋa, @lab{5 - 6}An and Enlil gave me to rule all the lands and far-flung peoples. @lab{7}And as for me... @lab{8}the cities of the homeland, province by province, @lab{9}as well as the peoples of the far-flung homeland rested in safe pastures. @lab{10}[@i{I made them dwell}] in far-flung places @i{and peaceful habitations.} @lab{11}... dwelling(s) ...
+
+@(12 - 13) Have the governor(s) and the prefect(s) [@i{bring their men}] and mobilize all their cities, @lab{14}and have someone take charge@i{ of the beginning} of the work; @lab{15}wherever the fortification has deteriorated, it must be restored, @lab{16}torn down, and then rebuilt, @lab{17}and @i{(the repairs to) the fallen sides (of the wall)} must be finished in the course of one month! @lab{18}You/I will then ask him ([Aradmu?] for a report) about this work.
+
+@(19) And now the the Tidnumites have returned to (help) me from the highlands. @lab{20}(Moreover), Lu-Nanna, governor of Zimudar province, @lab{21}@i{is coming to you} with his worker troops. @lab{22}He will have his own [travel provision]s for you, @lab{23}@i{...}
+
+@(1’) ... @lab{2’}... dispatch ... @lab{3’}[@i{When the work/fortifications}] are finished,-@lab{4’}then, after Lu-Nanna, the governor of Zimudar @lab{5’}has left both of you with his worker troops, @lab{6’}you and Aradmu must not cease supervising/@i{alter your assignment}, @lab{7’}and you must not neglect the important orders @i{that are in your hands}. @lab{8’}The work must progress day and night; @lab{9’}neither of you is to sleep by night or day—you must both know about this! @lab{10’}It is urgent!
+
+
+&Q003410 = 14b. Šulgi to Puzur-Šulgi OB 1b (ŠPu1OB1b, 3.1.10)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1.  
+:X3: {[m]}⸢puzur₄-šul-gi šakkana⸣ bàd igi-hur-saŋ-ŋá ⸢ù-na⸣-a-dug₄	($1$)
+#lem: Puzuršulgi[1]; šakkanak[general]; bad[wall]; Igihursaŋa[1]; dug[speak]
+
+:X4: {m}puzur₄-šul-gi šakkana bàd igi-hur-<saŋ>-ŋá ù-na-dug₄
+#lem: Puzuršulgi[1]; šakkanak[general]; bad[wall]; Igihursaŋa[1]; dug[speak]
+
+2.  
+:X3: [{d}šul-gi] ⸢lugal⸣-zu na-ab-bé-a	($2$)
+#lem: Šulgir[1]; lugal[king]; e[speak]
+
+:X4: šul-gi lugal-zu na-ab-bé-a
+#lem: Šulgir[1]; lugal[king]; e[speak]
+
+3.  
+:X3: [u₄ bàd gal igi] hur-saŋ-⸢ŋá⸣ mu-dù-a	($3$)
+#lem: ud[sun]; bad[wall]; gal[big]; igi[eye]; hursaŋ[mountain]; du[build]
+
+:X4: u₄ bàd gal igi hur-saŋ-ŋá mu-un-dù-a
+#lem: ud[sun]; bad[wall]; gal[big]; igi[eye]; hursaŋ[mountain]; du[build]
+
+4.  
+:X3: [amurrum kalam-š]è nu-è-dè-dè
+#lem: Amurrum[1]; kalam[land]; e[leave]
+
+:X4: ⸢amurrum⸣ kalam-šè nu-è-dè-dè
+#lem: Amurrum[1]; kalam[land]; e[leave]
+
+5.  
+:X3: [gú áb-gal gú] ⸢{íd}idigna⸣ {íd}buranun-na-bi-da a nu-naŋ-naŋ-dè
+#lem: gu[neck]; Abgal[1]; gu[neck]; Idigna[1]; Buranun[1]; a[water]; naŋ[drink]
+
+:X4: gú áb-gal gú {íd}idigna {íd}buranun-na-bi nu-naŋ-naŋ-dè
+#lem: gu[neck]; Abgal[1]; gu[neck]; Idigna[1]; Buranun[1]; naŋ[drink]
+
+6.  
+:X3: [ùŋ kalam daŋal-la ú sa]l-la nú-dè		($7$)
+#lem: uŋ[people]; kalam[land]; daŋal[wide]; u[and]; sal[thin]; nud[lie]
+
+:X4: ($traces$)
+7.  
+:X3: [ki-tuš-bi-ta nu-h]u?-luh-e-dè
+#lem: kituš[dwelling]; huluh[frightened]
+
+8.  
+:X3: [...]-x#-ni ⸢tùm⸣-ù-dè
+#lem: u; de[bring]
+
+9.  
+:X3: [...]-x#-ŋál ⸢har⸣-ra-⸢an kaskal?-la?⸣ ì-DU-dè 
+#lem: u; harran[route]; kaskal[way]; X
+
+10.
+:X3: [...]-x# x ⸢bí⸣-dù ⸢in-nu⸣-ù
+#lem: u; u; du[build]; me[be]
+
+11.
+:X3: [...]-x# mu-e-⸢gi₄⸣
+#lem: u; gi[turn]
+
+12.
+:X3: [...]-šè á mu-da-an-⸢áŋ⸣
+#lem: u; a[arm]; aŋ[measure]
+
+13.
+:X3: [...]-ne-e-dù
+#lem: u
+
+14.
+:X3: [uru-uru-bi ha-(ra)-ab]-⸢zi-zi-eš⸣	($23$)
+#lem: iri[city]; zig[rise]
+
+15.
+:X3: [lú saŋ kíŋ-bi] ⸢hé⸣-éb-dab₅	($24$)
+#lem: lu[person]; saŋ[head]; kiŋ[work]; dab[seize]
+
+16.
+:X3: [hé-en-dag] ⸢ù⸣ hé-en-dù	($26$)
+#lem: dag[demolish]; u[and]; du[build]
+
+17.
+:X3: [...]-x#-ma ha-ma-gi₄-gi₄ 
+#lem: u; gi[turn]
+
+18.
+:X3: [kíŋ-bi-šè èn] ⸢a?⸣-ra-⸢ab⸣-tar-re-en	($28$)
+#lem: kiŋ[work]; en[cvne]; tar[cut]
+
+19.
+:X3: [{m}lú-{d}nanna énsi ma-da] ⸢zi-mu⸣-dar-ra-ke₄	($29$)
+#lem: Lunanna[1]; ensik[ruler]; mada[land]; Zimudar[1]
+
+20.
+:X3: [éren-na-ni]-⸢šè⸣ hé-mu-e-ši-gin	($30$)
+#lem: erin[people]; ŋen[go]
+
+21.
+:X3: [...]-x#-en-na-a
+#lem: u
+
+22.
+:X3: [...] ⸢ha⸣-ra-ab-tuš
+#lem: u; tuš[sit]
+
+23.
+:X3: [...] ⸢ha-ra-ab-gi₄-gi₄⸣
+#lem: u; gi[turn]
+
+24.
+:X3: [...] ⸢ŋál⸣-le-en
+#lem: u; X
+
+25.
+:X3: [...]-⸢e⸣ ì-zu-zu
+#lem: dug[speak]; zu[know]
+
+26.
+:X3: [éren ... nam-b]a-e-šub-bé-⸢en⸣	 ($36?$)
+#lem: erin[people]; u; šub[fall]
+
+27.
+:X3: [...] ⸢ki?⸣-ba ù-bí-tuš
+#lem: u; ki[place]; tuš[sit]
+
+28.
+:X3: [...]-en-zé-en	 ($37/39?$)
+#lem: u
+
+29.
+:X3: [a-m]a-ru-kam	($40$)
+#lem: amaru[flood]
+
+@translation labeled en project
+@(1)  Speak to Puzur-Šulgi, general of Bad-Igihursaŋa, @lab{2}saying (the words of) Šulgi, your king: 
+
+@(3) When the great fortifications of Bad-Igihursaŋa were being built @lab{4}so that the Amorites could not descend on the homeland, @lab{5}nor water (their herds) at the banks of the Abgal as well as the Tigris and Euphrates, @lab{6}that [the people of the far-flung homeland] rest in sa[fe pastures], @lab{7}and not be terrori[zed in their dwellings], @lab{8}to bring ...@lab{9}to go on the roads ...@lab{10 - 13}... @lab{14}let them mobilize [all their villages, one by one] @lab{15}and appoint [the man in charge of the construction]. @lab{16}[The fortifications must be torn down], and then rebuilt. @lab{17}... send me swiftly... 
+
+@(18) After I consult you about this undertaking,@lab{19 - 20}Lu-Nanna, governor of Zimudar province is to come to you with his worker troops. @lab{21 - 25}...@lab{26}You (sing.) [should not allow the worker troops] to leave. @lab{27}... @lab{28}neither/both of you is to [...!] @lab{29}It is [ur]gent! 
+
+
+&Q003411 = 14c. Šulgi to Puzur-Šulgi MB 1 (ŠPu1MB1, ŠPŠ1, 3.1.08)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1.
+:X1:	{I}⸢puzur₄-šul-gi⸣ šak[kana bàd igi-hur-saŋ-ŋá-ra]
+:X3:	{[I]}⸢puzur₄-šul-gi šakkana⸣ bàd-igi-hur-saŋ-ŋá ⸢ù-na⸣-a-dug₄
+:X4:	{I}puzur₄-šul-gi šakkana bàd-igi-hur-<saŋ>-ŋá ù-na-dug₄
+:*:	{I}puzur₄-šul-gi šakkana bàd igi-hur-saŋ-ŋá-ra ù-ne-dug₄
+:Su1S:	{I}púzur-{d}nu-muš-da-á-ra mu-un-ne-du
+2.
+:X1:	{d}⸢šul-gi lugal⸣-zu na-ab-⸢bé⸣-[a]
+:X3:	[šul-gi] ⸢lugal⸣-zu na-ab-bé-a
+:X4:	šul-gi lugal-zu na-ab-bé-a
+:*:	{d}šul-gi lugal-zu na-ab-bé-a
+:Su1S:	{I}{d}šul-gi lú-gal-zú na-ap-pa-a
+3.
+:X1:	⸢u₄ bàd igi⸣-hur-⸢saŋ⸣-ŋá mu-dù-⸢a⸣
+:X3:	[u₄ bàd gal igi] hur-saŋ-⸢ŋá⸣ mu-dù-a
+:X3:	u₄ bàd gal igi hur-saŋ-ŋá mu-un-dù-a
+:*:	u₄ bàd igi-hur-saŋ-ŋá mu-dù-a
+:Su1S:	up-pa-ad-{gi}igi{gi}-hu-ur-saŋ-ga mu-un-ta-a 
+4.
+:X1:	kur-⸢kur⸣ ⸢ùŋ⸣ daŋal-la an-né {d}en-líl-⸢le⸣
+:*:	kur-kur un daŋal-la an-né {d}en-líl-le
+:Su1S:	kur-kur-re un di-am-ga-al-la an-ne {d}en-líl-le
+:Su1A:	%akk/n mātāti nišī rapšāti Anu u Enlil
+
+# sjt : weird {dd+} artefact changed to {d} in Su1S
+
+5.
+:X1:	nam-en-⸢na-bi ma-an-šúm-mu-uš⸣
+:*:	nam-en-na-bi ma-an-šúm-mu-uš
+:Su1S:	mu-be mu-un-na-an-šu-um-ma-ta
+:Su1A:	%akk/n ana bêli iddinūni
+6.
+:X1:	uru!? ka[lam?-ma? ma]-da? ma?-[da-bi]^1^
+
+#note: ^1^  The first two signs look more like gá-⸢e⸣.
+
+:*:	uru-didli ma-da ma-da-bi
+:Su1S:	⸢uru⸣-di-id-di ma-da-ma-da-be
+:Su1A:	%akk/n ālāni mātu ina mātiša
+7.
+:X1:	⸢un kalam daŋal-la⸣ [ú sal-la ì]-n[ú]
+:X3:	[un kalam daŋal-la ú sa]l-la nú-dè
+:X4:	%akk/n traces
+:*:	un kalam daŋal-la ú sal-la ì-nú
+:Su1S:	un kalam dam-gal-lá ú sal-lá i-nu
+:Su1A:	%akk/n nišī mātāti rapšāti aburrī ušarbiṣ
+#note: ušarbiš written u<šarbiṣ>.
+8.
+:X1:	⸢ki níŋ daŋal-bi-a ki-tuš ne?-ha?⸣ [mu-un-tuš?]
+:*:	ki níŋ-daŋal-bi ki-tuš ne-ha mu-un-tuš
+:Su1S:	ki níŋ-dam-gal-be ku-tu-uš ne-ha mu-un-šu-ub
+:Su1A:	%akk/n ina šubtišu mugallita ul ušarši
+#note: ul ušarši written u<l ušarši>.
+9.
+:*:	nita-bi-e-ne munus-bi-e-ne
+:ArŠ2:	nita-bi-e-ne munus-bi-e-ne
+:Su1S:	nita{ta}-be-e-en-ne munus-e-en-ne
+:Su1A:	%akk/n zikarūšunu sinnišātušunu
+10.
+:*:	nita-bi ki šà-ga-na-šè ì-du
+:ArŠ2:	nita-bi ki šà-ga-na-šè ì-du-ne
+:Su1S:	nita{ta}-be ki šà-ga-an-ne e-du
+:Su1A:	%akk/n zikaršu ēmi libbišu illaka
+11.
+:*:	munus-e {ŋiš}bala {ŋiš}kirid-da <har-ra-an> šà-ga-na al-<du>
+:ArŠ2:	munus-bi {ŋiš}bala {ŋiš}kirid-da šu ba-e-si-ig har-ra-an šà-ga-na du-ù-ne
+:Su1S:	munus-še bala {ŋiš}gi-ri-iš šà-ga-an-ne al <...>
+:Su1A:	%akk/n sinništu qadu pilakkiša u kirissiša <...>
+#note: kirissiša written kirissi<ša>
+12.
+:*:	eden-na níŋ daŋal-bi ŋá-rig₇ ù-mu-ŋar
+:ArŠ2:	eden níŋ-daŋal-la-ba ŋá-rig₇ mu-ni-ib-ŋar
+:Su1S:	eden-na níŋ dam-gal-be na-ri ù-mu-ŋar{ár}
+:Su1S:	%akk/n ṣēra rapša tabīnī umalli
+#note: umalli written umal<li>.
+13.
+:*:	za-lam-ŋar maš-gána-bi-da ki um-ma-ni-in-ŋar-ŋar
+:ArŠ2:	za-lam-gar maš-gána-bi ki um-mi-ŋar-ŋar^2^
+#note: ^2^ T{}PT Var.: za-lam-gar maš-gána-⸢bi⸣-ta ú-sal mu-un-nú-nú.
+:Su1S:	za-la-am-ga-na-be-et-te ki um-ni-in-ŋar-ŋar
+:Su1A:	%akk/n kuštārīya ina pani taštanakkan
+14.
+:*:	lú-kíŋ-ak lú-gud-apin-lá a-šà-ga u₄ mi-ni-ib-zal-zal-e-ne
+:ArŠ2:	lú-kíŋ-ak-bi lú-apin-lá a-šà-ga u₄ mu-un-di-ni-ib-zal-e
+:Su1S:	lu-ú-ki-im-ki-ik-ki lu-ú-a-pil-lá a-ša-⸢gu⸣-gu ú mi-ni-ib-za-al-za-al-⸢le-en⸣-ne 
+:Su1A:	%akk/n ēpiš šipri u errēšā ina eqli ušteberrā
+15.
+:*:	énsi šabra ...
+:Su1S:	im-sik šà-ab-ra-a níg-da-ra-ta-⸢an-ne⸣
+:Su1A:	%akk/n iššakku u šabrû mali dāri šâtu līpušu
+16.
+:*:	kin bàd-bi ak-ka bàd-bi nir-ŋál li-bí-ib-du₁₁-ge
+:Su1S:	ki-im ⸢be⸣-ed-be ak-ka-a-a ba-⸢ad⸣-be ne-er-ga-al li-bi-ib-tu-ul-le
+:Su1A:	%akk/n šipir dāri epēša etelliš lā aqbi
+17.
+:*:	zi ugnim ù zi ma-da-mu-šè
+:Su1S:	zi um-ni-im ù da-šà-an-ne-et-te
+:Su1A:	%akk/n ana napištiya u napišta mātiya
+18.
+:*:	silim-ma-šè šà-kúš-šè bàd mu-na-an-dù
+:Su1S:	ši-li-ma šak-ku-še ša qa-al mu-un-na-an-du
+:Su1A:	%akk/n ana šullumi aštāl amtallikma dāra šâtu ēpuš
+19.
+:*:	ì-ne-èš ugnim im-ma-an-gin
+:Su1S:	e-ne-eš-še um-ni-im im-ma-an-gin
+:Su1A:	%akk/n inanna ummānu itteḫā
+20.
+:*:	kin bàd-ba lú kíŋ-bi hé-em-dù
+:Su1S:	ki-im bàd-be lu-ú ki-ig-be he-em-tu
+:Su1A:	%akk/n šipir dāri ēpiš dāri lipušā
+21.
+:*:	ì-ne-èš árad-mu mu-e-ši-in-gi₄
+:Su1S:	ne-e-še ur-du-um-gu ši-im-gi
+:Su1A:	%akk/n inanna Urdumgu ubte''i
+22.
+:X1:	⸢énsi? šabra?⸣ l[ú?-bi hé-eb-túm]
+:*:	énsi šabra lú-bi hé-eb-túm
+:Su1S:	im-sik šà-ab-ra-a lu-ú-be he-eb-du-⸢mu⸣
+:Su1A:	%akk/n iššakku u šabrû mali dāri šâtu
+#note: šâtu written šâ<tu>.
+23.
+:X2:	uru-uru-bi ha-ra-⸢ab⸣-zi-zi-ne
+:X3:	[uru-uru-bi ha-(ra)-ab]-⸢zi-zi-eš⸣
+:*:	uru-uru-bi ha-ba-an-zi-zi
+:Su1S:	uru-uru-be ha-pa-an-di-iz-zi-ya
+:Su1S:	%akk/n āliš āliš udekkâkku
+24.
+:X2:	lú saŋ kíŋ-bi hé-⸢en⸣-dab₅
+:X3:	[lú saŋ kíŋ-bi] ⸢hé⸣-éb-dab₅
+:*:	lú saŋ kíŋ-bi mu-un-x
+:Su1S:	lú saŋ gi-in-ne mu-un-e
+:Su1A:	%akk/n awīlu ina qaqqad šiprišu ana bīti
+25.
+:X2:	ki bàd šub-ba ki-bi-šè ⸢hu⸣-mu-un-ŋar
+:*:	ki bàd šub-ba ki-bi-<šè> ha-ma-gi₄-gi₄
+:Su1S:	ki-im ga-al šub-ba ki-be ha-pa-gi-⸢gi⸣
+:Su1A:	%akk/n ašar dāru maqtu ana ašrišu litār
+26.
+:X2:	hé-en-dag ù hé-⸢en⸣-dù
+:X3:	[hé-en-dag] ⸢ù⸣ hé-en-dù
+:*:	hé-en-dag ù hé-en-dù
+:Su1S:	he-em-ta-ak-lu ú he-em-du
+:Su1A:	%akk/n liqqur u līpuš
+27.
+:X2:	šà iti diš-kam á šub-ba ⸢ha-ba⸣-til
+:*:	šà iti aš-kam bàd ha-ra-ab-til
+:Su1S:	šà iti aš-ka bàd ha-ra-ab-ti-il-le
+:Su1A:	%akk/n ina libbi ištēn warḫi dāru šû lā quttu
+28.
+:X2:	kíŋ-⸢bi⸣-šè èn mu-na-⸢tar⸣-re-⸢en⸣
+:X3:	[kíŋ-bi-šè èn] ⸢a?⸣-ra-⸢ab⸣-tar-re-en
+:*:	kíŋ-bi-šè èn nam-ta-ab-tar-re-(en?)
+:Su1S:	ki-ig-be-eš-še en nam-tab-ta-re
+:Su1A:	%akk/n šipir dāri ēpiš dāri līpuš
+29.
+:X2:	{I}⸢lú⸣-{d}⸢nanna⸣ énsi ma-da zi-mu-dar-⸢ra⸣{ki}-⸢ke₄⸣
+:X3:	[{I}lú-{d}nanna énsi ma-da] ⸢zi-mu⸣-dar-ra-ke₄
+:X3:	lú-{d}nanna énsi ma-da zi-mu-dar-ra
+:Su1S:	lú-{d}nanna im-sik ma-ta zi-im-mu-un-dar-ra
+:Su1A:	%akk/n Lu-Nanna iššiak māt Zimudar
+30.
+:X2:	é[ren-na-n]i-ta im-mu-⸢e⸣-ši-⸢ri⸣
+:X3:	[éren-na-ni]-⸢šè⸣ hé-mu-e-ši-gin
+:*:	éren-a-ni-šè ha-ma-ši-du		
+:Su1S:	an-ne-ne-šu ha-pa-ši-im-tu
+:Su1A:	%akk/n qadu ṣabīšu aṭṭardaku
+31.
+:X2:	[ninda kaskal-l]a-ni-ta mu-ra-⸢ŋál⸣
+:*:	si-di-se hé-em-da-an-tuku
+:Su1S:	zi-be-is-šè he-em-da-am-du-ku
+:Su1A:	%akk/n ṣidīssu našiku
+32.
+:X2:	[níŋ-á]-⸢taka₄⸣ ba-ra-⸢na-ŋál⸣
+:*:	níŋ-á-taka₄ la-ba-ra-an-tuku
+:Su1S:	níŋ-dag-ka la-ba-nam-da-at-ta
+:Su1A:	%akk/n tēkīta lā iraššiku
+33.
+:*:	u₄ bàd ti-la dub-zu-ne-ne hé-bí-in-gin
+:Su1A:	up-pa-at ti-il-la du-ub-ne-en-ne-en-ne he-pi-níg-gin
+:Su1A:	%akk/n āmi dāru šû quttû ṭuppakunu lillika
+34.
+:*:	u₄ igi-zu-ne-ne mu-un-du₈-re-eš-a
+:Su1S:	ù igi{gi}-zi-ne-en-ne mu-un-da-re-eš-še
+:Su1A:	%akk/n āmi īnkunu taštaknāni
+35.
+:X1:	[{I}lú-{d}nanna] ⸢énsi⸣ ⸢ma-da zi⸣-mu-⸢dar⸣-ra-ke₄
+:X2:	⸢{I}lú-{d}nanna énsi ma-da zi-mu⸣-dar-ra⸢{ki}-ke₄⸣
+:Su1S:	lú-{d}nanna im-⸢sik⸣ ma-⸢ta⸣ zi-im-mu-⸢un⸣-dar-⸢ra-ak-ke⸣ 
+:Su1A:	%akk/n Lu-Nanna iššiak māt Zimudar
+36.
+:X1:	[éren-na-ni-ta] ⸢ù⸣-mu-un-šub-bu-un-zé-en
+:X2:	éren-na-ni-ta ù-mu-e-šub-bu-un-⸢zé⸣-en
+:X3:	[éren nam-b]a-e-šub-bé-⸢en⸣
+:*:	éren-na-ni-šè ha-ba-ši-in-tak₄?
+:Su1S:	ere-ne-⸢eš⸣-še ha-pa-ši-im-tu
+:Su1A:	%akk/n qadu ṣabīšu ezbāniššuma
+37.
+:X1:	[za-e {I}árad-mu] nam-ma-ab-lá-e-zé-en
+:X2:	za-e {I}árad-mu na-ma-ab-⸢bal-le-en⸣-zé-en
+:*:	za-e árad-mu na-ma-ab-bar?-e
+:Su1S:	ša-e ur-du-um-gu nam-be-eb-le-e
+:Su1A:	%akk/n atta u Urdumgu lā tuḫḫarāni
+38.
+:X2:	ŋi₆ an-bar₇ kíŋ ⸢hé⸣-en-dù 
+#note: (after 39)
+:Su1S:	ge-e ab-ra-a ki-ig-be he-em-tu 
+:Su1A:	%akk/n māši u urri šiprum linnepuš
+39.
+:X2:	á-áŋ-ŋá kala-ga á-zu-ne-ne-a ⸢nam-ba/ma-e-še-bi⸣-en-zé-en
+:*:	
+:Su1S:	a-ga zi kal-ka a-ga-mu-uš-ne-en-ne <e-ma-ru-uk-ka>
+:Su1A:	%akk/n tērtakunu lā dannat rittakunu
+40.
+:X1:	[a-ma]-⸢ru⸣-kam
+:X2:	⸢a⸣-ma-⸢ru⸣-kam
+:X3:	[a-m]a-ru-kam
+:*:	e₄-ma-ru-kam
+:Su1S:	e-ma-ru-uk-ka
+:Su1A:	%akk/n apputtu
+#note: apputtu written <ap>puttu.
+&Q000554 = 15. Šulgi to Išbi-Erra 1 (ŠIš1, 3.1.13.2, RCU 15)
+#project: cku
+#atf: use unicode
+#atf: use legacy
+#atf: use mylines
+@h1 ANALYTICAL RECONSTRUCTION OF TEXT IN STANDARD SUMERIAN ORTHOGRAPHY AND AKKADIAN TRANSCRIPTION
+1.	{m}iš-bi-{d}èr-ra-ra ù-ne-dug₄
+#lem: Išbierra[1]; dug[speak]
+
+#	{m}iš-be-{d}èr-ra-á-ra mu-un-ne-du
+2.	{d}šul-gi lugal-zu na-ab-bé-a
+#lem: Šulgir[1]; lugal[king]; e[speak]
+
+#	{d}šul-gi lú-gal-zú na-ap-pa-a
+3.	inim mu-e-gi₄-a-za usu-gin₇ mu-e-húl-le-en
+#lem: inim[word]; gi[turn]; usu[strength]; hul[rejoice]
+
+# ={	(${2}$)inim me-e-ga-na ú-ud-ki-im me-e-hu-le
+# ==	%akk/n ana awat tašpura danniš aḫdu
+4.	medu za-e-gin₇ nir-ŋál ŋá-ra a-ba ma-an-šúm
+#lem: ama'atud[slave]; za'e[you]; nirŋal[authoritative]; ŋar[place]; aba[who?]; šum[give]
+
+# ={	⸢e⸣-me-du di-ik-ki nam-mi-in-na na-(${5}$)ar-ra a-ba ma-an-šu  
+# ==	%akk/n warda ša kīma kâta taklu yâši mannu inandina
+5. 	á-ŋál lugal-bi šu zi ŋar-ra a-ba ab-tuk-uš
+#lem: a ŋal[strong]; lugal[king]; šu[hand]; zi[life]; ŋar[place]; aba[who?]; tuku[acquire]
+
+# ={	(${7}$)a-am-ga lu-ga-al-be šu zi-im-ga-ra a-ba (${8}$)ab-tu-ku-e-še
+# ==	%akk/n lē’â ša ana bēlišu šudmuqu mannu īšuš
+6.	ì-ne-šè níŋ a-na mu-e-ši-gi₄-a-ŋu₁₀
+#lem: ineš[now]; niŋ[thing]; ana[what?]; gi[turn]
+
+## mu -> ŋu₁₀
+# ={	(${10}$)ne-e-še ⸢níŋ⸣-ga-⸢na⸣ ⸢mu⸣-ši-iq-an-gu
+# ==	%akk/n inanna mimma ša tašpura
+7. 	ŋiškim li-bí-ne ugu-zu-šè mu-e-ra-gi₄
+#lem: ŋeškim[sign]; ligin[tablet]; ugu[skull]; gi[turn]
+
+# ={	(${12}$)ŋiš-ki-im li-gi-in-ne ú-gu-ze-eš-še (${13}$)me-e-ra-am-gi
+# ==	%akk/n ul ēgi ana ṣērika aṭṭarda
+8. 	ba-ba-ti pisaŋ-dub-ba ad-ad-da ì-ŋál-la-ŋu₁₀
+#lem: Babati[1]; bisaŋdubak[archivist]; adadda[grandfather]; ŋal[be]
+
+## mu -> ŋu₁₀
+# ={	(${14}$)ba-ba-tu pi-šà-⸢du⸣-ba-(${15}$)ar-ra at-ta-at-ta e-eg-la-am-gu
+# ==	%akk/n Babati šandabakki
+9.  	libir ad-gi₄-gi₄ ad-gi₄-gi₄ mu-un-zu-a
+#lem: libir[old]; ad-gi₄-gi₄[advising]; ad-gi₄-gi₄[advising]; zu[know]
+
+# ={ 	(${16}$)li-be-ra (${17}$)ad-ki-ki ad-ki-ki mu-un-da-a
+# ==	%akk/n labīra muntalka ša mitluka idā
+10. 	gú-un ŋéš kù-bábbar gú-un ŋéš kù-sig₁₇ sá mu-ra-dug₄-ga-(àm)
+#lem: gun[load]; ŋeš[sixty]; kugbabbar[silver]; gun[load]; ŋeš[sixty]; kugsig[gold]; sa[equal]; dug[speak]
+
+## du₁₁ -> dug₄
+# ={ 	(${20}$)un ge-eš-tu ku₇?-bábbar un ge-eš-tu ku-us-(${21}$)ke-eš še mu-ra-ad-ka
+# ==	%akk/n nēr bilat kaspa šūši bilat ḫurāṣa uštēbilakku
+11. 	mu mu nu-tuku eger ugnim-ma-ŋu₁₀ 
+#lem: mu[name]; mu[name]; tuku[acquire]; egir[back]; ugnim[army]
+
+## eŋer -> eger
+# ={ 	(${24}$)mu mu-nu-ut-ku-we eŋer mi-na-an-gu  
+# ==	%akk/n aššu munāte ša warkat ummāniya
+12. 	šu mu-un-te-ŋá im-ma-ši-gin
+#lem: šu[hand]; teŋ[approach]; ŋen[go]
+
+# ={ 	(${26}$)šu mu-un-te-em-ga im-ma-ši-im-gi
+# ==	%akk/n ilqâmma ittalkakku
+13.	umuš éren-na ugu-zu-šè mu-(e)-ra-gi₄ 
+#lem: umuš[planning]; erin[people]; ugu[skull]; gi[turn]
+
+# ={	(${28}$)ú-mu-uš ere-na-ak-ke ú-gu-uz-ze-(${29}$)eš-še me-e-ra-am-gi	
+# ==	%akk/n ṭēmi ummaniya ana ṣērika tārku
+14.	e-ne-ra šúm-mu-na níŋ-nam-ma-ni ak-a
+#lem: ane[he]; šum[give]; niŋnam[anything]; ak[do]
+
+# ={	(${31}$)e-ne-er-ra šu mu-un-na ni-ig-(${32}$)na-ma-an-ne ak-ka-a
+# ==	%akk/n ana šâšu idiššuma ša qabêšu epuš
+15.	e₄-ma-ru-kam šà-ga-ni hul na-gig
+#lem: amaru[flood]; šag[heart]; hulu[bad]; gig[sick]
+
+# ={	(${34}$)e-ma-ru-uk-ka šà-ap-pi hu-un-na-(${35}$)an-gi-ga
+# ==	%akk/n apputtu libbašu lā imarraṣku
+16.	ù za-e kù-sig₁₇ kù-bábbar šu-ni-ta šu ti-ba-ab
+#lem: u[and]; za'e[you]; kugsig[gold]; kugbabbar[silver]; šu[hand]; šu[hand]; teŋ[approach]
+
+# ={	(${36}$)ú za-e kù-sik-⸢ki?⸣ kub-bábbar (${37}$)zu-un-ne-et-ta šu-ú zi-ba-ab
+# ==	%akk/n u atta kaspa u ḫurāṣa ša qātišu leqema
+17.	šakanka za-e dab₅-bé še sa₁₀-sa₁₀-ma-né
+#lem: šakanka[market]; za'e[you]; dab[seize]; sa[equal]; sa[pay for]
+
+# ={	(${39}$)šakanka zú-e da-da-(${40}$)be-e šà-a-šà-a-ma-an-ne
+# ==	%akk/n maḫīrat ibbaššû ū’a šita''mā
+18.	šu-du₈-a-zu níŋ-nam na-an-ul₄-en
+#lem: lušudua[captive]; niŋnam[anything]; ul[hasten]
+
+## removed /ur₄ to simplify lemmatizing
+# ={	(${401}$)šu du-uz-zu (${2}$)ni-ig-nam na-an-nu-le
+# ==	%akk/n ina qātika libqurma mimma la tarrur
+19.	u₄-da-ta dumu šà du₁₀-ga-ŋu₁₀ za-e-me-en
+#lem: udata[hereafter]; dumu[child]; šag[heart]; dug[good]; za'e[you]
+
+## mu -> ŋu₁₀
+# ={	(${4}$)ú-da-da dumu{mu} šà-az-zu-ga-am-⸢gu?⸣ (${5}$)ú de-mi-in
+# ==	%akk/n uštu āmi annī māru muṭīb libbiya atta
+20.	igi-du kur amurrum{ki} elam{ki} dù-a-bi mu-ra-ŋar ŋá-e-gin₇-nam tuš-a
+#lem: igidu[leader]; kur[mountain]; Amurrum[1]; Elam[1]; du[all]; ŋar[place]; ŋa'e[I]; tuš[sit]
+
+# ={	(${7}$)iri-du kur amurrum é-nam du-a-be mu-ra-ga (${8}$)me-e-ek-ke-na-mi du-gu-ut-ta
+# ==	%akk/n ana pani Amurrī u Elamti kalìšu šaknāta kīma yâti šib
+21.	{ŋiš}gu-za barag kù-sig₁₇-ga igi-ne-ne-šè tuš-a x x x
+#lem: guza[chair]; barag[sanctum]; kugsig[gold]; igi[eye]; tuš[sit]; u; u; u
+
+# ={	(${11}$)ku-uz-zi barag ku-uz-zi igi{gi}-ne-en-ne-(${12}$)eš-še tu-uš-šà AH BI IR
+# ==	%akk/n ina kussì parak hurāṣi ana panīšunu tuššabma
+22.	za-ra lú kíŋ-gi₄-a-ne-ne ki hé-ri-ib-za-za-ne
+#lem: zara[concern]; lu[person]; kiŋgia[messenger]; ki[place]; za[bow]
+
+# ={	(${14}$)za-na lu-ú ki-im-ga-ne-en-ne (${15}$)he-li-ib-za-za-an-ne
+# ==	%akk/n ana kâšu mārā šiprišunu liškēnunikku
+23.	ugu-bi-šè e₁₁-dè ur₅-gin₇ níŋ-na-me na-an-tu-lu
+#lem: ugu[skull]; ed[ascend]; ur[he]; niŋname[anything]; tulu[slacken]
+
+# ={	(${18}$)du-ru-be-šu uz-zu hu-ur-mi ni-ig-na-me (${19}$)na-an-tu-uk-ku
+# ==	%akk/n elīšunu utelli mimma la tene''a
+24.	énsi zi-ga énsi ŋar-ra
+#lem: ensik[ruler]; zig[rise]; ensik[ruler]; ŋar[place]
+
+# ={	(${21}$)im-sik zi-ga im-sik zi-im-ga-ra-a
+# ==	%akk/n iššakka usuḫ iššakka šukun
+25.	šakkana ŋar-ra nu-bànda ŋiškim dug₄-ga
+#lem: šakkanak[general]; ŋar[place]; nubanda[overseer]; ŋeškim[sign]; dug[speak]
+
+## du₁₁ -> dug₄
+# ={	(${23}$)sag-gin ga-ra nu-bànda ŋiš-ki-im ku-ra
+# ==	%akk/n šakkanakka šukun laputtâ wuddi
+26.	lú nam-tag-ga lú-ka igi lú hul-a
+#lem: lu[person]; namtaga[sin]; lu[person]; igi[eye]; lu[person]; hulu[bad]
+
+# ={	(${25}$)lu-ú na-an-ga lu-ú-uk-ka igi{gi} lu-ú-uk-(${26}$)ka hu-la-a
+# ==	%akk/n bēl anni ašur uznī awìli gullil
+27. 	àga-ús igi-zu-ka im-ma-sig₅-ga
+#lem: aga'us[soldier]; igi[eye]; sag[good]
+
+# ={	(${28}$)ú-ku-uš i-gi-du-uq-qa im-ma-an-sig₅-ga₅
+# ==	%akk/n rīdā ša ina īnika iddamquma
+28. 	nam-šul-zu e-ne-ra dù-mu-na šu-ŋar-zu mah-a
+#lem: namšul[manhood]; ane[he]; du[build]; šuŋar[favor]; mah[great]
+
+# ={	(${30}$)e nam-šul-zu e-ne-er-ra du-mu-(${31}$)un-na šu-um-ŋar-zu ma-ha 
+# ==	%akk/n bīti <m> eṭlāti ana šâšu epušma gimillaka litīr
+# sjt: what is <m> ?
+29. 	ì-ne-šè níŋ a-na mu-e-ši-gi₄-a-ŋu₁₀
+#lem: ineš[now]; niŋ[thing]; ana[what?]; gi[turn]
+
+## mu -> ŋu₁₀
+# ={	(${34}$)ne-e-še níŋ-ga-na mu-ši-iq-qa-an-gu
+# ==	%akk/n inanna mimma ša tašpura
+30.	e₄-ma-ru-kam ka-zu na-ab-bal-en
+#lem: amaru[flood]; kag[mouth]; bala[turn]
+
+# ={	(${36}$)e-ma-ru-uk-ka-az-zu na-ap-pa-le-e
+# ==	%akk/n apputtu pīka la tennâ
+
+
+@translation labeled en project
+@h1 Sumerian
+
+@(1) Speak to Išbi-Erra, @sup(${2}$) saying (the words of) Šulgi, your king:
+
+@(3) You make me very happy with the news that you sent me. @sup(${4}$) Who could give me a house-born slave as reliable as you? @sup(${5}$) Who has someone so able entrusted to his lord? @sup(${6}$) Now, concerning all that you have written to me, @sup(${7}$) I am sending you a tablet with the secret instructions.^2^ 
+
+#note: ^2^  Or: passwords.
+
+@(8) Babati, the high commissioner, who is (like) a grandfather to me, @sup(${9}$) the judicious elder, skilled in council, @sup(${10}$)has now arrived before you (with) six hundred talents of silver and six hundred talents of gold. @lab{11 - 12}... @sup(${13}$) I have (also) sent you news about the troops: forward them to him @sup(${14}$) and (do) whatever he asks. @sup(${15}$) Please be careful that his heart does not turn (against you)! @sup(${16}$) And as for you, take the gold and silver from his care, @sup(${17}$) and buy all the grain at the prevailing market rate. @sup(${18}$) @i{Once it is all in your possession, you do not have to hurry}. 
+
+@(19) From this day on you are the son who gladdens my heart. @sup(${20}$) You are established (as the guardian) against all of Amurru and Elam; sit as my representative! @sup(${21}$) Sit before them on a throne (set up on) a gold (encrusted) dais, @sup(${22}$) so that you will be the one before whom their envoys prostrate themselves. @sup(${23}$) Elevate yourself over them, never turn back! @sup(${24}$) Depose governors, appoint governors, @sup(${25}$) appoint generals, assign lieutenants, @sup(${26}$) @i{punish the guilty by blinding}. 
+
+@(27) As for a soldier who finds favor with you, @sup(${28}$) build for him his (first) adult house---your favor will be great. @sup(${29}$) Now, concerning all that I have written to you, @sup(${30}$) it is urgent, you must not change your allegiance!
+
+@translation labeled en Akkadian
+@h1 Akkadian
+
+@(1) <Speak to Išbi-Erra: @sup(${2}$) thus says Šulgi, your king:> 
+
+@(3) I greatly rejoiced at the news that you sent me. @sup(${4}$) Who could give me a servant who is as reliable as you? @sup(${5}$) Who has one so able who is so exceedingly pleasing to his lord? @sup(${6}$) Now, concerning all that you have written to me, @sup(${7}$) I respond to you without delay. 
+
+@(8 - 10) I have now sent to you Babati, the high commissioner, @sup(${9}$) the judicious elder, who is skilled in council, (together with) six hundred talents of silver and sixty talents of gold; @lab{11 - 12}@i{he has come to you in the matter of the credit balance left over from what the troops have already received}. @sup(${13}$) News of my troops have been sent to you: @sup(${14}$) forward them to him and do whatever he asks. @sup(${15}$) Please be careful that his heart does not turn against you! 
+
+@(16 - 17) And as for you, take the gold and silver from his hand and buy up the all grain at the prevailing market rate, @sup(${18}$) and should anyone claim it from you, you should pay it no mind.
+
+@(19) From this day on, you are the son who gladdens my heart. @sup(${20}$) You are established (as the guardian) against all of Amurru and Elam; sit as my representative! @sup(${21}$) You sit before them on a throne (set up on) a gold (encrusted) dais, @sup(${22}$) so that you will be the one before whom their envoys prostrate themselves. @sup(${23}$) Elevate yourself over them, so that you never turn back! @sup(${24}$) Depose governors, appoint governors, @sup(${25}$) appoint generals, assign lieutenants! @sup(${26}$) Keep a check on transgressors, @i{rip off} the ears of (guilty) people!
+
+@(27) As for a soldier who finds favor with you, @sup(${28}$) build for him his (first) adult house so that he will return your favor. @sup(${29}$) Now, concerning all that you have written to me, @sup(${30}$) it is urgent, do not change your allegiance!
+
+&Q000551 = 16. Amar-Sin to Šulgi 1 (AmŠ1, 3.1.12)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1.      lugal-ŋu₁₀-ra ù-na-dug₄
+#lem: lugal[king]; dug[speak]
+
+2. 	{m}amar-{d}suen-na árad-zu na-ab-bé-a
+#lem: Amarsuenak[1]; arad[slave]; e[speak]
+
+3. 	a-šà níŋ lugal-ŋu₁₀ ma-an-dug₄ 
+#lem: ašag[field]; niŋ[thing]; lugal[king]; dug[speak]
+
+## mu -> ŋu₁₀
+4. 	uru ŋá-ŋá-tum ŋá DUB?-ra mu-un-tur
+#lem: iri[city]; x; x; x; tur[small]
+
+5. 	árad lugal-ŋu₁₀ ŋá-e al-me-en-na-ta saŋ-ki lugal-mu igi mu-du₈-a-gin₇ {ŋiš}tukul-ŋu₁₀ ba-šub
+#lem: arad[slave]; lugal[king]; ŋa'e[I]; me[be]; saŋki[forehead]; lugal[king]; igi[eye]; duh[loosen]; tukul[weapon]; šub[fall]
+
+## mu -> ŋu₁₀
+6. 	a-šà šà ma-da-ka šu mu-ni-tak₄?
+#lem: ašag[field]; šag[heart]; mada[land]; šu[hand]; taka[abandon]
+
+7. 	{ŋiš}hur peš₁₀ a-šà? nu-x saŋ [ma-an-si-ga]^1^
+#lem: ŋešhur[plan]; piš[bank]; ašag[field]; u; saŋ[head]; sig[put]
+
+#note: ^1^  Var.: {giš}apin a-šà x x saŋ ma-an-si-ga.
+8. 	a-šà-bi gú íd-da-šè limmu₅ dana-bi nu-tehi
+#lem: ašag[field]; gu[neck]; id[river]; limmu[four]; dana[unit]; tehi[approach]
+
+## tehe -> tehi
+9. 	pa₅ a dug₄-ga hur-saŋ nu-níŋin?^2^
+#lem: par[canal]; a[water]; dug[speak]; hursaŋ[mountain]; niŋin[encircle]
+
+## du₁₁ -> dug₄
+
+## nígin -> níŋin
+
+#note: Var.: x x ? dana-bi 2-àm a-šà engar nu-ŋál.
+
+## What is the character before the query in the note?
+10. 	a-ša-an-gàr-ra nu-me-e inim lugal-ŋá-ke₄ ab-bé-e
+#lem: ašangar[deception]; e[speak]; inim[word]; lugal[king]; e[speak]
+
+11. 	a-šà-bi nu-mu-un-da-zàh? 
+#lem: ašag[field]; zah[disappear]
+
+12. 	níŋ lugal-ŋu₁₀ ab-bé-en-a lugal-ŋu₁₀ hé-en-zu
+#lem: niŋ[thing]; lugal[king]; e[speak]; lugal[king]; zu[know]
+
+@translation labeled en project
+@(1) Speak to my king, @lab{2}saying (the words) of Amar-Sin, your servant: 
+
+@(3) In the matter of the field that my liege spoke to me about: @lab{4}... diminished. @lab{5}Because I am my king’s servant, @i{as soon as I saw his majesty’s face, I dropped my weapons (to deal with the issue)}. @lab{6}I (?) dispatched (someone) to the field in the territory. @lab{7}@i{In the plans, the riverbank did not ... the field; it’s side seems much too short for me}. @lab{8}That field does not (even) come close to the river by forty (fifty) km. @lab{9}The irrigation ditch does not wind around the Hursag. @lab{10}There is no deceit here; (I am obedient) to the orders that my liege has given. @lab{11}That field cannot be lost (to cultivation)! @lab{12}Whatever you, my king order me to do, (I will do) ... Now my king knows (all this)!
+
+
+&Q000552 = 17. Šulgi to Amar-Sin 1 (ŠAm1, 3.1.13, RCU 13)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1.  {m}amar-{d}suen-na-ra ù-na-a-dug₄
+#lem: Amarsuenak[1]; dug[speak]
+
+2.  {d}šul-gi lugal-zu na-ab-bé-a
+#lem: Šulgir[1]; lugal[king]; e[speak]
+
+3.  aša₅ KA nam? lugal ù-na-a-dug₄-ba šu mu-ni-tak₄?-a
+#lem: ašag[field]; KA[cvne]; nam[fate]; lugal[king]; unadug[letter]; šu[hand]; taka[abandon]
+
+4.  šà ge-na-zu-ta numun nam-lugal za-e me-en
+#lem: šag[heart]; gin[establish]; numun[seed]; namlugal[kingship]; za'e[you]; me[be]
+
+:X1:  ne-šè ù-na-a-dug₄-ŋu₁₀ x x x?
+#lem: ineš[now]; unadug[letter]; u; u; u
+
+## gi -> ge
+5.  a-na-aš-àm ka-aš-bar a-šà-ga x nu-mu-e-ši-in-šub
+#lem: anaš[why?]; kašbar[decision]; ašag[field]; u; šub[fall]
+
+@translation labeled en project
+@(1) Speak to Amar-Sin, @lab{2}saying (the words) of Šulgi, your king: 
+
+@(3) In the matter of the … field, concerning which that letter was dispatched: By your righteous birth you are of royal seed! Why have you not … the decisions concerning the field? ….
+&Q000555 = 18. Šarrum-bani to Šu-Sin 1 (ŠaŠu1, 3.1.15, RCU 17)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1. 	{d}šu-{d}suen lugal-ŋu₁₀-ra ù-na-a-dug₄
+#lem: Šusuen[1]; lugal[king]; dug[speak]
+
+2.	šar-ru-um-ba-ni gal-zu-unken-na árad-zu na-ab-bé-a
+#lem: Šarrumbani[1]; galzu'unkenak[official]; arad[slave]; e[speak]
+
+3.	bàd gal mu-ri-iq-tidnim-e dím-me-dè kíŋ-gi₄-a-aš mu-e-gi₄
+#lem: bad[wall]; gal[big]; Muriqtidnim[1]; dim[create]; kiŋgia[messenger]; gi[turn]
+
+4.	igi-zu ma-an-ŋar-ma amurrum ma-da-aš mu-un-šub-šub-bu-uš
+#lem: igi[eye]; ŋar[place]; Amurrum[1]; mada[land]; šub[fall]
+
+5.	bàd dù-ù-dè ŋìri-bi ku₅-ru-dè
+#lem: bad[wall]; du[build]; ŋiri[foot]; kud[cut]
+
+6.	{íd}idigna {íd}buranun-na-bi-da 
+#lem: Idigna[1]; Buranun[1]
+
+7.	gú-ŋìri-bi a-šà-e nam-ba-e-šú-šú á-šè mu-e-da-áŋ
+#lem: guŋiri[breach]; ašag[field]; šuš[cover]; a[arm]; aŋ[measure]
+
+8.	zi-zi-da-ŋu₁₀-ne
+#lem: zig[rise]
+
+9.	gú {íd}áb-gal-ta en-na ma-da zi-mu-dar{ki}-ra-šè
+#lem: gu[neck]; Abgal[1]; enna[until]; mada[land]; Zimudar[1]
+
+10.	éren?-bi ì-zi-dè
+#lem: erin[people]; zig[rise]
+
+11.	bàd-bi 2(u) 6(diš) dana-kam dím-e-da-ŋu₁₀-ne
+#lem: bad[wall]; n; n; dana[unit]; dim[create]
+
+12.	dal-ba-na hur-saŋ min-a-bi-ka sá di-da-ŋu₁₀-ne
+#lem: dalbana[space]; hursaŋ[mountain]; min[two]; sa[equal]; dug[speak]
+
+13.	dím-me-ŋu₁₀-šè amurrum šà? hur-saŋ-ŋá-ka íb-tuš-a ŋéštu mu-ši-in-ak
+#lem: dim[create]; Amurrum[1]; šag[heart]; hursaŋ[mountain]; tuš[sit]; ŋeštug[ear]; ak[do]
+
+14. 	si-mu-ur₄{ki} nam-tab-ba-ni-šè im-ma-da-gin?
+#lem: Simurrum[1]; namtab[partnership]; ŋen[go]
+
+15.	dal-ba-na hur-saŋ ebih{ki}-ke₄ {ŋiš}tukul sìg-ge-dè im-ma-ši-gin
+#lem: dalbana[space]; hursaŋ[mountain]; Ebih[1]; tukul[weapon]; sag[beat]; ŋen[go]
+
+16.	ù ŋá-e éren {gi}dubsik ì-íl-íl-eš-àm x ⸢nu?⸣-um-mi-du₈
+#lem: u[and]; ŋa'e[I]; erin[people]; dupsik[basket]; il[raise]; u; du[spread]
+
+17.	{ŋiš}tukul sìg-ge-dè gaba-ri-ni-šè ba-gin-en
+#lem: tukul[weapon]; sag[beat]; gabari[copy]; ŋen[go]
+
+## gen -> gin
+18.	tukum-bi lugal-ŋá an-na-kam
+#lem: tukumbi[if]; lugal[king]; anna[approval]
+
+19.	éren kíŋ-ak-ne ha-ma-ab-dah-e á ha-ma-ŋá-ŋá
+#lem: erin[people]; kiŋak[working]; tah[add]; a[arm]; ŋar[place]
+
+20.	u₁₈-ru ma-da sá nu-ub-da-dug₄-ga inim-bi x x
+#lem: uru[flood]; mada[land]; sa[equal]; dug[speak]; inim[word]; u; u
+
+## du₁₁ -> dug₄
+21.	ma-da murub₄{ki}-šè lú-kíŋ-gi₄-a mu-ni-gi₄
+#lem: mada[land]; murub[middle]; kiŋgia[messenger]; gi[turn]
+
+22.	ma-da dím-ma-bi ba-da-kúr
+#lem: mada[land]; dimma[thought]; kur[different]
+
+23.	bàd dù-ù-dè nu-šub-bé-en ì-dù-en ù {ŋiš}tukul ì-sìg-ge-en
+#lem: bad[wall]; du[build]; šub[fall]; du[build]; u[and]; tukul[weapon]; sag[beat]
+
+24.	gal-zu-unken-na im-ri-a gu-la-àm hé-em-ma-da-ri
+#lem: galzu'unkenak[official]; imria[clan]; gal[big]; ri[impose]
+
+25.	dím-ma ma-da nu-ub-da-kúr-ra-aš sá hu-mu-un-e
+#lem: dimma[thought]; mada[land]; kur[different]; sa[equal]; e[speak]
+
+26.	u₄ lú-kíŋ-gi₄-a-ŋu₁₀ igi-zu-šè mu-e-ši-gi₄-a-ŋu₁₀ 
+#lem: ud[sun]; kiŋgia[messenger]; igi[eye]; gi[turn]
+
+27.	egir-ra-ni-ta lú-{d}nanna énsi ma-da zi-mu-dar-ra{ki}-šè
+#lem: egir[back]; Lunanna[1]; ensik[ruler]; mada[land]; Zimudar[1]
+
+28.	lú-kíŋ-gi₄-a mu-ni-gi₄
+#lem: kiŋgia[messenger]; gi[turn]
+
+29.	2(šar₂) éren mu-e-ši-in-gi₄
+#lem: n; erin[people]; gi[turn]
+
+30.	lú {gi}dubsik íb-si lú {ŋiš}tukul sìg-ge bí-ib-tur
+#lem: lu[person]; dupsik[basket]; si[fill]; lu[person]; tukul[weapon]; sag[beat]; tur[small]
+
+31.	tukum-bi lugal-ŋu₁₀ éren kíŋ-ak-ne du₈-ù-bé ab-bé
+#lem: tukumbi[if]; lugal[king]; erin[people]; kiŋak[working]; duh[loosen]; e[speak]
+
+## duh -> du₈
+32.	ù-šub {ŋiš}tukul ga-àm-da-sìg
+#lem: ušub[brick-mold]; tukul[weapon]; sag[beat]
+
+33.	lú gal-gal ma-da-za lú in-ne-ši-in-gi₄
+#lem: lu[person]; gal[big]; mada[land]; lu[person]; gi[turn]
+
+34.	igi-ne-ne ma-an-ŋar-re-eš-ma
+#lem: igi[eye]; ŋar[place]
+
+35.	me-en-dè uru-uru en-nu-ùŋ nu-mu-da-ak-en-dè-en
+#lem: menden[we]; iri[city]; ennuŋ[imprisonment]; ak[do]
+
+36.	a-na-gin₇-nam ugnim a-ra-ab-šúm-mu
+#lem: anagin[how?]; ugnim[army]; šum[give]
+
+37.	lú-kíŋ-gi₄-a-ŋu₁₀ mu-na-ni-in-gi₄-eš
+#lem: kiŋgia[messenger]; gi[turn]
+
+## ge₄ -> gi₄
+38.	u₄ lugal-ŋu₁₀ á mu-e-da-áŋ-ta
+#lem: ud[sun]; lugal[king]; a[arm]; aŋ[measure]
+
+39.	u₄-te ŋi₆-ba kíŋ im-mi-íb-gi₄-gi₄-in ù {ŋiš}tukul ì-sìg-ge-en
+#lem: udtena[evening]; ŋi[night]; kiŋ[work]; gi[turn]; u[and]; tukul[weapon]; sag[beat]
+
+40.	mu inim lugal-ŋá-ke₄ ì-gub-bé-en ù {ŋiš}tukul íb-lah₅-lah₅-e
+#lem: mu[name]; inim[word]; lugal[king]; gub[stand]; u[and]; tukul[weapon]; lah[bring]
+
+41.	usu nu-um-ŋar {ŋiš}tukul-ta nu-silig-ge-en 
+#lem: usu[strength]; ŋar[place]; tukul[weapon]; silig[cease]
+
+42.	lugal-ŋu₁₀ hé-en-zu^1^
+#lem: lugal[king]; zu[know]
+
+#note: ^1^  Var.: u₄ kur-kur-ra hé-en-dul.
+@translation labeled en project
+@(1) Speak to Šu-Sin, my king: @lab{2}saying (the words of) Šarrum-bani, royal commissioner, your servant:
+
+@(3) You commissioned me to carry out construction on the great fortifications of Muriq-Tidnim @lab{4}and presented your views to me as follows: “The Amorites have repeatedly raided the frontier territory.” @lab{7}You commanded me @lab{5}to rebuild the fortifications, to cut off their access, @lab{6 - 7}and thus to prevent them from repeatedly overwhelming the fields through a breach (in the defenses) between theTigris and Euphrates. 
+
+@(8) As I was leaving (for the assignment), @lab{9}from the banks of the Abgal canal up thought to the territory of Zimudar, @lab{10}I levied workers there.
+
+## thought -> through
+
+@(11) When I had been working on the fortifications that then measured 26 dana (269 km.), @lab{12}after having reached (the area) between the two mountain ranges, @lab{13}the Amorite camped in the mountains turned his attention to my building activities. @lab{14}(The leader of) Simurum came to his aid, and @lab{15}he went out against me between the mountain ranges of Ebih to do battle. @lab{16}And therefore I, even thought I could not @i{spare} corvée workers (for fighting), @lab{17}went out to confront him in battle.
+
+## thought -> though
+
+@(18) If my king is agreeable, @lab{19}he will reinforce my laborers @i{so that I can get to work}. @lab{20}Although I have not been able to reach @i{the (main) fortification tower} of the frontier territory, [as soon as I received] information, @lab{21}I sent an envoy @i{to the interior}. @lab{22}But the territory has changed its allegiance, @lab{23}and so I have not neglected to build the fortifications— (to the contrary), I have been building and fighting (at the same time). @lab{24 - 25}@i{Even if (another) royal commissioner were to be selected from the grandest of (military) units},@i{ he would still not be able to attain the goal of preventing the frontier territory from changing its allegiance}.
+
+@(26) After I dispatched my envoy to you, @lab{27 - 28}right behind him I dispatched (another) envoy to Lu-Nanna, the governor of Zimudar, and @lab{29}he sent me a very large contingent (viz. 7200) of workers. @lab{30}There are enough corvée laborers but not enough fighting men! @lab{31}Once my king gives the orders to release the workers (for military duty), @lab{32}then when (the enemy) raids, I shall be able to fight him!
+
+@(33) He (Lu-Nanna?) dispatched the (same) man to the nobles of your frontier territory @lab{34}and they presented their case to me as follows: @lab{35}“We cannot even guard all the cities by ourselves, @lab{36}how can (we) give you (more) troops?” @lab{37}They then sent my messenger back (to me) though him.
+
+@(38) Ever since my king commanded me, {39}day and night I have been diligently doing the assigned work as well as fighting (the enemy). {40 }Because I am obedient to my king’s command (to build the fortifications) and I continue to @i{battle again and again}, {41 }even though the requisite force has not been assigned to me, I will not cease fighting. {42} Now my king is informed (about all of this)!^2^
+
+#note: ^2^  Var: May the storm (of my king) cover the land!
+
+
+
+&Q000556 = 19. Šu-Sin to Šarrum-bani 1 (ŠuŠa1, 3.1.16, RCU 18)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1. 	
+:X2: 	{m}šar-ru-um-ba-ni-ra ù-na-a-d[ug₄]
+#lem: Šarrumbani[1]; dug[speak]
+
+2. 	
+:X2: 	{d}šu-<{d}suen> lugal-zu na-ab-bé-a
+#lem: Šusuen[1]; lugal[king]; e[speak]
+
+3. 	
+:X2: 	lú-kíŋ-gi₄-a mu-e-ši-gi-a-ŋu₁₀ dirig šà-šè x#-[...]
+#lem: kiŋgia[messenger]; gi[turn]; dirig[exceed]; šag[heart]; u
+
+4. 	
+:X2: 	⸢u₄-è⸣ á-áŋ-ŋá-ŋu₁₀ ŋá-a-gin₇-nam ma-[...] li^1^-bí-íb-diri-g[e-(en)]
+#lem: utu'e[sunrise]; a aŋ[command]; ŋa'e[I]; u; dirig[exceed]
+
+## ág-gá -> áŋ-ŋá
+5. 	
+:X2: 	u₄ ⸢è-da-zu⸣-ne igi-ŋu₁₀ ⸢i⸣-x#-[...]
+#lem: ud[sun]; e[leave]; igi[eye]; u
+
+6. 	
+:X2: 	ŋá-e a-na ma-ab-en-⸢na⸣ x#-[...]
+#lem: ŋa'e[I]; ana[what?]; e[speak]; u
+
+7. 	
+:X2: 	šà ma-da-ka gin-a-zu-⸢ne⸣
+#lem: šag[heart]; mada[land]; ŋen[go]
+
+8. 	
+:X1: 	ma-⸢da⸣ [...]
+#lem: mada[land]; u
+
+:X2: 	ma-da-a ba-e-te ŋi₆ sá na-[...]
+#lem: mada[land]; teŋ[approach]; ŋi[night]; sa[equal]; u
+
+9. 	
+:X1: 	lú gal-gal-bi-⸢e⸣-n[e ...]
+#lem: lu[person]; gal[big]; u
+
+:X2: 	lú gal-gal-bi-ne KA ù-[...]
+#lem: lu[person]; gal[big]; x; u
+
+10.	
+:X1:	tukum-bi nam-⸢te⸣-n[a? ...]
+#lem: tukumbi[if]; X; u
+
+:X2:	tukum-bi ní-te-na-ŋá SU [...]
+#lem: tukumbi[if]; ni[self]; x; u
+
+11.	
+:X1:	($omits or on line 10.$)
+:X2:	umuš-ne-ne SU-a-ni [...]
+#lem: umuš[planning]; x; u
+
+12. 	
+:X1: 	lú gal-gal-bi-e-ne ⸢šubtum₆⸣ hé-mu-⸢e-da-su₈⸣-[ge-eš] 
+#lem: lu[person]; gal[big]; šubtum[dwelling]; sug[stand]
+
+:X2: 	lú gal-gal-bi-ne KASKAL-TÚG-MU[L ...]
+#lem: lu[person]; gal[big]; x; u
+
+13. 	
+:X1: 	tur-ne-ne ub-ta-ri
+#lem: tur[small]; ri[impose]
+
+:X2: 	tur-tur-ne-ne ub-ta-⸢ri⸣
+#lem: tur[small]; ri[impose]
+
+14. 	
+:X1: 	e-ne-ne-gin₇-nam ma-⸢da⸣ x [...]
+#lem: anene[they]; mada[land]; u; u
+
+:X2: 	e-ne-ne-gin₇-nam ma!^2^-da x#-[...]
+#lem: anene[they]; mada[land]; u
+
+15. 	
+:X1: 	tukum-bi u₁₈^3^-lú ŋárza-bi-e-ne
+#lem: tukumbi[if]; ulu[XXX]; ŋarza[rites]
+
+:X2: 	tukum-bi ù-⸢lú⸣ [...]
+#lem: tukumbi[if]; ulu[XXX]; u
+
+16. 	
+:X1: 	umuš-bi aša-⸢àm⸣
+#lem: umuš[planning]; aš[one]
+
+:X2: 	umuš-bi-⸢ne⸣ aša-[...]
+#lem: umuš[planning]; u
+
+17. 	
+:X1: 	bùru-da-ne-ne nu-e-da-sì-ke
+#lem: burud[hole]; sig[put]
+
+:X2: 	bùru-da-ne-ne-a nu-mu-ud-x#-[...]
+#lem: burud[hole]; u
+
+18.	
+:X1: 	lú kúr-ra ŋar-ŋar-bi-⸢da⸣
+#lem: lu[person]; kur[different]; ŋar[place]
+
+:X2: 	lú kúr-ra ŋar-ŋar-bi-[...]
+#lem: lu[person]; kur[different]; u
+
+19. 	
+:X1: 	uru-bi zag ù-bí-⸢dib⸣
+#lem: iri[city]; zag[side]; dib[pass]
+
+:X2: 	uru-bi zag-bi ù-b[í?-...]
+#lem: iri[city]; zag[side]; u
+
+20. 	
+:X1: 	en-na íb-ta-ab-e₁₁-ne na-ab-ta-⸢bal⸣-e-ne
+#lem: enna[until]; ed[ascend]; bala[turn]
+
+:X2: 	en-na bàd-bi ab-ta-⸢è⸣-[ne] na-ab-ta-bal-e-[ne]
+#lem: enna[until]; bad[wall]; e[leave]; bala[turn]
+
+21. 	
+:X1: 	nita-bi ù-gaz
+#lem: nita[male]; gaz[kill]
+
+:X2: 	⸢nita⸣-bi ù-g[az]
+#lem: nita[male]; gaz[kill]
+
+22. 	
+:X1: 	éren-bi uru ma-da-ka-zu-šè dab₅-àm la-ab^4^-x-x :
+#lem: erin[people]; iri[city]; mada[land]; dab[seize]; u
+
+:X2: 	munus-bi uru <ma>-da-ka-zu-šè ab-dab₅-e x# [...] 
+#lem: munus[woman]; iri[city]; mada[land]; dab[seize]; u; u
+
+23. 	
+:X1: 	á-ša mu-e-da-áŋ
+#lem: a[arm]; aŋ[measure]
+
+:X2: 	á-šè mu-e-da-áŋ-x?
+#lem: a[arm]; aŋ[measure]
+
+24. 	
+:X1: 	a-na-aš-àm ŋá-a-gin₇-nam nu-ak
+#lem: anaš[why?]; ŋa'e[I]; ak[do]
+
+:X2: 	a-na-aš-àm ŋá-a-gin₇-nam nu-⸢ak⸣
+#lem: anaš[why?]; ŋa'e[I]; ak[do]
+
+25. 	
+:X1: 	⸢lú⸣ gaz-dè lú igi hul-⸢hul-da⸣
+#lem: lu[person]; gaz[kill]; lu[person]; igi[eye]; hulu[bad]
+
+:X2: 	lú ⸢gaz⸣-dè igi hul-hul-le-⸢dè⸣
+#lem: lu[person]; gaz[kill]; igi[eye]; hulu[bad]
+
+26. 	
+:X2: 	⸢uru gul⸣-gul-dè šu-zu-šè nu-ŋar-ra
+#lem: iri[city]; gul[destroy]; šu[hand]; ŋar[place]
+
+27. 	
+:X2: 	⸢nam-nir⸣-ŋál mu-ra-šúm
+#lem: namnirŋal[authority]; šum[give]
+
+28. 	
+:X2: 	u₄ ⸢bàd⸣ igi{{%akk ša!-⸢da⸣}}-hur {d}šul-gi ad-da-<ŋu₁₀> mu-un-dù-a
+#lem: ud[sun]; bad[wall]; Igihursaŋa[1]; L; Šulgir[1]; adda[father]; du[build]
+
+29. 	
+:X2: 	za-e-⸢en⸣-zé-en in-nu
+#lem: menzen[you]; me[be]
+
+30. 	
+:X2: 	{ŋiš}gu-za-⸢ŋá⸣ {ŋiš}gu-⸢za⸣ {d}šul-gi-ra-ka in-nu
+#lem: guza[chair]; guza[chair]; Šulgir[1]; me[be]
+
+31. 	
+:X2: 	{m}<lú>-{d}en-ki ⸢énsi⸣ ma-da zi-mu-dar-ra!{ki}-šè
+#lem: Luenki[1]; ensik[ruler]; mada[land]; Zimudar[1]
+
+32. 	
+:X2: 	hé-mu-e-ši-DU
+#lem: X
+
+33. 	
+:X2: 	ŋéš ugnim-ma-⸢ka⸣ hé-de₆
+#lem: ŋeš[sixty]; ugnim[army]; de[bring]
+
+34. 	
+:X2: 	[éren-na-ni]-⸢ta⸣ hé-mi-ib-gi₄-gi₄
+#lem: erin[people]; gi[turn]
+
+35. 	
+:X2: 	[{m}ba-b]a-ti ⸢pisaŋ-dub⸣-ba NE-i-e-da-áŋ-ta 
+#lem: Babati[1]; bisaŋdubak[archivist]; aŋ[measure]
+
+36. 	
+:X2: 	[m]u-na-an-⸢šúm-ma-ta⸣ bàd-bi hé-dù-a
+#lem: šum[give]; bad[wall]; du[build]
+
+37. 	
+:X2: 	⸢ù?⸣ za-e éren šu-zu-ta ì-ŋál-la
+#lem: u[and]; za'e[you]; erin[people]; šu[hand]; ŋal[be]
+
+38. 	
+:X2: 	[h]i-ri-tum{ki} ba-al-lá
+#lem: hiritum[ditch]; bal[dig]
+
+39. 	
+:X2: 	[m]a-da dím-⸢ma-bi⸣ nu-ku₅-ru-dè
+#lem: mada[land]; dimma[thought]; kud[cut]
+
+40. 	
+:X2: 	[n]am-ba-šúm-mu-⸢un-zé⸣-en
+#lem: šum[give]
+
+41. 	
+:X2: 	[e]n-na ma-da mu-un-ge!(NAM)-na-ta
+#lem: enna[until]; mada[land]; gin[establish]
+
+## gi -> ge
+42. 	
+:X2: 	⸢éren⸣ nam-mu-un-du₈-re-zé-en
+#lem: erin[people]; du[spread]
+
+43. 	
+:X2: 	lú-⸢kíŋ⸣-gi₄-a-e-ne á-áŋ-ŋá ma-da
+#lem: kiŋgia[messenger]; a aŋ[command]; mada[land]
+
+44. 	
+:X2: 	{d}utu-è-da-bi ha-ma-tùm
+#lem: utu'e[sunrise]; de[bring]
+
+45. 	
+:X2: 	a-ma-ru-kam
+#lem: amaru[flood]
+
+@translation labeled en project
+@(1) Speak to Šarrum-bani: @lab{2}saying (the words of) Šu-Sin, your king:
+
+@(3) The envoy whom I sent to you, ... above and beyond ... @lab{4}At daybreak my orders that I had provided, to me ... you were not to exceed. @lab{5}After you went away, before ... @lab{6}As for me, whatever (you) say to me ... @lab{7}After you set out for to the center of the frontier territory, @lab{8}you approached the territory and after spending the night ... @lab{9}Its nobles ... @lab{10}If by yourself ... @lab{11}their understanding ... his ... @lab{12}Their nobles then staged an ambush against you. @lab{13}When their @i{people had been expelled}, @lab{14}like them the frontier territory ... @lab{15}If their officer ... @lab{16}are of one mind, @lab{17}you will not be able to root them out from their hiding places. @lab{18}The enemy all gathered together ... @lab{19}When their cities have been handed over, @lab{20}until they come out from these fortifications, let no one get through. @lab{21}Once their (fighting) men had been killed, @lab{22}their women/workers of the citi(es) of your territory, who had been captured, were not to be [harmed?]. @lab{23}Thus did I command you. @lab{24}Why did you not act in accordance with my instructions? 
+
+
+@(25 - 26) But although it was not (normally) in your power to execute and blind people, nor to destroy cities, @lab{27}I gave you (that) authority. @lab{28}When earlier <my> father Šulgi had built @i{Bad-igihursaga}, @lab{29}none of you were there. @lab{30}The throne is mine, it not the throne of Šulgi! @lab{31}Lu-Nanna,^4^ the governor of Zimudar @lab{32}is to come to you and @lab{33}he will bring 60 @i{soldiers}. @lab{34}He is to send them [from among his own conscripts]. @lab{35}Babati, the high commissioner, @i{in accordance with orders} @lab{36}that I have already given to him, is to build the fortifications. @lab{37 - 38}But you, with the workers that have been entrusted to you—dig the moat! @lab{40}You were both enjoined @lab{39}to do nothing that would alter the allegiance of the frontier territory; @lab{41}until (that) territory is secured, @lab{42}neither you can demobilize the troops! @lab{43 - 44}Then, have envoys bring news of the territory to me each morning! @lab{45}It is urgent!
+
+#note: ^4^  Written as {m}<{ }lú>-{d}en-ki.
+&Q000603 = 20. Šu-Sin to Lu-Nanna and Šarrum-bani 1 (ŠuLuŠa1, 3.3.31)
+#project: cku
+#atf: use unicode
+#atf: use legacy
+#atf: use mylines
+@h1 N1 = Ni. 4164 (@i{ISET} 2 117) “obv.” ii’ 5’–11’. 
+1.	⸢{m}⸣lú-{d}nanna pisaŋ-du[b-ba]
+#lem: Lunanna[1]; bisaŋdubak[archivist]
+
+2.	[é]nsi ma-da ⸢zi⸣-[mu-dar{ki}-ra]
+#lem: ensik[ruler]; mada[land]; Zimudar[1]
+
+3. 	⸢{m}šar⸣-ru-um-ba-ni x x [x]
+#lem: Šarrumbani[1]; u; u; u
+
+4. 	[x] x ⸢gal?⸣-<zu?> ⸢unken?-na?⸣
+#lem: u; u; galanzu[wise]; unkin[assembly]
+
+5. 	[x] x x ⸢ù-na-dug₄⸣
+#lem: u; u; u; dug[speak]
+
+6. 	[{d}šu-{d}suen lugal-zu] ⸢na-ab-bé⸣-[a]
+#lem: Šusuen[1]; lugal[king]; e[speak]
+
+$ (remnants of six lines, rest of column broken)
+@reverse
+1’. 	[...]-x# x ⸢mu⸣ x x [...]
+#lem: u; u; mu[name]; u; u; u
+
+2’. 	min li-mu-um saŋ-DU [...] hu-mu-ni-i[n-...]
+#lem: min[two]; limum[thousand]; saŋ.DU[smitten person]; u; u
+
+3’. 	x-x-bi-ne-ne x x [...] hé-im-mi-í[l? ...]
+#lem: u; u; u; u; il[raise]; u
+
+4’. 	[ug]nim dugud h[é?-...]
+#lem: ugnim[army]; dugud[heavy]; u
+
+5’. 	[x n]am-nun/zil-ba/zu mu-da-a[n?-...]
+#lem: u; X; u
+
+6’. 	[x] mu ⸢mah⸣ x [...]
+#lem: u; mu[name]; mah[great]; u; u
+
+7’. 	[tu]kum-bi ⸢lugal?⸣-[ŋá an-na-kam] x-bi x [...]
+#lem: tukumbi[if]; lugal[king]; anna[approval]; u; u; u
+
+8’. 	[t]ukum-bi x [x] x x [...]
+#lem: tukumbi[if]; u; u; u; u; u
+
+9’. 	⸢eger?⸣-bi šu-ŋu₁₀ x x#-[...] x x x [...]
+#lem: egir[back]; šu[hand]; u; u; u; u; u; u
+
+## eŋer -> eger
+10’. 	[lugal?]-⸢ŋu₁₀?⸣ hé-en-⸢zu?⸣
+#lem: lugal[king]; zu[know]
+
+11’. 	($traces$)
+@translation labeled en project
+@(1 - 5) Speak to @lab{1 - 2}Lu-Nanna, imperial treasurer, governor of the territory of Zimudar, @lab{3 - 4}and to Šarrum-bani, the x, the special envoy, x x x, @lab{6}saying (the words of) [Šu-Sin, your king] ...
+
+&Q000557 = 21. Išbi-Erra to Ibbi-Sin 1 (IšIb1, 3.1.17, RCU 19)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+@h1 Part A
+1. 	{m}i-bi-{d}suen lugal-ŋu₁₀-ra ù-na-a-dug₄
+#lem: Ibbisuen[1]; lugal[king]; dug[speak]
+
+2.	{m}iš-bi-èr-ra árad-zu na-ab-bé-a
+#lem: Išbierra[1]; arad[slave]; e[speak]
+
+3.	kaskal ì-si-in{ki} ka-zal-lu{ki}-šè
+#lem: kaskal[way]; Isin[1]; Kazallu[1]
+
+4.	še sa₁₀-sa₁₀-dè á-šè mu-e-da-a-áŋ
+#lem: sa[equal]; sa[pay for]; a[arm]; aŋ[measure]
+
+5.	šakanka aša gur-ta-àm še sá ba-an-dug₄
+#lem: šakanka[market]; aš[one]; gur[unit]; še[barley]; sa[equal]; dug[speak]
+
+## aš -> aša
+6.	2(u) gun kù-babbar še sa₁₀ RI-dè ba-an-ŋar
+#lem: n; gun[load]; kugbabbar[silver]; še[barley]; sa[draw]; X; ŋar[place]
+
+7.	inim amurrum lú kúr-ra šà ma-da-zu ku₄-ra ŋiš ì-tuk-àm
+#lem: inim[word]; Amurrum[1]; lu[person]; kur[different]; šag[heart]; mada[land]; kur[enter]; ŋeš[tree]; tuku[acquire]
+
+8.	2(šaru) še gur še dù-a-bi šà ì-si-in{ki}-na-šè ba-an-ku₄-re-en
+#lem: n; še[barley]; gur[unit]; še[barley]; du[all]; šag[heart]; Isin[1]; kur[enter]
+
+9.	a-da-al-la-bi amurrum dù-dù-a-bi šà kalam-ma-šè ba-an-ku₄-ku₄
+#lem: adallabi[now]; Amurrum[1]; du[all]; šag[heart]; kalam[land]; kur[enter]
+
+10.	erim₃ gal-gal didli-bi im-mi-in-dab₅-dab₅
+#lem: erim[storeroom]; gal[big]; didli[several]; dab[seize]
+
+## gal-gal-didli-bi -> gal-gal didli-bi
+11.	mu amurrum še ba-sìg-ge nu-mu-e-da-šúm-mu^1^
+#lem: mu[name]; Amurrum[1]; še[barley]; sag[beat]; šum[give]
+
+#note: ^1^  Followed by two fragmentary lines in X1.
+12.	ugu-ŋu₁₀ mu-ta-ni-kalag ba-dúr-en
+#lem: ugu[bear]; kalag[strong]; durun[sit]
+
+13.	lugal-ŋu₁₀ ŋéš-u {ŋiš}má-gur₈ 2(geš₂) gur-ta-àm hé-em-du₈-e 
+#lem: lugal[king]; ŋešu[six hundred]; magur[barge]; n; gur[unit]; du[spread]
+
+## duh -> du₈
+14.	{ŋiš}má 1(u) 2(diš) kal-ga 2(u) {ŋiš}za-am-ru-tum 3(u) {ŋiš}illar
+#lem: ma[ship]; n; n; kalag[strong]; n; zamrutum[lance]; n; illar[weapon]
+
+15.	3(u) ŊIŠ-ŊIŠ  5(diš) {ŋiš}ig má ugu má?-e hé-ŋá-ŋá ù {ŋiš}má dù-a-bi hé-x 
+#lem: n; ŋeš[tree]; n; ig[door]; ma[ship]; ugu[skull]; ma[ship]; ŋar[place]; u[and]; ma[ship]; du[all]; u
+
+16.	íd-da íd-kur-ra {íd}pa-li-iš-tum-ta
+#lem: id[river]; Idkura[]WN; Palištum[]WN
+
+## íd kur-ra -> íd-kur-ra; íd pa-li-iš-tum -> {íd}pa-li-iš-tum
+17.	zar? sal-la-šè hé-em-ta-ab-è-dè-eš
+#lem: zar[sheaf]; sal[thin]; e[leave]
+
+18.	ù ŋá-e igi-ni-šè ga-àm-ta-è
+#lem: u[and]; ŋa'e[I]; igi[eye]; e[leave]
+
+19.	ki {ŋiš}má kar-bi ugu-ŋá ì-tuku
+#lem: ki[place]; ma[ship]; kar[harbor]; ugu[skull]; tuku[acquire]
+
+20.	2(šaru) gur še dù-a-bi hé-ŋá-ŋá hé-e-silim
+#lem: n; gur[unit]; sa[equal]; du[all]; ŋar[place]; silim[healthy]
+
+21.	tukum-bi še-àm ba-ab-tur-re
+#lem: tukumbi[if]; še[barley]; tur[small]
+
+22. 	ŋá-e še ga-ra-ab-ku₄-e^2^ 
+#lem: ŋa'e[I]; sa[equal]; kur[enter]
+
+#note: ^2^  Var. (21–22) tukum-bi še ba-an-tur-re-en / ŋá-e še-bi mu-ra-ku₄.
+23.	lugal-ŋu₁₀ elam{ki}-ma šen-šen-na zi ba-an-ir
+#lem: lugal[king]; Elam[1]; šen[battle]; zi[life]; ir[cvve]
+
+24.	še-ba-ni ul₄-la-bi al-til-la
+#lem: še[barley]; ul[hasten]; til[complete]
+
+25.	lirum lirum na-an-du₈-en
+#lem: lirum[strength]; lirum[strength]; duh[loosen]
+
+## duh -> du₈
+26.	nam-árad-da-ni-šè saŋ-zu na-an-šúm-mu-un
+#lem: namarad[slavery]; saŋ[head]; šum[give]
+
+27.	ù egir-ra-ni-šè na-an-du-un
+#lem: u[and]; egir[back]; du[go]
+
+## eŋer -> eger
+28.	še mu udilia-ta-àm šà-gal é-gal-zu ù ùŋ dù-a-bi šà uru{ki}-ŋu₁₀-ta-àm ì-ŋál^3^
+#lem: še[barley]; mu[name]; udiliya[fifteen]; šaggal[food]; egal[palace]; u[and]; uŋ[people]; du[all]; šag[heart]; iri[city]; ŋal[be]
+
+## un -> ùŋ
+
+#note: ^3^  Var. ù uru dù-a-zu/bi šu-mu-ta ì-ŋál.
+29.	uru ì-si-in{ki} ù nibru{ki} en-nu-ùŋ ak-dè ugu-ŋá hé-tuku^4^
+#lem: iri[city]; Isin[1]; u[and]; Nibru[1]; ennuŋ[imprisonment]; ak[do]; ugu[skull]; tuku[acquire]
+
+#note: ^4^  Var. nibru{ki} isin{ki} en-nu-ùŋ ha-ra-ra-ab-ak-e (lugal-ŋu₁₀) ugu-ŋá hé-(en)-tuku.
+30.	lugal-ŋu₁₀ hé-en-zu
+#lem: lugal[king]; zu[know]
+
+@h1 Part B
+31.	lugal-ŋu₁₀ ní nu-te ní nu-gíd-i šà-ba ŋá-e nu-te-BU
+#lem: lugal[king]; ni[fear]; teŋ[approach]; ni[fear]; gid[long]; šag[heart]; ŋa'e[I]; X
+
+32.	diŋir didli-bi šà hé-ni-íb-kíŋ-kíŋ-e ki-bi hé-kíŋ-kíŋ
+#lem: diŋir[deity]; didli[several]; šag[heart]; kiŋ[seek]; ki[place]; kiŋ[seek]
+
+## diŋir-didli -> diŋir didli
+33.	ùŋ daŋal-bi nam-lú-ùlu-bi mah
+#lem: uŋ[people]; daŋal[wide]; namlulu[humanity]; mah[great]
+
+34.	hé-silim-me-eš numun zi-da hé-en-gal-le-eš
+#lem: silim[healthy]; numun[seed]; zid[right]; gal[big]
+
+35.	uri₅{ki} uru kù-zu an-ki-da mú-a 
+#lem: Urim[1]; iri[city]; kug[pure]; X; mu[grow]
+
+36.	nun gal išib-e dù-a-bi saŋ-ki-bi kal-la
+#lem: nun[prince]; gal[big]; išib[priest]; du[all]; saŋki[forehead]; kal[rare]
+
+37.	me šúm-mu uš ŋiš-hur ge-en-ge-né kur sig igi-nim-ma
+#lem: me[Being]; šum[give]; uš[foundation]; ŋešhur[plan]; gin[establish]; kur[mountain]; sig[lower]; iginim[land]
+
+## ús -> uš
+38.	šu-ta hé-kar-re inim-bi hé-éb-bé
+#lem: šu[hand]; kar[flee]; inim[word]; e[speak]
+
+39.	é-kiš-nu-ŋál èš an-ki šú-šú gaba-ri nu-tuku
+#lem: Ekišnuŋal[1]; eš[shrine]; anki[universe]; šuš[cover]; gabari[copy]; tuku[acquire]
+
+40.	elam{ki} ur idim lú níŋ-ha-lam-ma-ke₄
+#lem: Elam[1]; ur[dog]; idim[animal]; lu[person]; niŋhalama[destruction]
+
+41.	šu pe-el nu-ma-ak-e {d}lama-bi nu-si-il
+#lem: šu[hand]; pel[defile]; ak[do]; lammar[deity]; sil[split]
+
+42.	lugal-ŋu₁₀ gù-šúm-šúm gal-gal dùb-tuku mu-x-x-a
+#lem: lugal[king]; gušumšum[~noisy]; gal[big]; dubtuku[runner]; u
+
+43.	{m}i-bi-{d}suen šà-ta è-a-ni diŋir ki-áŋ-me-eš
+#lem: Ibbisuen[1]; šag[heart]; e[leave]; diŋir[deity]; ki'aŋa[beloved]
+
+44.	an {d}en-líl {d}en-ki igi zi hu-mu-un-ši-bar-re-e-ne
+#lem: An[1]; Enlil[1]; Enki[1]; igi[eye]; zi[life]; bar[outside]
+
+45.	[...] x x x x x x hé-en-ŋar igi-bi hé-éb-gi
+#lem: u; u; u; u; u; u; u; ŋar[place]; igi[eye]; gi[turn]
+
+46.	{[ŋiš]}ig abul uri₅{ki}-ma ŋál tak₄-tak₄-da-a-a
+#lem: ig[door]; abula[gate]; Urim[1]; ŋal[open]; taka[abandon]
+
+## ŋál-tak₄ -> ŋál tak₄
+## giš -> ŋiš
+47.	(x) x i-ni-ib-bé a-ba-àm lugal-ŋu₁₀ e-še
+#lem: u; u; e[speak]; aba[who?]; lugal[king]; eše[saying]
+
+48.	lugal {d}en-líl-le gaba-ri nu-tuku-me-en
+#lem: lugal[king]; Enlil[1]; gabari[copy]; tuku[acquire]
+
+49.	x nu x x x x šà-zu na-an-gig-ge
+#lem: u; lu[person]; u; u; u; u; šag[heart]; gig[sick]
+
+50.	x šu mu-un-gi suhuš-bi mu-ri-in-ge-en
+#lem: u; šu[hand]; gi[turn]; suhuš[foundation]; gin[establish]
+
+51.	[...]-x šu? nu-du₇-a šà-zu hé-en-du₁₀-ge
+#lem: u; šu[hand]; du[perfect]; šag[heart]; dug[good]
+
+52.	en-na lugal-ŋu₁₀ al-ti-la nam-lugal uri₅{ki} mu-un-ak-e
+#lem: enna[until]; lugal[king]; til[live]; namlugal[kingship]; Urim[1]; ak[do]
+
+53.	níŋ-na-me lugal-ŋu₁₀ kíŋ mu-na-ni-íb-gi
+#lem: niŋname[anything]; lugal[king]; kiŋ[work]; gi[turn]
+
+54.	a-ma-ru-kam nam-ba-e-šub-dè-en-zé-en
+#lem: amaru[flood]; šub[fall]
+
+55.	igi {d}utu-kam ka-ŋu₁₀ nu-bal-e
+#lem: igi[eye]; Utu[1]; kag[mouth]; bala[turn]
+
+@translation labeled en project
+@h1 Part A
+
+@(1) Speak to Ibbi-Sin, my king, @lab{2}saying (the words of) Išbi-Erra, your servant:
+
+@(3 - 4) You gave me orders concerning an expedition from Isin to Kazallu to purchase grain. @lab{5}As the market price of grain was equivalent to (one shekel) per liter, @lab{6}twenty talents of silver was invested in the purchase of grain. @lab{7}Word having reached me that hostile Amorites had entered your frontier territory, @lab{8}I proceeded to deliver all the grain—72,000 kor—into (the city of) Isin. @lab{9}But now all the Amorites have entered the homeland, @lab{10}and have captured all the great storehouses, one by one. @lab{11}Because of (these) Amorites I cannot hand over the grain for threshing;^5^ @lab{12}they are too strong for me, and I am made to stay put. @lab{13}Therefore, my king should (order) the caulking of 600 barges of 120 liter capacity, @lab{14}@i{escorted by 12 armed ships}, and load each with 20 @i{swords}, 30 @i{bows}, @lab{15}load each ship with 30 @i{beams} and five (additional) hatches, and have all the boats ... @lab{16 - 17}so that they can be brought down by water, through the Idkura and the Palištum canals so they can pile up (the grain) in stacks (for drying), @lab{18}and I will myself go out to meet him (i.e., Ibbi-Sin). 
+
+#note: ^5^  Followed by two fragmentary lines in X1.
+
+
+@(19) I shall take responsibility for the place where the boat(s) moor, {-20 }so that the 72,000 kor of grain—that is all of the grain—will be placed (there), and be safe. @lab{21 - 22}Should there be a shortage of grain, I will be the one who brings you grain.^6^
+
+#note: ^6^  Var.: Should you lack grain, I will bring you that grain.
+
+
+@(23) My king is troubled by the war with the Elamite, @lab{24}but his own grain rations are rapidly being depleted, @lab{25}so do not release your grip on power, @lab{26}do not rush to become his servant, @lab{27}and to follow him! @lab{28}There is (enough) grain in my city to provision your palace and all the people for fifteen years,^7^ @lab{29}so let the responsibility of guarding the cities of Isin and Nippur be mine!^8^ @lab{30}Now my king is informed (about all of this)! 
+
+#note: ^7^  Var.: I have at my disposal (enough) grain (to provision) your palace and all of its/your cities for fifteen years.
+
+#note: ^8^  Var.: Please let me guard Isin and Nippur for you, let me have (that) responsibility (o my king)!
+
+
+@h1 Part B
+
+@(31) My king, I am neither afraid, nor worried, and (if I were you) I would certainly not be @i{worried} in there (i.e., Ur). @lab{32}Seek out the intentions of the various gods and attend to them @lab{33 - 34}so that its far-flung people and its supreme populace will be safe and truly@i{ multiply}! 
+
+@(35) Ur, city of wisdom, linking the heavens and the earth; @lab{36}having been built by Great Prince (Enki), the exorcist, (it is a city) whose façade is precious (to the people), @lab{37}one endowed with cosmic rites, whose foundations and ground plans are secure (among all the) lands, south to north, @lab{38}@i{it will surely be spared and its (favorable divine) decision announced!} 
+
+@(39) (Temple) Ekišnuŋal, shrine that envelops the heavens and the earth, without rival—{40 }the Elamite, an evil^9^ vicious dog, {41 }will not defile it, nor render asunder its guardian deities! {42 }@i{My king, all the loudest noisemakers have run away.} 
+
+#note: ^9^  Alt. transl.: destructive.
+
+@(43) Ibbi-Sin, beloved by the gods as he came out of the womb—@lab{44}An, Enlil, and Enki, looked so favorably upon him! @lab{45}Established ... so that its front be secure, @lab{46}are ordering that the doors of the gate of Ur be opened, @lab{47}saying “Who is really king?” @lab{48}But it is you who are the king to whom Enlil gave no rival! @lab{49}So do not ..., so be of good spirits! @lab{50}@i{(He/they) has/have taken revenge}, and secured its foundations for you. @lab{51}Not being ... may your spirit be happy! @lab{52}As long as my king is alive, he will exercise kingship over Ur, @lab{53}and (I will do) whatever my king might command me to do! @lab{54}Please, I will not neglect (your orders)! @lab{55}By Utu, I will not change my allegiance!
+
+
+&Q000558 = 22. Ibbi-Sin to Išbi-Erra (IbIš1, 3.1.18, RCU 20)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+#atf: use math
+@h1 IbIš1A = source X1
+1.	[{m}iš-bi-èr-ra-r]a ⸢ù-na-a-dug₄⸣
+#lem: Išbierra[1]; dug[speak]
+
+2.	[{d}i-bí-{d}suen lugal-zu] ⸢na-ab⸣-[bé]-⸢a⸣
+#lem: Ibbisuen[1]; lugal[king]; e[speak]
+
+$	2-3 lines broken
+1’. 	x {d}en-líl-lá íb ba-an-ak [...] 
+#lem: u; Enlil[1]; ib[angry]; ak[do]; u
+
+2’. 	⸢ki-šà⸣-bi nu-me-a lú kúr mu-un-zi-ma ⸢kur-kur⸣ i[m-sùh-sùh]
+#lem: kiša[XXX]; me[be]; lu[person]; kur[different]; zig[rise]; kur[mountain]; suh[confuse]
+
+3’.	⸢u₄⸣ {d}en-líl-le dumu-ni {d}suen-ra im-m[i-gur]
+#lem: ud[sun]; Enlil[1]; dumu[child]; Suen[1]; gur[turn]
+
+4’.	za-e inim-zu ŋiškim bí-in-tuk-à[m]
+#lem: za'e[you]; inim[word]; ŋeškim[sign]; tuku[acquire]
+
+5’.	niš gú-un kù-babbar še sa₁₀-sa₁₀^1^-dè šu bí-⸢in-ti⸣
+#lem: niš[twenty]; gun[load]; kugbabbar[silver]; še[barley]; sa[pay for]; šu[hand]; teŋ[approach]
+
+#note: ^1^  In this text sa₁₀ is written NÍNDA×ŠE.ÀM.
+6’.	min₆ še gur-ta-àm aša gín-⸢àm⸣ bí-ib-sa₁₀-s[a₁₀ (...)]
+#lem: min[two]; še[barley]; gur[unit]; aš[one]; giŋ[unit]; sa[pay for]; u
+
+## aš -> aša
+7’. 	ŋá-ra aša še gur-ta^2^-àm gi₄-ŋu₁₀-da
+#lem: ŋar[place]; aš[one]; še[barley]; gur[unit]; gi[turn]
+
+## aš -> aša
+
+#note: ^2^  The scribe began to write àm and then wrote ta over it.
+8’.	amurrum lú kúr-ra ⸢šà⸣ ma-da-ka ì-gub-ba
+#lem: Amurrum[1]; lu[person]; kur[different]; šag[heart]; mada[land]; gub[stand]
+
+9’.	usu kalam-ma-ŋu₁₀ éren-bi-ta mu-un-zu-a
+#lem: usu[strength]; kalam[land]; erin[people]; zu[know]
+
+10’. 	a-gin₇ ma-da-ŋu₁₀ saŋ ba-e-šúm-ma bàd gal-ŋu₁₀ mu-e-⸢dab₅-dab₅⸣
+#lem: agin[thus]; mada[land]; saŋ[head]; šum[give]; bad[wall]; gal[big]; dab[seize]
+
+11’. 	{m}puzur₄-{d}⸢marduk šakkana⸣ bàd igi-hur-saŋ-ŋá
+#lem: Puzurmarduk[1]; šakkanak[general]; bad[wall]; Igihursaŋa[1]
+
+12’. 	a-gin₇ amurrum an-⸢ta⸣ nam-mu-un-gi₄-gi₄
+#lem: agin[thus]; Amurrum[1]; an[sky]; gi[turn]
+
+13’. 	u₄ na-me-ka {ŋiš}tukul kala-ga-zu li-bí-in-túm-⸢ma⸣ 
+#lem: ud[sun]; name[any]; tukul[weapon]; kalag[strong]; tum[bring]
+
+14’. 	nir-ŋál-zu-ta x^3^ {ugu}ugu₄-bi kur-bi-ta im-ta-x-x-x 
+#lem: nirŋal[authoritative]; u; ugubi[monkey]; kur[mountain]; u
+
+#note: ^3^  Possibly an erased ugu.
+15’. 	á-še ⸢180⸣-àm {ŋiš}má gu-la {ŋiš}má 120 gur-⸢ta-àm⸣ im-ma-an-du₈-e
+#lem: aše[now]; n; ma[ship]; gal[big]; ma[ship]; n; gur[unit]; du[spread]
+
+## duh -> du₈
+16’. 	ù ŋéš-u-àm {ŋiš}má ŋéš <gur>-ta-àm im-⸢ma⸣-an-⸢du₈⸣-[e]
+#lem: u[and]; ŋešu[six hundred]; ma[ship]; ŋeš[sixty]; gur[unit]; du[spread]
+
+## duh -> du₈
+17’. 	{m}šu-{d}en-⸢líl⸣ énsi ⸢kiši{ki}-àm⸣
+#lem: Šuenlil[1]; ensik[ruler]; Kiš[1]
+
+18’. 	{m}nu-úr-é-a énsi èš-nun-na{⸢ki⸣}-[àm]
+#lem: Nurea[1]; ensik[ruler]; Ešnunna[1]
+
+19’. 	{m}puzur₄-tu-tu énsi bàd-zi-ab-ba[{ki}-àm]
+#lem: Puzurtutu[1]; ensik[ruler]; Badziaba[1]
+
+20’. 	⸢|ŠÁR×20?|⸣ še gur še šu-zu-ta bí-íb-si-ge-eš
+#lem: n; še[barley]; gur[unit]; še[barley]; šu[hand]; sig[put]
+
+21’. 	kù šu-zu-ta ⸢ù sá?⸣-dug₄ mah?-⸢di?⸣
+#lem: kug[metal]; šu[hand]; u[and]; sadug[offerings]; mahdi[exalted]
+
+22’. 	|ŠÁR×20| še sa₁₀-⸢sa₁₀-dè⸣ saŋ-ŋá hé-en-⸢ŋál⸣
+#lem: n; še[barley]; sa[pay for]; saŋ[head]; ŋal[be]
+
+23’. 	en-na mu-e-ši-in-gi₄ nam-ma-ši-du-un
+#lem: enna[until]; gi[turn]; ŋen[go]
+
+24’. 	⸢nibru⸣{ki} ⸢ì-si-in{ki}⸣ en-nu-ùŋ ak-dè ugu-zu-⸢šè⸣ ⸢e⸣-tuku a-ma-ru-kam
+#lem: Nibru[1]; Isin[1]; ennuŋ[imprisonment]; ak[do]; ugu[skull]; tuku[acquire]; amaru[flood]
+
+## aka -> ak
+$ (Colophon P)
+@h1 = X2 = IbIš1B = source X2
+X2:1. 	{⸢d⸣}iš-bi-èr-ra-ra ⸢ù-na⸣-a-dug₄
+#lem: Išbierra[1]; dug[speak]
+
+X2:2. 	{d}i-bí-{d}⸢suen lugal-zu na-ab⸣-bé-⸢a⸣
+#lem: Ibbisuen[1]; lugal[king]; e[speak]
+
+X2:3. 	en-na {d}en-líl ⸢lugal-ŋu₁₀⸣ me-šè i-im-du-dè-en
+#lem: enna[until]; Enlil[1]; lugal[king]; meše[where to?]; du[go]
+
+X2:4.  	za-e ur₅-gin₇ ka ì-bal-e
+#lem: za'e[you]; ur[he]; kag[mouth]; bala[turn]
+
+X2:5.  	u₄-da {d}en-líl-le ŋá-a-ra hul ba-an-gig
+#lem: ud[sun]; Enlil[1]; ŋa'e[I]; hulu[bad]; gig[sick]
+
+X2:6.  	dumu-ni {d}suen-na-ra hul ba-an-gig
+#lem: dumu[child]; Suen[1]; hulu[bad]; gig[sick]
+
+X2:7.  	uri₅{ki} lú kúr-ra bí-in-šúm-mu 
+#lem: Urim[1]; lu[person]; kur[different]; šum[give]
+
+X2:8.  	ki ⸢šà?⸣-ba nu-me-a lú kúr im-zi-ge kur-kur im-sùh-sùh
+#lem: ki[place]; šag[heart]; me[be]; lu[person]; kur[different]; zig[rise]; kur[mountain]; suh[confuse]
+
+X2:9.  	u₄ {d}en-líl-le dumu-ni {d}suen-na-ra im-me-gur
+#lem: ud[sun]; Enlil[1]; dumu[child]; Suen[1]; gur[turn]
+
+X2:10. 	za-e inim-zu ŋiškim im-ma-an-⸢tuku⸣
+#lem: za'e[you]; inim[word]; ŋeškim[sign]; tuku[acquire]
+
+X2:11. 	niš gun kù-babbar še sa₁₀^4^-e-dè ⸢šu⸣ ba-e-ti  
+#lem: niš[twenty]; gun[load]; kugbabbar[silver]; še[barley]; sa[pay for]; šu[hand]; teŋ[approach]
+
+#note: ^4^  In this text sa₁₀ is written NÍNDA×ŠE.ÀM.
+X2:12. 	min₆ še gur-ta-àm kù-babbar aša gín-e bí-in-⸢sa₁₀-sa₁₀-e⸣
+#lem: min[two]; še[barley]; gur[unit]; kugbabbar[silver]; aš[one]; giŋ[unit]; sa[pay for]
+
+## aš -> aša
+X2:13. 	ŋá-a-ra aša še gur-ta-àm za-e mu-un-gi
+#lem: ŋa'e[I]; aš[one]; še[barley]; gur[unit]; za'e[you]; gi[turn]
+
+## aš -> aša
+X2:14. 	puzur₄-{d}nu-muš-da šakkana bàd igi-hur-⸢saŋ⸣-ŋá
+#lem: Puzurnumušda[1]; šakkanak[general]; bad[wall]; Igihursaŋa[1]
+
+## bàd-igi -> bàd igi
+X2:15. 	amurrum lú kúr-ra šà kalam-ma-ŋu₁₀-šè a-gin₇ im-da-an-ku₄-re-en
+#lem: Amurrum[1]; lu[person]; kur[different]; šag[heart]; kalam[land]; agin[thus]; kur[enter]
+
+X2:16. 	en-na {ŋiš}tukul sìg-ge-dè nam-mu-e-ši-in-gi
+#lem: enna[until]; tukul[weapon]; sag[beat]; gi[turn]
+
+X2:17. 	lú saŋ-du nu-tuku kalam-ma ì-ŋál-la
+#lem: lu[person]; saŋdu[head]; tuku[acquire]; kalam[land]; ŋal[be]
+
+X2:18. 	a-gin₇ amurrum-e an-ta nam-mu-ši-in-gi
+#lem: agin[thus]; Amurrum[1]; an[sky]; gi[turn]
+
+@translation labeled en project
+@h1 IbIš1A
+
+@(1) Speak to [Išbi-Erra], @lab{2}s[aying (the words of) Ibbi-Sin, your king]:
+
+(ca. 5 lines missing) 
+
+@(1’) (Now) Enlil’s heart(?) is angry ...
+
+@(2’) The enemy, although not ..., has mustered (his army), and has [brought disorder] in all the foreign lands. @lab{4’}But then you, according to your statement, had an omen @lab{3’}(telling you that) now Enlil [has returned] to the side of his son Sin. 
+
+@(5’) You (text: he) received twenty talents of silver to purchase grain. @lab{6’}You (text: he) purchased grain at the price of two gur per shekel, @lab{7’}to return it to me^5^ as if (you had purchased it) at one gur (per shekel)!
+
+#note: ^5^  Alt. transl.: return it to me.
+
+@(8’) The hostile Amorite, having stationed himself in the frontier territory, @lab{9’}having come to know the strength of my homeland and its troops—@lab{10’}how could you let them sweep into my frontier zone and capture all my large fortresses? @lab{11’ - 12’}Why has Puzur-Marduk, general of Badigihursaŋa, not confronted the Amorites? @lab{13’}Your powerful forces were never brought into play, @lab{14’}it is because of your self-confidence the monkey has [@i{been allowed to come down}] from its mountain!
+
+@(15’) Now I am overhauling 180 great barges, each (vessel) with a capacity of 120 gur, as well as overhauling 600 barges with a capacity of 60 gur each. @lab{17’}Šu-Enlil, governor of Kiš, @lab{18’}Nur-Ea (i.e., Nur-ahum), governor of Ešnunna, @lab{19’}(and) Puzur-Tutu, governor of Borsippa @lab{20’}have handed over 72,000 gur of grain to you, @lab{21’ - 22’}and therefore you should measure out the silver that you have as well @i{as what (was set aside for even) the most exalted allotments} to pay for the 72,000 (gur) of grain. @lab{23’}Do not dare to come back here until you have dispatched (the grain) to me! @lab{24’}Guarding Nippur and Isin is your responsibility. It is urgent!
+
+@h1 IbIš1B
+
+@(X2:1) Speak to Išbi-Erra, @lab{2}saying (the words of) Ibbi-Sin, your king:
+
+@(X2:4) You tell me so: @lab{3}“as long as Enlil is my master, where else (in the world but with you) would I go?” @lab{5}Right now Enlil is angry with me, @lab{6}angry with his son Sin, @lab{7}and is handing over Ur to the enemy. @lab{8}The enemy, although not (yet) within it, has mustered (his army), and created disorder in all the foreign lands. @lab{10}But you, according to your statement, had an omen @lab{9}that Enlil has reconciled with his son Sin. 
+
+@(X2:11) You received twenty talents of silver to purchase grain. @lab{12}You purchased grain at the price of two gur per shekel, @lab{13}but you then returned it to me (as if you had purchased it) at one gur (per shekel). 
+
+@(X2:14) How could you, together with Puzur-Numušda, general of Bad-Igihursaŋa, @lab{15}allow the enemy Amorites to enter into my homeland? @lab{16}Until he returns to you to fight (them) @lab{17}there will be idiots (running around) in the homeland—@lab{18}why has he not confronted the Amorites? 
+
+
+&Q000559 = 23. Puzur-Numušda to Ibbi-Sin 1 (PuIb1, 3.1.19, A3, RCU 21)
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+1.	{d}i-bí-{d}suen lugal-ŋu₁₀-ra ù-na-a-dug₄
+#lem: Ibbisuen[1]; lugal[king]; dug[speak]
+
+2.	{m}puzur₄-{d}nu-muš-da énsi ka-zal-lu{ki} árad-zu na-ab-bé-a
+#lem: Puzurnumušda[1]; ensik[ruler]; Kazallu[1]; arad[slave]; e[speak]
+
+3.	lú-kíŋ-gi₄-a {d}iš-bi-èr-ra ugu-ŋu₁₀-šè ì-gin
+#lem: kiŋgia[messenger]; Išbierra[1]; ugu[skull]; ŋen[go]
+
+4.	{d}iš-bi-èr-ra lugal-ŋu₁₀ ugu-zu-šè kiŋ₂-gi₄-a im-mi-in-gi₄
+#lem: Išbierra[1]; lugal[king]; ugu[skull]; kiŋgia[messenger]; gi[turn]
+
+## kin -> kiŋ₂
+5.	igi-ni ma-an-ŋar-ma
+#lem: igi[eye]; ŋar[place]
+
+6.	{d}en-líl lugal-ŋu₁₀ nam-sipa kalam-ma ka-ka-ni ma-an-šúm
+#lem: Enlil[1]; lugal[king]; namsipad[shepherdship]; kalam[land]; kag[mouth]; šum[give]
+
+7.	gú {íd}idigna gú {íd}buranun-na gú {íd}abgal ù gú {íd}me-{d}en-líl-lá
+#lem: gu[neck]; Idigna[1]; gu[neck]; Buranun[1]; gu[neck]; Abgal[1]; u[and]; gu[neck]; Me'enlila[1]
+
+8.	uru{ki}-bi-ne diŋir-bi-ne ù ugnim-bi-ne
+#lem: iri[city]; diŋir[deity]; u[and]; ugnim[army]
+
+9.	ma-da ha-ma-zi{ki}-ta en-na a-ab-ba má-gan-na{ki}-šè
+#lem: mada[land]; Hamazi[1]; enna[until]; a'abak[sea]; Magan[1]
+
+10.	igi {d}nin-in-si-na-ka-šè ku₄-ku₄-dè
+#lem: igi[eye]; Ninisinak[1]; kur[enter]
+
+11.	ì-si-in{ki} nam-ŋá-nun {d}en-líl-lá-šè ŋá-ŋá-da mu tuk-tuku-da
+#lem: Isin[1]; namŋanun[storage]; Enlil[1]; ŋar[place]; mu[name]; tuku[acquire]
+
+## tuk-tuk -> tuk-tuku
+12.	nam-ra-ak-ne-ne uru-uru-bi durun-ù-dè
+#lem: namra'ak[booty]; iri[city]; durun[sit]
+
+13.	{d}en-líl-le ŋá-a-ra ma-an-dug₄
+#lem: Enlil[1]; ŋa'e[I]; dug[speak]
+
+14.	a-na-aš-àm gú mu-da-ak
+#lem: anaš[why?]; gu[neck]; ak[do]
+
+15.	mu {d}da-gan diŋir-ŋá ì-pàd^1^
+#lem: mu[name]; Dagan[1]; diŋir[deity]; pad[find]
+
+#note: ^1^  Var.: mu {d}en-líl lugal-ŋu₁₀ ù {d}da-gan diŋir-ŋá ì-pàd.
+16.	ka-zal-lu{ki} šu-ŋu₁₀ sá hé-eb-bé
+#lem: Kazallu[1]; šu[hand]; sa[equal]; e[speak]
+
+17.	uru ma-da {d}en-líl-le ma-an-dug₄-ga-àm
+#lem: iri[city]; mada[land]; Enlil[1]; dug[speak]
+
+## du₁₁ -> dug₄
+18.	šà ì-si-in{ki}-na-ka zag-gu-la-ne-ne ga-bí-ib-dù-dù
+#lem: šag[heart]; Isin[1]; zaggula[shrine]; du[build]
+
+19.	èš-èš-a-ne-ne-a ga-àm-ak
+#lem: ešeš[festival]; ak[do]
+
+20.	alam-ŋu₁₀ šu-nir-ŋu₁₀ en lú-mah ereš-diŋir-ŋu₁₀-ne
+#lem: alan[statue]; šunir[emblem]; en[cvne]; lumah[priest]; erešdiŋir[priestess]
+
+## mu -> ŋu₁₀
+21.	ŋi₆-par₄-ra-ne-ne-a ga-bí-ib-durunₓ(|KU.KU|)
+#lem: ŋipar[cloister]; durun[sit]
+
+22.	igi {d}en-líl-lá šà é-kur-ra-šè
+#lem: igi[eye]; Enlil[1]; šag[heart]; Ekur[1]
+
+23.	igi {d}nanna šà é-kiš-nu-ŋál-šè
+#lem: igi[eye]; Nannar[1]; šag[heart]; Ekišnuŋal[1]TN/k
+
+24.	tur-tur-ŋu₁₀ sízkur-bi hé-eb-bé
+#lem: tur[small]; siškur[prayer]; e[speak]
+
+25.	ù za-e lú ŋiškim-ti-zu-um
+#lem: u[and]; za'e[you]; lu[person]; ŋeškimtil[trust]
+
+26.	ma-da-ni-ta ga-àm-ta-an-gub-bu
+#lem: mada[land]; gub[stand]
+
+27.	ì-si-in{ki}-na bàd-bi ga-àm-dù
+#lem: Isin[1]; bad[wall]; du[build]
+
+28.	i-di-il-pa-šu-nu mu-šè ga-an-sa₄
+#lem: Idilpašunu[1]; mu[name]; še[call]
+
+29.	bí-in-dug₄-ga-gin₇-nam
+#lem: dug[speak]
+
+## du₁₁ -> dug₄
+30.	ì-si-in{ki}-na bàd-bi ba-an-dù
+#lem: Isin[1]; bad[wall]; du[build]
+
+31.	i-di-il-pa-šu-nu mu-šè ba-an-sa₄
+#lem: Idilpašunu[1]; mu[name]; še[call]
+
+32.	nibru{ki} ba-an-dab₅ en-nu-ùŋ-ŋá-ni ba-an-ŋar
+#lem: Nibru[1]; dab[seize]; ennuŋ[imprisonment]; ŋar[place]
+
+33.	ù {m}níŋ-dug₄-ga-ni saŋa nibru{ki} ba-an-dab₅
+#lem: u[and]; Niŋdugani[1]; saŋŋa[official]; Nibru[1]; dab[seize]
+
+## du₁₁ -> dug₄
+34.	{m}zi-in-nu-um énsi su-bir₄{ki}-a šaŋa i-ni-in-dab₅
+#lem: Zinnum[1]; ensik[ruler]; Subir[1]; šaŋar[oppressed]; dab[seize]
+
+35.	ha-ma-zi{ki} nam-ra-aš im-mi-in-ak
+#lem: Hamazi[1]; namra[booty]; ak[do]
+
+36.	{m}nu-úr-a-hi énsi èš-nun-na{ki}
+#lem: Nurahi[1]; ensik[ruler]; Ešnunna[1]
+
+37.	{m}šu-{d}en-líl énsi kiši{ki}-a
+#lem: Šuenlil[1]; ensik[ruler]; Kiš[1]
+
+38.	ù {m}puzur₄-{d}tu-tu énsi bàd-zi-ab-ba{ki}
+#lem: u[and]; Puzurtutu[1]; ensik[ruler]; Badziaba[1]
+
+39.	ki-ni-šè ba-an-gur-ru-uš
+#lem: ki[place]; gur[turn]
+
+40.	za-pa-áŋ-ŋá-ni^3^ ma-da gi-sig-gin₇ ì-bur₁₀-e
+#lem: zipaŋ[breath]; mada[land]; gisig[fence]; bul[shake]
+
+#note: ^3^  Var. za-pa-áŋ-ŋá-ni-ta.
+41.	{d}iš-bi-èr-ra igi éren-na-šè ì-gin-gin
+#lem: Išbierra[1]; igi[eye]; erin[people]; ŋen[go]
+
+42.	bí-in-dug₄-ga-gin₇-nam
+#lem: dug[speak]
+
+## du₁₁ -> dug₄
+43.	gú {íd}idigna gú {íd}buranun-na gú {íd}abgal ù gú {íd}me-{d}en-líl-lá ba-an-dab₅
+#lem: gu[neck]; Idigna[1]; gu[neck]; Buranun[1]; gu[neck]; Abgal[1]; u[and]; gu[neck]; Me'enlila[1]; dab[seize]
+
+44.	{m}i-di mà-al-gi₄{ki}-a ba-ni-in-ku₄
+#lem: Idi[1]; Malgium[1]; kur[enter]
+
+45.	{m}gir-bu-bu énsi ŋír-kal{ki}-ke₄
+#lem: Girbubu[1]; ensik[ruler]; ŊIRkal[1]
+
+46.	gú im-da-bar-re-ma {kuš}guru₂₁-ni ba-an-ku₅ ù e-ne ba-an-dab₅
+#lem: gu[neck]; bar[outside]; guru[shield]; kud[cut]; u[and]; ane[he]; dab[seize]
+
+47.	za-pa-áŋ-ŋá-ni im-ma-dugud
+#lem: zipaŋ[breath]; dugud[heavy]
+
+48.	ugu-ŋu₁₀-uš igi-ni ma-an-ŋar
+#lem: ugu[skull]; igi[eye]; ŋar[place]
+
+49.	lú tab-ba nu-tuku lú nu-mu-un-da-sá-e
+#lem: lu[person]; tab[double]; tuku[acquire]; lu[person]; sa[equal]
+
+50.	šu-ni sá nu-mu-un-da-ab-dug₄-ga-ta
+#lem: šu[hand]; sa[equal]; dug[speak]
+
+## du₁₁ -> dug₄
+51.	ù-mu-un-šub ga-àm-ma-gin lugal-ŋu₁₀ hé-en-zu
+#lem: šub[fall]; ŋen[go]; lugal[king]; zu[know]
+
+@translation labeled en project
+@(1) Speak to Ibbi-Sin, my king, @lab{2}saying (the words of) Puzur-Numušda, governor of Kazallu, your servant:
+
+@(3) The envoy of Išbi-Erra came before me (and said): @lab{4}“My king Išbi-Erra, has sent me to you to you with a message.” @lab{5}He presented the matter as follows: @lab{6}“My master Enlil has promised me stewardship of the homeland. @lab{13}Yes, it was me that Enlil ordered @lab{10}to deliver to Ninisina @lab{7}the banks of the Tigris and Euphrates, the Abgal and Me-Enlila canals, @lab{8}their cities, their (city) gods and their armies, @lab{9}from the territory of Hamazi to the Magan Sea, @lab{11}and having made Isin the storehouse of Enlil, made it famous,^4^ @lab{12}to (then) settle their war captives in all those cities.
+
+#note: ^4^  Alt. transl.: Isin, which has to be made the storehouse of Enlil and which has to be made famous.
+
+
+@(14) Why do you oppose me? @lab{15}I have sworn by my personal god Dagan^5^ @lab{16}that I shall conquer Kazallu! @lab{17}Because Enlil has promised me the cities of the territory, @lab{18}I shall build all their (i.e. the city gods) shrines in Isin, @lab{19}I shall celebrate their regular festivals; @lab{20 - 21}I shall set up my own statues, my own emblems, (choose by omen) my own high priests, chief priests, and high priestesses in their special abodes, @lab{24}so that my subjects may offer their prayers, @lab{22}before Enlil in the Ekur (in Nippur) @lab{23}and before Nanna in the Ekišnuŋal (in Ur). @lab{25 - 26}And as for you, I shall chase out the person you depend on (-Ibbi-Sin){ }from his territory! @lab{27}Isin's wall I shall rebuild @lab{28}(and) name it Idil-pašunu.”
+
+#note: ^5^  Var. I have­ sworn by the name of Enlil, my lord, and of Dagan, my personal god.
+
+
+@(29) It was just as he had predicted: @lab{30}He rebuilt Isin’s wall @lab{31}(and) named it Idil-pašunu; @lab{32}he took over Nippur, appointed his own guard over it, @lab{33}and arrested Niŋ-dugani, the chief temple administrator of Nippur. @lab{34}(His ally), the ruler/governor Zinnum, took prisoners in Subir @lab{35}(and) plundered Hamazi.^6^ @lab{36}Nur-aḫum, the governor of Ešnunna, @lab{37}Šu-Enlil, the governor of Kiš, @lab{38}and Puzur-Tutu, the governor of Borsippa@lab{39}@i{came over to his side.} @lab{40}His clamor shakes the frontier territory like a reed fence,^7^ @lab{41}as Išbi-Erra goes everywhere at the head of the troops. 
+
+#note: ^6^  Var. ... ­captured Niŋ-dugani, the chief temple administrator of Nippur, and plundered Hamazi. (His ally)­, the ruler/governor Zinnum, took prisoners in Subir.
+
+#note: ^7^  Var. The frontier territory trembles like a reed fence from his clamor.
+
+
+@(42) It was just as he had predicted: @lab{43}he captured the banks of the Tigris, the banks of the Euphrates, as well as the banks of the Abgal and Me-Enlila. @lab{44}He installed Idi in Malgium,^8^
+
+#note: ^8^ Alt. transl.: He installed Iddin-Malgium.
+
+@(45 - 46) and when Girbubu, governor of Girkal, resisted him and cut off his (Iddi’s) shield, he (Išbi-Erra) took him prisoner. @lab{47}His- clamor has become louder, @lab{48}(and now) he has turned his attention in my direction. @lab{49}I have no ally, no one who can match him! @lab{50}Although he has not yet been able to defeat me, @lab{51}when he finally strikes, I will have to flee! Now my king is informed (about all of this)! 
+
+
+&Q000560 = 24. Ibbi-Sin to Puzur-Numušda 1 (IbPu1, 3.1.20, RCU 22) Version B
+@composite
+#project: cku
+#atf: use unicode
+#atf: use legacy
+# X1 with variants from X2 (equivalent lines in A in right-hand column)^3^
+# note: ^3^  X1 has deteriorated somewhat since I first began to study it; see the comments on p. 000 above.
+@h1 Version B (Long Version)
+1. 	{m}puzur₄-{d}šul-⸢gi-ra ù-na-a-dug₄⸣ 	($1–2$)
+#lem: Puzuršulgi[1]; dug[speak]
+
+2.	{d}i-bi-{d}suen luga[l-zu n]a-ab-⸢bé⸣-[a] 	($3$)
+#lem: Ibbisuen[1]; lugal[king]; e[speak]
+
+3.	u₄ éren-ta mu-ra-suh-a-g[in₇ na]m-⸢énsi⸣ ⸢ka⸣-zal-lu{⸢ki⸣}-[šè mu]-⸢e⸣-ŋar-⸢ra⸣ ($4$)
+#lem: ud[sun]; erin[people]; suh[extract]; namensik[office of ruler]; Kazallu[1]; ŋar[place]
+
+4.	ŋá-e-gin₇-nam kalam-ma d[ugud-da-zu i]n-nu-⸢ù⸣ 	($5$)
+#lem: ŋa'e[I]; kalam[land]; dugud[heavy]; me[be]
+
+5.	ka-zal-lu{ki} lú-ùlu [...]⸢{ki?}-šè?⸣ b[í-...]
+#lem: Kazallu[1]; lulu[man]; u; u
+
+6.	lú al-me-a-gin₇ ⸢ù?⸣ x [...] a [...]
+#lem: lu[person]; me[be]; u[and]; u; u; a[water]; u
+
+7.	ma-da-zu-ta {d}en-líl-⸢le nu-mu⸣-ra-ab-tuk[u ...]
+#lem: mada[land]; Enlil[1]; tuku[acquire]; u
+
+8.	diri lú za-e-gin₇-nam nam ⸢uru? tur?⸣-ra-⸢ta?⸣ x#-[...]
+#lem: dirig[exceed]; lu[person]; za'e[you]; nam[fate]; iri[city]; tur[small]; u
+
+9.	a-na-aš-àm ní šà-zu-šè ì-bu-⸢bu⸣
+#lem: anaš[why?]; ni[fear]; šag[heart]; bur[tear]
+
+10.	ní ul₄-⸢la⸣ mu-e-te igi tur-⸢zu⸣ mu-⸢e-gíd⸣-[i ...]
+#lem: ni[fear]; ul[hasten]; teŋ[approach]; igi[eye]; tur[small]; gid[long]; u
+
+11.	za-e ŋá-⸢ra ur₅⸣-gin₇ lú mu-e-ši-in-[gi₄ (...)] 	($6$)
+#lem: za'e[you]; ŋar[place]; ur[he]; lu[person]; gi[turn]; u
+
+12.	{d}iš-bi-⸢èr-ra⸣-e ugu-ŋu₁₀-šè igi-ni ma-⸢an-ŋar⸣ 	($7$)
+#lem: Išbierra[1]; ugu[skull]; igi[eye]; ŋar[place]
+
+13.	ù ŋá-⸢e ù⸣-mu-⸢un⸣-šub ⸢ga⸣-àm-ma-ši-⸢gin⸣ 	($8$)
+#lem: u[and]; ŋa'e[I]; šub[fall]; ŋen[go]
+
+:X2: 	[(x)]-x-gin?^4^
+#lem: u
+
+13a. *
+:X2: 	[(x)]-x#-e-NE [(x)] ⸢en⸣ e su-⸢dè?⸣-eš
+#lem: u; u; en[cvne]; e[barley?]; X
+
+14.	en-na {d}iš-bi-èr-ra kur ki-bi-šè ŋá-ŋá-a a-gin₇ nu-e-zu 	($9$)
+#lem: enna[until]; Išbierra[1]; kur[mountain]; ki[place]; ŋar[place]; agin[thus]; zu[know]
+
+:X2: 	[...]-ra# kur ki-bi-⸢šè gi₄⸣-a a-gin₇ nu-e-zu
+#lem: u; kur[mountain]; ki[place]; gi[turn]; agin[thus]; zu[know]
+
+15.	za-e gir-bu-bu ⸢énsi⸣ ŋír-kal{ki}-ke₄ 	($10$) 
+#lem: za'e[you]; Girbubu[1]; ensik[ruler]; ŊIRkal[1]
+
+:X2: 	[...] énsi# ŋír-kal{ki}-a-ke₄
+#lem: u; ensik[ruler]; ŊIRkal[1]
+
+16.	a-na-aš-àm éren šu-zu-šè ŋál-la igi-ni-šè la-ba-su₈-ge-za-[na] ($11$)
+#lem: anaš[why?]; erin[people]; šu[hand]; ŋal[be]; igi[eye]; sug[stand]
+
+:X2: 	[(x)] in-ŋál-le-eš igi-ni-šè la-ba-an-su-su-ge-eš
+#lem: u; ŋal[be]; igi[eye]; sug[stand]
+
+17.	kur ⸢ki⸣-bi-šè gi₄-gi₄-dè a-gin₇ mi-ni-ib-šúm-⸢mu-un⸣ 	($12$)
+#lem: kur[mountain]; ki[place]; gi[turn]; agin[thus]; šum[give]
+
+:X2: 	[... gur]-⸢ru⸣-uš a-gin₇ mi-ni-íb-šúm-mu-za-na
+#lem: u; gur[turn]; agin[thus]; šum[give]
+
+18.	u₄ na-an-ga-ma {d}en-líl-le ki-en-gi hul ba-an-⸢gig⸣ 	($13$)
+#lem: ud[sun]; nangama[be that as it may]; Enlil[1]; Kiengir[1]; hulu[bad]; gig[sick]
+
+:X2: 	[(x)]-x# hul ba-an-gig
+#lem: u; hulu[bad]; gig[sick]
+
+19.	{úgu}ugu₄-bi kur-bi-ta è-dè nam-sipa kalam-ma-⸢šè ba-e⸣-gub-bu-dè 	($14$)
+#lem: ugubi[monkey]; kur[mountain]; e[leave]; namsipad[shepherdship]; kalam[land]; gub[stand]
+
+:X2: 	[(x)] ⸢è?-dè?⸣ ⸢nam⸣-sipa kalam-ma-ke₄ x x x
+#lem: u; e[leave]; namsipad[shepherdship]; kalam[land]; u; u; u
+
+20.	a-da-lam {d}en-líl-le nu-luh-ha{⸢sar⸣} sa₁₀-sa₁₀-⸢dè lú?⸣ tumu níŋin 	($15$)
+#lem: adal[exclamation]; Enlil[1]; nuluha[asafoetida]; sa[pay for]; lu[person]; tumu[wind]; niŋin[encircle]
+
+:X2: 	[(x)] nu-ha-ra
+#lem: u; nuhara[asafoetida]
+
+## nígin -> níŋin
+21.	{d}iš-bi-èr-ra numun ki-en-gi-ra nu-me-a nam-lugal [im?-m]a?-an-šúm 	($16$) 
+#lem: Išbierra[1]; numun[seed]; Kiengir[1]; me[be]; namlugal[kingship]; šum[give]
+
+:X2: 	[... nu]-me-a nam-lugal-la mu-⸢na?-šúm⸣
+#lem: u; me[be]; namlugal[kingship]; šum[give]
+
+22.	ga-nam pu-úh-rum diŋir-re-e-ne ki-en-gi bir-bir-re ba-[... d]ug₄ 	($17$)
+#lem: ganam[moreover]; puhrum[assembly]; diŋir[deity]; Kiengir[1]; bir[scatter]; u; dug[speak]
+
+:X2: 	[(x)]-x# ⸢ság⸣ ù-bí-in-⸢dug₄⸣
+#lem: u; sag[scatter]; dug[speak]
+
+## dingir -> diŋir
+23.	a-a {d}en-líl dug₄-ga-dug₄-ga-ni dab₅-bé-da-aš ka[lam] ⸢ì?⸣-[b]al-e 	($18$)
+#lem: aya[father]; Enlil[1]; dug[speak]; dab[seize]; kalam[land]; bala[turn]
+
+24.	en-na uri₅{ki}-ma-šè lú érim-ra mu-un-⸢ri⸣-[...]-aš 	($19$)
+#lem: enna[until]; Urim[1]; lu[person]; erim[enemy]; u
+
+:X2: 	($traces$)
+25.	{d}iš-bi-èr-ra lú má-rí{ki}-⸢ke₄⸣ suhuš-bi ba-ab-⸢bu-re⸣ 	($20$)
+#lem: Išbierra[1]; lu[person]; Mari[1]; suhuš[foundation]; bur[tear]
+
+:X2:	[(x)]-ke₄? suhuš? [...-r]e
+#lem: u; suhuš[foundation]; u
+
+26.	⸢ki-en-gi hé⸣-áŋ-e ur₅-gin₇-nam ⸢bí-íb-dug₄⸣ 	($21$)
+#lem: Kiengir[1]; e[speak]; ur[he]; dug[speak]
+
+:X2: 	[(x)] ⸢bí-in-dug₄⸣
+#lem: u; dug[speak]
+
+27.	[ù tu]kum-bi ⸢énsi uru-uru⸣ didli ⸢ŋar⸣ x [(x)] 	($22$)
+#lem: u[and]; tukumbi[if]; ensik[ruler]; iri[city]; didli[several]; ŋar[place]; u; u
+
+:X2: 	[(x)] ⸢uru-uru didli? ŋar-ŋar-e-ne⸣
+#lem: u; iri[city]; didli[several]; ŋar[place]
+
+## -didli -> didli
+## -didli -> didli
+28.	[inim {d}en-líl-lá-ta {d}]⸢iš-bi-èr-ra⸣ [(x)] 	($23$)
+#lem: inim[word]; Enlil[1]; Išbierra[1]; u
+
+:X2: 	[... iš]-⸢bi-èr-ra⸣ ⸢hé?⸣-ni-bal-e
+#lem: u; Išbierra[1]; bala[turn]
+
+29.	[lú tab-ba]-⸢gin₇ uru⸣ érim-šè ba-ra-mu-un-⸢šúm-ma-ta⸣ 	($24$)
+#lem: lu[person]; tab[double]; iri[city]; erim[enemy]; šum[give]
+
+:X2: 	[... ér]im-ma ba-ra-an-šúm-ma-a 
+#lem: u; erim[enemy]; šum[give]
+
+30.	ù {d}iš-bi-èr-ra za-e árad ge-na-ŋu₁₀-gin₇ ní-ba mi-ni-ib-zu-a-ta 	($25$)
+#lem: u[and]; Išbierra[1]; za'e[you]; arad[slave]; gin[establish]; ni[self]; zu[know]
+
+:X2: 	[... ù {d}iš-bi]-⸢èr⸣-ra ní-bi mu-un-zu-a 
+#lem: u; u[and]; Išbierra[1]; ni[self]; zu[know]
+
+## gi-na -> ge-na
+
+30a.	
+:X2: [(x)] hé-me-en
+#lem: u; me[be]
+
+:X1: ($*$)
+
+31.	mu-e-dug₄-ga-zu níŋ-na-me nam-ba-e-hul
+#lem: dug[speak]; niŋname[anything]; hulu[bad]
+
+:X2: 	[(x)]-e-ši-hul
+#lem: hulu[bad]
+
+32.	mu-e-zu-zu diŋir-ra ŋá-a-kam
+#lem: zu[know]; diŋir[deity]; ŋa'e[I]
+
+:X2: 	[(x)] ⸢ŋá⸣-a-kam
+#lem: u; ŋa'e[I]
+
+33.	a-a {d}en-líl dug₄-ga-dug₄-ga-ni dib-bé-da-aš kalam ì-bal-e-eš
+#lem: aya[father]; Enlil[1]; dug[speak]; dib[pass]; kalam[land]; bala[turn]
+
+:X2: 	[(x)] x-NE-A kalam-ma ì-bal-e
+#lem: u; u; kalam[land]; bala[turn]
+
+34.	gin ì-ne-éš ma-ra ma-ab-gi₄-gi₄
+#lem: gin[establish]; ineš[now]; ŋar[place]; gi[turn]
+
+:X2: 	[(x)]-⸢ab⸣-gi₄-gi₄
+#lem: gi[turn]
+
+35.	i-{d}utu kiri₃ šu-ta ba-ŋál
+#lem: i'utu[complaint]; kiri[nose]; šu[hand]; ŋal[be]
+
+:X2: 	[(x)] kiri₃ šu ŋál-la-ŋá
+#lem: u; kiri[nose]; šu[hand]; ŋal[be]
+
+36.	en gal {d}en-líl-le ŋéštu-bi mu-un-ŋar
+#lem: en[cvne]; gal[big]; Enlil[1]; ŋeštug[ear]; ŋar[place]
+
+:X2: 	[... {d}]⸢en-líl-lá⸣ ŋéštu-bi mu-ri
+#lem: u; Enlil[1]; ŋeštug[ear]; ri[impose]
+
+37.	igi níŋ-sa₆-⸢ga⸣-ni ŋá-ra mu-un-ši-in-bar
+#lem: igi[eye]; niŋsaga[goodness]; ŋar[place]; bar[outside]
+
+:X2: *
+38.	šà-ne-ša₄-ŋu₁₀ šà kù-bi-šè mu-un-ŋar
+#lem: šaneša[mercy]; šag[heart]; kug[pure]; ŋar[place]
+
+:X2: *
+39.	kíŋ-gi₄-a-ŋu₁₀ uzu silim-ma-ke₄ ma-an-ŋar
+#lem: kiŋgia[omen]; uzu[flesh]; silim[healthy]; ŋar[place]
+
+:X2: 	[kíŋ-gi₄-a]-⸢ŋá⸣ uzu silim-ma im-ma-an-ŋar
+#lem: kiŋgia[omen]; uzu[flesh]; silim[healthy]; ŋar[place]
+
+40.	uzu zi-da-na uzu gùb-⸢ba?-ŋá?⸣ á-diri ù-ni-ak
+#lem: uzu[flesh]; zid[right]; uzu[flesh]; gab[left]; adiri[second reading]; ak[do]
+
+:X2: 	[... z]i-da á gùb-bu-ba á-diri ù-mu-ni-ak
+#lem: u; zid[right]; a[side]; gab[left]; adiri[second reading]; ak[do]
+
+## á-gùb -> á gùb
+
+41.	{ŋiš}tukul á zi-da-ŋá gú-bi zi-da ul gùr-ru mi-ni-šúm
+#lem: tukul[weapon]; a[arm]; zid[right]; gu[neck]; zid[right]; ul[distant]; gur[lift]; šum[give]
+
+:X2: ($*$)
+42.	{ŋiš}tukul gùb-bu-na gu-da lá-lá gú-ri-bi ŋar-ra
+#lem: tukul[weapon]; gab[left]; gu[thread]; la[hang]; gure[that side]; ŋar[place]
+
+:X2: ($*$)
+43.	lú hul-ŋál-ŋu₁₀ šu-ŋá ì-ŋá-ŋá saŋ ŋiš bí-ra
+#lem: lu[person]; huluŋal[evil]; šu[hand]; ŋar[place]; saŋ[head]; ŋeš[tree]; rah[beat]
+
+:X2: 	[(x)]-⸢ŋál⸣-e šu-ŋá ba-ni-in-ŋál saŋ ŋiš bi-ra-ra
+#lem: ŋal[be]; šu[hand]; ŋal[be]; saŋ[head]; ŋeš[tree]; rah[beat]
+
+44.	ùŋ kúkku-ga-ke₄ zalag-šè è-dè dúr silim-⸢ma⸣ nú-dè 
+#lem: uŋ[people]; kukkug[dark places]; zalag[shine]; e[leave]; dur[settlement]; silim[healthy]; nud[lie]
+
+:X2: 	[(x)]-⸢ga⸣-ke₄ zalag-šè è-⸢dè dúr silim⸣-ma nú-dè
+#lem: u; zalag[shine]; e[leave]; dur[settlement]; silim[healthy]; nud[lie]
+
+## un -> ùŋ
+45.	{d}utu en ka-aš-bar an-ki-ke₄ á-áŋ-ŋá im-ma-an-ŋar
+#lem: Utu[1]; en[cvne]; kašbar[decision]; anki[universe]; a aŋ[command]; ŋar[place]
+
+:X2: 	($traces$)
+46. 	en-na u₄-bi-da-ke₄ inim du₁₀ gi₄-bí-ib
+#lem: enna[until]; ud[sun]; inim[word]; dug[good]; gi[turn]
+
+47.	gin-na ì-ne-éš inim du₁₀ gi₄-ib lul du₁₀-ud ak-da mi-ni-in-túm-túm-mu ($26–27$)
+#lem: ŋen[go]; ineš[now]; inim[word]; dug[good]; gi[turn]; lul[false]; X; ak[do]; de[bring]
+
+48.	ùŋ-zu ebur-ba hé-ak-ne 	($28$)
+#lem: uŋ[people]; buru[harvest]; ak[do]
+
+49.	za-e nam-ba-da-ŋír-e ugu-ŋu₁₀-šè nam-ma-du 	($29$)
+#lem: za'e[you]; ŋir[flash]; ugu[skull]; du[go]
+
+50.	šu-ni uru-ni sá nu-ub-dug₄-ga 	($30$)
+#lem: šu[hand]; iri[city]; sa[equal]; dug[speak]
+
+51.	lú má-rí{ki}-ke₄ ŋalga ur-re nam-en-bi na-an-ak-e 	($31$)
+#lem: lu[person]; Mari[1]; ŋalga[forethought]; ur[dog]; namen[priesthood]; ak[do]
+
+52.	ì-ne-éš ti-da-ma-rum amurrum{ki}-a 	($32$)
+#lem: ineš[now]; Tidnum[1]; Amurrum[1]
+
+53.	{d}en-líl-le kur-bi-ta á-dah-ŋu₁₀-šè im-ma-an-zi
+#lem: Enlil[1]; kur[mountain]; atah[helper]; zig[rise]
+
+54.	u₄-ne-a an {d}en-líl {d}en-ki-bi-ke₄ 
+#lem: ud[sun]; An[1]; Enlil[1]; Enki[1]
+
+55.	⸢uri₅⸣{ki}-ma sá mu-ub-dug₄-ga an-ta-bi ak-dè
+#lem: Urim[1]; sa[equal]; dug[speak]; an[sky]; ak[do]
+
+## aka -> ak
+56.	elam{ki} zag mu-un-tag-ga 	($33$)
+#lem: Elam[1]; zag[side]; tag[touch]
+
+57.	ù {d}iš-bi-èr-ra ba-ab-dab₅-bé
+#lem: u[and]; Išbierra[1]; dab[seize]
+
+58.	kalam ki-bi-šè bí-íb-gi₄-gi₄ 	($34$)
+#lem: kalam[land]; ki[place]; gi[turn]
+
+59.	kala-ga-ŋu₁₀ kur-re bí-ib-zu-zu
+#lem: kalag[strong]; kur[mountain]; zu[know]
+
+60.	⸢u₄⸣ na-me inim za-e mu-sa₆-ga-zu
+#lem: ud[sun]; name[any]; inim[word]; za'e[you]; sag[good]
+
+## u₄-na-me -> u₄ na-me
+61.	⸢a-ma⸣-ru-kam za-e nam-ba-še-bé-dè-ne 	($35$)
+#lem: amaru[flood]; za'e[you]; šub[fall]
+
+$ (Colophon P (X1))
+@translation labeled en project
+@(1 - 2) Speak to Puzur-Šulgi, governor of Kazallu, @lab{4}saying (the words of) @lab{3}Ibbi-Sin, your king: 
+
+@(3) Ever since I selected you out of the ranks and made you the governor of Kazallu, @lab{4}have you not been honored throughout the homeland as my representative? @lab{5}Kazallu ... @lab{6}A man who is ...@lab{7}Enlil has not ...from your frontier area. @lab{8}Someone excellent, a man who is like you ... the responsibilities over the smaller cities ... @lab{9}Why is it that all valor has been torn from your heart, @lab{10}why are you so panicked and full of contempt? @lab{11}You even sent someone to me (saying) thus:^4^ @lab{12}“Išbi-Erra has presented his matter before me, @lab{13}and as far as I am concerned, when he finally strikes, I will have to flee!” @lab{14}How is it that you do not know how to repulse Išbi-Erra to his own country? @lab{15 - 16}Why did you and Ŋirbubu, governor of Ŋirkal, not stand up against him with the troops that are under your authority (while you still had the chance)? @lab{17}To restore the lands to their previous condition—that was the assignment you were both given!
+
+#note: ^4^  Var.: But you sent me someone with the following message.
+
+@(18) Enlil had earlier already come to hate Sumer, @lab{19}appointing a monkey descending from its mountain (home) to the stewardship of the homeland. @lab{20 - 21}But now Enlil has handed kingship to a (mere) @i{peddler of exotic spices}, one who chases the wind, to Išbi-Erra, who is not even of Sumerian descent. @lab{22}Moreover, once the assembly of the gods, (decided) to scatter the (inhabitants of the) Sumer, @lab{23}Father Enlil, having conveyed his commands, proceeded to overthrow the homeland. @lab{24}“As long as Ur @i{is imbued with evildoers}, @lab{25}Išbi-Erra, the man of Mari, will tear out its foundations, @lab{26}and Sumer will be measured out,” thus he spoke! @lab{27}And if the governors of the individual cities should gather together, @lab{28}by Enlil’s command Išbi-Erra will fall. 
+
+@(29) But even supposing that he is not (betrayed) as if being handed over to an enemy city by a comrade, @lab{30}and you, although acting as if you were my trusted servant, recognize Išbi-Erra by yourself/out of fear, @lab{31}your statements would do nothing to upset me, @lab{32}for you know very well that I am (a favorite) of the gods.
+
+@(33) Father Enlil, by means of his angry commands, has overthrown the homeland. @lab{34}Come now, he has returned to my side! @lab{35}@i{My complaints were submitted by humble prayer}, @lab{36}and Great Lord Enlil heard me out; @lab{37}he cast his favorable glance upon me, @lab{38}set his holy heart on mercy, @lab{39}and established for me my favorable omen. @lab{40}And after I had the follow-up reading made concerning his @i{pars familiaris} and my @i{pars hostilis},^5^ @lab{41}the weapon-mark on my right side, its trunk is straight, and that (good news) gave me joy; @lab{42}on the weapon-mark on his (i.e., Išbi-Erra’s) left side a filament is suspended,^6^ it is placed (against) the other side. @lab{43}(The message was:) “My enemy shall fall into my hands, he shall be killed, @lab{44}the people, having come out of darkness into the light, will lie in peaceful habitations.” @lab{45}Utu, lord who makes the decisions of the heavens and the earth, has provided (this) omen. 
+
+#note: ^5^  So X1; X2 omits 41 and 42: After I had the follow-up reading made concerning the left and right sides, (the message was): ... 
+
+#note: ^6^  Alt. tr.: is attached.
+
+@(46) Return to reconciliation @i{as before}, @lab{47}come now, (you too) must return to reconciliation, @i{so that all treachery is undone}, @lab{48}so that your can people can work on their harvest. @lab{49}You must not hurry to come to me; @lab{50}(I assure you that) he will not conquer the city that he (wants), @lab{51}the man of Mari, with the mind of a beast, will not exercise sovereignty there! @lab{52 - 53}Now Enlil has mustered the Tidnumite(s) in (the land of) Amurrum as my helper(s). @lab{54 - 55}... @lab{56}The Elamite (forces) will be repulsed, @lab{52}Išbi-Erra will be captured, and @lab{58}the homeland will be restored (to me). @lab{59}The foreign land(s) will learn of my strength! @lab{60}From now on you .... @lab{61}It is urgent, you must make sure that everyone must not neglect (my orders)!
