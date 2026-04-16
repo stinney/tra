@@ -1,0 +1,150 @@
+@project	tra/fi
+@name		sux
+@lang		tra/fi sux
+
+@letter A
+
+@entry aguba [holy water] N
+@bases a-gub₂-ba
+@form a-gub₂-ba /a-gub₂-ba #~
+@sense N holy water
+@end entry
+
+@letter D
+
+@entry dub [tremble] V/i
+@bases dub₂
+@form dub₂-bu-da-ŋu₁₀-ne /dub₂ +-bu=b.e #~;e.de.a,ŋu.ne
+@sense V/t to tremble, make tremble
+@end entry
+
+@letter G
+
+@entry gag [nail] N
+@bases {urud}gag
+@form {urud}gag-ŋu₁₀ /{urud}gag #~,ŋu
+@sense N nail, peg, point, stud
+@end entry
+
+@entry gal [big] AJ
+@bases gal
+@form gal-la-ni-eš /gal +-la=l.a #~,ani.eše
+@sense AJ older
+@end entry
+
+@entry gu [eat] V/t
+@bases gu₇
+@form gu₇-x /gu₇ #~;x
+@sense V/t to eat, consume
+@end entry
+
+@entry gub [stand] V/i
+@bases gub
+@form he₂-em-mi-in-gub-bu-ne /gub #ha.Vmma.i.n:~;ene
+@sense V/i to stand
+@end entry
+
+@letter Ŋ
+
+@entry ŋal [⟦be⟧ to be] V/i
+@bases ŋal₂
+@form am₃-x-x-ŋal₂ /ŋal₂ #Vmma.x:~
+@sense V/i ⟦be⟧ to be (there, at hand, available)
+@end entry
+
+@letter K
+
+@entry kiʾaŋa [beloved] AJ
+@bases ki-aŋ₂
+@form ki-aŋ₂-a-ni-ta /ki-aŋ₂ #~,ani.ta
+@sense AJ beloved
+@end entry
+
+@letter L
+
+@entry lubuštum [clothing] N
+@bases {tug₂}lu-bu-uš-tum
+@form {tug₂}lu-bu-uš-tum /{tug₂}lu-bu-uš-tum #~
+@sense N clothing
+@end entry
+
+@letter M
+
+@entry mir [angry] V/i
+@bases mir
+@form mir-a-ni-x /mir #~,ani.x
+@sense V/i (to be) angry
+@end entry
+
+@letter N
+
+@entry namursaŋ [heroism] N
+@bases nam-ur-saŋ
+@form nam-ur-saŋ-ŋa₂-še₃ /nam-ur-saŋ #~,ŋu.ak.eše
+@sense N heroism
+@end entry
+
+@letter R
+
+@entry ri [impose] V/t
+@bases ri
+@form hu-mu-u₈-da-ri /ri #ha.mu.e.da:~
+@sense V/t to impose
+@end entry
+
+@entry ri [oppose] V/t
+@bases ri
+@form x-x-ri-eš /ri #x:~;eš
+@sense V/t oppose
+@end entry
+
+@letter S
+
+@entry saŋdur [seat] N
+@bases saŋ-dur₂
+@form saŋ-dur₂-ra-ka /saŋ-dur₂ +-ra=r.a #~,ak.a
+@sense N seat
+@end entry
+
+@entry siškur [prayer] N
+@bases siškur₂
+@form sizkur₂-ra-ka-ni /siškur₂ +-ra=r.a #~,ak.ani
+@sense N prayer, blessing
+@end entry
+
+@letter Š
+
+@entry šergabana [object of wood or cloth for a wagon] N
+@bases še-er-gaba-na
+@form še-er-gaba-na-ka /še-er-gaba-na #~,ak.a
+@sense N object of wood or cloth for a wagon
+@end entry
+
+@letter T
+
+@entry tar [cut] V/t
+@bases tar
+@form am₃-mi-tar /tar #Vmma.i:~
+@form nam-mi-in-tar /tar #na.Vmma.i.n:~
+@sense V/t to cut
+@end entry
+
+@entry tu [cvve] V/t
+@bases tu₅-tu₅
+@form he₂-em-tu₅-tu₅-x /tu₅-tu₅ #ha.i.b:~;x
+@sense V/t cvve
+@end entry
+
+@letter Z
+
+@entry za [cvve] V/t
+@bases za
+@form mu-ni-x-za /za #mu.ni:~
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry zig [to rise] V/i
+@bases zi-zi
+@form al-zi-zi /zi-zi #al:~
+@sense V/i to rise
+@end entry
