@@ -655,6 +655,8 @@ being no replacement workers, farmers, ox-drivers or plowmen, (14)the
 13. kí@ ak bulug a-šà-ga-bi
 14. inim dug4-ga14(KA) mu-ni-ib-e!
 
+@tra
+
 (1)The “Where-Is-It?” ﬁeld (is) [...] hectares. (2)(It is) the ešgar
 (ﬁeld) of Enlil and Ninurta. (3)From among it: 150 ha (540 iku) are
 (4)the sustenance ﬁelds of the men in charge of the requisitions.
@@ -1100,9 +1102,9 @@ instructions. (8)It is urgent!
 13. lú im-gíd-da-ke4-ne-ne /x x x\ [...]
 14. lú ní@-kas7 du[b-ba-a ...]^^
 ^^While there are large gaps after ll. 12, 13, and 14, the lines above
-(e.g. ll. 7, 9) also have large spaces between the last sign on the
-line and the sign immediately preceding it. As such these three lines
-may be essentially complete as stands.
+	(e.g. ll. 7, 9) also have large spaces between the last sign on the
+	line and the sign immediately preceding it. As such these three lines
+	may be essentially complete as stands.
 $ (rest of obv. broken)
 $ (beginning of rev. broken)^^
 ^^Civil 2000a, 105 suggests a gap of circa 10 lines.
@@ -1296,8 +1298,7 @@ Attinger, personal communication).
 2. msa@-lugal-bi-zu-ke4 na-ab-bé-a
 3. za-e zabar-dab5 ù nar-gal-e
 4. kù-dnin-líl-lá abul-mah-a haš4 dab5-bé-da-en-zé-en
-5. a-šà gi4-gi4-dè ur-dsuen-a [...] x lugal-@u10 nam-maškim ì-tuku
-e-/x\-[...]
+5. a-šà gi4-gi4-dè ur-dsuen-a [...] x lugal-@u10 nam-maškim ì-tuku e-/x\-[...]
 6. tukum-bi šà gi-na-zu-ta šeš-@u10-me-en
 7. di-@u10 LÚ*GÁNA-t.-éš na-an-ne-en
 8. mu di-da-ka-ni igi-zu-šè KA bal-e
@@ -1343,8 +1344,8 @@ sending you a man. You must not neglect him! (10)It is urgent!
 2. [...] /x\ sàg-sàg-ge
 3. [...] /lah4?\-eš-àm
 4. [...] /bí-in\-[...]
-(rest of obverse broken)
-(beginning of reverse broken)
+$ (rest of obverse broken)
+$ (beginning of reverse broken)
 5. [...] /x x\ nam-/x\
 6. [...] bí-in-dé-dé
 7. [...]-/x\-na @iri3!121 lí-bí-in-DU
