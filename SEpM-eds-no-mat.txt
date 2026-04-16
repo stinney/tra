@@ -1,27 +1,22 @@
-editions
-
-113
-
-6.4 Editions
-SEpM 1 Abba’indasa to Šulgi 1 (B1, CKU 4, 3.1.21)
-Piotr Michalowski12
-Fully Reconstructed Ideal Text
+&SEpM 1 Abba’indasa to Šulgi 1 (B1, CKU 4, 3.1.21)
 1. lugal-@u10-ra ù-na-a-dug4
 2. máš hur-sa@-@á á sa6-sa6-@á
 3. anše kur hur-sa@-@á umbin hu-rí-inmušen-na
 4. @išnimbar ki sikil-e mú-a zú-lum na4za-gìn lá-@u10-úr
 5. ù-na-dè-tah
-6. ma-ba-in-da-sá ugula erin213 ka kešda
+6. ma-ba-in-da-sá ugula erin2^^ ka kešda
+Var.: àga-ús.
 7. sa@-ki zalag lugal-la-na-šè šà lugal-a-ni-ir du10-du10-ge-ra
 8. arad2-zu na-ab-bé-a
-9. ì-kala-ga lugal-@u10 ga-ab-ús14
+9. ì-kala-ga lugal-@u10 ga-ab-ús^^
+Vars.: kala-ga-me-en lugal-@u10 ga-ab-ús; kala-ga-me-en àga-ús-zu hé-me-en.
 10. igi-tuku igi-zu-šè ga-@en
 11. inim-ma-zu ra-gaba-zu hé-me-en
 12. a gub-ba-àm a mu-da-ak-e
-12. tumu gub-ba-àm še mu-un-da-lá-a
+13. tumu gub-ba-àm še mu-un-da-lá-a
 14. @išmá gub-ba-àm @išgi-sal mu-un-sì-ge
 15. dub-sar me-en na-rú-a ab-sar-e
-16. inim ugnim-ma mu-da-[. . .]
+16. inim ugnim-ma mu-da-[...]
 17. inim pu-úh-ru-um-ma šu-ba e11-dè-bi mu-un-da-sì-ge
 18. @iš-gin7 tir-@á mu-un-dù-ù-nam mu-dur7-re im-gam-me-en
 19. @išgu-za-@á lú mu-un-da-lá-a šu-@u10 ešé im-ma-lá
@@ -32,35 +27,24 @@ Fully Reconstructed Ideal Text
 24. @iš-gi izi ub-gu7 ni@in5 ì-tuk-tuku
 25. dutu ia3 un-gu7 ga-ará un-gu7 @išbanšur ukú-ra-šè šu-ni íb-ši-in-tùm
 26. zi-@u10 ba-e-i šu-@u10 ha-za-ab
-
-12
-Transliteration and translation quoted verbatim from Michalowski 2011. My
-thanks to Michalowski for allowing me to publish these texts. Some readings changed
-for consistency.
-13
-Var.: àga-ús.
-14
-Vars.: kala-ga-me-en lugal-@u10 ga-ab-ús; kala-ga-me-en àga-ús-zu hé-me-en.
-
-114
-
-chapter six
-
 27. dumu nu-mu-un-kuš-me-en lú èn-tar-re la-ba-an-tuku
 28. @á-àm me-na-àm15 ša dšul-gi lugal-@á ki-bi ha-ma-gi4-gi4
 29. lugal-@u10 èn-@u10 hé-tar-re ki da@al-@u10-šè hé-em-mi-ib-gi4-gi4
-Say to my king, (2)to my mountain goat, fair of limb, (3)eagle-clawed
-highland horse, (4)to my date palm growing in a sacred place, laden
-with glistening dates, (5)say moreover: (6/8)Saying (the words of ) Abaindasa, ofﬁcer of the armed forces, (7)who, (to obtain) his master’s favor,
-is a constant delight to his master’s heart:
-(1)
 
-Being strong, I want to follow my king,16 (10)having vision, I want
+@tra
+
+(1)Say to my king, (2)to my mountain goat, fair of limb, (3)eagle-clawed
+highland horse, (4)to my date palm growing in a sacred place, laden
+with glistening dates, (5)say moreover: (6/8)Saying (the words of) Abaindasa, ofﬁcer of the armed forces,
+(7)who, (to obtain) his master’s favor,
+is a constant delight to his master’s heart:
+
+(9)Being strong, I want to follow my king,16 (10)having vision, I want
 to go in your vanguard, (11)at your command please let me be your
 messenger! (12)Even when water is still, I can make water ﬂow; (13)even
 when the wind is still, I can winnow grain; (14)even when the boat is
 still, I can row! (15)I am a (trained) scribe—I can inscribe a stele! (16)I
-can . . . the orders of the army. (17)The orders of the assembly . . . (18)As if
+can... the orders of the army. (17)The orders of the assembly ... (18)As if
 I were planting a tree in my own woodlot, I kneel in the dirt; (19)as if
 someone had managed to tie me to my own chair, my hands are tied
 with rope; (20)in my own city, where I used to dress in ﬁne clothing, I
@@ -70,30 +54,14 @@ after the king of beasts makes a kill, he slackens his jaw;17 (24)even after
 the canebrake is consumed by ﬁre, the pond remains (intact),18 (25)and
 even Utu, after consuming (offerings of ) ghee and cheese, still reaches
 out to (accept offerings from) a pauper’s table;
-(9)
 
-(But now) my life hangs by a thread; please take my hand! (27)I am a
+(26)(But now) my life hangs by a thread; please take my hand! (27)I am a
 widow’s son; I have no one to show concern for me. (28)Ah, but me—
 when will Šulgi, my king, restore me to my position? (29)May my king
 show his concern for me and restore me to my prosperous position!
-(26)
 
-No two manuscripts agree on the ﬁrst two words of the line.
-Vars.: I am strong, I want to follow my king; I am strong, so let me be your
-soldier.
-17
-Var: it spares some remains.
-18
-Var.: it spares some ponds.
-15
-16
 
-editions
-
-115
-
-SEpM 1a Aradmu to Šulgi 3 (CKU 7, 3.1.5)
-Piotr Michalowski19
+&SEpM 1a Aradmu to Šulgi 3 (CKU 7, 3.1.5)
 1. lugal-@u10-ra ù-na-dug4
 2. arad2-mu arad2-zu na-ab-bé-a
 3. ma-ba-in-da-sá ugula eren2 zú-kešda lugal ní@ lugal-@u10 ma-an-gi4
@@ -105,40 +73,31 @@ Piotr Michalowski19
 9. x x-ne nu-un-DU nu-un-gi4
 10. ha-ra-kalag lugal-@u10 mu-un-taka4 mu-un-dab5
 11. NIR-da-bi NIR-da lugal-@u10 [ba-e]-dugud
-12. [. . .]-ma lugal? [. . .]x
-13. [. . .]x ni x[. . .]-@ar
+12. [...]-ma lugal? [...]x
+13. [...]x ni x[...]-@ar
 14. ní@ lugal-@u10 ab-bé-na-@u10
 15. lugal-@u10 hé-en-zu
-Say to my king, (2)thus says Aradmu, your servant:
 
-(1)
+@tra
 
-(Concerning the matter of ) Abaindasa, captain of the royal army,
+(1) Say to my king, (2)thus says Aradmu, your servant:
+
+(3)(Concerning the matter of ) Abaindasa, captain of the royal army,
 that my king sent me (a message) about; (4)my king must be informed
 about the matter.
-(3)
 
-When I focused my attention on Zimudar, (6)I was in the process
+(5)When I focused my attention on Zimudar, (6)I was in the process
 of mustering troops for my king’s expedition, (7)but when Abaindasa
 inspected those troops, (8)2000 of those men were missing. (9)He had not
-gone to . . ., nor had he returned. (10)He had abandoned the fortress, o
+gone to ..., nor had he returned. (10)He had abandoned the fortress, o
 my king, and then (re)captured (it)! (11)That crime was a very serious crime
-against my king! (12–13) . . .
-(5)
+against my king! (12–13) ...
 
-Whatever you, my king order me to do, (I will do)! (15)This my king
+(14)Whatever you, my king order me to do, (I will do)! (15)This my king
 should know!
 
-(14)
 
-19
-Transliteration and translation quoted verbatim from Michalowski 2011. Some
-readings changed for consistency.
-
-116
-
-chapter six
-SEpM 2. Sîn-tillati to Iddin-Dagan (B2, 3.2.1)
+&SEpM 2. Sîn-tillati to Iddin-Dagan (B2, 3.2.1)
 
 1. lugal-@á ù-na-dug4
 2. mdsîn-tillati ra-bi sí-kà-tum-ma
@@ -152,181 +111,75 @@ SEpM 2. Sîn-tillati to Iddin-Dagan (B2, 3.2.1)
 10. tukum-bi lugal-@u10 ugnim-ma nu-tuš-ù-bi ab-bé
 11. hé-em-ma-su8-ge-eš
 12. lugal-@u10 hé-en-zu
-Say to my king, (2–3)thus says Sîn-tillati, the frontier commander, your
-servant:
-(1)
 
-When I went upstream to Kakkulatum, (5)the armed Amurrum
+@tra
+
+(1)Say to my king, (2–3)thus says Sîn-tillati, the frontier commander, your
+servant:
+
+(4)When I went upstream to Kakkulatum, (5)the armed Amurrum
 ambushed (us). (6)When I (counter) attacked, I slaughtered 600 (of
 them), captured 1200 (and) (7)brought (the captives) into Kakkulatum.
-(4)
 
-If my king commands (the captives) to camp among the army, (9)let
+(8)If my king commands (the captives) to camp among the army, (9)let
 him send provisions for them. (10)If my king does not order them to
 camp among the army, (11)he should put them into service (elsewhere).
-(12)
-This my king should know.
-(8)
+(12)This my king should know.
 
-Commentary
-1. -@á in place of -@u10-ra/ur (see also SEpM 4:1) is a neologism
-attested from Ur III but especially in OB.
-2. The precise meaning of the title rabi sikkatim is uncertain. Stol 2004,
-666f. argues that sikkatum here refers to the peg by which gates opened
-and closed. In particular, he references an OB omen (YOS 10 45:16)
-suggesting that this ofﬁcer was originally in charge of the city gates:
-“the rabi sikkatim will open the city gate and . . . allow the enemy to
-enter the city.” By extension, then, the rabi sikkatim in our text would
-have been in charge of the gates of the land, i.e. the periphery. That
-Sîn-tillati was charged with defending the borders certainly ﬁts with
-the contents of this letter.
-
-editions
-
-117
-
-4. For Kakkulatum, a city located on the Zubi canal in the Diyala, at
-the southernmost point of access from the Tigris to the Euphrates, see
-Durand 2000, 362f. For further references see also Röllig 1976–1980,
-288f.; Frayne 1992, 45; Heimpel 2003, 614.
-5. šubtu5(KASKAL.TÚL)—and variants—is rare, used in Sumerian
-to describe an ambush in reference to persons (e.g. DuDr 45; CKU 20:
-12) or a lair in reference to animals (e.g. IdD D 17). See Alster 1972,
-99 with references. For the lexical attestations see CAD Š/III 172.
-8. The variant in X16 (lugal-@á ugnim-bi) makes use of the anticipatory genitive, understanding the line as “If the troops of my king are
-commanded to camp” (and again in l. 10). For a parallel construction
-see Zólyomi 1996: 34 ex. 10.
-9. For kuša-@á-lá keše2-da, “tied leather bags,” used to designate provisions for travelers, see Heimpel 2009, 310.
-11. Three manuscripts (N2, N40, N88) have su8-ge, the plural stem
-of gub, while the other two (N35, N78) have su-bé, plural of @en. The
-intention of this line is that the captives are to be sent elsewhere. My
-translation is based on the common use of gub/izuzzu, “to stand (in
-service).” While @en is not normally used in this way, al ku can mean
-“to serve, do service,” and is used in OB texts in reference to soldiers
-(CAD A/I mng. 3c. p. 309).
-
-118
-
-chapter six
-SEpM 3. Iddin-Dagan to Sîn-tillati (B3, 3.2.2)
+&SEpM 3. Iddin-Dagan to Sîn-tillati (B3, 3.2.2)
 
 1. mdsîn-tillati ra-bi-sí-kà-tum-ma
 2. ù-na-dug4
 3. di-din-dda-gan lugal-zu na-ab-bé-a
 4. kaskal-@u10 ní-tuku sa@ gi4-a gú íd-da 2-a-bi mu-da-ab-bal-e
 5. ka-ku-la-tum gaba-ri gíd-da-zu-ù-ne
-6. dlamma dda-gan dkab-ta ù den-líl-le-ke4 erin2-na gú bí-ri20
+6. dlamma dda-gan dkab-ta ù den-líl-le-ke4 erin2-na gú bí-ri^^
+Var (X8): dlamma dda-gan dkab-ta erin2-bi sa@-bi-šè sá íb-dug4-ga.
 7. me-lám-@u10 kalam-ma ba-e-dul
-8. ù za-e nam-ur-sa@ nam-kala-ga-zu21 kur-bi-šè ba-e-te
+8. ù za-e nam-ur-sa@ nam-kala-ga-zu kur-bi-šè ba-e-te
+Var (X8): ù za-e nam-kala-ga-@á-zu nam-ur-sa@-@á-zu kur-bi-šè ba-e-te.
 9. lú-kúr dab5-ba ba-e-da-an-kur9
 10. erin2 lú-a iri-ta è-a-ba
-11. ugnim-ma igi im-mi-in-du11-ga22
+11. ugnim-ma igi im-mi-in-du11-ga
+Var (X3): ugnim-bi šu-za sá-dè Var (N88): ug[nim ...] sá-dè-/zu\.
 12. lú-dab5-ne-ne en-nu-ù@ @á-@á-da
 13. a-ga-aš gi4-bi hé-ni-in-du8
 14. ku4-ku4 è-dè kí@ bar ha-ra-ak-ne
 15. lugal mu tuku-ne-ne @ištukul erin2-na
 16. ka-@iri3-za lah5-àm
-17. ugnim-zu nam-ba-lá-e23
+17. ugnim-zu nam-ba-lá-e
+Var (Ur11, X8): ugnim(-bi) te-a nam-ba-lá-e.
 18. ul4-la-bi @á-nam-ma
 19. a-ma-ru-kam
-Say (1)to Sîn-tillati, the frontier commander, (3)thus says Iddin-Dagan,
+
+@tra
+
+(2)Say (1)to Sîn-tillati, the frontier commander, (3)thus says Iddin-Dagan,
 your king:
-(2)
 
-Thanks to you, my expeditionary force can (now) cross from one
+(4)Thanks to you, my expeditionary force can (now) cross from one
 bank of the river to another. inspiring fear and causing a blockade.
-(5)
-When you went upstream to Kakkulatum, (6)(the gods) Lamma, Dagan,
-Kabta (and) Enlil caused the (enemy) troops to submit.24 (7)My splendor
+
+(5)When you went upstream to Kakkulatum, (6)(the gods) Lamma, Dagan,
+Kabta (and) Enlil caused the (enemy) troops to submit.^1^ (7)My splendor
 covers the homeland, (8)while you approached the enemy land with
-your heroism and your strength.25 (9)You have been able to make prisoners of the enemy.
-(4)
+your heroism and your strength.^2^ (9)You have been able to make prisoners of the enemy.
 
-Var (X8): dlamma dda-gan dkab-ta erin2-bi sa@-bi-šè sá íb-dug4-ga.
-Var (X8): ù za-e nam-kala-ga-@á-zu nam-ur-sa@-@á-zu kur-bi-šè ba-e-te.
-22
-Var (X3): ugnim-bi šu-za sá-dè Var (N88): ug[nim ...] sá-dè-/zu\.
-23
-Var (Ur11, X8): ugnim(-bi) te-a nam-ba-lá-e.
-24
-Var (X8): Lamma, Dagan and Kabta took possession of all these troops.
-25
-Var (X8): and you, who knows my strength and heroism, approached the enemy
-land.
-20
-21
-
-editions
-
-119
-
-After (that) man’s troops have left the city, (11)once you have inspected
+(10)After (that) man’s troops have left the city, (11)once you have inspected
 the army, (12–13)then let go of the lowest (ranking) in order to safeguard
-their (other) prisoners.26 (14)Let those who enter and leave (the city)
+their (other) prisoners.^3^ (14)Let those who enter and leave (the city)
 work!
-(10)
 
-Their famous kings and armed forces were brought in your path,
-do not diminish your army!27 (18)Come quickly! (19)It is urgent!
+(15–16)Their famous kings and armed forces were brought in your path,
+(17)do not diminish your army!^4^(18)Come quickly! (19)It is urgent!
 
-(15–16)
-(17)
+^1^ Var (X8): Lamma, Dagan and Kabta took possession of all these troops.
+^2^ Var (X8): and you, who knows my strength and heroism, approached the enemy land.
+^3^ Var ll. 11–13 (N88, X3): Release the lowest (ranking) of their army that you took hold of. (*Note X3 omits line 12).
+^4^ Var (Ur11, X8): Approach their army, do not tarry!
 
-Commentary
-Unfortunately the surfaces of the two tablets (N90, X8) that preserve
-the majority of this text are very worn. While I had access to N90, I
-was able to read X8 only from photographs taken under poor conditions. Moreover, in ll. 5–11, for which N90 and X8 are the only
-sources, each text seems to have its own version. The eclectic text
-primarily follows N90 except in ll. 10–16, which are broken in the
-Nippur manuscript.
-4. sa@—gi4, “to block,” is well attested (Falkenstein 1964, 54; Civil
-1964, 4; Karahashi 2000, 136f., Schramm 2001, 67; van Dijk and
-Geller 2003, 100; Hermann 2010, 230). The ability to cross both
-banks of the river must imply that Iddin-Dagan’s forces control the
-whole river. The reason for X8’s omission of this line is unclear.
-5. Compare SEpM 2:4.
-6. gú—ri, literally, “to bend the neck” is elsewhere unattested as a
-synonym of the more common expressions signifying the act of submission, gú @ál or gú @ar.
-11. igi—dug4 in the sense of igi—du8 is attested in Cavigneaux and
-al-Rawi 1993, 178 l. 20 and Farber and Farber 2003, 102 11 18 (?)
-and iii 6’. Attinger (personal communication) suggested the reading
-šu-za sá-dè (N88, X3) for šu-za sá <di->dè, perhaps the result of haplography. For šu sá—dug4 see Attinger 1993, 640.
 
-26
-Var ll. 11–13 (N88, X3): Release the lowest (ranking) of their army that you took
-hold of. (*Note X3 omits line 12).
-27
-Var (Ur11, X8): Approach their army, do not tarry!
-
-120
-
-chapter six
-
-12–14. The idea being there were too many prisoners to effectively
-guard them all, and so the lowest ranking were allowed to enter and
-leave the city for work.
-13. Compare SP 2.42, Dialogue 2:95 and Dialogue 3:9 for a-ga-aš gi4,
-an insult among scribes (Alster 1997, 364).
-14. kí@ bar(-ra) is attested in Ur III administrative documents (e.g.
-MVN 21 132:4; TENS 24:2f.; UTAMI 3 1935:2) with the verb
-gub, and seems to involve a type of work associated with earthworks
-(Attinger, personal communication).
-16. ka-@iri3 is an unusual word in Sumerian literature, attested elsewhere only in In.šag 118, Lu-di@ira 5, InstrŠur 16, Michalowski 1981,
-388:1. In these instances, it is always used literally to refer to a physical path. Elsewhere, it is attested in Ur III documents (e.g. HLC 148;
-MVN 6 547), and in the personal name dinana-ka-@iri3-dšu-suen (Sallaberger 1993 103 w/n. 458; Such-Gutiérrez 2003 191f. w/n. 803). See
-also Gregoire 1975; Turner 1981, 101, 467 n. 25. For the use of the
-term in early OB Isin see van de Mieroop 187, 142 and BIN 10 p. 31.
-17. “Do not diminish your army,” in the sense “do not let your army
-down.” Alternatively, “do not alter (the course/the assignment) of your
-army.” For lá used in the sense of bala compare CKU 14:27.
-18. For @á-nam-ma, “come!,” see e.g. Wilcke 1969, 172; Cohen 1973,
-298; Krecher 1978, 39f.
-
-editions
-
-121
-
-SEpM 4. Nanna-ki’aĝ to Lipit-Ištar (B4, 3.2.3)
+&SEpM 4. Nanna-ki’aĝ to Lipit-Ištar (B4, 3.2.3)
 1. lugal-@á ù-na-dug4
 2. mdnanna-ki-á@ ra-bi sí-kà-tum-ma
 3. arad-zu na-ab-bé-a
@@ -340,119 +193,44 @@ SEpM 4. Nanna-ki’aĝ to Lipit-Ištar (B4, 3.2.3)
 11. ù íd ba-al-e-dè ba-@en
 12. tukum-bi lugal-@u10 NIM @išpan @išgag-pan
 13. @išmá tur-tur šu-ku6-bi-šè
-14. kuša-@á-lá keše2-da-bi @ištukul @iš[. . .]
+14. kuša-@á-lá keše2-da-bi @ištukul @iš[...]
 15. á mè nu-um-ta-è
 16. ugnim-bi gú íd-amar-[dsuen-ka]-ta
 17. šeg12 ba-dù-e [du-un-nu-um ba-ak]-e ù íd al-ba-al-e
 18. lugal-@u10 nam-ba-e-še-ba-e-dè
 19. a-ma-ru-kam
-Say to my king, (2–3)thus says Nanna-ki’a@, the frontier commander,
-your servant:
-(1)
 
-Edana has turned against my king. (6)Atta-mannum brought (5)a 600
+@tra
+
+(1)Say to my king, (2–3)thus says Nanna-ki’a@, the frontier commander,
+your servant:
+
+(4)Edana has turned against my king. (6)Atta-mannum brought (5)a 600
 (man) army of Gungunum into Edana. (7)(But) I prevented that army
 from entering the old upper city. (8)So they camped in the new city.
-(4)
 
-That army (of Gungunum) came from the bank of the Amar-Suena
+(9–11)That army (of Gungunum) came from the bank of the Amar-Suena
 canal in order to build brick(works), fortify Dunnum and dig a canal.
-(12–15)
-If my king does not issue NIM-weapons, bows, arrows, small boats
-including their ﬁshermen (and) their provisions, weapons (and) . . .—the
-arms of battle—(16)that army from the bank of the Amar-Suena canal
-(17)
-will continue building with brick(works), fortifying Dunnum and digging canals. (18)May my king not be negligent! (19)It is urgent!
-(9–11)
 
-Commentary
-4. For the reading of the name Edana see Michalowski 1989, 89f.
-Frayne 1992, 33f. places the site along the Iturungal canal, the main
+(12–15)If my king does not issue NIM-weapons, bows, arrows, small
+boats including their ﬁshermen (and) their provisions, weapons (and)
+...—the arms of battle—(16)that army from the bank of the Amar-Suena
+canal (17)will continue building with brick(works), fortifying Dunnum
+and digging canals. (18)May my king not be negligent! (19)It is
+urgent!
 
-122
-
-chapter six
-
-connection between the Tigris and Euphrates (see the map in Adams
-1972, 36 ﬁg. 17).
-5. ugnim is almost never preceded by a number (but note CKU
-20:33). Here the idea must be 600 men and not 600 armies.
-6. The name, Atta-mannum, literally “who are you?,” is otherwise
-unattested, although names beginning with the element atta or the
-interrogative mannu both occur (Stamm 1939, 129f., 237ff.). Here the
-name seems to be a scribal joke, perhaps deliberately intended as an
-insult.
-7. For sa@-an-na qualifying the upper part of a ﬁeld see Civil 1994,
-125. In a Nippur forerunner to Hh XX–XXII, this is contrasted with
-a-šà-ambar-murub4, “middle of the ﬁeld at the swamp” and a-šàambar-ki-ta, “lower side of the ﬁeld at the swamp” (OB Nippur forerunner to Hh XX–XXII 113–115 = MSL 17, 100).
-That X8 omits ll. 7 and 8 is best explained as an error of haplography, since l. 9 begins the same as l. 7. Ur1’s omission of l. 7, but
-not l. 8, is less clear but may reﬂect an alternate interpretation of this
-passage.
-8. Although it is tempting to read iri ki gibil, “new lower city,” in
-contrast with “old upper city” in l. 7 this is unlikely given SEpM 5:11.
-Moreover, when iriki gibil is listed among the cities in the OB forerunner 5 iii 10’ to Hh XX–XXIV (MSL 11 139), it is followed by the
-entry for iri libir making it unlikely that ki was anything but a determinative. That the determinative is present in l. 8 and not in l.7 may
-indicate the scribe’s familiarity with the lexical tradition.
-9. While Frayne 1997, 240ff. drew the Amar-Suena canal as connecting the western branch of the Euphrates to the central, or Iturungal,
-branch, Steinkeller 1991, 57 n. 142 demonstrates that this cannot have
-been the case, although a canal of such name did lie in the Umma
-province.
-10. It is unclear whether du-un-nu-um ak-dè refers to the fortiﬁcation of a speciﬁc city or to the construction of fortiﬁcations in general.
-Frayne 1992, 32 considered that the construction of the site of Dunnum
-was an anachronistic reference to Gungunum Year 22, in which Gungunum is said to have built Dunnum and the Išartum canal. Frayne
-1992, 31 identiﬁes Dunnum with the city of Dulli/Dunni-edin situated
-
-editions
-
-123
-
-on the Iturungal canal slightly east of Nippur.28 The manuscript tradition shows that individual students (or their teachers) interpreted the
-line differently; N78 clearly marks du-un-nu-um with the geographical
-determinative ki, while X8 does not.29
-12. In the context of ll. 12–14—a list of supplies qualiﬁed in l. 15 as
-á mè, “arms of battle”—NIM should be a type of weapon. Alternatively this could refer to a weapon preferred by Elamite soldiers as
-N75 implies. While weapons are not elsewhere speciﬁed as being of
-an ethnic group, note the ethnic qualiﬁcation of an agricultural tool in
-e.g. YOS 2 17:10 (Stol 1981, 12). For @išpan @išgag-pan see Civil 2003,
-50ff. On weapons in general see Schrakamp in preparation and also
-2009a; 2009b, 2009–10, 2010a, 2010b.
-15. á mè, literally “arm of battle” occurs as an epithet of a speciﬁc
-weapon in a number of Sumerian literary texts (e.g. Angim 144, LSUr
-383, Lugalbanda II 406). The term is unattested in administrative
-texts.
-18. This line may be intentionally disrespectful given that SEpM 4–5
-are supposed to exemplify a failed relationship between ruler and
-ruled (Ch. 2.2.1). For še-bé-d(a) / še-ba-e-d(a) see Falkenstein 1957,
-162; Cavigneaux 1976, 42; Maul 1988, 445; Sjöberg 1998, 356.
-
-ANL 3 may provide further clues as to the location of Dunnum. According to l.
-3, the city of Dunnum lay on the bank of the Amar-Suena canal. Since Steinkeller has
-shown that Frayne’s placement of this canal is not correct (see above l.9), if this letter
-is to be believed, his placement of Dunnum would also be faulty. However, while it
-is likely that SEpM 4 and ANL 3—both of which place the city of Dunnum in the
-vicinity of the Amar-Suena canal—are talking about the same site, this need not have
-been the case. A number of other cities by the name of Dunnum are known from Old
-Babylonian period, although all are located much further to the north-west (Heimpel
-2003, 608; Charpin 2004, 358 n. 1868).
-29
-In Ur1 while the beginning of the KI is clear, it is unclear what follows. It may
-have been that the KI was to be read /ke/. For the writing ke of the verb ak in nonﬁnite marû forms in OB literary texts see Attinger 2005, 62. Note in particular that his
-references are from Ur. This writing is also attested elsewhere in the SEpM corpus,
-see for instance SEpM 18:15.
-28
-
-124
-
-chapter six
-SEpM 5. Lipit-Ištar to Nanna-ki’aĝ (B5, 3.2.4)
-
+&SEpM 5. Lipit-Ištar to Nanna-ki’aĝ (B5, 3.2.4)
 1. mdnanna-ki-á@ ra-bi-sí-kà-tum-ma
 2. ù-na-dug4
 3. mli-pí-it-eš4-tár lugal-zu na-ab-bé-a
-4. mu erin2 lú-kúr-ra-ke4 lugal ù-na-dug4 šu mu-e-taka430
+4. mu erin2 lú-kúr-ra-ke4 lugal ù-na-dug4 šu mu-e-taka4^^
+Var (X5): mu lú-kúr-ra-ke4 ù-bí-zu szu bí-[ta]ka4-a.
 5. m at-tá-ma-nu-um lú lugal-a-ni-ir bí-in-sa6-ge
 6. dirig-zu-šè arad lugal-a-ni-ir na-nam
-7. a-na-aš-àm @e26-e <<ù>> nu-zu-@u10-ta za-e šu @ar lugal-zu li-bíin-gi431
+7. a-na-aš-àm @e26-e <<ù>> nu-zu-@u10-ta za-e šu @ar lugal-zu li-bíin-gi4^^
+Var (X5) has instead:
+7A. a-na-aš-àm erin2 šu šà-šè ì-@ál-a-@[á] nam-lú-ulu3-ba li-bí-@ar.
+7B. ne-eš erin2 mu-un-@á-@á-e.
 8. á-še 2 li-mu-um erin2 lú @iššukur
 9. 2 li-mu-um erin2 lú @išpan
 10. 2 li-mu-um erin2 lú dur10-tab-ba im-mu-e-ši-sar
@@ -463,265 +241,91 @@ SEpM 5. Lipit-Ištar to Nanna-ki’aĝ (B5, 3.2.4)
 15. iri-bi šu-zu-ta la-ba-ra-è
 16. nam-lú-ulu3-zu @ar-bí-ib
 17. a-ma-ru-kam
-Say (1)to Nanna-ki’a@, the frontier commander, (3)thus says Lipit-Ištar,
+
+@tra
+
+(2)Say (1)to Nanna-ki’a@, the frontier commander, (3)thus says Lipit-Ištar,
 your king:
-(2)
 
-I, the king, sent you a letter about the enemy troops.32 (5)Atta-mannum is someone doing well by his king. (6)He is a better servant to his
+(4)I, the king, sent you a letter about the enemy troops.^1^
+(5)Atta-mannum is someone doing well by his king. (6)He is a better servant to his
 king than you! (7)Why is it that without me knowing it you have not
-been obliging your king?33
-(4)
+been obliging your king?^2^
 
-Now, I am sending you post-haste (8)2000 spearmen, (9)2000 bowmen
+(10)Now, I am sending you post-haste (8)2000 spearmen, (9)2000 bowmen
 (and) (10)2000 axe-men. (11)The enemy is camped in the new city—(12)
 chase them from their positions! (13)They are still carrying out the work,
 so it is the case that you have not obeyed (me!).
-(10)
 
-Var (X5): mu lú-kúr-ra-ke4 ù-bí-zu szu bí-[ta]ka4-a.
-Var (X5) has instead:
-7A. a-na-aš-àm erin2 šu šà-šè ì-@ál-a-@[á] nam-lú-ulu3-ba li-bí-@ar.
-7B. ne-eš erin2 mu-un-@á-@á-e.
-32
-Var (X5): I sent word after you informed me about the troops.
-33
-Var X5: 7AWhy is it that the troops there that are under my authority have
-not been stationed among the people? 7BNow he (= Atta-mannum) is stationing (his)
-troops there!”
-30
-31
-
-editions
-
-125
-
-Put guards on all the individual cities from their border up to yours.
-Do not let that city out of your grasp! (16)Set your soldiers there! (17It
+(14)Put guards on all the individual cities from their border up to yours.
+(15)Do not let that city out of your grasp! (16)Set your soldiers there! (17)It
 is urgent!
-(14)
-(15)
 
-Commentary
-7A & B. The scribe of X5 replaced l. 7 with two additional lines,
-perhaps indicating his confusion with it. In so doing, however, he
-altered the stress of the letter. In the Nippur recension l. 7 only reinforces Nanna-ki’a@’s general incompetence. In X5 the additional lines
-emphasize what it is that Nanna-ki’a@ failed to do, namely inﬁltrating
-the general populace with his own men. The Nippur version alludes
-to this only in l. 16.
-7A. Here šà-šè is best understood as the Akkadian expression ana/ina
-libbi, “therefore, therein, therefrom.” This solution is difﬁcult and it
-is tempting to amend the text to read šu zu!(ŠÀ)-šè in light of CKU
-20:37:
-ù za-e erin2 šu-zu-ta ì-@ál-la
-“and as for you, with the soldiers who are under your authority (get
-the trench dug!)”
-For adverbial expressions inserted between a verbal root and its nominal component see e.g. Karahashi 2000, 37.
-10. The dur10-tab-ba is an ax with a normal blade on one side and
-between three to ﬁve spikes on the other (Alster 2004, 30; for its
-identiﬁcation in archaeological contexts see Civil 1987b, 22f.). It is
-associated with ﬁshermen/hunters in both literary and administrative
-texts. For example, in InGd, Inana’s ﬁsherman/hunter uses the ax to
-kill Gudam. Lugalbanda II 146 compares the power of Lugalbanda’s
-arrows to the dur10, a knife used to kill ﬁsh. In the Mari text ARM 1
-31:37 ﬁshermen deployed as soldiers are sent out with their axes. In
-ARMT 23 384:3, bronze ingots are designated for ﬁshermen’s axes.
-Given Nanna-ki’a@ request for ﬁshermen’s boats in SEpM 4:13, the
-battle-axers in this line may have been ﬁshermen. Although the army
-promised in ll. 8–10 seems large, the number is likely stylized to counter Attamanum’s army of 600 in SEpM 4. (Compare also the size
-of armies mobilized in the Mari archives, Abrahami 1992. See also
-the references listed in Heimpel 2003, 599ff. However, while troops
-in the Mari texts are tabulated by city of origin they are never subcategorized by weapon of expertise).
+^1^Var (X5): I sent word after you informed me about the troops.
+^2^Var X5: (7A)Why is it that the troops there that are under my
+authority have not been stationed among the people? (7B)Now he (=
+Atta-mannum) is stationing (his) troops there!”
 
-126
-
-chapter six
-
-Elsewhere, in Sumerian literary texts, sar normally has the meaning “to run” and occurs primarily in the context of running or chasing away (e.g. Lugalbanda II 48, LSUr 86). The nuance intended
-here, however, best ﬁts the meaning of hummu≥u and šuhmu≥u, “to send
-quickly, promptly,” attested in OB and said of particularly of troops
-in Amarna; CAD H, 62f.). Alternatively, sar may be from ša≥ ru, “to
-assign,” used in OB letters for assigning soldiers to military service
-(CAD Š/II, 237f.).
-The verbal preﬁx im-mu-e-ši- is rare in Sumerian literature, but
-attested in OBGT VII (MSL 4 88ff.) In OBGT VII -e-ši- is used for
-second person singular ventive sufﬁxes -kum and -akkum, to indicate
-direction “towards you” with verbs of motion (Black 1984, 20f.). For
-im-ma- going to -im-mu- before -e-ši- see Black 1984, 24.
-11. A reference to SEpM 4:8 in which Nanna-ki’a@ informed LipitIštar that Atta-mannum’s army is camped in the new part of Edana.
-13. ll. 10 and 12 use the verb sar with clearly different meanings, and ll.
-7 and 13 do likewise with the verb šu @ar. Perhaps one of the purposes
-of this exercise was for students to practice using the same vocabulary
-in varied contexts. According to Civil (2005, 35) na- in the second
-verbal chain should be negative of the deontic, indicating negative
-advice. Contextually, however, the preﬁx must be the negative epistemic.
-
-editions
-
-127
-
-SEpM 6. Ur-saga to a King (B6, 3.3.1)
+&SEpM 6. Ur-saga to a King (B6, 3.3.1)
 1. lugal gud igi gùn sum4 na4za-gìn lá-@u10-úr
-2. ù-na-a-dug434
-3. alan kù-sig17 u4 du10-ga dú-da35
-4. áb-za-za amaš kù-ga bulu@3-@á šà kù dinana-ke4 pàd-da36
+2. ù-na-a-dug4^^
+^^Uk2 gloss: a-na šar-ri ša ki al-pi ši-it-ha-ri qí-bi-ma.
+3. alan kù-sig17 u4 du10-ga dú-da^^
+^^Uk2 gloss: a-lamx(LUM) hu-ra- i i-nu-mi ≥a-bu UD.DA.
+4. áb-za-za amaš kù-ga bulu@3-@á šà kù dinana-ke4 pàd-da^^
+^^Uk 2 gloss: wa-tu.
 5. en nir-@ál dinana-@u10-úr ù-na-dè-tah
-6. za-e dím-ma-zu dumu an-na-me-en37
-7. dug4-ga-zu inim di@ir-ra-gin7 hur nu-gi4-gi4-dam38
+6. za-e dím-ma-zu dumu an-na-me-en^^
+^^Uk2 gloss: [x?] wa /x\ [x] /ma?\-ra-ni.
+7. dug4-ga-zu inim di@ir-ra-gin7 hur nu-gi4-gi4-dam^^
+^^Uk2 gloss: hu-ur la ta-ar.
+Var (Ur4): dug4-ga-zu inim di@ir-ra kur-kur nu-g[i4-gi4-dam].
 8. inim-zu im an-ta šè@-@e26-gin7 šid nu-du12-du12-dam
 9. mur-sa6-ga arad-zu na-ab-bé-a
-10. lugal-@u10 bar-@á èn li-bí-in-tar39 dumu uri2ki-ma-me-en
+10. lugal-@u10 bar-@á èn li-bí-in-tar^^ dumu uri2ki-ma-me-en
+Var (N87, Ur4, Uk1, U2): èn bí-in-tar.
 11. tukum-bi lugal-@á an-na-dùg
 12. é ad-da-@á lú nam-ba-an-tùm
 13. ki-ùr é ad-da-@á lú nam-mu-da-an-kar-re
 14. lugal-@u10 hé-en-zu
-Say (1)to my king, the sparkling-eyed bull who wears a lapis beard40:
-Repeat to (3)the golden statue, born on a favorable day,41 (4)zebu
+
+@tra
+
+(2)Say (1)to my king, the sparkling-eyed bull who wears a lapis beard^1^:
+Repeat to (3)the golden statue, born on a favorable day,^2^ (4)zebu
 reared in the divine sheepfold, chosen by the shining heart of Inana,
-(5)
-my lord, the trusted of Inana:
-(2)
-(5
+(5)my lord, the trusted of Inana:
 
-By your form, you are the child of An. (7)Your command, like the
-words of a god, is irrevocable.42 (8)Your words, like raindrops that fall
+(6)By your form, you are the child of An. (7)Your command, like the
+words of a god, is irrevocable.^3^ (8)Your words, like raindrops that fall
 from the sky, are uncountable.
-(6)
 
-Thus says Ur-saga, your servant:
+(9)Thus says Ur-saga, your servant:
 
-(9)
-
-My king has not investigated my case (but) I am a citizen of Ur!43
-If it is satisfying to my king, (12)then let no one make off with my
+(10)My king has not investigated my case (but) I am a citizen of Ur!^4^
+(11)If it is satisfying to my king, (12)then let no one make off with my
 father’s estate. (13)Let no one forcibly take away the foundation of my
 father’s estate. (14)This my lord should know!
-(10)
-(11)
 
-Uk2 gloss: a-na šar-ri ša ki al-pi ši-it-ha-ri qí-bi-ma.
-Uk2 gloss: a-lamx(LUM) hu-ra- i i-nu-mi ≥a-bu UD.DA.
-36
-Uk 2 gloss: wa-tu.
-37
-Uk2 gloss: [x?] wa /x\ [x] /ma?\-ra-ni.
-38
-Uk2 gloss: hu-ur la ta-ar.
-Var (Ur4): dug4-ga-zu inim di@ir-ra kur-kur nu-g[i4-gi4-dam].
-39
-Var (N87, Ur4, Uk1, U2): èn bí-in-tar.
-40
-Uk2 gloss: Say to my king who is like a sparkling-eyed bull.
-41
-Uk2 gloss: statue of gold, born on a favorable day.
-42
-Var (Ur4): You command is the word of a god, all the lands cannot reverse it.
-43
-Var (N87, Ur4, Uk1, U2): Has my king investigated my case? I am a citizen of Ur!
-34
-35
+^1^Uk2 gloss: Say to my king who is like a sparkling-eyed bull.
+^2^Uk2 gloss: statue of gold, born on a favorable day.
+^3^Var (Ur4): You command is the word of a god, all the lands cannot reverse it.
+^4^Var (N87, Ur4, Uk1, U2): Has my king investigated my case? I am a citizen of Ur!
 
-128
-
-chapter six
-
-Commentary
-1. For the reading sum4 for su6(KA*SA) cf. Proto-Ea 319 (MSL 14,
-44) which lists sú-um: KA*SA. That Utu is the king to whom Ur-saga
-appeals is almost certain given that elsewhere in the Sumerian literary
-corpus, sum4 na4za-gìn lá is used primarily in reference to him.44
-4. Elsewhere in the Sumerian literary corpus the áb-za-za is attested
-only twice: in the list of animals that Inana supplies for the city of
-Akkad at the beginning of CA 21f. and the list of animals Enlil brings
-to Sud as wedding gifts in EnlSud 108. This animal occurs several
-ti,e in Ur III administrative sources as well, for instance in a list of
-offerings of bulls, sheep and deer (AnOr 7 no. 154) and once as an
-object made of lapis (UET 3 415). For the identiﬁcation of áb-za-za
-see most recently Attinger 2009, 140, who identiﬁes the creature as a
-wild buffalo.
-The term amaš is normally reserved for a sheepfold, in contrast to
-the (é-)tùr, “cattle pen” (e.g. IšD J 21–22; EnmEns 209). While gazelles
-(e.g. DuDr 234, 238, 239) and goats (e.g. EnmEns 185) are elsewhere
-attested living in an amaš kù-ga, to ﬁnd a bovine dwelling in an amaš
-of any type is uncommon.45
-The translation of pàd-da with wa-tu instead of nabû, is perhaps
-surprising. Although atû is attested in the sense of divine selection, the
-references listed in CAD A/II 519f. and Seux 1967, 368f. are all from
-the ﬁrst millennium. In contrast, nabû is attested in OB royal inscriptions (CAD N/I 36; Seux 1967, 175).
-The omission of this line in three (of nine) manuscripts was perhaps
-the result of haplography.
-
-See the references collected in Sjöberg & Bergmann 1969, 87; Polonsky 2002,
-209–213. Of course it is also possible that Ur-saga was addressing the king of Ur.
-For references to Ur-Namma, Šulgi and Šu-Suen adorning the lapis beard in ritual
-contexts cf. Polonsky 2002, 516–17. In such instances the beard served to equate the
-king with the sun god, emphasizing his role in justice (Ibid., 518–19).
-The epithet gud igi gùn is attested elsewhere only in reference to Nergal (STVC 73, 5;
-Heimpel 1968, 145). Given the plea for justice that this letter contains, however, it is
-most likely that Utu—or a king acting in the capacity of the sun god as the administrator of justice—was the intended recipient. Note, however, that the reference to Angim
-in l. 6 invokes Nergal. The ambiguity may have been deliberate.
-45
-Note, however, the bala@ lamentation am-e amaš-a-na, “the bull in his fold” (cf.
-Cohen 1988, 152ff.), although the incipit is not preserved in the OB manuscript.
-44
-
-editions
-
-129
-
-5. The form dinana-ke4 in X9 indicates the scribe did not understand
-the meaning of the line within the context of the text as a whole,
-although it is technically correct in isolation.
-6. This line is perhaps a reference to the opening line to Angim, an
-<-gin7> dím-ma dumu den-líl-lá, “created like An, O son of Enlil.”
-7. For hur + negation, “never,” see Cavigneaux and Al-Rawi 2000,
-37.
-8. The choice to read ĜÁ as @á or @e26 is problematic. Volk argues
-that the forms B-a-gin7 and B-e-gin7 are not interchangeable.46 The
-choice to read @e26 here emphasizes the continual action.47 The reading du12-du12 for TUKU.TUKU is established by OB Diri Nippur
-49–53, 53a, which gives both translations ah zu and rašû. The orthographic variant dù-dù in X9 conﬁrms this.
-10. As is frequently the case in the Sumerian epistolary corpus, bar
-èn tar is best understood in the sense of Akkadian arkatu par su, “to
-take care of (person or situation),” used primarily in OB letters, or
-“to investigate (a judicial or political matter)” (see further Michalowski
-2011, commentary to CKU 5 l. 27/29). Alternation between a negative (èn li-bí-in-tar) and a positive (èn bí-in-tar) as a rhetorical question,
-intended sarcastically, is not uncommon (e.g. CKU 2:29).
-11. tukum-bi . . . an-na-dùg, “if it is satisfying for him” adhere to the
-expected Akkadian expression with abu (CAD ˘ 34ff; Civil 1994, 182
-and 2005a, 247; Böck 1996, 10). As in Uk2, the expression is normally
-with an-na-kam, “(if ) it is a ‘yes’ for him.”
-
-46
-The only instance where the forms R-a-gin7 and R-e-gin7 alternate in different
-manuscripts of the same line appears to be in ELA 270, where lá-lá-a-gin7 occurs
-as a variant for lá-lá-e-gin7. Here, however, the variant—a- is clearly inﬂuenced by
-concerns of vowel harmony.
-47
-ˆ
-ˆ
-The variant in X9, še-GÁ-NE-gin
-7, is particularly problematic. Here GÁ must
-be read @e26 as a form B-ade is never attested. B-ede, however, “in order to X,” does
-not ﬁt the context. Assuming an original form B-eda in which a shifted to e under
-the inﬂuence of the e vowel in the root, is also problematic as it is not clear what
-the locative -a would represent. As such, this variant seems to indicate that the scribe
-did not understand the Sumerian and perhaps conﬂated the participial form with the
-pronominal conjugation.
-
-130
-
-chapter six
-SEpM 7. Lugal-šú to a king (B7, 3.3.2)
+&SEpM 7. Lugal-šú to a king (B7, 3.3.2)
 
 1. lugal zalag-ga-ni iti6-gin7 kur-kur-ra pa è-a ù-na-dug4
 2. lugal dutu-gin7 di si sá ku5-ku5-dè eš-bar dištaran-gin7 si sá-sá-e-ra
 3. lugal šùd-dè @iš tuku-@u10-úr ù-na-dè-tah
-4. mlugal-šú48 dumu nibruki arad2-zu na-ab-bé-a
+4. mlugal-šú^^ dumu nibruki arad2-zu na-ab-bé-a
+Var (N13): mlugal-nesa@-e.
 5. udu-gin7 ka ú gu7-@u10 mu-e-pàd na@a dúb-ba i-ni-til
 6. gu4 @iš šudul4-a nu-ub-ha-za lá-gin7 edin-na ba-ab-@en-ne-en
 7. áb amar-bi nu-ub-da-lá-a-gin7 gù arhuš-a im-me
 8. u8 sila4-bi é-ubur-ra dab5-ba-gin7 šu ba-ab-dab5-bé
 9. mušen-gin7 gùd-@á lú šu ba-ni-in-ti
-10. @išmá kar gi-na-a li-bí-ib-tak4-a-gin749 tum9-e ba-ab-dirig-ge-en
+10. @išmá kar gi-na-a li-bí-ib-tak4-a-gin7^^ tum9-e ba-ab-dirig-ge-en
+Var (X2): @išmá gi-na-a li-bí-ib-kar-a.
 11. i-si-iš sila nibruki-ka mu-gu7-e-en
 12. iri kúr iri-@á mu-da-an-kur9 lú èn tar-re la-ba-tuku
 13. é kúr é-@á mu-da-an-kur9 ugu-@á-aš ba-ab-du24(DUN)
@@ -735,238 +339,57 @@ SEpM 7. Lugal-šú to a king (B7, 3.3.2)
 21. @iš hul gurun nu-íl-la-gin7 lú na-ma-ši-húl-le
 22. @išgibil-@išgibil-me-en @išisimu2sar nu-tuku-me-en ur5-re nam-ba-tùm
 23. lugal-@u10 èn-@u10 hé-tar-re ki-ùr-@u10-šè hé-em-mi-ib-gi4-gi4
-Say to the king whose brilliance shines forth like the moon over all
+
+@tra
+
+(1)Say to the king whose brilliance shines forth like the moon over all
 the lands: (3)Repeat (2)to the king who renders just verdicts like Utu,
 effecting decisions like Ištaran. (3)to my king who hears prayers: (4)Thus
-says Lugal-šu,50 citizen of Nippur, your servant:
+says Lugal-šu,^1^ citizen of Nippur, your servant:
 
-(1)
-
-Like a sheep, grazing became my lot,51 (and) I ﬁnished by rubbing
-(myself ) down. (6)Like an ox bound to a yoke it cannot support, I have
-been sent to the desert. (7)Like a cow whose calf is not by her side,52 I
-
-(5)
-
-Var (N13): mlugal-nesa@-e.
-Var (X2): @išmá gi-na-a li-bí-ib-kar-a.
-50
-Var (N13): Lugal-nesa@e.
-51
-Lit: “My mouth eating grass like a sheep appeared to me.”
-52
-Lit: “like a cow whose calf is not tied next to her.”
-48
-49
-
-editions
-
-131
-
+(5)Like a sheep, grazing became my lot,^2^ (and) I ﬁnished by rubbing
+(myself) down. (6)Like an ox bound to a yoke it cannot support, I have
+been sent to the desert. (7)Like a cow whose calf is not by her side,^3^ I
 cry plaintively. (8)Like a ewe whose lamb is seized in the feeding-pen,
 (my) hands are tied. (9)Like a bird, I was snatched in my nest. (10)Like
-a boat that did not take refuge at a stable dock,53 the wind has cast me
+a boat that did not take refuge at a stable dock,^4^ the wind has cast me
 adrift.
-In the streets of Nippur, sorrow consumed me. (12)A foreign city
+
+(11)In the streets of Nippur, sorrow consumed me. (12)A foreign city
 has entered into my city. I had no protector. (13)A foreign house has
 entered into my house. It exercised authority over me. (14)In my city,
-like a slave, I did not carry silver. Dirty hair hung (from my) head.54
-(11)
+like a slave, I did not carry silver. Dirty hair hung (from my) head.^5^
 
-My friends, companions, acquaintances and dear ones (16)looked
+(15)My friends, companions, acquaintances and dear ones (16)looked
 contemptuously at me like (at) a man who eats alone. (17)My birth
 mother, whose breasts are (like?) crescents, (18)took my consumption of
 milk from my mouth (as I sat) in (her) lap. (19)My father, who raised
 me in his lap, cast me away.
-(15)
 
-My merciful lady—her temple is precious!—no longer notices me.
-Like a bad tree which has born no fruit, no one rejoices over me. (22I
+(20)My merciful lady—her temple is precious!—no longer notices me.
+(21)Like a bad tree which has born no fruit, no one rejoices over me. (22)I
 am a shoot with no off-shoots, thus I do not want to be carried off!
-(20)
-(21)
 
-May my king consider my case and return me to my rightful position!
+(23)May my king consider my case and return me to my rightful position!
 
-(23)
-
-Commentary
-1. While the image of shining like the moon light (iti6-gin7 è) is common, it is not otherwise attested with the compound verb pa è nor
-is the moonlight ever said to shine over the kur-kur. As iti6-gin7 è is
-applied to numerous deities (e.g. Nergal, Inana) it is unclear to whom
-this epithet here refers.
-2. The ﬁrst epithet—dutu-gin7 di si sá kud-kud-dè—is attested in OB
-royal hymnology (Šu-ilišu A 30, IšD A+V 226, Ur-Ninurta A 35). The
-second—eš-bar dištaran-gin7 si sá-sá-e-ra—is more unusual. eš-bar
-occurs with the verb si sá only in one Rim-Sin royal inscription (RimSin I 135 = RIME 4.2.14.17) and in two lamentations (CLAM 98:54,
-
-Lit: “like a boat that was not held back (tak4) at a stable dock.”
+^1^ Var (N13): Lugal-nesa@e.
+^2^ Lit: “My mouth eating grass like a sheep appeared to me.”
+^3^ Lit: “like a cow whose calf is not tied next to her.”
+^4^ Lit: “like a boat that was not held back (tak4) at a stable dock.”
 Var (X2): “a boat not ﬁrmly secured (kar).”
-54
-Lit: “In my city, I do not go around like (someone) free of claims. The hair of
+^5^ Lit: “In my city, I do not go around like (someone) free of claims. The hair of
 (my) dirty head is hanging down.”
-Alternate: “In my city, I go around unclean like a slave . . .”
-53
+Alternate: “In my city, I go around unclean like a slave ...”
 
-132
 
-chapter six
 
-350:54). Although Ištaran is never said to make an eš-bar, compare
-Gudea Cyl. A Col. X ll. 24–26:
-é-bar6-bar6 ki á-á@-@e26-@á
-ki dutu-gin7 dalla-a-@á
-ki-ba dištaran-gin7 di iri-@á si ba-ni-íb-sa-e
-“In the Ebarbar, the place where I issue orders,
-the place where I shine like Utu
-I justly decide, like Ištaran, the lawsuits of my city.”
-
-3. The epithet šùd-dè @iš tuku is well attested in OB royal inscriptions
-and hymns, in reference to various deities including e.g. Suen, Nuska,
-and the goddess Ninibgal.
-4. See 2.4.1 for discussion of Lugal-šu and the variant Lugal-nesa@e.
-5–12. Ll. 5 to 12 contain similes used to illustrate the sender’s unfortunate circumstances. Ll. 5–11 draw on animal imagery to describe
-a person who has lost his way while l. 12 is that of a ship cast adrift.
-Such images are expected (see Black 1998, 157 who demonstrates that
-almost one-third of the imagery used in Lugalbanda II comes from
-the animal world; while seven percent—the third largest category of
-image types in Lugalbanda II—are of boats). If the images themselves
-are not unusual, the verbs used with them are. Moreover, there does
-not seem to be a discernible reason for the choice between hamtu or
-marû forms.
-5. udu-gin7 ka ú gu7, “like sheep eating grass” is a common topos in
-Sumerian literary texts (see the examples collected by Heimpel 1968,
-223f.), used for instance to describe the primeval conditions in which
-humans lived before the gods created sheep and grain (EG 24, HGCS 1).
-In SEpM 7, the sender is shocked to ﬁnd that he has reverted to
-the behavior of his primitive ancestors. The ﬁgurative use of pàd is
-paralleled only in SEpM 8:9. In both instances, -e- is the ﬁrst person
-singular locative (Attinger, personal communication; see also Attinger
-1999; 2000) rendering a literal translation “it appeared to me.”
-na@a dúb, “to rub with soap” (Attinger 1993, 621 §656; Alster
-2005a, 67), is ﬁtting here as it applies primarily to animals (e.g. SP 2+6
-79 and 5 14). Although unprecedented in this context, the reading of
-the ﬁnal verb as til is favored by the variant tìl in X12.
-6. The image of an ox under a yoke also occurs in UrN C 10, which
-Flückiger-Hawker (1999, 221) interprets as an image “of a single bull
-straining because bulls are usually yoked in pairs.”
-
-editions
-
-133
-
-7. For the common motif of a mother animal who has lost its young,
-attested as early as a Lugalzagesi royal inscription (SAK 154 II 43–45)
-see Heimpel 1968, 183; Tinney 1996, 144 (comm. l. 68). For gù dug4,
-often said of animals, see the discussion in Attinger 1993, 526ff. Note
-in particular the frequent use of the inﬁx -m- with this verb to focus
-attention on the object or occasion that is causing the subject to cry
-out (Ibid. 531 §458; Woods 2008, 198f.). While gù is often modiﬁed by
-an adverb, it does not occur elsewhere with arhuš. For the adverbial
-marker—a see Attinger 1993, 169 §105c.
-8. Although there is no direct parallel for this image, the following
-passages are comparable: LSUr 301, LUr 66, SP 3.116, YOS 11 70 ii
-23’. For the common use of ewes and lambs together else in Sumerian metaphorical language see Heimpel 1968, 232ff (14.6–14.10; 15).
-The é-ubur is a purely literary term, unattested in Ur III administrative documents. For šu dab5, in the sense of “paralyzed hands,”
-see Alster 2007, 107. While this interpretation makes the best sense
-contextually—i.e. Lugal-šu is powerless to stop what is befalling him,
-like a captive animal whose young is taken from it—the variant šu-ni
-(N14, N85) is difﬁcult to explain.
-9. For the syntax of this line see Heimpel 1968, 39f. Parallel sentiment
-is described in TCL 16, 46:4–5 (Heimpel 1968, 385 ex. 57.10).
-For šu-ba-ni-in-ti in comparative sense see e.g. DuDr 60 & 62
-(sources O, J1, R1; see Attinger 2009c for sigla) and SP 5.72B.
-10. For ba- + dirig see Woods 2008, 252f. The image of a boat cast
-adrift occurs in DUrN 182.
-11–19. Note that the complaints in this passage are made in the perfect, marked explicitly in l. 16 (mu-gíd-eš) and l. 19 (ba-an-@ar-re-en).
-11. While i-si-iš is both a manifestation of joy and sorrow, the second
-meaning was obviously intended here (see further the discussion in
-Jaques 2006 163, 165). For i-si-iš gu7 see Jaques 2006, 372 w/n 796.
-While the lack of an ergative marker on i-si-iš and the variant in N76
-argue in favor of a translation “sorrow in the streets of Nippur consumed me,” the sense would be problematic.
-12. Here lú èn tar is used as Akkadian p qidu, “protector,” in place of
-the more common sag èn tar.
-13. For é kúr compare LUr 291, 295. DUN in the sense of “to be/
-put under the authority of ” follows a suggestion of Attinger (personal
-
-134
-
-chapter six
-
-communication) with reference to Cavigneaux 2006, 19 w/n. 28 (“to
-enter or be in a relationship with someone”), and the term lú-DUNa, “subordinate” (Attinger 2003, 31; Maiocchi 2009, 239). Literally,
-then, “it had a relationship against me.”55 The variant du11 in X12
-supports the reading du24 (DUN) suggested by Civil 2010, 163.
-14. For siki sa@, “head hair” cf. InDesc 235 and DI T 14. For siki
-lá, as a description of wearing one’s hair loose or hanging see RS B 8
-and DI C 11. For uncleanliness as a description of suffering compare
-CKU 5 ll. 20f.:
-iri-@á túg dàn-na mi-ni-dúr-ra túg mu-dur7-ra ba-mu4
-lag-e a mi-ni-íb-tu5-tu5-a sahar igi-@á ba-e-gub
-“In my own city, where I used to dwell in ﬁne clothing, I am forced to
-wear dirty rags. Forced to wash in clods of dirt, there is dirt on my face.”56
-
-For unclean hair in particular see Sag B 97 (MSL SS 1, 31): sag-siki
-mu-dur7 = ma-lu-lú. The reading dur7 is now assured by the variant
-/mu\-du-ra in InDesc 341 (MS 3282, courtesy K. Volk).
-15. In other words, “everyone.” Compare SEpM 19:15.
-16. The idea is reminiscent of that from the Akkadian story of the
-Poor Man of Nippur ll. 17–20, in which the protagonist is afraid to
-slaughter a goat in his yard without provisions to feed his neighbors,
-lest they see him eating alone and (falsely) accuse him of greed.
-17, 19, and 20. The possessive sufﬁx -bi- in these lines should be -ni-.
-Confusion of the person/non-person pronouns occurs also in the pronominal preﬁxes in ll. 12–13 and ll. 19 and 23.
-17. To my knowledge there are no parallels for the image of crescentshaped breasts, although DI P Seg. B l. 21 compares Inana’s vulva to
-a crescent moon. Theoretically ll. 16 through 20 should go together:
-my friends did this, my mother did that, and my father did that. The
-qualiﬁcation of the mother’s breasts here in l. 17 is a poignant intensiﬁer of the complaint that follows.
-18. Although du10 could be an adverb, “my contented consumption of
-milk,” beginning a line in this way is unusual. As such, it seems that
-55
-Although ugu-@á-aš for ugu-@u10-šè is rare, it is not unattested (Attinger, personal
-communication).
-56
-Translation following Michalowski 2011.
-
-editions
-
-135
-
-du10-ge-eš is not the adverb “well” but the noun du10, “knee.” While
-du10, “knee,” is normally attested with a /b/ auslaut, there are a number of cases in which ﬁnal /b/ and /g/ alternate (Civil 1973, 60f.).
-That the lap was the location the child was placed in order to suckle
-see Volk 2004, 84 n. 80. This solution requires some reconstruction,
-but the image contrasts well with that of l. 20.
-20. arhuš is not otherwise attested qualifying nin, although plenty of
-goddess are said to be merciful (Inana, Ninmah, Nungal ).
-The sufferer’s complaint has thus far been expressed in the perfect
-tense, yet with l. 20 the complaints switch to imperfect forms. The
-variant ending—en in N47 can be explained by -en in place of -e 3rd
-sg. in maru forms (Attinger 1993, 112 §41).
-21. Other instances of @iš hul in Sumerian literature are uncertain,
-although the passage in ŠB 57 seems to refer to a speciﬁc type of
-plant. The tree is unattested in the lexical tradition. Here, at least in
-part, @iš hul must have been chosen to pun with húl. For -ma-ši-húl
-see Warad-Sin 27.46. Here the terminative refers to the misfortunes
-referred to in the preceding lines ( Jaques 2006, 320).
-22. The normal image is positive: a seed with sprouts is one that is
-fertile (e.g. Keš Hymn 58L). In this line, however, the image is of
-a tree from which nothing grows, implying that the sufferer has no
-descendants. The semantic distinction between gibil and isimu, both of
-which are glossed as pi’ru, is unclear (Veldhuis 1997, 152). For /na/ as
-a negative cohortative see Attinger 1993, 290f.; Civil 2005b: 35.
-23. ki-mu-šè gi4 is expected. For ki-ùr in the sense of social status or
-position note the use of Akkadian išdu.
-
-136
-
-chapter six
-SEpM 8. Lugal-nesaĝe to a King (B8, 3.3.3)
+&SEpM 8. Lugal-nesaĝe to a King (B8, 3.3.3)
 
 1. lugal dutu-gin7 šà kalam-ma mu-un-zalag-ga
 2. ù-na-dug4
 3. i-dutu ab-sín íb-ta-an-zi-ga
-4. ti-id-nu-umki-e šu bí-in-@ar57 šibir-bi mu-un-dab5-ba
+4. ti-id-nu-umki-e šu bí-in-@ar^^ šibir-bi mu-un-dab5-ba
+Var (N20): šu bí-in-dab5.
 5. lugal idim-bi-šè ab-šid-dè-a
 6. ù-na-dè-tah
 7. mlugal-nesa@e-e dumu nibruki arad2-zu na-ab-bé-a
@@ -978,198 +401,50 @@ SEpM 8. Lugal-nesaĝe to a King (B8, 3.3.3)
 13. mušen šu súr-dùmušen-ta dal-a-gin7 ur5-da ì-ak-en
 14. @iš kiri6 a nu-dug4-ga-gin7 asil3-lá-@u10 háb-ba ba-an-ug5
 15. igi-lá é lugal-@á-ke4 íb-si-ge i5-@ar gig ma-lá
-16. zarah-àm ur-gin7 [. . .]
-17. ù-u8-a-u8 [. . .]
+16. zarah-àm ur-gin7 [...]
+17. ù-u8-a-u8 [...]
 18. gud-gin7 mur-@u10 eme ba-šub6 nu-tuku-gin7 šu ì-ša-an-ša
 19. peš amar-@u10 gùd-bi zi ba-ni-in-gi4 ka ú gu7 ba-peš
 20. edin KAL tumu ri-a-ta AŠ bad-rá-gin7 é HAR-HAR-ra ba-dab5-bé
-21. ug5-ga ki nu-túm-ma-me-en še-gin7 àr-[àr . . .]58
+21. ug5-ga ki nu-túm-ma-me-en še-gin7 àr-[àr ...]^^
+Var (Ki1): ug5-gin7 ki túm-túm-mu nu-zu še-gin7 àr-[...].
 22. šeš-@u10 lú kúr nu-me-a igi tur mu-un-gíd
-23. [. . .] gú ki-šè ba-lá
+23. [...] gú ki-šè ba-lá
 24. sa6-ga-@u10 hul-šè mu-da-an-sig10
 25. lugal KA /x x\ bala-@u10 dutu-gin7 ha-ma-dirig
-Say (1)to the king who brightens the heart of the homeland like Utu.
-Repeat to the one (3)who removed oppression from the furrows, (4)who
-caused Tidnum to submit,59 who seized their (royal ) staff, (5)the one
+
+@tra
+
+(2)Say (1)to the king who brightens the heart of the homeland like Utu.
+(6)Repeat to the one (3)who removed oppression from the furrows, (4)who
+caused Tidnum to submit,^1^ who seized their (royal ) staff, (5)the one
 counted as their important king. (7)Thus says Lugal-nesa@e, citizen of
 Nippur, your servant:
-(2)
-(6)
 
-My inexplicable punishment makes me glower. (9)Wailing in distress
+(8)My inexplicable punishment makes me glower. (9)Wailing in distress
 became my lot. (10)In a city that has become hostile I have been moaning
-(8)
-
-Var (N20): šu bí-in-dab5.
-Var (Ki1): ug5-gin7 ki túm-túm-mu nu-zu še-gin7 àr-[. . .].
-59
-Var (N20): “who defeated Tidnum.”
-57
-58
-
-editions
-
-137
-
 like a dove, (11)(but) no one took pity (on me).60 (12)I am ﬁlled with restlessness, like a dog that does not know a place to rest. (13)I am on alert
 like a bird ﬂying from the grasp of a falcon. (14)Like a garden that has
 not been watered, my joy withers in fetid (decay).
-The glances (of those within) the palace of my king silenced me; a
-bad reputation has been attributed to me. (16) . . . moaning . . . (17). . . cries
-of woe . . . (18)Like an ox I licked my fodder (with my tongue), like a
+
+(15)The glances (of those within) the palace of my king silenced me; a
+bad reputation has been attributed to me. (16) ... moaning ... (17)... cries
+of woe ... (18)Like an ox I licked my fodder (with my tongue), like a
 pauper I grasped about rapaciously. (19)My young ﬂedglings, dazed in
 their nest, opened wide their mouths to eat some food. (20)Gusty winds
-from the . . . desert, like . . ., seize me(?) in . . .
-(15)
+from the ... desert, like ..., seize me(?) in ...
 
-Dead but unburied,61 I am ground up like grain, . . . (22)My brother
+(23)Dead but unburied,61 I am ground up like grain, ... (22)My brother
 (even though) he is not a stranger looked at me contemptuously.
-(23)
-. . . I hung my neck downward. (24)My good has been made evil.
-(21)
 
-(25)
+(21)... I hung my neck downward. (24)My good has been made evil.
 
-May the . . . king, like Utu, make my appeal successful!
+(25)May the ... king, like Utu, make my appeal successful!
 
-Commentary
-1. The use of eme-sal ša-ab for šà in N67 is unclear. That the king in
-question was perhaps Enlil-bani see Marchesi 2006b, 18 n. 69.
-3. For i-dutu see Cooper 1983, 31; Attinger 1993, 564f; Edzard 2003,
-169. The line compares with PBS 5, 74 vi 22–vii 6 (Frayne 1990,
-87–90), a royal inscription of Enlil-bani (Marchesi 2006b, 18 n. 69).
-4. The use of GÌR.GÌR as a logogram for Tidnum in OB texts is
-discussed by Steinkeller 1992, 262ff; Marchesi 2006b, 124. This text
-can now be added to his list of attestations (Ibid., 263 n. 60). Outside
-of the CKU, Tidnum as the enemy occurs only in LN 231; LSUr
-256, 488; Šulgi U 25 (and see most recently Marchesi 2006b, 9–26).
-Note also the use of kur GÌR.GÌR occurs as a variant of lu5-lu5-bi in
-InEb27. For the locative-terminative nominal sufﬁx -e used to mark
-the second subject of a causative verb see Attinger 1993, 198 §129b:
-Zólyomi 1999: 242.
-The translation of šu @ar here is implied by context. Marchesi
-(2006b, 18 n. 69) translates literally “to set the hand to.” šibir dab5 as
-a symbol of royal authority occurs also in Sin-iddinam E 13, Rim-Sin
-C 22 and Samsu-iluna C 5.
-60
-61
+^1^ Var (N20): “who defeated Tidnum.”
 
-Alternative: “But no one accepted my supplication.”
-Var (K1); “like a dead person who has not experienced burial.
 
-138
-
-chapter six
-
-5. idim is not a common word in Sumerian literature, although it
-occurs modifying a range of subjects, e.g. Enlil (EWO 199), Enlil’s
-word (Enlil A 143, 144), waves (Hendursa@ A 28), Lipit-Ištar’s name
-(Li C 5) as well as other deities (Ningišzida, Nuska, Gilgameš). -bi is
-here the collective referring to the land of Tidnum. For šid, “considered (lit: counted) as their important king,” compare CA 154; DG 82f
-(Cavigneaux & al-Rawi 2000, N6 6’f., Meturan 121f.); Lugale 693.
-7. See 2.4.1 for discussion of Lugal-nesa@e and the variant Lugal-šu.
-8. Sjöberg 1975, 226–7 collects the references for sul-a-lum and notes
-the variant translations with ennittu, “punishment” and arnu, “sin.”
-Punishment best ﬁts the context.
-9. The reading til4 for AŠ is provided by Izi E i 230 (MSL 13, 191).
-This word is rare in Sumerian literature occurring only in In.šag 163
-as one of Inana’s many traits enumerated there. For mu-e-pàd see
-SEpM 7:5.
-10ff. Lines 10, 12, 13 and 14 use animal similes to illustrate the sender’s unfortunate circumstances. This section parallels ll. 6–13 in SEpM
-7 that draws heavily on animal imagery for the same purpose. These
-lines all make use of ham≥u forms, in contrast to the parallel lines in
-SEpM 7, which alternate between ham≥u and marû.
-10. For tum12mušen, one of the most frequent bird names occurring in
-Sumerian literature especially associated with mourning and distress,
-see Veldhuis 2004, 289. In CA 219 doves are said to moan as an
-indication of the horrible fate that should befall Akkad.
-12. si, “to ﬁll,” used ﬁguratively for a person containing a particular
-trait, occurs also in a variant to Lu-di@ira 35:
-kiri6 me-a (var: la-la) i-si-iš lá-lá-e (var: asil-lá si-a)
-
-@iš
-
-“She is a garden of delights (var: of plenty), full of laughter (var: ﬁlled
-with joy)”
-
-In reference to objects ﬁlled with human emotions (e.g. sorrow, joy)
-see e.g. LUruk 42; UrN B 26.
-13. The image of a falcon preying on smaller birds is common (Veldhuis 2004, 282). While umbin is perhaps the word expected for “claw,”
-šu is used speciﬁcally in reference to a bird’s claw also in Nungal A 50
-and Home of the Fish C 2, 4.
-
-editions
-
-139
-
-14. For a dug4 see Attinger 1993, 477–484; Civil 1994, 69. For similar
-imagery compare LSUr 50.
-Three sources for this line (N20, N43, N76) add šu-ta. Plants are
-watered “by hand” also in WS 110, HT 174. Certainly it is deliberate
-that all the nouns of the second half of the line are written with boxshaped signs: asil3 (EZEN*A), háb (LAGAB*U), ug5 (EZEN*BAD).
-15. I understand igi-lá as the noun “glances” and not as an abbreviation of igi-tum-lá, “envy” or the like. For igi-lá as its own lexeme see
-most recently Attinger 2005, 230; George 2009, 95. For i5-gar see
-Geller 2003 123f.; Jaques 2006, 285 n. 591. A similar complaint is
-made in Ludlul I 80–81: “If I walk the street, ears are pricked; If I
-enter the palace, eyes blink” (Lambert 1996, 34f.).
-18. eme šub6 is attested in proverbs, but is always said of animals, e.g.
-dogs in SP 2 107, 117; SP 5.82. SP 2.117, in particular, was speciﬁcally
-intended as a metaphor for human behavior, as it is used as a direct
-insult in Edubba B 161 (Sjöberg 1973, 139f., Alster 1997, 373):
-ur-gir15 @ìš bír-bi eme šub6-bé
-“the dog licks its shriveled penis (with its) tongue”
-
-For said of lizards see e.g. Behrens 1998, 98 w/n. 171; Geller 2001,
-235; Peterson 2007, 171, 264–8, 525. For šu ša-an-ša see Alster 1997,
-420; Römer 2004, 160.
-19. gùd is used ﬁguratively also in LN 215, 270. Although zi gi4 is
-normally “to be on good terms, to calm down.” It can also have a
-negative sense, “to be silent, stupeﬁed” ( Jaques 2006, 216 n. 467 and
-clear in LSUr 104, for which see Attinger 2009b). Here the baby birds
-would be sedated from hunger.
-20. The sense of the line is unclear. dili-bad (-rá), “visible” (e.g.
-Man&God 114; Lugale 110) does not seem to ﬁt the context. é HARHAR could either be a “mill” (é àra) or, literally, “a house of debt”
-(é ur5-ur5; for which see e.g. Krecher 1966, 219; Civil 1993, 74 n. 10,
-Alster 1997, 430; Römer 2004, 150). Note that in SP 13.51 é ur5-ur5
-can also refer to a woman who is in debt (Alster 1997, 430).
-21. The motif of the “un-buried” occurs elsewhere in the literary corpus (e.g. GEN 305–6) and in incantations referring to unburied ghosts
-(e.g. Ni 630 l. 106’ = Geller 1985, 143). SP 28.9 gives us a clue as to
-one sin punished by depriving the perpetrator of burial:
-
-140
-
-chapter six
-lú digir-ra-a-ni nu-mu-un-kal-kal lú-bi ki nu-tùm
-“If a man does not treasure his god, that man will not be buried.”
-
-In MM 137f. the Amorites are mocked for not burying their dead:
-ud tìl-la-na é nu-tuku-a
-ud ba-ug7-a-na ki nu-túm-mu-dam
-“During his life he has no house and when he dies, he will not be buried.”
-
-Alster 1987, 59 suggests restoring the end of the line following EG 155:
-šu-šè bar-za-a ár-ár mi-ni-in-ak
-
-na4
-
-“as if it were pumice(?) it makes your body into ﬂour”62
-
-25. Since Lugal-nesa@e did not have a “reign” (bala), our line is surely
-a clever play on passages such as IšD A+V 84:
-nam-lugal-la bala-@u10 hé-bi-in-dirig
-“he made my reign of kingship excellent.”
-
-While X8 seems to read lugal du11-ga-ke4, such a descriptor is otherwise unknown.
-
-62
-
-Alster & Vanstiphout 1987.
-
-editions
-
-141
-
-SEpM 9. The Tumal Text (B9, 2.1.3)
+&SEpM 9. The Tumal Text (B9, 2.1.3)
 1. en-me-barag-ge4-e-si lugal-e
 2. iri-na-nam é den-líl-lá in-dù
 3. ag-ga dumu en-me-barag-ge4-e-si-ke4
@@ -1199,92 +474,42 @@ SEpM 9. The Tumal Text (B9, 2.1.3)
 27. mu damar-dsuen-ka-ta
 28. en-na mu di-bí-dsuen lugal-e
 29. en-am-gal-an-na en dinana unugki-ga máš-e in-pà-dè
-30. dnin-líl tum-ma-alki-šè ì-DU-DU-en63
-63
-The reading of DU-DU here is very problematic. Michalowski (2006, 149) interpreted the -NE- in N41 and N48 as -dè-, a graphic variant of -de6-, but this is unlikely
-given that de6 is “to bring something” while túm is “to bring someone” (Sallaberger
-2004), and indeed this is what our text consistently has throughout. Moreover, N41
-easily could read DU]-DU-NE-en and N98 DU-DU]-NE-en. The reading túm-túm
-(-ne)-en, however, is equally problematic. Regardless, I believe the sense is clear. The
-reduplication would indicate that the leatherworker performed this action on numerous occasions ( Jagersma 2010, 321).
-
-142
-
-chapter six
-
+30. dnin-líl tum-ma-alki-šè ì-DU-DU-en
 31. inim lú-dinana ašgab gal den-líl-lá-šè sar-ra
 32. diš-bi-èr-ra é-kur-igi-@ál-la
 33. éšutum den-líl-lá in-dù
-En-me-barage-si, the king, (2)built Iri-nanam, Enlil’s abode. (3)Agga,
+
+@tra
+
+(1)En-me-barage-si, the king, (2)built Iri-nanam, Enlil’s abode. (3)Agga,
 son of En-me-barage-si (4)made Tumal resplendent (5)(and) brought
 Ninlil into Tumal. (6)Then Tumal was abandoned for the ﬁrst time.
-(1)
 
-Mes-Ane-pada built Buršušua, Enlil’s abode. (8)Mes-ki-a@-nuna, son
+(7)Mes-Ane-pada built Buršušua, Enlil’s abode. (8)Mes-ki-a@-nuna, son
 of Mes-Ane-pada (9)made Tumal resplendent (10)(and) brought Ninlil
 into Tumal. (11)Then Tumal was abandoned for the second time.
-(7)
 
-Gilgameš built Du-numun-bura, Enlil’s dais. (13)Ur-lugal, son of
+(12)Gilgameš built Du-numun-bura, Enlil’s dais. (13)Ur-lugal, son of
 Gilgameš, (14)made Tumal resplendent (15)(and) brought Ninlil into
 Tumal. (16)Then Tumal was abandoned for the third time.
-(12)
 
-Nani built the magniﬁcent garden of Enlil’s temple. (18)Mes-ki-a@nana, son of Nani, (19)made Tumal resplendent (20)(and) brought Ninlil
+(17)Nani built the magniﬁcent garden of Enlil’s temple. (18)Mes-ki-a@nana, son of Nani, (19)made Tumal resplendent (20)(and) brought Ninlil
 into Tumal. (21)Then Tumal was abandoned for the fourth time.
-(17)
 
-Ur-Nama built the Ekur. (23)Šulgi, son of Ur-Nama, (24)made the
+(22)Ur-Namma built the Ekur. (23)Šulgi, son of Ur-Nama, (24)made the
 Tumal resplendent (25)(and) brought Ninlill into Tumal. (26)Then Tumal
 was abandoned for the ﬁfth time.
-(22)
 
-From the years of Amar-Suen (28)until the year Ibbi-Suen, the king,
-(29)
-chose En-am-gal-ana by extispicy as the high priest of Inana of
+(27)From the years of Amar-Suen (28)until the year Ibbi-Suen, the king,
+(29)chose En-am-gal-ana by extispicy as the high priest of Inana of
 Unug (=Ibbi-Suen 4), (30)I brought Ninlil to Tumal.
-(27)
 
-Written according to the words of Lu-Inana, chief leatherworker of
+(31)Written according to the words of Lu-Inana, chief leatherworker of
 Enlil.
 
-(31)
+(32–33)Išbi-Erra built Ekur-igi@al, Enlil’s storehouse.
 
-(32–33)
-
-Išbi-Erra built Ekur-igi@al, Enlil’s storehouse.
-
-Commentary
-For a detailed commentary of the personal names and cult places
-used in this text see Michalowski 2006, 155ff. With one exception, all
-the characters are known from other Sumerian literary compositions
-including SKL (Ibid. 159). Moreover, the kings represent the dynasties
-in the order in which they are presented in SKL: Kiš-Ur-Uruk-Ur-Isin,
-with the signiﬁcant omission of Akkad. The ﬁrst three cult places are
-only attested in literary compositions and lexical lists while the others
-occur in administrative documents as well. All occur together in the
-Nippur version of Proto Kagal (Ibid. 157ff ). It is for these reasons that
-
-editions
-
-143
-
-Michalowski concludes “The context of [this inscription] is not history
-and royal legitimation, but the hermetic world of the Old Babylonian
-schools, detached from the real world by their employment of a long
-dead language (Ibid. 163).”
-While the composition may have been intended as humorous, as
-Michalowski suggested given the profession of the speaker, within the
-context of SEpM, it takes on new meaning. Speciﬁcally, together with
-SEpM 1–8, the Tumal text serves to further the notion of Isin as the
-legitimate successors of Ur III (see further Chapter 2).
-Oelsner 2003, 221f. provides charts comparing the variant verbal
-forms that occur. He also charts the use of determinatives with personal names.
-
-144
-
-chapter six
-SEpM 10. An Axe for Nergal (5.7.3)
+&SEpM 10. An Axe for Nergal (5.7.3)
 
 1. nibruki-ta-lú
 2. dumu lugal-šuba dam-gàr-ra-ke4
@@ -1302,79 +527,21 @@ SEpM 10. An Axe for Nergal (5.7.3)
 14. u4 ti-la-@á igi hu-mu-un-du8
 15. u4 ba-úš-en kur-ra
 16. a si-ga hu-mu-un-na8-na8
-Nippurtalu, (2)son of Lugal-šuba, the merchant, (4)fashioned a heavenly axe (3)for Nergal.
-(1)
 
-Its wood of the arganum-tree of the mountain (6)is superior to the
+@tra
+
+(1)Nippurtalu, (2)son of Lugal-šuba, the merchant, (4)fashioned a heavenly axe (3)for Nergal.
+
+(5)Its wood of the arganum-tree of the mountain (6)is superior to the
 alal(-stone). (7)Its stone is antasura, (8)which has no rival.
-(5)
 
-When he strikes (with it), may his arm never tire. (10)Should it break,
-I will repair it for him. (12)Should he lose it, (13)I will replace it for him.
+(9)When he strikes (with it), may his arm never tire. (10)Should it break,
+(11)I will repair it for him. (12)Should he lose it, (13)I will replace it for him.
 
-(9)
+(14)As long as I lie may I be regarded (with benevolence). (15)When I die
+(16)may I drink clear water in the netherworld.
 
-(11)
-
-As long as I lie may I be regarded (with benevolence). (15)When I die
-may I drink clear water in the netherworld.
-
-(14)
-(16)
-
-Commentary
-For discussion of dedicatory inscriptions and their place within SEpM
-see Chapter 2.2.2.3.
-1. The name nibruki-ta-lú is analogous to names such as den-ki-ta-lú,
-d
-ba-ú-ta-lú, however, this is the only occurrence of which the divine
-name is replaced by a place name (Civil 1969, 180).
-4. Alternatively, Wilcke (1969, 58 w/n 210 and 184) and, most recently,
-George (2003, 793) understand an-na as the metal. This interpretation would imply that an-ta-sur-ra in l. 7 was an ornamental precious
-
-editions
-
-145
-
-stone, for which see Schuster-Brandis 2008, 163f. and 172f. where it
-is mentioned among such objects.
-5. That the ar-ga-nu-um tree comes from the mountains is attested
-also in Al 92.
-6. The unexpected comparison of wood with stone prompted the editors of PSD A/I 105 to include a second deﬁnition of a-làl as a type of
-wood. Elsewhere, however, a-làl is always a type of stone. Moreover,
-there is no a priori reason that wood cannot be compared to stone,
-the idea being the wood was so strong that it is was superior to stone.
-The destiny assigned to the a-làl in Lugale 489–496 makes clear that
-it was a particularly strong stone. For a similar conclusion see Attinger
-1995, 137.
-7ff. N58 omits lines 7 and 8. That lines 6, 7 and 8 all end with the
-same sign suggest the omission was a result of haplography.
-7. For the stone an-ta-sur-ra see Schuster-Brandis 2008, 395 and the
-OB Nippur forerunner to Hh XVI (MSL 10 57) in which an-ta-sur-ra
-is qualiﬁed by the determinative na4. Stone axes continue to be found
-in post-Neolithic contexts presumably for votive purposes (Moorey
-1994, 73). In particular note K107, an inscribed fragmentary stone
-axe from OB Nippur, cited in Ch. 2.2.2.3. A weapon of an-ta-sur-ra is
-attested also EWO 408 in which part of Ninmug’s destiny speciﬁes that
-she will carry the antasura blade. In Lu-di@ira 27, Lu-di@ira describes
-the beauty of his mother, comparing her to an antasura ring.
-16. Fear of not having clean water to drink in the netherworld was
-apparently justiﬁed. For instance, UrN A 83 offers the following
-description:
-ú kur-ra ses-àm a kur-ra mun4-na-àm
-“the food of the netherworld is bitter, the water of the netherworld is
-brackish.”
-
-Moreover, in the Ur tradition of GEN (UET 6/1 60, rev. 1. 10, 17),
-upon learning that his parents drink dirty water Gilgamesh performs
-funerary rites to rectify this:
-a-a-@u10 ù ama-@u10 a si-ig-ga na@-zé-en
-“Father of mine and mother of mine, drink clear water!”
-
-146
-
-chapter six
-SEpM 11. Letter to the Generals (3.3.13)
+&SEpM 11. Letter to the Generals (3.3.13)
 
 1. šagina-e-ne
 2. ù-na-dug4
@@ -1389,69 +556,23 @@ SEpM 11. Letter to the Generals (3.3.13)
 11. 216,000 aša5 ba-ab-tùm
 12. á ma-tur nu-mu-un-da-til-en
 13. a-ma-ru-kam
-Say to (1)the generals, (3)thus says the šabra:
 
-(2)
+@tra
 
-The surface of the Euphrates (5)has overﬂowed as far as Tumal (6)and
+(2)Say to (1)the generals, (3)thus says the šabra:
+
+(4)The surface of the Euphrates (5)has overﬂowed as far as Tumal (6)and
 the army is making a huge ﬂood control reservoir. (7)(But) it has spread
 all the way to the Gišgidulla ﬁeld. (8)The ﬂood waters rose to 1 ½
 cubits (0.75m). (9)If the sun does not come out, (10)not even 7200 troops
 will stand against it. (11)A huge amount64 of land has already been
 carried away!
-(4)
 
-The labor(force) is insufﬁcient for me. I am unable to ﬁnish the task!
-It is urgent!
+(12)The labor(force) is insufﬁcient for me. I am unable to ﬁnish the task!
+(13)It is urgent!
 
-(12)
-(13)
 
-Commentary
-1. The form in N7, šagina-e-ne-er, is expected. I have not included
-the dative marker in the ecletic text, however, as it does not occur
-in the other six sources for this line. This is unusual as the dative is
-generally used in the SEpM corpus following a title or epithet (e.g.
-SEpM 6, 12, 16, 18).
-3. On the role of the šabra in the Ur III administration see Zettler
-1992, 177; Sallaberger 1999a, 194–5. It is unclear why four of seven
-manuscripts omit this line. šabra is a loan from Akkadian š pir, so the
-
-64
-
-Literally 216,000 iku = 77760 Ha, an area roughly 1/5th the size of Rhode Island.
-
-editions
-
-147
-
-ﬁnal /k/ is unexpected. The -ke4 may have become a frozen form
-to express only the ergative see Attinger 1993, 214 §137 r. 2. Alternatively (and despite SEpM 13:2), Attinger (personal communication)
-suggests reading šabra-é.
-4. For igi as “surface” compare the use of Akkadian panû (CAD P 89f.).
-6. While káb-ku5 is generally understood as a reservoir used to collect
-and redistribute water, its precise location either directly on a main
-canal or off-line the canal is debated (Steinkeller 1988, 74–79; Civil
-ˆ as káb see Sallaberger 1991.
-1994, 133). For the reading of NAG
-ˆ
-7. On the identiﬁcation of the Gišgidula
-ﬁeld, a ﬁeld located in the
-vicinity of Nippur, see Zettler 1992, 115f. w/n 1 and 2; Civil 1994, 184.
-In Ur III administrative texts it is always spelled @iš-gi-dul4/dul9-lá.
-8. This line is identical to the ﬁrst line of SP 15 C14.
-10. The number 7200 is a common motif in Sumerian literary texts
-representing, “abundant” or “numerous.” In reference to troops note
-˙
-in particular the request of Puzur- eulgi
-in CKU 14 ll. 26–27.
-11. The amount of ﬂooded land, 216,000 iku, is clear hyperbole.
-12. The same complaint is made in SEpM 12:11.
-
-148
-
-chapter six
-SEpM 12. Ur-Enlila to the ensi and saĝĝa (B10, 3.3.4)
+&SEpM 12. Ur-Enlila to the ensi and saĝĝa (B10, 3.3.4)
 
 1. ensi2 sa@@a-ra ù-ne-a-dug4
 2. mur-den-líl-lá-ke4 na-ab-bé-a
@@ -1465,59 +586,24 @@ SEpM 12. Ur-Enlila to the ensi and saĝĝa (B10, 3.3.4)
 10. @e26-e záh-bi a ma-ab-tùm
 11. á ma-tur 5 @uruš 10 hu-mu-e-ši-in-gi4-gi4-ma
 12. a-ma-ru-kam
-Say to the governor and chief temple administrator, (2)thus says UrEnlila:
 
-(1)
+@tra
 
-An irrigation channel, which had been cleared, was carrying water.
-(But) Enlila@u and Hanzamu (5)breached it (and so) made off with
+(1)Say to the governor and chief temple administrator, (2)thus says UrEnlila:
+(3)An irrigation channel, which had been cleared, was carrying water.
+(4)(But) Enlila@u and Hanzamu (5)breached it (and so) made off with
 (water) from it. (6)(Because of this) Lugalane said: (7)“(That) single channel is for me, (that) single channel is for you (and that) single channel
 is for the governor. (8)Thus water will certainly be brought to each
 of you.” He spoke, (but) they (i.e. Enlila@u and Hanzamu) did not
 agree: (9)“Your canal has no workmen, (so) its channel carries water
 (unchecked).”
-(3)
-(4)
 
-As for me, what escapes from it carries water to me. (11)The labor
+(10)As for me, what escapes from it carries water to me. (11)The labor
 (force) is insufﬁcient for me. You should send me 5 or 10 workmen.
-(12)
-It is urgent!
-(10)
 
-Commentary
-1. While there is debate as to whether this letter is addressed to one
-person (e.g. SEpM 14:6) or two (Civil 1994, 178f.) the plural dative
-case marker -ne- in X23—a text which was unavailable to Civil—
-proves that at least in one manuscript two separate individuals were
-intended.
-8. X23 omits the direct object, a. The mistakes this scribe made elsewhere in the text suggest he did not understand what he was writing.
-The variant -me- for -mu-e- in X23 may be a phonetic writing.
+(12)It is urgent!
 
-editions
-
-149
-
-9. The variant -zum na- in X23 is a result of a sandhi writing with
-the frequent m/n alternation. The end of the line in X23 reads pa5
-a-bi íb-tùm, “it carried the water of the channel,” where pa5 a-bi is an
-anticipatory genitive (for which see Zólyomi 1996: 39ff.).
-10. While Civil 1994, 179 would like to see záh-bi as an adverb, its
-position before the object would be difﬁcult to explain. Instead, I argue
-line 10 was structured in order to parallel, and so supplement, the
-second half of line 9.
-11. The same complaint is made in SEpM 11:12. The Akkadian
-enclitic copula is best understood as an emphatic. The topos of 5 or
-10 is standard in Sumerian literature to represent a small number (e.g.
-ELA 251: “with fewer than 5 or 10 men . . .”; see also CA 66, SgLeg
-3N-T296 8). X23 omits the beginning of the line, á má-tur and has
-5 @uruš sa@-dili in place of 5 @uruš 10, further indication that the
-scribe did not understand the Sumerian.
-
-150
-
-chapter six
-SEpM 13. An ensi and saĝĝa to a king (B11, 3.3.5)
+&SEpM 13. An ensi and saĝĝa to a king (B11, 3.3.5)
 
 1. lugal-me ù-na-dug4
 2. ensi2 sa@@a-ke4 na-ab-bé-a
@@ -1534,37 +620,30 @@ SEpM 13. An ensi and saĝĝa to a king (B11, 3.3.5)
 13. erin2 tah-hu-um engar šà-gu4 lú @išapin-na nu-me-a
 14. gu4 dili-dili-ta a-šà @iš bí-ùr
 15. al ì-ak-en-dè-en lugal-me hé-en-zu
-Say to our king, (2)thus says the governor (and) chief temple administrator:
 
-(1)
+@tra
 
-The Dabta ﬁeld—3000 ha (10,800 iku)—(4)(is the) ešgar (ﬁeld) of
+(1)Say to our king, (2)thus says the governor (and) chief temple administrator:
+
+(3)The Dabta ﬁeld—3000 ha (10,800 iku)—(4)(is the) ešgar (ﬁeld) of
 Enlil, Ninlil and Ninurta. (5)From it: 150 ha (540 iku) are the sustenance ﬁelds of the men in charge of the requisitions. (6)50 ha (180 iku) is (the
 area at) the lower end of the ﬁeld. (7)(About this) Iqbišum and Abi-qati
 instituted a claim.
-(3)
 
-If our king consents, (9)he should send a courier and (10)[give] (us) an
+(8)If our king consents, (9)he should send a courier and (10)[give] (us) an
 order (regarding) the work and the boundary of the ﬁeld.
-(8)
 
-0.5 ha (2 iku) at its back and 50[+x] ha (180[+x] iku) at the edge
+(11)0.5 ha (2 iku) at its back and 50[+x] ha (180[+x] iku) at the edge
 of the ﬁeld (12)were broken up with hoes (and so) prepared. (13)There
 being no replacement workers, farmers, ox-drivers or plowmen, (14)the
 ﬁeld was harrowed (only) with individual oxen. (15)We are (only) working with hoes! This our king should know.
 
-(11)
 
-Ur Version
-1. a-šà me-àmki [. . .] iku-àm
+&SEpM 13a. Ur Version
+1. a-šà me-àmki [...] iku-àm
 2. éš-gàr den-líl ù d nin-urta
 3. šà-bi-ta 540iku-àm
 4. šukur2 lú ní@-PAD-e-ne
-
-editions
-
-151
-
 5. egir?-bi-šè sahar 2 iku iku-ba-me-a
 6. al-ta ba-dúb erin2-ta hé-x-a
 7. kí@-šè sar a-šà-ga lú apin-bi nu-bi
@@ -1575,177 +654,54 @@ Ur Version
 12. ra-gaba hu-mu-un-in-gi4-gi4
 13. kí@ ak bulug a-šà-ga-bi
 14. inim dug4-ga14(KA) mu-ni-ib-e!
-The “Where-Is-It?” ﬁeld (is) [. . .] hectares. (2)(It is) the ešgar (ﬁeld) of
-Enlil and Ninurta. (3)From among it: 150 ha (540 iku) are (4)the sustenance ﬁelds of the men in charge of the requisitions.
-(1)
 
-At its back there are 0.5 ha (2 iku) of soil (that) (6)were broken up by
-the hoe (and so) should be worked by the troops (but) (7)there are no
-plowmen to work the plot in the ﬁeld. (8)(About this) Iqbišum and Abiqati (9)instituted a claim.
-(5)
+(1)The “Where-Is-It?” ﬁeld (is) [...] hectares. (2)(It is) the ešgar
+(ﬁeld) of Enlil and Ninurta. (3)From among it: 150 ha (540 iku) are
+(4)the sustenance ﬁelds of the men in charge of the requisitions.
 
-If our king (11)consents, (12)he should send a courier. (14)He (should) give
-(us) an order (13)(regarding) the plowing and the boundary of the ﬁeld.
-(10)
+(5)At its back there are 0.5 ha (2 iku) of soil (that) (6)were broken
+up by the hoe (and so) should be worked by the troops (but) (7)there
+are no plowmen to work the plot in the ﬁeld. (8)(About this) Iqbišum
+and Abiqati (9)instituted a claim.
 
-Commentary
-2. For the incorrect ergative marker, ke4 see SEpM 11:3. While it is
-tempting to read sa@@a-é, especially as the second sign differs slightly
-from the LÍL in l. 4 of N4 and N76. However, in light of SEpM 12:1
-and 14:6 this interpretation is unlikely.
-3. For a-šà da-ab-ta see PSD A/I 181 lex. 36. The Ur version replaces
-the Nippur ﬁeld with a ﬁeld called me-àm, “where is it?” expressing
-the scribe’s unfamiliarity with the Nippur environs.
-4. It is unclear whether dnin-líl should be part of the ecletic line. There
-does not appear to be enough space in the break at the end of the line
-in N78 for two divine names. It seems logical, however, for Ninlil to
-have been listed among the primary gods of Nippur and so I have chosen to include her here. More troublesome is why three deities, all of
-whom have their own Nippur temples, are lumped together. Perhaps
-this was a deliberate hyperbole intended to stress that the provincial
-authority can dispose of any temple land.
+(10)If our king (11)consents, (12)he should send a courier. (14)He
+(should) give (us) an order (13)(regarding) the plowing and the
+boundary of the ﬁeld.
 
-152
 
-chapter six
-
-While éš-gàr normally designates a work assignment, here it seems
-to more adequately reﬂect one particular usage of the Akkadian iškaru
-where the term is used to qualify a ﬁeld as one on which the assigned
-iškaru task was to be performed (CAD I/J 248 mng. 5).
-5. For various interpretations of lú ní@-dab5-ba see Kraus 1985–6,
-37f.; Sallaberger 1993, 49 n. 205; Maekawa 1995, 175f.; Widell 2005,
-17 and 38f. w/n 17; al-Rawi and Verderame 2006, 75. Maekawa, for
-instance, proposes people who managed land for a public institution in
-exchange for provisions, while Sallaberger suggests those responsible
-for taking in charge requisitions for certain purposes such as offerings.
-Note especially that the title is attested in OB only in Nippur sources,
-although it is more wide spread in Ur III. The limited use of this
-term in OB may explain the Ur scribe’s unfamiliarity with it. The Ur
-variant, lú ní@-PAD-e-ne, seems to conﬂate the term lú ní@-dab5-ba
-with its older form lú PAD-dab5-ba (Selz 1993, 152f.; FAOS 15/2 text
-no. 11). Alternatively, the repetition of the PAD sign in this line may
-have been no more than a case of dittography.
-7. The names chosen here are unusual. Iqbišum is attested once in an
-Ur III archival source from Nippur (TMH NF 1–2, 7) and in the PN
-list PBS 11/1 64 no. 279. While the name Abi-qati is unattested, Civil
-1994, 181 compares Ili-qati in PBS 11/1 55 no. 65.
-11. The reading dúr for SU in N41 follows the suggestion of Civil
-1994, 182. For dúr-bi-šè, “at the bottom, at the back,” see Civil 1984,
-285f. For gaba, “edge” cf. the entries listed sv. gaba a-šà PSD A/I 171.
-12. Although the word dúb to express hoeing is unusual, I argue this
-was deliberately intended to emphasize the workers are forced to break
-up the earth with hoes as there were no oxen available.
-13. While engar is well attested in both literary and archival sources,
-the other professions in this line are not. erin2 tah-hu-um is otherwise
-unattested in Sumerian sources. tah-hu-um, a loan from Akkadian—
-which itself is a loan from Sumerian,—occurs elsewhere only in TH
-and in a half-dozen Ur III and early OB administrative sources, qualifying either ninda (bread) or siki (wool ). Based on these parallels erin2
-here is best understood as bu, “people, troops” and not imiltu, “plow
-team.”
-
-editions
-
-153
-
-šà-gu4 is abundantly attested in Ur III archival sources and occurs in
-OB Nippur Lu 437 (MSL 12, 48). However, it is otherwise unattested
-in OB Sumerian literature.
-Finally lú @išapin-na, “man of the plough” is a hapax to this letter.
-The expected form, lú @išapin-lá, is also rarely attested in OB, attested
-only in Nippur Lu 450 (MSL 12, 48) as APIN-lá and in GEN 265. I
-cannot explain the form apin-bi nu-bi in the Ur manuscript.
-
-154
-
-chapter six
-SEpM 14. Announcement of a Lost Seal (B12, 5.7.a)
+&SEpM 14. Announcement of a Lost Seal (B12, 5.7.a)
 
 1. kišib3 mu-sar ur-dun dam-gàr-ra ú-gu ba-an-dé
 2. inim pu-úh-ru-um-ma-ta
 3. ni@ir-e sila-sila-a si gù ba-ni-in-ra
 4. lú na-me ní@ na-me ugu-na li-bí-in-tuku
 5. mlú-dsuen-na šagina
-6. mlugal-me-lám ensi2 sa@@a65
+6. mlugal-me-lám ensi2 sa@@a^^
+^^X15 adds: inim-inim-ne-ne ba-an<-šúm>-me-eš kišib3-ba-ne-ne in-eš.
 7. mzu-zu um-mi-a
 8. msi-dù dub-sar
 9. mad-lul agrig
 10. mba-an-sa6-ge-en gala
 11. mul-lí-a ha-za-nu-um
 12. ni@ir lú-ki-inim-ma
-The inscribed seal of Ur-dun, the merchant, was lost. (2)According to
+
+@tra
+
+(1)The inscribed seal of Ur-dun, the merchant, was lost. (2)According to
 the proclamation of the assembly, (3)the herald blew the horn in all the
 streets. (4)He will not owe anyone anything (on account of fraudulent
-use of the seal ).
-(1)
+use of the seal).
 
-Lu-Suena, the general, (6)Lugal-melam the governor and temple
-administrator,66 (7)Zuzu, the scholar, (8)Sidu, the scribe, (9)Adlul, the
+(5)Lu-Suena, the general, (6)Lugal-melam the governor and temple
+administrator,^1^ (7)Zuzu, the scholar, (8)Sidu, the scribe, (9)Adlul, the
 steward, (10)Bansagen, the lamentation performer, (11)Ullia the mayor,
-(12)
-(and) the herald are the witnesses.
-(5)
 
-Commentary
-For the historical context of this text see Chapter 2.2.2.4. For discussion of the personal names see Chapter 2.4.2.
-2. The puhrum is unattested in Ur III Gerichtsurkunden. The term ﬁrst
-occurs with certainty in a murder trial from the reign of Ur-Ninurta of
-Isin (Falkenstein 1956, 32 w/n. 3). On the role of the Nippur puhrum
-see Lieberman 1992, esp. p. 134.
-3. For si gù ra, “to blow the horn” see Sassmannshausen 1995, 98f.;
-Karahashi 2000, 111; Römer 2005, 531; Civil 2008, 102. In other
-literary texts, the verb is always used in the context of mobilizing an
+(12)(and) the herald are the witnesses.
 
-65
-66
+^1^X15 adds: they gave their word, they ordered their sealed tablet.
 
-X15 adds: inim-inim-ne-ne ba-an<-šúm>-me-eš kišib3-ba-ne-ne in-eš.
-X15 adds: they gave their word, they ordered their sealed tablet.
 
-editions
-
-155
-
-army (see also Roth 1979, 53f.). However, the verb also occurs in parallel context in the OB legal practice texts YOS 1 28 with regard to
-a lost seal and in FLP 1287 with regard to a decision of manumission
-(Roth 1979, 33).
-The line also is similar to Lugalbanda I 25 and DG Seg. H 11:
-ni@ir(-e) kur-kur-ra si gù ba-ni-ra
-“the herald made the horn resound in all the lands”
-
-4. This expression occurs among a list of legal formulae immediately
-following the announcement of manumission cited above (FLP 1287
-col. ii ll. 30–31: [u]gu-na [l]i-bí-in-tuku (Roth 1979, 34); note also Hh
-I 266–274 for which see Roth 1979, 62). This is a direction translation of the Akkadian eli PN išû. In Sumerian the equivalent expression
-should be—da-tuku (Wilcke 2007, 110f.).
-6. One manuscript, X15, adds an additional line here. Neither KAKA-ne-ne ba-an-me-eš nor kišib3-ba-ne-ne in-eš is attested elsewhere.
-The ﬁrst verb however, may be a mistake for ba-an<-šúm>-me-eš,67
-although -šúm-me-eš (in place of šúm-mu-uš) is otherwise unattested.
-Another possibility may be to read ba-na-lá-eš as in Edubba C:16,
-although with a very different meaning. For the second part of the line
-compare the passage in the announcement of the manumission of a
-slave in FLP 1287 col. ii. ll. 4–6:
-kišib3-an-ni sag-ki-né
-táb-e-dè
-in-na-an-/n\e-eš
-“They ordered his document (of manumission) to be (made permanent
-by being) ﬁred with regard to his forehead (which is to be cleared)”68
-This occurs also in Aa VI iv 21–23 for which see Roth 1979, 54f. The
-sense here is clearly that the high ofﬁcials involved, the general and
-governor, attested to the facts of the case and had their attestation
-recorded on a sealed document.
-Compare FLP 1287 ll. 32–33 among a list of legal formulae:
-[K]A-KA-ni
-/ba\-an-šúm
-“He gave to him his spoken word (= he promised him)” (Roth 1979, 34). See also
-CKU 23:6.
-68
-Roth 1979, 33.
-67
-
-156
-
-chapter six
-SEpM 15. Ilaba-tah-lugalĝa to his brothers (B13, 3.3.6)
+&SEpM 15. Ilaba-tah-lugalĝa to his brothers (B13, 3.3.6)
 
 1. šeš-@u10-ne ù-na-dug4
 2. ìl-a-ba4-tah-lugal-@á-ke4 na-ab-bé-a
@@ -1759,79 +715,24 @@ SEpM 15. Ilaba-tah-lugalĝa to his brothers (B13, 3.3.6)
 10. lú-gir7 hu-mu-e-gi4
 11. kaskal-me al-sù-ud
 12. a-ma-ru-kam
-Say to my brothers, (2)thus says Ilaba-tah-lugal@a:
 
-(1)
+@tra
 
-The campaign we are serving on is long. (4)And now the just king
-has followed our king, (5)(and so) he has extended the campaign.69
-(6)
-(Therefore) we cannot take care of our mother.
-(3)
+(1)Say to my brothers, (2)thus says Ilaba-tah-lugal@a:
 
-Be sure that before the sun sets on our neighborhood, (10)you have
+(3)The campaign we are serving on is long. (4)And now the just king
+has followed our king, (5)(and so) he has extended the campaign.^1^
+(6)(Therefore) we cannot take care of our mother.
+
+(7)Be sure that before the sun sets on our neighborhood, (10)you have
 sent a runner (with) (8)1 liter of salt, 1 liter of gazi (9)and a belt.
 
-(7)
+(11)Our campaign is long. (12)It is urgent!
 
-Our campaign is long. (12)It is urgent!
+^1^ Literally: “added roads to the road.”
 
-(11)
 
-Commentary
-1. For the use of the singular dative inﬁx -na- where the plural is
-expected see comm. SEpM 11:2.
-2. The name ìl-a-ba4-tah-lugal-@á, “Ilaba is the helper of my king,”
-is unattested in Ur III or OB archival sources. While the DN Ilaba
-occurs in Sargonic period personal names, it is not common (Westenholz 1999, 78). For tah in place of á-tah see e.g. Proto-Izi I 175 (MSL
-13, 23).
-3. N45 makes clear that the second verb is a relative and this makes
-most sense if it is dependent on the ﬁrst verb in the line, although the
-word order is admittedly unexpected.
-
-69
-
-Literally: “added roads to the road.”
-
-editions
-
-157
-
-4. The use of lugal gi-na as a play on the name Sargon is plausible
-and, together with the divine element Ilaba in the sender’s name, suggests that this letter was intended to be set in the Sargonic period (e.g.
-Michalowski 1976, 17f.). Certainly there was a conscious play using
-Sargonic elements.
-6. Èn tar is best understood in the sense of Akkadian araktu par su, “to
-take care of (person or situation),” as used primarily in OB letters.
-7. LUL.AŠ is attested in OB Diri 508 (MSL 15, 48) where it is translated by the Akkadian adverb madiš. The reading remains uncertain.
-While there is an OB lexical evidence equating mâdum with /lu/, a
-reading lu5 for LUL is unlikely if AŠ were intended to represent the
-terminative. Although Aa VII/4 134 (MSL 14 468) does give the value
-duga for LUL, it is not attested in the OB forerunner to this list, Proto
-Ea 578–582a (MSL 14 54f.; Steinkeller 1984, 10). The value ka5 is,
-to my knowledge, only used logographically. For the pre-OB evidence
-see Steinkeller 1984, 13. See further e.g. Steinkeller 1984, 15 n. 21;
-Stol 1998, 349; Lämmerhirt 2010, 253.
-Syntactically, in the admittedly few examples known to me (NinTurt Seg. B 5, EnkNinm 79), LUL.AŠ stands directly before the verb
-it modiﬁes, whereas here it likely modiﬁes the verb that it follows.
-8. Although the precise identiﬁcation of the gazi plant is not established, there is extensive literature on the subject for which see e.g. Stol
-1994, 175–179; Englund 1995, 417f.; Geller 2000; Powell 2003–2005,
-20; Uargyas 2001, 187–207; Pientka 2002, 515; Heeßel and al-Rawi
-2003, 236; Heimpel 2009, 214; Kleinerman and Owen 2009, 57 w/n
-39; Maiocchi 2009, 67.
-10. lú-gir7: š nû, “runner, trotter,” is, to my knowledge, attested only
-once as a title in administrative texts (HLC 23 pl. 62 line 10; but in
-Sumerian literature see also SepM 16:1 and 10; Nin@Nina 48, 64, 83;
-Lu-di@ira 6). When lú-DU occurs elsewhere in the Ur III corpus it is
-most likely a personal name. The lexical equation is only available in
-ﬁrst millennium sources. However, lú-gir7 (DU) is only a simpliﬁed
-version of the very common lú-kaš4 (DU-š.), and this may have been
-what was intended.
-
-158
-
-chapter six
-SEpM 16. Monkey to Mother (B14, 3.3.7)
+&SEpM 16. Monkey to Mother (B14, 3.3.7)
 
 1. lú di lú di ama-@u10-ra
 2. ù-na-dug4
@@ -1844,131 +745,20 @@ SEpM 16. Monkey to Mother (B14, 3.3.7)
 9. ninda ba-ra-gibil-lá kaš ba-ra-gibil-lá
 10. lú-gir7 kaskal-e šu taka4-ma-ab
 11. a-ma-ru-kam
-(1–2)
 
-Speaker, speaker say to my mother, (3)thus says Monkey:
+@tra
 
-(Whether) in Ur, the delightful city of Nanna, (5)(or) in Eridu, the
+(1–2)Speaker, speaker say to my mother, (3)thus says Monkey:
+
+(4)(Whether) in Ur, the delightful city of Nanna, (5)(or) in Eridu, the
 abundant city of Enki, (6)I am (stuck) sitting behind the door of the
 house of the master musician. (7)(All ) I am eating is (my) jealousy!
-(4)
 
-May I not die of this!70 (9)As the bread is never fresh, the beer is never
+(8)May I not die of this!70 (9)As the bread is never fresh, the beer is never
 fresh, (10)send a runner on route for me. (11)It is urgent!
 
-(8)
 
-Commentary
-1. The addressee of this letter—lú di lú di—has been the source of
-much confusion. The early translators—Falkenstein, Ali, Gordon, van
-Dijk, and Shaffer/Barnett—assumed this was the name of the mother,
-Ludiludi. While this possibility cannot be ruled out, the form would be
-unusual.71 Others—Cohen, Powell—understood lú di as “passer-by”
-or “traveler.” To my knowledge, however, the equation of di: al ku is
-attested only in Emesal, canonical Izi, and one bilingual incantation.72
-Alternative: “I do not want to die from this!” (Attinger 1993, 290f. §189c).
-In InDesc her mascara is called lú hé-em-du hé-em-du, “let a man come, let him
-come” (ll. 22, 110) and her pectoral is lú @á-nu @á-nu, “Come, man, come” (ll. 23,
-111). The sexual connotations of the names were obviously deliberate (Sladek 1974,
-81). Give the association between musicians, monkeys and sex—or, at the very least,
-female nudity—as seen on some OB plaques (Dunham 1985, 245f.), something similar
-may also have been intended here, perhaps an invented name in Emesal “lú-di-lú-di,”
-“one who comes, one who comes,” as in the Emesal translation of SP 2.35.
-72
-uru2-ám-i-ra-bi tablet 19 ll. 79–80. For the lexical attestations of lú di: al ku see
-Volk 1989, 128f.
-70
-71
-
-editions
-
-159
-
-Instead, lú di lú di is best understood as the substantive lú with the
-present participle of dug4, di, “the one who speaks” or “speaker.”73 For
-the variant lú-DU, perhaps to be read as gir7, see SEpM 15:10.
-3. The manuscript tradition is divided on the species of the sender;
-two of six insert the Personenkeil before uguugu4-bi (N71, N74). Of
-the two manuscripts that are not single composition tablets—N76 and
-N85—only N76 preserves other attestations of personal names. In
-these instances, N76 consistently uses the Personenkeil. This would
-suggest that its absence in SEpM 16 was deliberate. As such, we are
-left with two sources (N74 and N85) that believed the letter was coming from a person and one source (N76) that did not. The other three
-manuscripts—with lack of comparative material—remain unclear.
-These manuscripts may simply reﬂect traditions in which the Personenkeil was unnecessary before a personal name.
-Given that this letter ridiculed the lifestyle of street musicians, and
-the well-attested use of monkeys as performers, it is likely that a real
-monkey was intended. Regardless, the character’s function is the
-same.
-5ff. Ll. 5–7 parallel SP 3.150. While Cohen 1976, 271 suggested that
-the proverb was extracted from this letter, it has to have been the
-other way around.
-7. For igi-tùm-lá, “to spy, look with envy” see most recently Alster
-2005, 145 following the translation ﬁrst suggested by Civil 1984, 294;
-Attinger 2005, 230f.; Klein and Sharlach 2007, 12; Pientka 2010, 178
-w/n 36.
-8. The -da- inﬁx in this line is problematic and its interpretation is
-uncertain. First, the -da- could be the abilitative. This interpretation
-ﬁnds parallel in InDesc 43//52//60//185//199//212, nam-ba-daan-gam-e, “don’t let anyone kill her.” Alternatively, -da- may be transivitising, “may it not kill me.” Finally, -da- may be a phonetic or
-graphic variant of /ta/ for the means by which death would come.
-I believe the last option is most likely. The comitative inﬁx occurs
-only twice in preﬁx chains with forms of úš, “to die” and never with
-the ablative-instrumental. The ﬁrst instance, CKU 14 33 is a direct
-
-73
-
-18).
-
-Note the lú di is listed among musicians and singers in ED Lu E 96 (MSL 12,
-
-160
-
-chapter six
-
-parallel to our line and so is equally ambiguous. The second instance,
-a proverb from Ur, may shed some light on the problem. UrProverb
-UET 6/2 306 2 reads: nam-me-a ša@ar ba-da-an-ug7-e-še. However,
-the parallel proverb SP 6 142 reads: ša@ar-da ba-ug7-e-dè-en-e-še. The
-case marker in the Nippur recension strongly suggests that the preﬁx
-in the Ur version of the proverb—and perhaps in our line as well—is
-indicative of the ablative-instrumental /ta/.
-9. The reading gibil as opposed to pél, apud Cohen 1976, is based
-on context. However, a reading pél could indicate a rhetorical question, “Is the bread not spoiled? Is the beer not spoiled?” which would
-ﬁt the interpretation offered here just as well. Elsewhere in Sumerian
-literature, however, pél is said only in the ritual sense of deﬁled and is
-never applied to food. bíl, “sour” is also possible, but is dismissed for
-the same reason. Although ninda gibil and kaš gibil are unattested in
-the Sumerian literary corpus, they are attested in Ur III administrative
-sources. Although the evidence from Proto Ea and Proto Aa argues
-74
-ˆ
-I read ninda here by
-strongly in favor of a reading /inda/ for GAR,
-convention.
-The ﬁnal /a/ on the verb is unexpected. While -a is a frequent
-orthographic variant for -àm (emphatic), we might expect at least one
-source to preserve the full writing. I understand the /a/ here as indicating a subordinate clause.
-10. For šu taka4, “to send letters, messengers or instructions” see Civil
-1990, 109ff. who argues contra Powell 1978, 194 that this verb does
-not imply per forma a notion of an ofﬁcial or elite gift. Thus, the humor
-of this line does not rely on the incongruity of the sender’s request
-for a diplomatic present of basic staples, but, instead on the very lack
-of such a request! Although apparently starving, the sender does not
-request provisions but only a return message, perhaps a further jab
-at the stupidity of the monkey and his musical colleagues, or, more
-generously, a plea for someone to come and bring him home.
-
-74
-ˆ
-Proto Ea 210 (MSL 14, 40): in-da (vars. i-da-a, [in-ta]): ninda(GAR);
-Proto Aa
-210:1 (MSL 14, 97) [i]n-da: ninda(GAR) = a-ka-lu.
-
-editions
-
-161
-
-SEpM 17. Šamaš- āb to Ilak-ni’id (B15, 3.3.8)
+&SEpM 17. Šamaš- āb to Ilak-ni’id (B15, 3.3.8)
 1. i-la-ak-ni-id ù-na-dug4
 2. mdUTU.DÙG-e na-ab-bé-a
 3. kaskal iti 1 ud 15-kam ud ní-za hé-bí-DU
@@ -1988,252 +778,39 @@ SEpM 17. Šamaš- āb to Ilak-ni’id (B15, 3.3.8)
 17. kug didli-zu sa@-bi ha-ra-ab-dab5 im-ma hu-mu-ra-ab-tag
 18. u4-da-ta á á@-@á-zu hé-em-tùm
 19. a-ma-ru-kam
-Say to Ilak-ni’id, (2)thus says Šamaš-¢Êb:
 
-(1)
+@tra
 
-The journey is 1 month and 15 days. You should leave at once.75
-There is no reason you should not (be able to) report back to me76
+(1)Say to Ilak-ni’id, (2)thus says Šamaš-¢Êb:
+
+(3)The journey is 1 month and 15 days. You should leave at once.^1^
+(4–5)There is no reason you should not (be able to) report back to me^2^
 in Niqum by the 3rd of the month. (6)I have looked after you and
 arranged your way.
-(3)
 
-(4–5)
-
-Of the 2 donkeys, their silver: 4 skekels;
-Of the linen belt, it’s silver: 1 shekel;
-(9)
-The price for your boat: 1 shekel;
-(10)
-The price for . . . is 1 1/3 shekel.
-(11)
-The water is clear. (12)Your miscellaneous expenses will not be included
+(7)Of the 2 donkeys, their silver: 4 skekels;
+(8)Of the linen belt, it’s silver: 1 shekel;
+(9)The price for your boat: 1 shekel;
+(10)The price for ... is 1 1/3 shekel.
+(11)The water is clear. (12)Your miscellaneous expenses will not be included
 among these.
-(7)
-(8)
 
-75
-Literally: “You, yourself, should leave today” (with ud as the object of the 2nd
-sg. hamtu transitive verb hé-bí-DU.
-76
-Literally: “bring me your news.”
-
-162
-
-chapter six
-
-I have calculated for you, in your presence, the value of 2 talents
+(13)I have calculated for you, in your presence, the value of 2 talents
 of dagaltum wool: (14)The merchandise is (worth)77 1 and 2/3 mana of
 silver. Bring it to me in tin! (16)Keep on the lookout for (15)the duši’a,
-the nirigi and the nirmuš@ír stones.
-(13)
+the nirigi and the nirmuš@ír stones
 
-Your various payments—its capital—has been taken on your behalf
+(17)Your various payments—its capital—has been taken on your behalf
 and recorded on a tablet for you. (18)As of today report back to me.78
-(19)
-It is urgent!
-(17)
 
-Commentary
-1. The name Ilak-nu’’id, “praise your god!” is attested in Ur III
-administrative documents from Adab and once at Ur (Hilgert 2002,
-497). The spelling of the imperative, ni-id, as preserved in all manuscripts of this letter, is otherwise unattested. There is a Mari name,
-Ilak-nâd (ARM 14 47:16) constructed with G-imperative of nâdu as
-opposed to the more common D-stem.79 The imperative of na’ du is
-i’id, written i-hi-id in OB. Perhaps the original compiler of this letter
-conﬂated the two forms, which are frequently confused (GAG 155
-§107 n). Given that the form nu’’id seems no longer to have been used
-for PNs in OB, this confusion is all the more likely.
-3. The second part of l. 3, preserved in one manuscript only (N15),
-is problematic. Although the /a/ of ní-za would be unexpected, a
-translation such as “You, yourself, should go/went today,” ﬁts best
-within the context. Given the numerous other problems with N15 (e.g.
-omission of the crucial line 5, incorrect locative ending on the object
-in line 7, omission of the crucial object in line 14, etc.80), the mistaken
-ﬁnal /a/ is perhaps not surprising.81
+(19)It is urgent!
 
-Var. (N15): “The price is . . .”
-Literally: “bring your news here.”
-79
-Note also names such as DN-na-da for which see Stamm 1939, 202.
-80
-All of which would appear to be memory errors that perhaps went uncorrected
-due to the scribe’s incomprehension of the original the Sumerian text (cf. Delnero
-2006, e.g. 157, 162ff, 1850ff ).
-81
-Understanding the /a/ as a locative marker it would be possible to read as “You
-should go/went on the day of your choosing (lit: on your own day).” Although grammatically correct (Attinger 1993, 175 §111), this use of ní-, in place of an expected
-šà, libbu, would be, to my knowledge, unparalleled. Alternatively, the locative /a/ of
-ní-za could be understood adverbially, indicating the manner in which the action is
-to be performed (Attinger 1993, 169 §105c; Delnero 2006, 245). This interpretation
-lends itself to a literal translation such as “You should come on your own.” However,
-there is no obvious reason why Ilak-ni’id should be unaccompanied. Ali’s suggestion
-77
-78
+^1^ Literally: “You, yourself, should leave today” (with ud as the object of the 2nd
+sg. hamtu transitive verb hé-bí-DU.
+^2^ Literally: “bring me your news.”
 
-editions
 
-163
-
-4. On the toponym Niqum, located in the middle Diyala region, see
-Röllig 1998–2001, 569–70. The tin and precious stones (ll. 14f.) ﬁt
-with a journey eastward.
-6. It is unclear here whether bar-zu (N15, N63) or bar-za (N75) is correct. The other attestations listed in PSD B 96 s.v bar A 1.5 are also
-ambiguous, although they seem to favor a reading with the locative,
-as does SEpM 6:10. While the PSD takes this passage metaphorically,
-“you have been checked, your ways have been corrected,” in light of
-what follows, the passage is best taken literally indicating that ŠamašÊ¢b provided both provisions and planned a route for Ilak-ni’id. For
-bar èn tar, “to take care of (person or situation),” see SEpM 6:10.
-With èn tar, the classic construction is the locative-terminative but in
-these texts, as in the ﬁrst verbal chain appearing here, bí-in-tar, the
-locative and locative-terminative are not strictly distinguished (Attinger
-personal communication).
-7. For anše-@iš, designating a collective of working plough donkeys,
-see Heimpel 1995, 87, 94. For the price of donkeys in Ur III, around
-four to seven shekels, see Lafont 2000, 208 w/n 7 with previous literature. The Old Babylonian prices listed in Schwenzner 1915, 111
-range from ﬁve and one-half shekels for one donkey to 20 shekels.
-Here the two donkeys are only worth four shekels, which could argue
-for an Ur III setting, although it is questionable that the prices here
-are anything but random.
-9. In Ur III administrative documents boat rentals are almost always
-contracted with barley or, occasionally, another comestible. Two
-exceptions, OrSp 47–49 149 and BIN 5 136, rent boats for 2 gín and
-1/3 ma-na lá 1/3 gín silver. Prices for boat rentals given in Codex
-Hammurabi §§275ff. are considerably lower (Roth 1995, 131; Salonen
-1942, 52f.). Given that the duration of this rental is perhaps intended
-to cover the length of Ilak-ni’id’s journey (1 month and 15 days), the
-total cost of the boat rental may be more in line with the prices speciﬁed in Hammurabi then with the much higher wages found in the two
-Ur III economic sources.
-
-(1964, 127) to read im-za and translate “You should go/went on the day of your
-tablet” does not ﬁt the context.
-
-164
-
-chapter six
-
-10. This line is problematic, and the number of variants attests to the
-problems the Babylonian scribes had with it as well. Ali (1964, 128)
-did not translate the object, commenting instead that while a translation such as “ ‘the wage of the guide of your boat . . .’ ” is tempting, “no
-such meaning for masu is attested nor do the variants (á-ma-zu, á-@
-iš
-má-zu, á-ma-[, á-@išma-zu for mas-su) support it.” Moreover, like its
-Sumerian equivalent, the Akkadian massû, “leader,” is said exclusively
-of gods and rulers (CAD M/I 327f.). For ma as an orthographic variant of má see the references in Ali 1964, 128 n. 10.
-11. Although a si.g is a common Sumerian expression for “clean
-water,” (e.g. SEpM 10:16, 20:18) a literal interpretation does not ﬁt the
-context of this passage. The sense seems to be “everything is cleared
-up,” referring to the commodities in ll. 7–10, which were already on
-hand for Ilak-ni’id’s journey. However, although zakû can have the
-meaning “to become free from speciﬁc claims or obligations,” such as
-those resulting from sale, already in OB, the lexical equivalent of si.g =
-zakû, is not attested until the ﬁrst millennium.
-13. Previously Ali 1964, 128 n. 13 and Waetzoldt 1972, 52 n. 121
-proposed that da-gal-tum-ma is a loanword from Akkadian takiltu, “(a
-precious blue-purple wool ).” However, takiltu is unattested before MB.
-da-gal-tum-ma occurs three times in OB lexical lists. Twice it modiﬁes udu, where it cannot mean purple.82 Moreover, it does not occur
-among the entries for colors of sheep in Hh.83 Instead it immediately
-precedes the entries for udu-bar-@ál, “sheep with ﬂeece,” and udusu-ga, “sheep without ﬂeece,” suggesting that da-gal-tum-ma is also a
-qualiﬁcation relating to the ﬂeece.
-The epistemic preﬁx ha-, of ha-ra-da-šid, conditions the following
-line, in which the main purpose of the letter is stated. For the sequence
-dative + comitative see Attinger 1993, 232.
-14. According to an Ur III Nippur protocol (BE 3, 70) that set the
-silver: tin ratio at 1:14.5, the value of the silver in tin is here about 24
-
-82
-Copenhagen forerunner to Hh XIII obv col. ii 16’ (MSL 8/1 92); Nippur
-forerunner to Hh XIII 52 (MSL 8/1 84). The term occurs by itself—and not as a
-modiﬁer—in OB Nippur Lu 819 (MSL 12, 63) but, of course, no Akkadian is given.
-Moreover, it is difﬁcult to glean any meaning from its position in that list as it appears
-after a group of similarly ambiguous terminology and is followed by vocabulary built
-on the word edin, “steppe.”
-83
-Nippur forerunner to Hh XIII 101–106 (MSL 8/1 85).
-
-editions
-
-165
-
-mina.84 This is the only line in the text to use a real imperative form,
-in contrast to the hé- clauses used elsewhere, suggesting that l.14 is the
-central point of the letter and Ilak-ni’id’s mission.
-The number of variants found in all the manuscripts for this line
-indicates the problems of interpretation it caused for the Babylonian
-students. N15’s omission of the subject, kù, further speaks to this scribe’s
-lack of understanding of this text. The ending -àm suggests the scribe
-misunderstood the intended word and instead substituted the similar and (perhaps) more familiar term ní@-sa10-àm for ní@-sa10-ma. On
-the distinction between ní@-sa10-ma, “merchandise, purchasing-capital;
-purchases” and ní@-sa10(-àm), “price,” see Steinkeller 1989, 161f. The
-variant grammatical morphemes added to ma-na, none of which conform to the phraseology expected from Ur III sale documents,85 demonstrate once more the troubles these scribes had with standard Ur
-III legal terminology.
-15. This exact sequence of stones is attested in Mīs Pî Ritual tablet 6/8
-ll. 37–8 (CT 17 39 ll. 48 and 50; ZA 45 14:27). They are further associated in other ﬁrst millennium Akkadian sources, often in conjunction
-with lapis and in contexts which indicate that all three were used for
-cylinder seals (See the references cited CAD D 201, H 227, M/II 279).
-However, they are not associated in any of the lexical lists or in 3rd or
-2nd millennium Sumerian sources.86
-For na4du8-ši-a see most recently Schuster-Brandis 2008, 407–409.
-Proposals for this stone’s identity include chlorite and steatite (e.g.
-Schuster-Brandis 2008, 407); rock crystal, agate (e.g. Archi 2003, 31f.),
-turquoise and topaz (e.g. de Maaijer and Jagersma 1997–1998, 280
-s.v. *a-bi-za). For na4nir7-igi see Veldhuis 2004, 137; Schuster-Brandis
-2008, 436f. Veldhuis argues that while van Dijk’s identiﬁcation (1983,
-120) of this stone as chalcedony is unconﬁrmed, a white stone does ﬁt
-the context in which it is used in NaBi. The color of the na4nir7-muš-@ír
-stone is unclear. While the variants na4nir7-muš-sù-ud in N15 and N77
-are unattested, the na4nír-ud-sud is attested in the OB Nippur forerunner to Hh XVI 61a. (MSL 10, 56).
-84
-Powell 1990, 85. This is roughly the same value that tin had in the OA merchant
-accounts where it was used for paying “small business expenses incurred in Anatolian
-trade” (Ibid.).
-85
-Steinkeller 1989, 13–15.
-86
-Although Cunningham (1997, 63) has identiﬁed Sumerian incantations related
-to the opening of the mouth ceremony in the Old Babylonian period (apud. Walker
-& Dick 2001, 18), parallel references to these stones do not occur.
-
-166
-
-chapter six
-
-16. For @eštug2 @ál see Kienast and Volk 1995, 34:16f.
-17. The sequence ha-ra-ab- . . . hu-mu-ra-ab- occurs once more in Gudam
-44.87 The reverse hu-mu-ra-ab- . . . ha-ra-ab- is found in IšD B 46 and
-Hammurabi B 7. OBGT VI ll. 39 and 43 (MSL 4 80) understand
-ha-ra-ab- as an imperative and hu-mu-ra-ab- as a precative, however
-this distinction does not seem to hold in our passage or those parallel
-to it.
-Instead, it is well established that the mu- preﬁx comes primarily
-with transitive, often marû verbs, frequently with dative referents (see
-Falkenstein 1949 and most recently Delnero 2010c), which suggests
-the translation “Your additional silver has been placed at your disposal and shall be recorded on a tablet for you.” In this case, the ﬁrst
-epistemic ha- clause conditions the second deonitc ha- clause.
-One of the primary purposes of this letter may have been to practice
-the various uses of the ha- preﬁx, which occurs in 6 of the 12 ﬁnite
-forms. In each case, the verbs appear to be in the 3rd person although
-it occurs in contexts in which the 2nd or 1st person is expected. Such
-forms would perhaps be expected according to Ur III letter order conventions, were it not for the repeated use of correct 1st and 2nd person
-verbal inﬁxes (dative -ma- and -ra- for instance) and sufﬁx pronouns.
-Moreover, while I have chosen to translate some as marû and some as
-hamtu, given the context, there is nothing in the inﬁx chains themselves
-to indicate which aspect was intended.
-18. This line appears to be a re-statement of the message in l. 5.
-Of note is the contrast in the construction of the verbal forms. Line
-5, na-ma-tùm, uses the dative ﬁrst person inﬁx ma-. In contrast this
-line, hé-em-tùm, uses the ventive /m/ as in Akkadian to express the
-same meaning.
-
-87
-ama-zu anše ha-ra-ab-hu@-e bara2 al hu-mu-ra-ab-bé, “Let your mother hire a
-donkey for you, let her demand a sack for you” (Alster 2004).
-
-editions
-
-167
-
-SEpM 18. Lugal-nesaĝe to Enlil-massu (B16, 3.3.9)
+&SEpM 18. Lugal-nesaĝe to Enlil-massu (B16, 3.3.9)
 1. mden-líl-mas-su inim dùg ad gi4 sag9 kag làl inim gùn-gùn-ra ù-naa-dug4
 2. dumu di@ir-ra-ni-ir gub-ba a-a ama-ni ní tè@-@e26-ra
 3. ù-na-dè-tah
@@ -2254,138 +831,35 @@ SEpM 18. Lugal-nesaĝe to Enlil-massu (B16, 3.3.9)
 18. èn tar-tar-re-dè zi ba-ir
 19. ki nam tar-ra-šè nu-ub-da-@en-na-aš
 20. dug4-ga den-líl-lá-ta mùš-me-zu igi hé-bí-íb-du8
-Say to Enlil-massu, the one of sweet words and good advice, melliﬂuous mouth of charming utterances. (3)Repeat (2)to the son who serves his
-god, who respects his father and mother. 7Say for a third time to (4)the
-alad-spirit, the protective spirit, my precious god, whose countenance
-and shape are pleasing, (5)epitome of the scribal art, (6)ornament of the
-palace, hero of the šatam ofﬁcials, who reinstates commands, (7)who
-always pleases the heart of his king.
-(1)
 
-Thus says Lugal-nesa@e, the nu’eš priest of Enlil, who makes his
+@tra
+
+(1)Say to Enlil-massu, the one of sweet words and good advice,
+melliﬂuous mouth of charming utterances. (3)Repeat (2)to the son who
+serves his god, who respects his father and mother. (7)Say for a third
+time to (4)the alad-spirit, the protective spirit, my precious god,
+whose countenance and shape are pleasing, (5)epitome of the scribal
+art, (6)ornament of the palace, hero of the šatam ofﬁcials, who
+reinstates commands, (7)who always pleases the heart of his king.
+
+(8-9)Thus says Lugal-nesa@e, the nu’eš priest of Enlil, who makes his
 king laugh, son of Enlil-alsag, ummia of Nippur, your father:
-(8-9)
 
-When you abandoned me, you completely crushed me. (11)My heart
-sank, I lost the taste for food and drink.88 (12)Your very being consumed
-
-(10)
-
-88
-
-Lit: “My thirst and hunger diminished.”
-
-168
-
-chapter six
-
+(10)When you abandoned me, you completely crushed me. (11)My heart
+sank, I lost the taste for food and drink.^1^ (12)Your very being consumed
 me, your mockery overwhelmed me. (13)Your arrogance shattered me,
-(14)
-your insult ﬁnished me off. (15)Despite my attentiveness, I have been
+(14)your insult ﬁnished me off. (15)Despite my attentiveness, I have been
 abandoned. (16)Despite my wisdom and (good) intentions, tranquility
 eluded (me). (17)Despite my reverence, blood and pus ﬁlled my heart.
-(18)
-Making inquiries has become too troublesome.
-As long as I have not gone to my (ultimate) fate, (20)may your countenance look (upon me) in accordance with Enlil’s command.
-(19)
+(18)Making inquiries has become too troublesome.
 
-Commentary
-1. For inim gùn-gùn, Akkadian kuzzubu, see Ludwig 1990, 197 with
-previous literature and Peterson 2007, 600f. w/n 2329. inim gùn-gùn
-is entered in CAD K 617 s.v. kuzzubu, “to fawn, ﬂatter (with words), to
-wag the tail.” With inim (the reading of which is assured by the gloss -e
-in Samsuiluna A 32) the sense is probably closer to kuzzubu “luxuriant,
-full of charm” as in Ludwig (Attinger personal communication).
-2. This line repeats the same basic sign shapes, using variations of
-KAL and ALAN.
-6. I follow the original interpretation here (contra Jaques 2006, 20
-who reads šà zalag-e-dè), as I believe this better ﬁts the context of the
-line. Moreover, zalag-e is rare, one would expect instead zalag-ge.
-8f. On the personal names used in this letter see Chapter 2.4.1.
-On the role of the nu’eš priest, associated primarily with the Ekur in
-Nippur, see most recently Sallaberger and Huber Vulliet 2003–2005,
-630f. For the reading bir9 and semantic range of zú bir9 see Jaques
-2006, 70ff. and 593f. For lú zú bir9 lugal-la, literally: “qui est le rire de
-son roi,” see Ibid. 375 n. 803. On the title um-mi-a, used in reference
-to especially learned scribes see Volk 2000, 9 w/n 50, where he suggests that the title was earned after a certain age or a certain number
-of years in the ﬁeld.
-10. That taka4-en-na-zu is a rare case of a ﬁnite form without a preﬁx chain see Attinger 1993, 194 with previous literature and Römer
-2000. Although this phenomenon is more common with marû bases,
-the variant ì- in Ur8 argues in its favor.
-The form hu-hu-bu-uš, in the second part of the line, is otherwise
-unattested (but compare ba-hu-hu-bu-dè in Charpin 1992, 13: rev. 6’
-and comm p. 17). For hu-hu-bu-uš AK, a loan from Akkadian hab šum,
-see PSD A/III p. 128 lex. 170 and Attinger 1995, 225. Perhaps the
-initial gemination was used for emphasis or intensiﬁcation.
+(19)As long as I have not gone to my (ultimate) fate, (20)may your
+countenance look (upon me) in accordance with Enlil’s command.
 
-editions
+^1^ Lit: “My thirst and hunger diminished.”
 
-169
 
-11. Translation of this line follows Woods 2008, 292 ex. 654.
-12ff. Lines 12–14 and lines 15–17 form two units. Lines 12–14 are
-constructed of a series of clauses noun-zu íb-ROOT-en, “your X did
-Y to me.” The Akkadian equivalents that Ur2 and UET 7 9489 provide for these lines always gloss the noun. Lines 15–17 form a second
-unit marked by a series of nominal clauses ending in the ablative postposition -ta followed by a series of verbs conjugated as ba-ROOT,
-“in place of my X, I have become Y.” The cohesiveness of this unit
-is illustrated by the Akkadian translations, which contra to ll.12–14,
-always gloss the verb.
-12. UET 7 94 glosses NAM and i-si-iš as ihtum, “laughter.” Although
-the Akkadian term has positive connotations, here the sense must be
-of mockery or derision. Because of this translation, Civil (2009, 67)
-reads bir5 for NAM as a potential variant of zú bír, “to laugh.” This,
-however, seems an odd choice in light of l. 8, which uses bir9. As such,
-I follow the original understanding of the line.
-13. UET 7 94 glosses mah with šuqum, “high,” suggesting a translation such as “your arrogance,” or perhaps even more literary, “high
-(status).”
-14. For the gloss, uppulum, in Ur2 and UET 7 94 used nominally
-compare e.g. the OB letter AbB 11 139. I cannot explain the addition
-of TA.LA in Ur2 or the variant bar-TE-@á in X22.
-15. For lib bar ak see Attinger 1995, 235, and note the gloss puqqu in
-UET 7 94, even if the scribe got the Sumerian wrong, reading ní bar
-(Civil 2009, 67). The non-Nippur versions of this line have ki-@u10-ta.
-For /ke/ as a form of the marû non-conjugated participle of ak see
-Attinger 1995, 62. For šu dag see most recently Sjöberg 1998, 355f.;
-Karahashi 2000, 152–54; Mittermayer 2009, 304.
-16. In other words, “tranquility is far from my mind and my heart.” I
-have chosen a more liberal translation in order to account for the parallelism in lines 15–17. This interpretation follows Attinger (personal
-communication). For lib @ar see Krecher 1966, 182f. and LUr 99 in
-which lib @ar is clearly something positive. It is unclear why three of
-the six manuscripts (N102, Ur2, X22) omit this line.
-
-89
-
-Ch. 6.3; Civil 2009.
-
-170
-
-chapter six
-
-17. The manuscripts for this line offer a number of variants. Instead
-of -ta, the Ur texts add the sufﬁx pronominal element -ne. The -ga in
-X22 is best understood as a miscopied -ta. Ur2 and X22 have lugud2,
-an unusual orthographic variant. lugud occurs in three other literary
-texts, always preceded by úš. In all the manuscripts attested for these
-texts (SgLeg B 10, Inana C 45 and Ninisina A 20), as well as in the
-lexical entry in MSL 12 185:22, lugud is never written lugud2.
-The image is similar to that in SgLeg B 10 in which Ur-Zababa
-ﬁnds blood and pus in his urine (šà-ba úš lugud si-a-ba), an indication
-of his fear. The idea here seems to be the same.
-18. In other words, despite his best efforts, Lugal-nesa@e’s situation
-has not improved. For an alternate interpretation see Woods 2008,
-238 ex. 453.
-19. This line contains a number of variants. The Ur manuscripts leave
-out the terminative postposition. Instead, Ur2 has ki nam tar-ka, “into
-the place of destiny” while Ur8 has only ki nam tar-ra. X22, ki nam
-tar-re-NE, seems to have made the verb into a conjugated participle.
-The variant in Ur2, nu-ub-da-@á, is a direct translation of the Akkadian gloss, la aš-š [a?-ka-an], “until I have been permanently placed.”
-@á must be a phonetic variant for @ar.
-
-editions
-
-171
-
-SEpM 19. Inanaka to Nintinuga (B17, 3.3.10)
+&SEpM 19. Inanaka to Nintinuga (B17, 3.3.10)
 1. dnin-tin-ug5-ga agrig zid é-kur-ra
 2. a-zu kalam-ma-ra ù-na-dug4
 3. nin tu6 dug4-ga-ni ù@ šár ti-le
@@ -2411,100 +885,33 @@ SEpM 19. Inanaka to Nintinuga (B17, 3.3.10)
 23. é-a-ni kisal-luh-bi hé-me-en igi-ni-šè ga-gub
 24. ù-ba-sa6-ge nin-@u10 lú-ku5-da du7-du7
 25. mu-šè ga-an-sa4
-Say (1)to Nintinuga, efﬁcacious steward of the Ekur, (2)physician of the
-homeland; (7)Repeat to (3)the lady whose incantations cure the populace, (4)whose spell has healed the people, (5)to the compassionate lady,
-reviver of persons, lover of prayer; (6)to the relenting, the merciful,
-who hears my petitions; (8)You care for the living and the dead, (9)great
-healer of cripples. (10–11)Thus says Inanaka, daughter of Enlil-amah,
-your servant:
-(2)
 
-Having taken to bed for the second time,90 (13)I went through much
+@tra
+
+(2)Say (1)to Nintinuga, efﬁcacious steward of the Ekur, (2)physician
+of the homeland; (7)Repeat to (3)the lady whose incantations cure the
+populace, (4)whose spell has healed the people, (5)to the
+compassionate lady, reviver of persons, lover of prayer; (6)to the
+relenting, the merciful, who hears my petitions; (8)You care for the
+living and the dead, (9)great healer of cripples. (10–11)Thus says
+Inanaka, daughter of Enlil-amah, your servant:
+
+(12)Having taken to bed for the second time,^1^ (13)I went through much
 woe and I do not know its course. (14)My lady, someone built a house
 for me, but I can only sit furtively. (15)My acquaintances and dear ones
-
-(12)
-
-90
-
-Literally: “With my being thrown to bed for the second time.”
-
-172
-
-chapter six
-
 have abandoned me. (16)I have no one who inquires about me. (17)Since
 it is enough for me, too much for me, (18)I am truly desperate.
-If it is my lady’s will, (20)may she cause the asag demon that is in
+
+(19)If it is my lady’s will, (20)may she cause the asag demon that is in
 my body to be torn out of my ﬂesh. (21)May she stand my feet on the
 path of life. (22)Furthermore, as I am her servant (23)(and) the courtyard
 sweeper of her temple, I will serve her, (24–25)(and) as soon as I am well,
 I will name my lady, “healer of cripples.”
-(19)
 
-Commentary
-1. For Nintinuga, the manifestation of the healing goddess connected
-particularly with the cult of Enlil and Ninlil at Nippur see Edzard
-1998–2001, 506; see also Römer 2003, 245 for further references.
-6. šà gur-ru, literally “one who turns the heart,” is indicative of reconciliation and relenting ( Jaques 2006, 241ff., 559f.). The sequence of
-epithets used in this line occur in the same order in the letter of KugNanna to Ninšubur Seg. A 12:
-nin-šubur di@ir šà-lá sù šùd a-ra-zu @iš tuku ù-ne-dè-tah
+^1^ Literally: “With my being thrown to bed for the second time.”
 
-d
 
-“repeat to Nin-šubur, merciful god, hearer of prayers and petitions”
-
-10. For interpretation of the name dinana-ka see Römer 2003, 246.
-On the historical Inanaka, daughter of Enlil-amah, attested in the Ur
-III Nippur Inana temple archives see Hallo 1972, 92; Zettler 1984,
-6; 1992, 203.
-12. The meaning of this line is suggested by Lugale 584. Embedded
-within a recounting of the horrible destiny that awaits the na4ša-ga-ra
-stone, is the following:
-ki-nú-za hé-bí-šub-bé
-“You will be thrown onto your bed!”
-
-Lines 585ff. continue that no one will tell the stone to “get up,” no
-one will miss it, and no one will complain about its loss. As such, the
-šagara stone’s destiny is similar to the complaints Inanaka makes in ll.
-14–16. It is tempting to speculate that ki-nú šub was a euphemism for
-a particular ailment, perhaps loneliness or isolation, resulting in the
-consequences described in Lugale 585ff. and in this letter.
-This interpretation is very different from previous editors, yet
-adheres more closely to the literal Sumerian. Römer 2003, 247 follows
-
-editions
-
-173
-
-Ali in understanding šub as ez bu, “to leave.” However, evidence for
-this reading comes only from a ﬁrst millennium commentary.91 For the
-comitative postposition -da denoting simultaneous action, “while,” see
-the references given by Romer 2003, 247.
-17. Römer 2003, 244 assumes an underlying subject šà and translates
-“da (mein Herz) voll ist, weil es übervoll ist.” Similar sentiment is
-expressed in NMŠ 138 and Edubba B 64f.
-21. For ki-in-DU see Volk 1995, 162f.; Attinger and Krebernik 2005,
-67.92 The variant in Ur10, ki nam-DU, “the place of standing,” gives
-further indication of the meaning intended. Böck and Römer read kiin-gub. The reading gub, however, is not certain; udug-hul forerunner
-l. 247 reads ki-in-du while the parallel l. 367 reads ki-in-da, and see
-also Veldhuis 2008, 43 D iv 11–15 and comm. p. 49.
-
-91
-CAD E, 416: ŠUB // na-du-u // ŠUB // e-ze-bi (CT 41 44:14 = Theodicy
-commentary). Moreover, Römer 2003, 247 cites a number of passages in which he
-believes šub has this meaning. However, in these cases, the translation “to fall” ﬁts
-the context as well. See for instance LN 99: uru2-bi uru2 šub-ba im-ma-ni-in-ku4-raàm, in which a translation “He turned that city into a fallen city” expresses the same
-sentiment as Tinney’s “That city he turned into a city neglected.”
-92
-For a different interpretation see Ludwig 1990, 201 n. 477 where she understands ki-in-gub as a variant for ki-gub/ki-lugal-gub, a physical location as in IšD A
-81, ŠA 56.
-
-174
-
-chapter six
-
-SEpM 20. Dedication of a Dog to Nintinuga (B18, 5.7.2)
+&SEpM 20. Dedication of a Dog to Nintinuga (B18, 5.7.2)
 1. mlugal-nesa@-e dumu zu-zu um-mi-a nibruki-ke4
 2. tu6-ni-lú-sag9 ur kí@-gi4-a-ka-ni dnin-tin-ug5-ga-ra mu-na-an-dím
 3. nam-bi-šè ur-e nin-a-ni-ir kun mu-na-ab-gùn-gùn šeg11 mu-na-ab-gi4
@@ -2520,170 +927,42 @@ SEpM 20. Dedication of a Dog to Nintinuga (B18, 5.7.2)
 13. [X]-ga-DI zi-pa-á@ ù-mu-ni-[X X] á-/sàg\ zi ba-an-/da\-[X]
 14. mu-@u10 mu-zu-ta im-da-an-pàd
 15. nam-gur4-ra-zu ki-zu ì-kí@-@e26
-16. tu6-ni-lú-sag9 mu-šè mu-un-sa493
+16. tu6-ni-lú-sag9 mu-šè mu-un-sa4^^
+^^X11 adds: ma-an-sa6-ga mu-šè mu-sa4-a-me-en.
 17. u4 ti-la-@á igi hu-mu-un-du8
 18. u4 ba-úš-en kur-ra a si-ga hu-mu-un-na8-na8
-Lugal-nesa@e, son of Zuzu, ummia of Nippur, (2)fashioned Tuni-lusag,
+
+@tra
+
+(1)Lugal-nesa@e, son of Zuzu, ummia of Nippur, (2)fashioned Tuni-lusag,
 his canine emissary, for Nintinuga. (3)To this end, the dog wags its tail
 at its mistress and barks at her:
 
-(1)
-
-“Mistress, who provided sustenance in heaven and earth, steward
-of Enlil, (5)sweet breast, satisfying all the lands, bringing abundance,
-(6)
-scrutinizing the intentions of the wounding asag-demon, the one who
+(4)“Mistress, who provided sustenance in heaven and earth, steward of
+Enlil, (5)sweet breast, satisfying all the lands, bringing abundance,
+(6)scrutinizing the intentions of the wounding asag-demon, the one who
 examines the bones, (7)sorting the sinews of life (and) the sinews of
-death, the one who makes bandages beautiful, (8)who knows those diseases exacerbated by wounds and deep afﬂictions, (9)the healing physician, šimmu priest to the sick, observing the entrails of mankind,
-(4)
+death, the one who makes bandages beautiful, (8)who knows those
+diseases exacerbated by wounds and deep afﬂictions, (9)the healing
+physician, šimmu priest to the sick, observing the entrails of
+mankind,
 
-My mistress, who fashioned me, (11)my name is Tuni-lusag. (12)After
+
+(10)My mistress, who fashioned me, (11)my name is Tuni-lusag. (12)After
 it (= the disease) had healed, I was so named.
 
-(10)
-
-93
-
-X11 adds: ma-an-sa6-ga mu-šè mu-sa4-a-me-en.
-
-editions
-
-175
-
-(But) when . . . the throat, the asag-demon . . . (my) life. (14)My name is
+(13)(But) when ... the throat, the asag-demon ... (my) life. (14)My name is
 invoked alongside your name! (15)I seek your strength! (16)I am called
-Tuni-lusag!”94
-(13)
+Tuni-lusag!”^1^
 
-As long as I live may I be regarded (with benevolence). (18)When I
+(17)As long as I live may I be regarded (with benevolence). (18)When I
 die, may I drink clear water in the netherworld.
-(17)
 
-Commentary
-2. The name tu6-ni-lú-sag9, “her spell heals a person,” is ﬁtting for
-a dog meant to intercede before a healing goddess on his master’s
-behalf (compare Ninisina A 37; Cavigneaux and Krebernik 1998–
-2001b). The association between the healing goddess and the dog is
-well attested.95 Bronze and clay ﬁgurines of dogs are especially common in ﬁrst millennium contexts, most notably in the Gula temple in
-Isin,96 where they served as ex-votive offerings.97 Although many are
-not inscribed, a small handful of dedicatory inscriptions are attested on
-such ﬁgurines.98 For animal ﬁgurines named in their inscriptions see,
-e.g., Braun-Holzinger 1991, 327 (T14) and 328 (T18).
-3. The expression kun gùn is attested elsewhere only in the late lexical
-list Antagal III 267 (MSL 17, 160) and in a bilingual proverb collection from the Assurbanipal libraries (BWL 229:30). In both instances
-kun gùn is equated with Akkadian kuzzubu, “to fawn, to ﬂatter (with
-words), to wag the tail.” Although these attestations are ﬁrst millennium, this seems to be the meaning intended here.99 The variant in
-
-94
-X11 adds: After she healed me (lit: after having been good to me), it is I who
+^1^ X11 adds: After she healed me (lit: after having been good to me), it is I who
 was named thus!
-95
-See Heimpel 1972–1975, 496f.; Herles 2006, 208f.; Attinger 2008, 60.
-96
-Braun-Holzinger 1984, 90f. In particular, Nos. 298–300.03 and 312, are dog
-ﬁgurines found at Isin and Nippur that can be dated to the OB and Kassite periods.
-97
-Braun-Holzinger 1991, 322. See for instance the terracotta dog from from Kassite period Isin with an inscription to Gula specifying the reason for the dedication:
-ik-ri-bi-i-šu iš-m[e], “she heard his prayer.” (Wilcke 1977, 90 E 8 (IB 18); BraunHolzinger 1991, 2 n. 13). Although such ﬁgurines do not become common until
-Kassite period Isin, clear references that consecration gifts were made out of thanks
-for a prayer granted are attested already in the early second millennium (Ibid., 2).
-98
-Braun-Holzinger 1991, 7. For inscribed dog ﬁgurines dating to the OB period
-see Braun-Holzinger 1991, 328 T17, T18, T19. T17 is a dog dedicated to Ninisina by
-one Enlil-ennam on behalf of Bur-Suen, king of Isin. T18 (= RIME 4.2.7.2001), found
-at Tello, is similarly dedicated to Ninisina, here by Abba-duga, the Lumah priest, on
-behalf of Sumuel, king of Ur. T19 is unpublished. For other periods see the references
-listed in Braun-Holzinger 1984, 90ff. and Edzard 1998–2001, 506.
-99
-For kun gùn see now Peterson 2007, 592 and 599ff. Compare the expression kas4
-gùn in Shulgi A 73, which expresses the action of running. Cooper (personal com-
 
-176
 
-chapter six
-
-X11, mu-un-na-ab-sì-ge, “he fashions it for her,” repeats the sentiment
-of line 2.
-4. Elsewhere the epithet nin agrig den-líl-lá is always modiﬁed by zid,
-as in SEpM 17:1: dnin-tin-ug5-ga agrig zid é-kur-ra. For the epithet
-šukur2 sum see IšD B 14 and Ninisina E 18, 26.
-5. The reading of the sign DAG.KISIM5*GA is provided by the gloss
-a-ka-an in N5. Because of the lack of glosses or Akkadian translations
-in most Sumerian texts, it is unclear whether the choice of akan in
-our text should be unexpected.100 The preference for the reading ubur
-(Akk: tulû) in many modern editions of Sumerian literary texts seems
-to be based only on the more frequent attestation of the Akkadian tulû
-than sirtu, the translation given for the reading akan (Ea IV 60, Aa
-VIII/4:181–182).101 However, the use of the gloss here may in fact
-support the rarity of this word.
-6. The á-sàg demon is more commonly characterized as gig-ga, “virulent,” cf. Geller UHF 799; Sin-iddinam to Utu 28. In several texts,
-however, he is described as being capable of inﬂicting wounds, e.g.
-Lugale 177:
-ki-a su bí-íb-dar simx-ma bí-íb-@ar
-(the asag demon) tore the ﬂesh of the Earth and covered her with painful wounds
-
-munication) suggests that in such instances gùn refers to quick repetitive movements,
-in our example of the tail moving rapidly through the air causing sparks of color. This
-is similar to the action behind the verb kun sud, in which sud also seems to describe
-rapid, repetitive motion (Peterson 2004; 2007, 592, 597–600).
-Peterson argued that kun sud, the well attested verb for “to wag the tail” is used
-primarily to represent a state of arousal, characterizing an animal’s aggressive physical behavior, as in anticipation of a ﬁght. It is also attested expressing the poplar
-opposite of this state—an animal in a state of relaxation. kun gùn may have been
-used in place of kun sud to represent a third state in which a dog would wag his tail
-not included in the semantic range of kun sud; namely that of a dog’s happiness at
-seeing his master.
-100
-PSD A/III 132 sv. akan lists several passages whose text editors prefer the reading ubur (e.g. Lipit-Ištar D 6, SP 2.59, for which there are no variants or glosses in
-any manuscript of either text to support one reading over the other).
-101
-Moreover, the semantic range of tulû, “breast,” is much wider. While sirtu refers
-speciﬁcally to the nipple and occurs only in the contexts of suckling, tulû has this
-meaning as well. That ubur can be used for suckling is made explicit by SEpM 7:18
-where N68 resumes the /r/ auslaut in the form ubur-ra-gin7. Moreover EnlSud l. 5,
-in a passage referring to suckling, has DAG.KISIM5*GA translated in the bilingual
-version as [t]u-le-e.
-
-editions
-
-177
-
-Thus, the appearance of an á-sàg simx-ma, “wounding asag” in this text
-is consistent with at least some aspects of this demon. Other examples
-include the Letter Nanna-mansum to Ninisina 6–7 and Ninisina A 21.
-The demon’s ability to wound, coupled with the reference to @iri3-paxrá igi bar-re, “examining the bones,” emphasizes that Nintinuga can
-heal both external and internal ailments.
-7. The oblique marker on the logical direct object, -a or -e, renders
-the translation ambiguous. To select one thing from another, we would
-expect -ta as in ŠV 16: ù@-ta igi sa@5-@á, “selected from among the
-people.” As such the notion of sorting between the two seems to have
-intended. Alternatively, igi sa@5 can be “to inspect, verify” for which
-see Schramkamp 2008, 680. In general, see most recently Waetzoldt
-2010. ní@-kéš, “bandage,” was discussed already by Sjöberg 1991, 221
-l. 15’ (comm. p. 223). The idea here is “the one who knows how to
-properly dress a wound.”
-8. For ní@-ra-ah, translated by simmī, “my wound,” see Civil 2010,
-158, 12: 24f.
-ní@ dug4-ga is translated by dâku in the SB list of diseases l. 125 (MSL
-9 94) and further references provided by Attinger 1993, 627 §680,
-written both with and without ní@. For ki-gig “disease” see Cavigneaux
-and al-Rawi 1995, 35. This is to be distinguished from ki gig-ga, “location of a disease” for which see Schwemer 2009, 50 l. 9 and comm.
-p. 55.
-9. On the role of the šim-mú priest, especially as the puriﬁcation and
-incantation priest of Ninisina and Nintinugga, see Geller 1985, 92f.;
-Sallaberger and Huber Vulliet 2003–2005, 619; Ceccarelli 2009, 36f.
-I cannot explain the -ta in dú-ra-ta.
-13. Civil 1969, 180 suggests either zi ba-an-/da\-[gi4] “et l’asakku
-s’apaisera” or zi ba-an-/da\-[ir] “et l’asakku sera plein de peur.” However, Karahashi 2000 176ff. demonstrates that zi ir and zi gi4 describe
-emotional states. Something more forceful better ﬁts the context.
-15. For the semantic range of ki kí@ see Veldhuis 2004, 139 and the
-references collected by Michalowski 1989, 71f. This seems to be the
-only attestation in which the semantic object is metaphorical. The idea
-is that Lugal-nesa@e seeks Nintinuga’s power to heal.
-
-178
-
-chapter six
-SEpM 21. Inim-Inana to Enlil-massu (B19, 3.3.11)
+&SEpM 21. Inim-Inana to Enlil-massu (B19, 3.3.11)
 
 1. mden-líl-mas-su ù-na-dug4
 2. minim-dinana-ke4 na-ab-bé-a
@@ -2700,95 +979,27 @@ SEpM 21. Inim-Inana to Enlil-massu (B19, 3.3.11)
 13. lú-gi-na šu mu-ra-tak4-tak4 šu ti-ba-ab
 14. ha-la da13-da13 ama-zu šu nam-bí-te-en-tè@
 15. a-ma-ru-kam
-Say to Enlil-massu, (2)thus says Inim-Inana:
 
-(1)
+@tra
 
-Everything they told me made me very happy.102
+(1)Say to Enlil-massu, (2)thus says Inim-Inana:
 
-(3)
+(3)Everything they told me made me very happy.^1^
 
-May (4)Lamma, Ud-tila, Akala, Lugal-šu, (5)Na<bi>-Enlil and Enlilalsag, (6)scholars who preceded you, (7)Nin-imma, your goddess and
-(8)
-Nidaba, lady of broad wisdom, (9)give you wisdom.
-(9)
+(9)May (4)Lamma, Ud-tila, Akala, Lugal-šu, (5)Na<bi>-Enlil and Enlilalsag, (6)scholars who preceded you, (7)Nin-imma, your goddess and
+(8)Nidaba, lady of broad wisdom, (9)give you wisdom.
 
-Regarding what was written on the tablet, (11)did you not know it’s
+(10)Regarding what was written on the tablet, (11)did you not know it’s
 the case that the city does not settle accounts?
-(10)
 
-Lu-gina is sending you 2 shekels of silver, 1 garment and 2 shawls.
+(12–13)Lu-gina is sending you 2 shekels of silver, 1 garment and 2 shawls.
 Take them! (14)(But) your mother should not take the remainder of the
 inheritance. (15)It is urgent!
 
-(12–13)
+^1^ Literally: They spoke every word to me and I have become very happy.
 
-Commentary
-3. The indeﬁnite pronoun na-me does not occur elsewhere modifying
-inim. However, see for instance ARM 3 18:5 awatam mimma lemuttam
-ešme, “I heard something bad” (CAD M/II 78). Whether inim na-me
-here refers to something in particular that Inim-Inana was told, or
-102
 
-Literally: They spoke every word to me and I have become very happy.
-
-editions
-
-179
-
-anything that Inim-Inana heard, is unclear. Elsewhere, when na—me
-modiﬁes ní@ (the closest parallel to inim), translation of “everything”
-as opposed to “anything” or “something” seems to be based only on
-editorial predilection.
-For the problem of the reading and meaning of LUL, “much,” see
-SEpM 15:7. Jaques 2006, 449 n. 976 interprets LUL as sarru + a
-+ eš(e) (= adverb of manner) and translates “Ils m’ont dit chaque
-parole et ( je me suis mensongèrement réjoui =) j’ai fait semblant de
-me réjouir.” While this might ﬁt the context in this laconic missive, it
-does not ﬁt the use of LUL.AŠ in SEpM 15:7.
-Woods (2008, 295) cites this line and a parallel expression in an
-OAkk letter, áš-má-ma ah-tá-dú, in order to demonstrate an inherent
-perfect nuance to actions constructed with the preﬁx ba-. As such, the
-verbal sufﬁx -en in N55 must be correct, representing the ﬁrst person subject of the intransitive hamtu verb. Although the variant -e for
--en is uncommon writings such bí-in-túm-mu for bí-in-túm-me-en do
-occur (EJN 25; see also Attinger 1993, 222 n. 513; Delnero 2006, 576).
-4f. I follow Ali in assuming that Lamma, Ud-tila, and Akala were
-three separate persons. ETCSL reads Lamma as the personal goodluck genie of that name and u4 til-la-a kal-le as her epithet. Given that
-this epithet is otherwise unattested in Sumerian literature and that the
-other names in lines 4 and 5 are clearly those of persons—in contrast
-to the gods named in lines 7 and 8—I interpret Lamma as an element
-of a personal name.
-Ali was troubled by the lack of a Personenkeil before Lamma. This is
-perhaps not surprising given that the manuscripts are not consistent on
-the use of the Personenkeil in the following line, although we might have
-expected N56 to use the Personenkeil consistently throughout his text.
-For Lugal-šú see Ch. 2.4.1. For Na<bi>-Enlil see Chapter 2.4.3.
-6. For the rare use ŠU.IGI.DU in Sumerian literary texts see the discussion in Ludwig 1990, 51 n. 124 but note its more frequent use
-in Ur III accounts. Although the lexical equivalent, mahra, is attested
-only in the ﬁrst millennium, a translation “before, earlier,” best ﬁts the
-context for all occurrences of this term.
-10. For im = uppu “tablet” as opposed to the more common dub see
-SEpM 17:17.
-11. For al-me-a compare ANL 9:15, Dialogue 2:55, Dialogue 3:175.
-
-180
-
-chapter six
-
-12f. That N55 omits ll. 12–13 suggests the scribe did not understand
-their relevance to the overall message. While it is also possible that the
-omission was simply a mechanical error, the number of other mistakes
-in N55 (especially the omission of the verbal root in the ﬁrst ﬁnite verb
-of line 11!) indicates that the variants within this manuscript resulted
-from incorrect or alternate interpretation of the text (Delnero 2006,
-1851).
-13. For Lu-gina see Ch. 2.4.2. s.v. Lu-Suena.
-
-editions
-
-181
-
-SEpM 22. Inim-Inana to Lugal-ibila (B20, 3.3.12)
+&SEpM 22. Inim-Inana to Lugal-ibila (B20, 3.3.12)
 1. mlugal-ibila ù-na-dug4
 2. minim-dinana-ke4 na-ab-bé-a
 3. eme-gir15-šè gú-zu na-ab-šub-bé-en
@@ -2800,71 +1011,29 @@ SEpM 22. Inim-Inana to Lugal-ibila (B20, 3.3.12)
 9. en-na @iškim @e26-e ù za-e KA ì-bal-en-da-na
 10. lú mu-e-ši-in-gi4-gi4
 11. lú-tur šu nam-bí-bar-re-en
-12. [x x (x)]103-ma bí-tuku a-ma-ru-kam104
-Say to Lugal-ibila, (2)thus says Inim-Inana:
+12. [x x (x)]-ma bí-tuku a-ma-ru-kam^^
+^^Variant (X4): [l]ú-tur silim-ma-ni ad-da-[a?-ni?] KA-za in-tuku.
 
-(1)
+@tra
 
-Do not neglect Sumerian! (4)For the second time, I am sending you a
+(1)Say to Lugal-ibila, (2)thus says Inim-Inana:
+
+(3)Do not neglect Sumerian! (4)For the second time, I am sending you a
 message in the proper language.
 
-(3)
-
-Do not let the children seated before you leave school. (7)Moreover,
+(5–6)Do not let the children seated before you leave school. (7)Moreover,
 should someone try to deceive you (8)saying to you “I want to go” on
 the authority of his father, (9)until you and I have discussed the proper
 time (10)(and/or) I send someone to you (with the OK), (11)do not let any
-of the kids go! (12)You are responsible for . . .105 It is urgent!
-(5–6)
+of the kids go! (12)You are responsible for ...^1^ It is urgent!
 
-Commentary
-3. This exhortation is attested elsewhere in the scribal literature, for
-which see the references collected in Sjöberg 1972, 128. Here it is
-somewhat ironic, turned on the teacher and not the student.
-7. For lul sì see Civil 2000a, 109; Gadotti 2005, 533; Lämmerhirt
-2010, 288. The variant sa6-ge in N24 suggests a misunderstanding on
+^1^ Variant (X4): “his father has entrusted the welfare of the child
+to you (lit: in your mouth).” I have restored this line following that
+preserved in the late period redaction of this letter, the letter of
+Lugal-ibila to Lugal-nesage line 21, for which see Civil 2000a, 109ff.
 
-103
-Although Civil 2000a, 108 restores [silim], N79, at least, has room in the break
-for at least two signs.
-104
-Variant (X4): [l]ú-tur silim-ma-ni ad-da-[a?-ni?] KA-za in-tuku.
-105
-Variant (X4): “his father has entrusted the welfare of the child to you (lit: in
-your mouth).” I have restored this line following that preserved in the late period
-redaction of this letter, the letter of Lugal-ibila to Lugal-nesage line 21, for which see
-Civil 2000a, 109ff.
 
-182
-
-chapter six
-
-the part of this scribe, but without the ﬁrst part of the line it is impossible to know what he intended.
-8. For the neologism ugu . . . (-ak)-šè/a see most recently Huber 2001,
-171–175.
-9. While Civil 2000a, 109 reads ka bal here, the variant KA-ma in
-N81 argues in favor of inim bal. OB lexical text YBC 9869 iii 27, however, contains the entry for KA bal in the section of compounds formed
-with the KA sign read /ka/ (Michalowski 1978, 117). To reﬂect the
-likelihood of different readings in different schools or regions, I read
-KA here.
-
-editions
-
-183
-
-ANL Introductory Remarks
-Published here are the nine (of twelve) ANL letters to which I had
-access. I was not able to look at the one unpublished manuscript of
-ANL 5, and so I have not included this letter. In addition, identiﬁcation of X25 (MS 2287) came to my attention too late for inclusion.
-ANL 7 will thus be published later, in a forthcoming collection of
-Sumerian literary tablets in the Schøyen Collection. Finally, ANL 2
-also will appear separately.
-Several other tablets came to my attention as possible Nippur letters, CBS 12651, Ni 2331 (SLTN 139), as well as two compositions
-found on the large compilation tablet N70 (Ni 3023+) and one on
-X18 (VAT 9157) with partial duplicate UM 29-16-10. However, study
-of these fragments does not give any certain indication that they are
-letters.106 For that reason, they are not published in this collection.
-ANL 1. Gudea to His God (3.3.20)
+&ANL 1. Gudea to His God (3.3.20)
 1. di@ir-@á ù-na-dug4
 2. mgù-dé-a arad-zu na-ab-bé-a
 3. udu-gin7 sipad gi-na nu-tuku
@@ -2874,302 +1043,130 @@ ANL 1. Gudea to His God (3.3.20)
 7. sa@ ì-tuku inim nu-um-me igi tuku igi mu-[u]n-íl
 8. ní@ ak-a-@u10 a-rá 7-e nu-un-DU x x
 9. zag-ba a-rá 7-e nu-mu-un-da-pàd
-10. di@ir-@u10 lú kúr di nu-me-en šà-zu ki-bi ha-ma-ab-gi4-gi4107
-Say to my god, (2)thus says Gudea, your servant:
+10. di@ir-@u10 lú kúr di nu-me-en šà-zu ki-bi ha-ma-ab-gi4-gi4^^
+^^Var (Su2): di@ir-@u10 lú kúr-zu nu-me-en ba-ar-mé en-tar-re.
 
-(1)
+@tra
 
-Like a sheep, who has no reliable shepherd, (4)I have no reliable
-herdsman to guide me. (5)(Instead) I have been forced to accompany
-(3)
+(1)Say to my god, (2)thus says Gudea, your servant:
 
-106
-Such as ù-na-dug4, na-ab-bé-a, or ù-na-dè-tah or standard closing exhortations.
-In addition to the tablets listed above, there are fragmentary lines associated with Ni
-4164 (ISET 2 117), that may be part of a letter. However, as the main composition
-preserved on this compilation tablet is CKU 20, it is more likely that this unidentiﬁed
-letter is a fragment of a CKU letter and not a SEpM or ANL composition.
-107
-Var (Su2): di@ir-@u10 lú kúr-zu nu-me-en ba-ar-mé en-tar-re.
+(3)Like a sheep, who has no reliable shepherd, (4)I have no reliable
+herdsman to guide me. (5)(Instead) I have been forced to accompany an
+imprudent merchant. (6)Like a donkey he [strikes? me] (with) a brutal
+whip.  (7)I am important, but I must say nothing; has he seen that I
+am vigilant? (8)Seven times my doing this has not ... (9)At it’s side,
+seven times, I have not found/recognized him. (10)My god, I am not one
+who speaks angrily! May your heart revert to its previous sentiment
+for me!^1^
 
-184
+^1^Var (Su2): My god, I am not your enemy. Inquire about me!
 
-chapter six
 
-an imprudent merchant. (6)Like a donkey he [strikes? me] (with) a brutal whip.
-I am important, but I must say nothing; has he seen that I am vigilant? (8)Seven times my doing this has not . . . (9)At it’s side, seven times,
-I have not found/recognized him. (10)My god, I am not one who speaks
-angrily! May your heart revert to its previous sentiment for me!108
-(7)
-
-Commentary
-4. On the role of the na-gada as a high-ranking bureaucrat see Garﬁnkle 2000, 45f.; Lang 2006.
-5. For sa@-dù-dù see Sjöberg 1973a, 128f.
-6. Although the verb is broken, the sense is that the petitioner is
-treated like a beast of burden. In IšD I A 35 a whip (usan3) is said to
-rile up (zig) a donkey.
-7. sa@ tuku is well attested, but not normally as a verb (see e.g. Römer
-1965, 160; Sjöberg 1966; Cohen 1981, 170; Selz 1995, 24 w/n 59;
-Behrens 1998, 109).
-9. The interpretation of this line is entirely unclear.
-10. Although it is not entirely certain that Su2 is ANL1 and not a
-similar plea, the parallel is close enough to merit inclusion here.
-
-108
-
-Var (Su2): My god, I am not your enemy. Inquire about me!
-
-editions
-
-185
-
-ANL 3. Iddatum to Sumutara (3.3.15)
-Source
-N117 = UM 29-16-41 (Michalowski 1978, 120)
-
-= 1–7
-
-Bibliography: Editions: Michalowski 1978, 118.
-Text Transliteration
+&ANL 3. Iddatum to Sumutara (3.3.15)
 1. msu-mu-tar-ra ù-na-dug4
 2. mid-da-tum na-ab-bé-a
 3. lúkí@-gi4-a kur @išerin-na zag-b[i?-ta?]
 4. igi-mu-šè gú mu-un-@ar-re-eš-ma
-5. mu lúkí@-gi4-a-zu á á@-@á la-[. . .]
+5. mu lúkí@-gi4-a-zu á á@-@á la-[...]
 6. lúkí@-gi4-a-zu ù-um-@en
 7. igi-ni-šè á á@-@á ga-ba-e-šúm
 8. a-ma-ru-kam
-Say to Sumutara, (2)thus says Iddatum:
 
-(1)
+@tra
 
-The messengers [from?] the border of the juniper mountains
-gathered before me. 5Because your messenger has not [been given?]
-instructions, (6)when your messenger arrives (7)I will give him instructions. (8)It is urgent!
+(1)Say to Sumutara, (2)thus says Iddatum:
 
-(3)
-(4)
+(3)The messengers [from?] the border of the juniper mountains
+(4)gathered before me. 5Because your messenger has not [been given?]
+instructions, (6)when your messenger arrives (7)I will give him
+instructions. (8)It is urgent!
 
-Commentary
-1f. To my knowledge, the names in this text are unattested in both Ur
-III and OB administrative documents.
-3. For @išerin, “juniper,” see Michalowski 2011. Literary and archival
-evidence indicates that in the 3rd and 2nd millennia the kur @išerin was
-used in reference to the eastern mountains (Ibid.).
 
-186
-
-chapter six
-ANL 4. Igmil-Sin to Nudimmudsiga (3.3.23)
-
-Source
-N107 = CBS 4575 (PBS 12 32)
-
-= obv: 1–13, rev: 15–21
-
-Bibliography: Commentary: Civil 2000a, 105f. (+ transliteration, translation ll. 6–13); Vanstiphout 2004, 59 (ll. 6–11); Löhnert 2009, 83f. (ll.
-3–13); Gadotti and Kleinerman 2011 (ll. 1–12).
-Text Transliteration
+&ANL 4. Igmil-Sin to Nudimmudsiga (3.3.23)
 1. dnu-dím-mud-sig7-ga-ra ù-na-dug4
 2. mig-mil-dsuen ad-da!-zu na-ab-bé-a
 3. /du\-nu-umki gú íd ama[r-dsuena-k]a-šè
 4. nam-šagina-bi-šè du-a-[@u10]-ne
-5. [du]mu é-dub-ba-a tur-ta bul[u@3]109-šè
+5. [du]mu é-dub-ba-a tur-ta bul[u@3]-šè
 6. lú me-me-ta lú dub did[li]-šè
 7. lú a-rá-ta ní@-kas7-ne-ne-šè
 8. lú ka-inim-ma lú èn-du /búr\-búr-ra
-9. im-dub-ba-ne-ne im-gíd-da-ne-ne im-šu-ka-ne-ne110
+9. im-dub-ba-ne-ne im-gíd-da-ne-ne im-šu-ka-ne-ne
+^^Collated, order of ll. 9 and 10 in Civil 2000a is incorrect.
 10. u4-da zal-la-bi bí-/sar\
-11. gibisa@-šu-@á bí-@[ar]111
-12. ù za-e uru2 àm-ma-ir-ra-bi im-gíd-[. . .]
-13. lú im-gíd-da-ke4-ne-ne /x x x\ [. . .]
-14. lú ní@-kas7 du[b-ba-a . . .]112
-(rest of obv. broken)
-(beginning of rev. broken)113
-15. á@-[. . .]
-16. nam-lú-[. . .]
-17. ní@-ba-zu z[u? . . .]
+11. gibisa@-šu-@á bí-@[ar]^^
+^^Collated, line left out of copy in PBS 12.
+12. ù za-e uru2 àm-ma-ir-ra-bi im-gíd-[...]
+13. lú im-gíd-da-ke4-ne-ne /x x x\ [...]
+14. lú ní@-kas7 du[b-ba-a ...]^^
+^^While there are large gaps after ll. 12, 13, and 14, the lines above
+(e.g. ll. 7, 9) also have large spaces between the last sign on the
+line and the sign immediately preceding it. As such these three lines
+may be essentially complete as stands.
+$ (rest of obv. broken)
+$ (beginning of rev. broken)^^
+^^Civil 2000a, 105 suggests a gap of circa 10 lines.
+15. á@-[...]
+16. nam-lú-[...]
+17. ní@-ba-zu z[u? ...]
 18. silim-ma-@u10 silim-[ma-zu]
-19. ú silim dumu é-du[b-ba . . .] nu-mu-e-š[i . . .]
-ˆ
-/x\ [. . .]
-20. mli-bur-ra-am GIŠ.NE
-21. iri bal-la-@á-a-gin7 [. . .] šà-@u10 hé-x-x-/x\
-Compare to form in IdD A 224 C (Mittermayer 2006, no. 264).
-Collated, order of ll. 9 and 10 in Civil 2000a is incorrect.
-111
-Collated, line left out of copy in PBS 12.
-112
-While there are large gaps after ll. 12, 13, and 14, the lines above (e.g. ll. 7,
-9) also have large spaces between the last sign on the line and the sign immediately
-preceding it. As such these three lines may be essentially complete as stands.
-113
-Civil 2000a, 105 suggests a gap of circa 10 lines.
-109
-110
+19. ú silim dumu é-du[b-ba ...] nu-mu-e-š[i ...]
+20. mli-bur-ra-am GIŠ.NE /x\ [...]
+21. iri bal-la-@á-a-gin7 [...] šà-@u10 hé-x-x-/x\
 
-editions
+@tra
 
-187
+(1)Say to Nudimmudsiga, (2)thus says Igmil-Sin, your father:
 
-Say to Nudimmudsiga, (2)thus says Igmil-Sin, your father:
+(3–4)When I arrived as governor (3)to Dunnum, on the bank of the
+Amar-Suen canal, (5)(all) the students, from the youngest to the
+eldest, (6)from the ones doing the series @meme, to the ones doing an
+array of (compositions on) tablets, (7)from the ones doing
+multiplication tablets to the ones doing their business accounts,
+(8)the ones doing incantations, the ones who interpret songs,
+(10)during the day and into the night I had them write (9)their
+multi-column tablets, their single-column tablets (or) their
+lenticular tablets. (11)I had them deposited in my “hand” basket(s).
 
-(1)
+(12)For your part, you transferred the (texts of the bala@) @uru @am-ma-irra-bi. (13)The ones (who write) their single-column tablets ... (14)the ones (who write) accounts ...
+$ (ca. 10 lines missing)
+$ 2 lines unclear
+(17)Your gift [...]. (18)My well-being, [your] well-being, (19)and the well
+being of the students [...]. (20)Liburam [...]. (21)Like my changed city,
+my heart will [...].
 
-When I arrived as governor (3)to Dunnum, on the bank of the
-Amar-Suen canal, (5)(all ) the students, from the youngest to the eldest,
-(6)
-from the ones doing the series meme, to the ones doing an array of
-(compositions on) tablets, (7)from the ones doing multiplication tablets
-to the ones doing their business accounts,114 (8)the ones doing incantations, the ones who interpret songs, (10)during the day and into the night
-I had them write (9)their multi-column tablets, their single-column tablets (or) their lenticular tablets. (11)I had them deposited in my “hand”
-basket(s).
-(3–4)
 
-For your part, you transferred the (texts of the bala@) uru am-ma-irra-bi. (13)The ones (who write) their single-column tablets . . . (14)the ones
-(who write) accounts . . .
-(ca. 10 lines missing)
-2 lines unclear
-(17)
-Your gift [. . .]. (18)My well-being, [your] well-being, (19)and the well
-being of the students [. . .]. (20)Liburam [. . .]. (21)Like my changed city,
-my heart will [. . .].
-(12)
+&ANL 6. Lu-Ninurta to Inana-andul-duga (3.3.34) Version A
 
-Commentary
-1. The name Nudimmudsiga is unattested in the Ur III administrative
-and OB Nippur corpora, although the Akkadian version of the name,
-Ea-bani, occurs in both (Stone 1987, 237; TMH NF 1–2, 351, 351b).
-The form Ibni-Ea also occurs in OB and Ur III Nippur, e.g. Stone
-1987, 245; NRVN 1, 224.
-2. For Igmil-Sin see Ch.2.4.3.
-3. On the location of Dunnum and the Amar-Suena canal see SEpM
-4:9f.
-4. For du-a-[@u10]-ne, a (possible) neologism of du-@u10-ne (Balke 2006,
-69f. w/n 309–311) compare ŠB 121 (5 manuscripts with du-@u10-ne
-versus two with du-a-@u10-ne); ELA 631; CKU 1:9.
-6. me-me is the ﬁrst entry of the elementary lexical list Silbenalphabet
-A, the non-Nippur recension of Silbenalphabet B (Civil 1985 73f.;
+$ (Restorations based on Version B.)
 
-114
-
-Perhaps “model contracts”?
-
-188
-
-chapter six
-
-Civil 2000a 106 n. 5). This text is referred to elsewhere in the scribal
-literature, eg. Edubba D 11–14:
-11. [dub] /ki-en-gi ki\-uri-ke4 a-a me-me-ta
-12. [x x x]-šè ì-šid ù ì-sar
-13. /mu\ dil-dil dinana-téš-ta
-14. edin-a ní@ zi-@ál-edin-a zag lú-šu-ka-šè ì-sar
-“I have (already) recited and written the Sumerian and Akkadian [tablets] from (the syllabery) a-a me-me up to. . . . I have written all the lines
-from (the list of personal names) Inana-teš up to (the series) lú = š , even
-the old fashioned forms.”115
-
-7. Elsewhere, scribes extol their competence in multiplication and
-accounting, see e.g. Exam Text A 27 (Sjöberg 1976, 167) and Edubba
-D 28 (Civil 1985).
-8. Despite the absence of incantations at Nippur, ka-inim-ma must
-be an incantation and not a word list, which likely would have been
-cited by name as in l. 6. The juxtaposition of this term with èn-du is
-further evidence in favor of this interpretation. This is especially the
-case in ANL 8:12 where ka-inim-ma 20-àm 30-àm is parallel to èn-du
-10-àm 20-àm. This cannot mean 20 or 30 words, which would be far
-too few, but also not 20 or 30 lexical texts, far too many.
-9. See George 1993, 70f. for the identiﬁcation of im-šu as a lentil in
-OB. Essentially these tablets were homework, assigned—at least in the
-Edubba texts—to the students to work on in the evenings (Civil 1985,
-75f.). The suggestion that im-dub-ba is a multi-column tablet is based
-on context.
-10. u4-da zal-la-bi, literally “during the day and after it passes,” is
-otherwise unattested.
-11. gibisa@-šu is attested in Hh VIII-IX OB forerunner 45 (MSL 7,
-185; and see Foster 1982b, 16f; Limet 1986, 276; Civil 2008, 135).
-Note also the entry in Hh VIII Emar 117: gibisa@-šu-kam-ma = ša meri-il-ti, “reed basket for supplies.”
-
-115
-Translation and interpretation of l. 14 follows Civil 1985, 74. For an alternative
-version see Sjöberg 1976, 162ff. SP 2.48 contains a similar reference:
-lú a-a nu-mu-un-da-ak-da-àm eme kaš4-kaš4 me-da hé-en-tùm
-“One who cannot produce (the series) a-a, how will he achieve ﬂuid speech?”
-
-editions
-
-189
-
-12. For this well attested bala@ composition see Cohen 1988, 536ff.;
-Volk 1989.
-20. The name li-bur-ra-am is unattested in the Ur III administrative
-corpus but does occur in OB Nippur (Stone 1987, 258).
-
-190
-
-chapter six
-ANL 6. Lu-Ninurta to Inana-andul-duga (3.3.34)
-
-Sources
-N111 = Ni 4326+ Ni 9534 (ISET 2 119)
-N115 = UM 29–15–972 (WO 9 13)
-X26 = PTS 260 (YOS 15 5)
-
-= Version A, ll. 5–12
-= Version A, ll. 1–12
-= Version B, ll. 1–12
-
-Editions: Cohen 1977.
-Version A116
 1. dinana-an-dùl-du10-[ga-ra ù-na-a-dug4]
 2. mlú-dnin-urta ugula é-dnin-urta-ke4
 3. na–ab-bé-a
 4. [ma-a-an-dùl] arad2 nam-en-na dnin-urta-ke4
 5. [a-a-d]nin-urta-ke4 šu ba-an-ti-eš-ma
-6. [. . .]ki-ga-ka al-dúr-ru-ne-eš
-7. [. . .] /x\-zu-šè ba-ab-du7-/u\[n?]
+6. [...]ki-ga-ka al-dúr-ru-ne-eš
+7. [...] /x\-zu-šè ba-ab-du7-/u\[n?]
 8. nibruki-šè lú gi4-ma-[ab]
 9. [x-z]u sá ga-ra-ab-[dug4]
 10. tukum-bi du10-sa-@u10 za-e-/me-en\
-11. [x]-zu šúm-/ma\-ab /x\-[x (. . .)]
+11. [x]-zu šúm-/ma\-ab /x\-[x (...)]
 12. a-ma-ru-kam
-Say to Inana-andul-duga, (3)thus says (2)Lu-Ninurta, overseer of the
+
+@tra
+
+(1)Say to Inana-andul-duga, (3)thus says (2)Lu-Ninurta, overseer of the
 Ninurta temple:
-(1)
 
-[Aa-andul], the servant attached to the ofﬁce of the high priest of
-Ninurta (5)(and) [Aa]-Ninurta received it and (6)remained in. . . . (7) you
-agree to your . . .
+(4)[Aa-andul], the servant attached to the ofﬁce of the high priest of
+Ninurta (5)(and) [Aa]-Ninurta received it and (6)remained in. ... (7) you
+agree to your ...
 
-(4)
+(8)Send a man to Nippur for me. (9) I will make sure you receive your ...
+(10)If you are (really) my friend (11)give me your ... (12)It is urgent!
 
-Send a man to Nippur for me. (9) I will make sure you receive your . . .
-If you are (really) my friend (11)give me your . . . (12)It is urgent!
 
-(8)
-
-(10)
-
-116
-
-Restorations based on Version B.
-
-editions
-
-191
-
-Commentary
-2. While Cohen (1977, 10f.) attempted to identify Lu-Ninurta with a
-historical ofﬁcial at the Ninurta temple in Nippur, he is more likely an
-invented character with a name chosen to reﬂect his profession.
-On the function of the ugula é, the top ofﬁcial in a temple household,
-see Zettler 1992, 177; Sallaberger and Huber-Vulliet 2003–2005, 628f.
-The title ugula é-dnin-urta is unattested in the Ur III administrative
-corpus, although it does occur in one text from Sargonic period Nippur (OSP 2, 134).
-5. The name must be a-a-dnin-urta, “the father is Ninurta.” The writing a-an-dnin-urta in Version B is certainly an error under the inﬂuence of a-a-an- from the line above.
-9. Although Cohen 1977 suggested the restoration [á?-šè? zé?-z]u at
-the beginning of the line, there seems to be room for only one sign.
-Version B
+&ANL 6. Lu-Ninurta to Inana-andul-duga (3.3.34) Version B
 1. dinana-an-dùl–du10-ga-ra ù-na-a-dug4
 2. mlú-dnin–urta sa@@a? x é-dnin-urta
 3. na-ab-bé-a
@@ -3182,98 +1179,55 @@ Version B
 10. a-na x /ki\-bi-/šè\ ba-an-díb
 11. /x\ ma /x um?/zé?\ ù?-me?-dím?
 12. [a-ma-ru]-kam
-Say to Inana-andul-duga, 3thus says 2Lu-Ninurta, administrator of the
+
+@tra
+
+(1)Say to Inana-andul-duga, (3)thus says (2)Lu-Ninurta, administrator of the
 Ninurta temple:
 
-1
+(4)May you continually serve in the Ešumeša, the temple of Ninurta.
 
-May you continually serve in the Ešumeša, the temple of Ninurta.
+(5)Concerning your “trimmings” that have been checked, 6your messengers have taken them to Nippur. 7In the meantime, I will make
+sure you receive ...
 
-4
+(8)Aa-andul, the servant of the en-priest of Ninurta (9)(and) Ninurta
+received it. (10)What ... did he transfer to its place? (11)
+... (12)It is urgent!
 
-Concerning your “trimmings” that have been checked, 6your messengers have taken them to Nippur. 7In the meantime, I will make
-sure you receive . . .
-5
 
-192
+&ANL 8. Nabi-Enlil to his colleagues
 
-chapter six
-
-Aa-andul, the servant of the en-priest of Ninurta 9(and) Ninurta
-received it. 10What . . . did he transfer to its place? 11. . . . 12It is urgent!
-8
-
-Commentary
-4. See CAD A/I 309 for al ku in the sense of “to serve, to do service,” and in particular the nuance of “to go, walk about, to live, act,
-to be in motion” when used in the N-stem (p. 324). For conventional
-greetings in Akkadian daily-life letters see Sallaberger 1999b, 74ff.,
-esp. pp. 78–84. This particular formula seems to be paralleled only in
-an Assurbanipal inscription: DU.DU-ku Emašmaš lulabbira š p ’a, “may
-my feet reach old age going to and from in (your temple) Emašmaš”
-(Streck Asb 276:18).
-5. gur5-ru(-uš)/guru5, “to grind, cut, trim,” is attested frequently
-with plants (e.g. Gudea Cyl. A 22.2; LSUr 87, GEN 204). It is also
-used in the general sense of destruction (e.g. LUnug 67) and is the
-verb used for a snake when it spits venom (uš7) or bile (zé) (e.g.
-Gudea Cyl. A 10.23; IšE B Seg. B 4). For the distinction between
-/guruš/, a noun denoting originally a hairstyle, and /guru/ a verb
-with the basic meaning “to cut,” see Attinger 1993, 521ff. The sense
-of the term in this line should indicate a portion that has been set
-aside, perhaps a portion of some agricultural item which has in fact
-been guru5’ed.
-10. Although Cohen 1977 reads zé, “cuttings,” we would expect zé-a
-(here and in line 7). The sense of ki-bi-šè díb is unclear, but compare
-Lugale 47.
-11. ù-me-dím needs collation as a verbal form beginning with ùshould not end a clause, see Civil 2000b, 39.
-
-editions
-
-193
-
-ANL 8. Nabi-Enlil to his colleagues
-Source
-N112 = Ni 4491 + Ni 4493 (ISET 2 121 + ISET 1 180)
-= obv: 1–8, rev: 9–15
-Text Transliteration
 1. gi4-me-a-aš-@u10-ne ù[-na(-a)-dug4]
-2. mna-bi-den-líl du[b-sar . . .] šeš-a-ne [. . .] na-ab-bé-a
+2. mna-bi-den-líl du[b-sar ...] šeš-a-ne [...] na-ab-bé-a
 3. ud tur-ra mu-ta-[x]-zu-NE-dè-en
 4. dumu-zu-ne-gin7 n[am-n]i-bulu@3-e-zé-en
 5. lú gi-na-gin7 /x\ [x] tuku-a-gin7 igi bí-[x]-/x\-ni-gíd!?-dè-en
 6. [x] /x\ si sá /x\ [x] ma-ni-ib-gi4-gi4-zé-en
-7. (traces) [. . . b]a-an-ráh-an-na
-8. [. . .] /x\ bí-ak
-(rest of obverse broken)
-(beginning of reverse broken)
-9. [. . .] (traces)
-10. (traces) [. . .] /x-x-en\
-11. [x(-x)] lú-kúr-ni [x] /x\ al-KA*x-KA*x-ne
-x = gu7?
+7. ($traces$) [... b]a-an-ráh-an-na
+8. [...] /x\ bí-ak
+$ (rest of obverse broken)
+$ (beginning of reverse broken)
+9. [...] ($traces$)
+10. ($traces$) [...] /x-x-en\
+11. [x(-x)] lú-kúr-ni [x] /x\ al-|KA×X|-|KA×X|-ne
 12. [x]-e lú-kúr-/zu?\ /x\ tur-ra-zu-ne bí-/x\-dé-/en\
 13. nam-sa6-ga-ne /x\ nibruki dù-a-bi gàr? BU /x\-ak-ne
 14. @á-e nam-sa6-ga /x\ li-bí-ib-x HI /x\ [x]-zu-en
-15. ní@ ud-bi-ta lú-zu [. . .]
-Say to my colleagues, (2) thus says Nabi-Enlil, the scribe . . . their
-brother . . .
-(1)
+15. ní@ ud-bi-ta lú-zu [...]
 
-From youth we learned . . . (4)You raised me like your child. (5)Like
-righteous men, we did not frown like one who had . . . (6)For me you
-had (re)turned . . .
+@tra
 
-(3)
+(1)Say to my colleagues, (2) thus says Nabi-Enlil, the scribe ... their
+brother ...
 
-(rest fragmentary)
-Discussion
-Although much is preserved in several lines of the reverse, I have
-chosen to leave it untranslated. Given that key words are missing at
-both the end and middle of the lines, the sense is almost impossible
-to render.
+(3)From youth we learned ... (4)You raised me like your child. (5)Like
+righteous men, we did not frown like one who had ... (6)For me you
+had (re)turned ...
 
-194
+$ (rest fragmentary)
 
-chapter six
-ANL 9. Nabi-Enlil to Diĝir-inim-siga (3.3.18)
+
+&ANL 9. Nabi-Enlil to Diĝir-inim-siga (3.3.18)
 
 1. mdi@ir-inim-siga ù-na-a-dug4
 2. mna-bi-den-líl dub-sar dumu sa@-den-líl-lá-ke4
@@ -3297,297 +1251,100 @@ ANL 9. Nabi-Enlil to Diĝir-inim-siga (3.3.18)
 20. [x (x)] zà nam-gala-šè ga-ne-eb-zu-zu
 21. [nibruk]i-gin7-nam ki-gal-la ga-ne-eb-gub
 22. [x x] kug-sig17 1 gún kug-babbar ugu-ne-ne-a ga-me-eb-@ar
-23. [. . .] da-ra nam-bí-šub-bé-en
+23. [...] da-ra nam-bí-šub-bé-en
 24. di4-di4-lá-e-ne inim x nam-bí-ib-dù-e-en
 25. nam-dub-sar-ra nam-bí-ib-dib-bé-en
 26. [x x] a-la-la izi lú-ša hé-zu-zu-ne
 27. [u4]-da egir-bi-šè eme-sig nam-bí-gu7-gu7
-Say to Di@ir-inim-siga (3)thus says (2)Nabi-Enlil, the scribe, the son of
-Sa@-Enlila:
-(1)
 
-This is what I have done (so that) (5)the youngsters would get a whiff
+@tra
+
+(1)Say to Di@ir-inim-siga (3)thus says (2)Nabi-Enlil, the scribe, the son of
+Sa@-Enlila:
+
+(4)This is what I have done (so that) (5)the youngsters would get a whiff
 of Nippur!
 
-(4)
-
-For three years I have been replaced with someone. (8)I told KANinurta (7)that the place they (the youngsters) were staying was in the
-
-(6)
-
-117
-
-Restorations following van Dijk, 1989 unless otherwise speciﬁed.
-
-editions
-
-195
-
-teacher’s house, but not only did it not seem good (enough) to me,
-(8)
-the person (instructing them) was incompetent as well. (9)Out of regard
+(6)For three years I have been replaced with someone. (8)I told KANinurta (7)that the place they (the youngsters) were staying was in the teacher’s house, but not only did it not seem good (enough) to me,
+(8)the person (instructing them) was incompetent as well. (9)Out of regard
 for my teacher’s house, I have not opened my mouth (publicly). (10)Now
 then, the place where they are staying is just not a proper school! (11)No
 one can get an education (there)! (12)No one could recite (even) 20 or
 30 incantations, (13)nor perform 10 or 20 songs. (14)(But) from the start
 I did not want to open my mouth about the house of my teacher.
-Didn’t you know it’s the case that the school in Nippur is unique?
-He (KA-Ninurta?) told you that . . . is incompetent, but you do not
-appreciate the importance of his words.118 (17)So that, to my credit, they
+(15)Didn’t you know it’s the case that the school in Nippur is unique?
+(16)He (KA-Ninurta?) told you that ... is incompetent, but you do not
+appreciate the importance of his words.^1^ (17)So that, to my credit, they
 will be able to get a good education, (18)get informed of everything that
 is tested everywhere in Nippur as well as Isin! (20)I will have them learn:
-(19)
-incantations, songs, royal inscriptions, Sumerian, panegyric, (20). . . up
+(19)incantations, songs, royal inscriptions, Sumerian, panegyric, (20)... up
 to and including the lamentation corpus! (21)I will establish it for them
 in a great place, just like Nippur is! (22)I will deposit [n (units)] of gold
 (and) 1 talent of silver to their credit.
-(15)
-(16)
 
-Do not neglect . . .! (24)Do not keep the kids from . . . speech! (25)Do
+(23)Do not neglect ...! (24)Do not keep the kids from ... speech! (25)Do
 not let them bypass (any aspect of ) the curriculum! (26)They should
-learn . . ., the alala songs, (as well as) the series izi and lú-ša. (27)(If so,
-then) in the future, I shall never complain again!119
+learn ..., the alala songs, (as well as) the series izi and lú-ša. (27)(If so,
+then) in the future, I shall never complain again!^2^
 
-(23)
-
-Commentary
-Although the language and grammar of this letter are relatively straight
-forward, interpretation is surprisingly difﬁcult. Presumably Nabi-Enlil
-has traveled to Nippur and is writing back (home), regarding schooling
-in his hometown. Line 4 seems to set the stage for the rest of the letter clarifying from the outset that Nabi-Enlil has made arrangements
-for the students at home to receive an education comparable to that
-which they would get in Nippur.
-Lines 6–14 give the back-story. Nabi-Enlil was replaced by another
-teacher, who proved to be unsatisfactory (ll. 6–8). Out of respect for
-his own teacher, Nabi-Enlil could not complain publicly but instead
-registered a complaint with one KA-Ninurta (l. 9), whose identity is
-unclear. Now Nabi-Enlil is providing instructions as to what makes
-
-118
-Literally: “you leave out the importance of his mouth.” (Translation following
+^1^ Literally: “you leave out the importance of his mouth.” (Translation following
 Attinger, personal communication).
-119
-Alternative: “then I shall never envy (Nippur) again!”
+^2^ Alternative: “then I shall never envy (Nippur) again!”
 
-196
-
-chapter six
-
-a proper school; lines 17–20 explain the curriculum so that (line 21)
-Nabi-Enlil will (ﬁnally) have established a good school for his children.
-Lines 23–25 go on to inform the addressee of his role in the education process. Perhaps he is to be the new teacher? The letter ends with
-an exhortation; assuming his instructions are followed, Nabi-Enlil will
-never complain again (or feel inferior to Nippur again). The letter’s
-overall message clearly reinforces the superiority of a Nippur education.
-There may be an additional layer intended to further mock the
-non-Nippur schools. The types of compositions mentioned in ll. 19–21
-are not those known to us to have been part of the Nippur scribal
-curriculum. Thus, it may well be that the text is pocking fun at these
-non-Nippureans who do not understand truly the Nippur curriculum
-and so will never be able to rival it.
-1. The reading of the personal name is uncertain. Civil 2000, 106
-n. 8 reads N110 as [. . .]-/x\-ta? and X18 AN.DÙL-/eštar!?\ noting
-that the name Silli-eštar is attested in OB Nippur (e.g. Stone 1987,
-279). VanDijk 1988, 449 n. 11 reads N110 as AN.KA.ŠA and X18
-AN.KA-x-ra noting that x cannot be ša and a reading eš4-tár is possible “nur mit Mühe.” He settles for a reading ilum-puzur4-ra, although
-he concludes that RA is more likely umbisa@. Volk (personal communication) suggests a reading AN.KA.SI.GA for X18 where KA.SI.
-GA is inim sig, “to express a desire.” Although such a personal name
-would be unique, this solution best ﬁts the traces.
-4. Note the alternation of the 3rd person (bí-in-ak) in N110 for the 1st
-person (bí-a-ak) in X18 (Attinger 1993, 111 §41).
-5. Compare Edubba C 70:
-di4-di4-lá inim-inim-ma hé-du7 kaš hu-mu-un-ku7-ku7-dè-ne
-“The little fellows should enjoy like beer the sweetness of decorous words.”
-
-For a slight alternative, favoring N110, see Attinger 2005, 231.
-6. mu-da, in place of the expected mu, is unexpected. Translation follows Attinger (personal communication) and Sallaberger (2008).
-8. The name KA-dNinurta is attested in OB Nippur (Stone 1987,
-256). It is unclear why N112 omitted lines 8 and 9, and the parallel
-line, line 14. Alternatively, the scribe who wrote X18 may have added
-these lines of his own initiative, or have copied them from a source
-which did.
-
-editions
-
-197
-
-12. For ka-inim-ma see ANL 4:8.
-16. Another example of a conjugated verb without a perﬁx chain, for
-which see also SEpM 18:10.
-18. For the imperative ending in -bi see Attinger 2004 and Sin-iddinam to Utu 38.
-19. ka-tar = dalīlu, here something like “(vocabulary of ) praise” =
-“panegyric.”
-21. Compare ŠB 310, in which Šulgi claims to have founded scribal
-schools in Ur and Nippur (and see Michalowski 2003a, 195f.). It may
-be the case that the humor of this line hangs on the use of ki-gal also
-as an epithet for the Netherworld (e.g. InDesc 1, 2, 3, etc.): “I will
-establish a ‘hell’ just like Nippur.”
-22. Source N118 puts this line after l.22 of X18. Civil’s translation
-(2000, 106f.) follows this version and he understands these lines as
-an indication of the “humorous tone of the letter, even if the modern
-reader may fail to see the point.” Based on Riddle 1:3 (Civil 1987b,
-18–21) he restores as follows:
-(22.) [. . .] I will put one talent of silver in their account.
-(21.) I want to put (the school ) on a pedestal like a [goose(?)]
-24. For dù, “to impede, hinder,” see most recently Wilcke 2007, 48
-n. 124 with references.
-25. For the use of dib in the sense of “neglect” compare ŠB 20:
-dub-sar @ál taka4-a ní@-e nu-dib-bé-me-en
-“I am an experienced scribe who does not neglect a thing.”
-
-26. For a-la-la, a type of song, see now Shehata 2009, 236f. and compare SP 3.87:
-nagar @iškibir2-àm
-ad-KID ma-sá-ab-àm
-simug da tur-tur ak
-nar u8!-ux(PA)-a a-la-la
-“What characterizes the carpenter is the chisel. What characterizes the
-reed weaver is the basket. What characterizes the smith is the making of
-little . . . What characterizes the singer are the sounds ua and alala.”
-
-198
-
-chapter six
-
-PSD A/I 100 understands a-la-la as a “work cry” (following CAD A/I
-328f. “an exclamation of joy, refrain of a work song”) and the other
-Sumerian literary references do seem to refer to a cry of a worker or
-sailor (e.g. SP 3.179, SP 7.77). This passage, however, seems to corroborate the use of a-la-la found in SP 3.87, cited above.
-Izi and Lú were two of the advanced lists studied in the elementary
-education. According to the curriculum established by Veldhuis 1997,
-57, Proto-Lú was studied before Proto-Izi.
-
-editions
-
-199
-
-ANL 10. Saĝ-lugalbi-zu to Nur-Kabta (3.3.16)
+&ANL 10. Saĝ-lugalbi-zu to Nur-Kabta (3.3.16)
 1. mnu-úr-dkab-ta-ra ù-na-a-dug4
 2. msa@-lugal-bi-zu-ke4 na-ab-bé-a
 3. za-e zabar-dab5 ù nar-gal-e
 4. kù-dnin-líl-lá abul-mah-a haš4 dab5-bé-da-en-zé-en
-5. a-šà gi4-gi4-dè ur-dsuen-a [. . .] x lugal-@u10 nam-maškim ì-tuku
-e-/x\-[. . .]
+5. a-šà gi4-gi4-dè ur-dsuen-a [...] x lugal-@u10 nam-maškim ì-tuku
+e-/x\-[...]
 6. tukum-bi šà gi-na-zu-ta šeš-@u10-me-en
 7. di-@u10 LÚ*GÁNA-t.-éš na-an-ne-en
 8. mu di-da-ka-ni igi-zu-šè KA bal-e
 9. lú mu-e-ši-in-gi4 gú-zu na-an-šub-bé-en
 10. a-ma-ru-kam
-Say to Nur-Kabta, (2)thus says Sa@-lugalbi-zu:
 
-(1)
+@tra
 
-When you (together with) the zabardab and the chief singer, (4)detained
-Ku-Ninlila at the Abulmah gate, (5)Ur-Sin procured . . . -lugal@u (to act)
+(1)Say to Nur-Kabta, (2)thus says Sa@-lugalbi-zu:
+
+(3)When you (together with) the zabardab and the chief singer, (4)detained
+Ku-Ninlila at the Abulmah gate, (5)Ur-Sin procured ... -lugal@u (to act)
 as baliff in order to (obtain) the return of the ﬁeld.
-(3)
 
-If in your true heart you are my brother, (7)do not mistreat me because
+(6)If in your true heart you are my brother, (7)do not mistreat me because
 of my case! (8)Because (he wishes) to discuss his case with you, (9)I am
 sending you a man. You must not neglect him! (10)It is urgent!
-(6)
 
-Commentary
-1f. Although unattested in the Ur III administrative corpus, the name
-Nur-Kabta occurs in OB (e.g. Stone 1987, 272). Sa@-lugalbi-zu is unattested in both Ur III and OB archival sources. The name does occur,
-however, in the OB Nippur PN List B l.18 (= Çi@ and Kizilyay 1965,
-44); see also the discussion in Michalowski 1978, 115.
-4. While N119 and X24 give the name as Ku-Ninlila, N105 substitutes
-Ku-Enlila. While Ku-Ninlila is unattested in the Ur III corpus, Ku-Enlila
-is not uncommon.120 Contra Civil 1999–2000, 184, dab5-bé-da-en-zé-en
+&ANL 11. [...]-Kabta to Enlil-bani (3.3.37)
 
-120
-Although likely nothing more than coincidence NATN 868 declares the release
-of one Ku-Enlila:
-(1.) kù-den-líl-lá
-(2.) dumu šeš-al-du10
-(3.) šu bar-a-ni
-Moreover, the seal, although mostly worn belonged to a singer, d[x]-nin-x-PAP-x nar.
-
-200
-
-chapter six
-
-cannot be an imperative given the ergative in line 3. Moreover, the
-syntax of both OB Akkadian archival letters and the Sumerian letters
-dictates that the ﬁrst part of such documents should be declarative;
-imperative clauses come only after the tukum-bi clause (Sallaberger
-1996b, 144ff.). Thus, the verb here is most likely a participle.
-5. Ur-Suena is one of the most common names in the Ur III onomastica, attested almost 1300 times and over 100 times at Nippur. On the
-role of the maškim as a judge’s aide see Lafont and Westbrook 2003,
-193 with references.
-6. Although unattested in Sumerian legal texts or letter orders, the
-Akkadian equivalent of this expression—šumma ina kittim ahī atta—is a
-common appeal in OB daily-life letters (see the references collected in
-Sallaberger 1999b, 187f.).
-8. On the form di-da-ka-ni see Michalowski 1978, 117. On the reading KA bal see SEpM 22:9.
-
-editions
-
-201
-
-ANL 11. [. . .]-Kabta to Enlil-bani (3.3.37)
-Source
-N111 = Ni 4326 + Ni 9534 (ISET 2 119)
-
-= 1–10
-
-Text Transliteration
 1. [de]n-líl-ba-n[i]
 2. [ù-na]-a-dug4
 3. [x (x)]-dkab-ta x-ra-x
 4. [x (x) n]a-ab-bé-a
 5. [ luga]l-zid-a iti dnin-MUG zàh-da-bi-ta
 6. [x x (x)] siki-ke4 /x x x x\ [x]
-7. [x] /ba-a\[n . . .]
-8. [x]-in-/x\-[. . .]
-9. /x\-bi ba-[. . .]
+7. [x] /ba-a\[n ...]
+8. [x]-in-/x\-[...]
+9. /x\-bi ba-[...]
 10. [a-m]a-ru-[kam]
-(1–2)
-(5)
 
-Say to Enlil-bani, (3–4)thus says . . . -Kabta . . .:
+@tra
 
-After Lugal-zida escaped in the month of Ninmug, (4 lines unclear)
-It is urgent.
+(1–2)Say to Enlil-bani, (3–4)thus says ... -Kabta ...:
 
-(10)
+(5)After Lugal-zida escaped in the month of Ninmug, (4 lines unclear)
+(10)It is urgent.
 
-Commentary
-This letter, part of the CKI, follows ANL 6 version A, which of course,
-is not a royal letter.
-5. The month iti ezem dnin-MUG is the eleventh month attested only
-in Sargonic and Ur III Adab (Cohen 1993, 202). Its presence in a
-Nippur text is unclear. For the reading of the sign MUG/ZADIM see
-Cavigneaux and Krebernik 1998–2001, 471.
 
-202
+&ANL 12 X1 to Y1
 
-chapter six
-ANL 12 X1 to Y1
-
-Source
-N114 = Ni 9780 (ISET 1 180)
-
-= obv: 1–4, rev: 5–7
-
-Text Transliteration
-1. [. . .] /x\ ù-na-dug4
-2. [. . .] /x\ sàg-sàg-ge
-3. [. . .] /lah4?\-eš-àm
-4. [. . .] /bí-in\-[. . .]
+1. [...] /x\ ù-na-dug4
+2. [...] /x\ sàg-sàg-ge
+3. [...] /lah4?\-eš-àm
+4. [...] /bí-in\-[...]
 (rest of obverse broken)
 (beginning of reverse broken)
-5. [. . .] /x x\ nam-/x\
-6. [. . .] bí-in-dé-dé
-7. [. . .]-/x\-na @iri3!121 lí-bí-in-DU
-Discussion
-N114 is a right-hand upper edge fragment, with very small writing
-suggestive of a type I tablet. Indeed, that this text must be a multi-columned tablet, with l. 7 the last line of the ﬁrst column on the reverse,
-is logical given that otherwise this line would be a very strange letter
-ending. As a result, it may be the case that the obverse and reverse
-texts are not part of the same composition.
-
-121
-
-The sign is anše, but @iri3 better ﬁts the (albeit limited) context.
+5. [...] /x x\ nam-/x\
+6. [...] bí-in-dé-dé
+7. [...]-/x\-na @iri3!121 lí-bí-in-DU
