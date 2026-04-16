@@ -1,0 +1,11 @@
+<project n="tra/ckur" 
+    xmlns="http://oracc.org/ns/xpd/1.0"
+    xmlns:xpd="http://oracc.org/ns/xpd/1.0">
+  <title>Translations CKUr</title>
+  <name>Translations CKUr</name>
+  <abbrev>TRA/CKUr</abbrev>
+  <project-type>user</project-type>
+  <blurb></blurb>
+  <type>corpus</type>
+  <logo type="text">TRA/CKUr</logo>
+</project>
