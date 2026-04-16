@@ -639,7 +639,7 @@ being no replacement workers, farmers, ox-drivers or plowmen, (14)the
 ﬁeld was harrowed (only) with individual oxen. (15)We are (only) working with hoes! This our king should know.
 
 
-&SEpM 13a. Ur Version
+&SEpM 13a. Ur Version (3.3.5.a)
 1. a-šà me-àmki [...] iku-àm
 2. éš-gàr den-líl ù d nin-urta
 3. šà-bi-ta 540iku-àm
@@ -1138,7 +1138,7 @@ being of the students [...]. (20)Liburam [...]. (21)Like my changed city,
 my heart will [...].
 
 
-&ANL 6. Lu-Ninurta to Inana-andul-duga (3.3.34) Version A
+&ANL 6. Lu-Ninurta to Inana-andul-duga Version A (3.3.34)
 
 $ (Restorations based on Version B.)
 
@@ -1168,7 +1168,7 @@ agree to your ...
 (10)If you are (really) my friend (11)give me your ... (12)It is urgent!
 
 
-&ANL 6. Lu-Ninurta to Inana-andul-duga (3.3.34) Version B
+&ANL 6. Lu-Ninurta to Inana-andul-duga Version B (3.3.34.a)
 1. dinana-an-dùl–du10-ga-ra ù-na-a-dug4
 2. mlú-dnin–urta sa@@a? x é-dnin-urta
 3. na-ab-bé-a
@@ -1197,7 +1197,7 @@ received it. (10)What ... did he transfer to its place? (11)
 ... (12)It is urgent!
 
 
-&ANL 8. Nabi-Enlil to his colleagues
+&ANL 8. Nabi-Enlil to his colleagues (3.99)
 
 1. gi4-me-a-aš-@u10-ne ù[-na(-a)-dug4]
 2. mna-bi-den-líl du[b-sar ...] šeš-a-ne [...] na-ab-bé-a
@@ -1338,7 +1338,7 @@ sending you a man. You must not neglect him! (10)It is urgent!
 (10)It is urgent.
 
 
-&ANL 12 X1 to Y1
+&ANL 12 X1 to Y1 (3.99.a)
 
 1. [...] /x\ ù-na-dug4
 2. [...] /x\ sàg-sàg-ge
