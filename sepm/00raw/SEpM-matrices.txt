@@ -9,6 +9,86 @@
 # // one line of the ecletic text written on two lines of the manuscript
 # / \ variant sign is partially preserved
 
+&SEpM2 = 3.2.1
+1. lugal-æ á ù-na-dug4
+N2 o . + o o
+N9 + + + + +
+N40 o o o + +
+N76 + + + o o
+N79 + + + + o
+Uk3 o o o o +
+X16 + + + + +
+2. m d Sîn-tillati ra-bi sí-kà-tum-ma
+N2 o o o o . + o o o .
+N40 o o o o o o + + + +
+N76 + + + + + + o o o o
+Uk3 o o o o o o o o . +
+X16 + + + + + + + + + –
+3. arad-zu na-ab-bé-a
+N2 o o o o o o
+N40 o o o + + +
+N76 + + o o o o
+Uk3 o o o o + +
+X16 + + + + + +
+4. ka-ku-la-tum ki -šè gaba-ri gíd-da-æ u10-ne
+N2 o o o o o o o o o o . .
+N40 o o o o o . + + + + + +
+N76 + + + + . o o o o o o o
+Uk3 o o o o o o o + + + + +
+X16 + + + + – +//+ + gi + + +
+5. mar-tu æ iš tukul-bi-da šubtu5-ta im-ma-zig
+N2 (traces)
+N40 o o o o o ta + + + + +
+N76 + + + . o o o o o o o
+X16 + + + + + + // + + + + +
+6. æ e26-e zi-ga-æ u10-ne 600 ì- gaz 1200 ì- dab5
+N2 o o o o o + // o o o o o +
+N40 o o o . + + o o o + + +
+N76 + + o o o o o o o o o o
+X16 + + + + + +// + an ni +! + an ni+
+7. ka-ku-la-tum ki -šè ba-ni- kur9
+N2 o o o o o o o + in +
+N35 + + . o o o o o o
+N40 o o o o . + + + in +
+N76 . o o o o o o o o
+X16 + + + + – +// + + +
+8. tukum-bi lugal-æ u10 ugnim-ma tuš-ù-bi ab-bé
+N2 o o o o + +/ o o . + +
+N35 + . o o// + . . + o o o
+N40 o . + +// o . + + + + +
+N76 o o o . o o/ + + . o o
+X16 + + + æ á // + bi// + + + + +
+9. kuš a-æ á-lá keše2-da-bi šu hé-mi-ib-da13-da13
+N2 o o o o o + + + + + + . +
+N35 + + + + + + + + + – – – .
+N40 o o o o + + +// o o + + + +
+N76 + + + + + + + + + em + + +
+X8 + /á?\ o o o o o o o o o o o
+X16 + + + + + + .// + +em + – + .
+10. tukum-bi lugal-æ u10 ugnim-ma nu-tuš-ù-bi ab-bé
+N2 o o o o . +/ o o o o + +
+N35 + + + æ á// + . + + + + + +
+N40 o o o + + +// o o o . + +
+N76 + + + . . ./ + + + + + .
+N86 . o// + o o o// + + o o o o
+X8 . o o o o o o o o o o o
+X16 + + + æ á// + bi*+ o o o o o o
+*X16: written KI.SU.LU.EŠ.BI.æ GAR
+11. hé-em-ma-su8-ge-eš
+N2 o o o o + +
+N35 + + . . bé +
+N40 o o o . + +
+N76 + + + + bé +;
+N86 + + o o b]é +
+X8 o o o o o o
+12. lugal-æ u10 hé-en-zu
+N2 o o o + +
+N35 + + + in +
+N40 o o o + +
+N76 + + . . o
+N86 a-ma-[ru]-kam
+X8 . o o o o
+
 &SEpM3 = 3.2.2
 
 1. m d sîn-tillati ra-bi sí-kà-tum-ma
@@ -40,7 +120,7 @@ N76 o o o o o . .
 N88 o o o . + + +
 X2 o . . + + + +//
 X8 omits
-gú íd-da 2-a-bi mu-da-ab-bal-e
+0. gú íd-da 2-a-bi mu-da-ab-bal-e
 N35 + bi? – – + + +// + + + . +
 N76 + . o o o o o o o o o
 N88 + . . + + + . . o o o
@@ -55,7 +135,7 @@ X8 x x x x x iri + + + + . + – –
 N88 + . . . o + . + + . . + . ./
 X3 o . . (traces)//
 X8 + + + + . + + + – – – – – –//
-erin2-na gú bí-ri
+0. erin2-na gú bí-ri
 N88 + . + + .
 X3 . . + + +
 X8 + bi saæ -bi-šè sá íb-dug4-ga
@@ -67,7 +147,7 @@ X8 + + ma + + + íb – dul5
 N88 + + + + . . + + . +//
 X3 + + + + + +// + + + +//
 X8 + + + + kala-ga-æ á-zu + ur-saæ -æ á +
-kur- bi-šè ba-e-te
+0. kur- bi-šè ba-e-te
 N88 + x + . + + .
 X3 (traces) +
 X8 +* + + + + +
@@ -105,8 +185,8 @@ X8 + . . + + + + ne ne? (traces)
 16. ka-æ iri3-za lah5-àm
 N76 (traces)
 N88 + + /ra? ka-æ iri3\-za + o
-Ur11 + + + X3 + + + ù-mu-e-X [(X)]
-+ +
+Ur11 + + + ù-mu-e-X [(X)]
+X3 + + + + +
 X8 omits
 17. ugnim-zu nam-ba-lá-e
 N76 + + + bí + +
@@ -855,7 +935,6 @@ X12 +! + + . o o
 X14 + + + + +
 
 &SEpM8 = 3.3.3
-Textual Matrix
 1. lugal d utu-gin7 šà kalam-ma mu-un-zalag-ga
 N12 + + + + + + + + – + .
 N20 + + + + + + + + + + +
@@ -1155,7 +1234,6 @@ N92 o o o o o o e]n-líl-lá o o o o
 X8 + + ga ke4 + + + + + + + +!
 
 &SEpM9 = 2.1.3
-Textual Matrix
 1. en-me-barag-ge4-e-si lugal-e
 N76 + + + . o o o o;
 N78 + + . o o o o o
@@ -1347,18 +1425,18 @@ Ur7 + + + – + + + . o o o
 Ur12 + + + – + + + o o o o
 Ur13 + + + – + + + + + + +
 X18 o o o o o o o o o + +
- appendix
-N41 m + o o N50 – + + + + N70 – + + . N76 – + + + + N78 – + + + N79 – + . . N98 . + + + N101 o o o o Ur7 + + + + Ur12 – + + + 22. d ur- d namma-ke4 é-kur in-dù
-o o o + +
-+ + + +
-. o o o o
-+ o o o
-. o o o o
-. o o o o
-– + . . o
-o o o o +
-– + + é de[n-líl-lá] o +
-– + + ra . o
+
+22. d ur- d namma-ke4 é-kur in-dù
+N41 m + o o   o o o + +
+N50 – + + + + + + + +
+N70 – + + .   . o o o o
+N76 – + + + + + o o o
+N78 – + + +   . o o o o
+N79 – + . .   . o o o o
+N98 . + + +   – + . . o
+N101 o o o o  o o o o +
+Ur7 + + + +   – + + é de[n-líl-lá] o +
+Ur12 – + + +  – + + ra . o
 Ur13 + + + + – + + é den-líl-lá/ + DU
 X18 o o o o o o o + +
 23. d šul-gi dumu d ur- d namma-ke4
@@ -1902,7 +1980,6 @@ N76 + + + + + + + o o o o
 N77 o o o o o o o o o o .
 
 &SEpM14 = 5.7.a
-Textual Matrix
 1. kišib3 mu-sar ur-dun dam-gàr-ra ú-gu ba-an-dé
 N35 + + + + + + + +// + + + + +
 N48 o o o o o o o o/ o o . . .
@@ -2516,7 +2593,6 @@ Ur8 + + + + + le – + + + + + + – +
 X22 + + + + + + –// + + + + – ba ab .
 
 &SEpM19 = 3.3.10
-Textual Matrix
 1. d nin-tin- ug5-ga agrig zid é-kur-ra
 N8 + + + + + + + + . o
 N17 + + + + + . o o o o
@@ -2616,17 +2692,16 @@ Ur10 + + + +bi + + + + + + +
 X11 o o + + + + re NE – + +
 X19 + + + +bi + + + . ? ? ?*
 *X19: rest of line not visible from photo.
-N8 + + + + N17 o + + + N25 o o x x + N57 + + + + + Ur5 omits
-Ur10 + + + + bi X11 o . + + 9. lú-kud-lú-kud-ba++N62 + + + + ráN76 + + + + rádaX19 + + + + o
 9. lú-kud-lú-kud-ba du7-du7 gal-bi-me-en
-+/ + + + + o o
-+/ + + + + + +
-o o o o o o
-+ + + + + +
+N8  + + + + +/ + + + + o o 
+N17 o + + + +/ + + + + + + 
+N25 o o x x o o o o o o +
+N57 + + + + + + + + + + +
 N62 + + + + rá + + + + + +
 N76 + + + + rá .? + + . o o
-+ + + + + +
-da + + + + + .
+Ur5 omits
+Ur10 + + + + bi + + + + + +   
+X11 o . + +  da + + + + + .
 X19 + + + + o + + + + ? ?*
 *X19: rest of line not visible from photo.
 10. m d inana-ka dumu-munus d en-líl-á-mah
@@ -2809,7 +2884,6 @@ X11 sa4 ga /x\ o o o
 X19 + + + . o
 
 &SEpM20 = 5.7.2
-Textual Matrix
 + 1. m lugal-nesaæ -e dumu zu-zu um-mi-a nibru ki -ke4
 + . o
 N5 + + + + + + + + o N70 + + + + + . o o o o o o o
@@ -2831,14 +2905,14 @@ N5 + + + + + + + + +/ + + + + + +
 N58 + + o o o o o o o/ + + . o o o
 N70 + + o . . . o o o// + + . o o o
 X11 . + + + + + + + +// . +un + + x x
-šeg11 mu-na-ab-gi4
+0. šeg11 mu-na-ab-gi4
 N5 +* + + + .
 N58 + + + o o
 N70 (traces)
 X11 – +un + + sè ge
 *N5: šeg11–
-4. N5 nin + an + ki-bi + +* šukur2 + sum-ma agrig + d en-líl-lá
-+ + + + + .
+4. nin an ki-bišukur2 sum-ma agrig d en-líl-lá
+N5 + + + +* + + + + + + + .
 N58 + + + + o o o/ + o o o o
 N70 . . o o o o o o o o o o
 N76 o o o o o o + + + + + +
@@ -2858,7 +2932,7 @@ N76 + + + + + + + +
 N79 + + + simx+ + + . o/
 Ma1 + + KAK.KAK + mú? o bí + +/
 X11 + + . . + . + re –
-æ iri3-pax-rá igi bar-re
+0. æ iri3-pax-rá igi bar-re
 N5 + + + + + +
 N58 + o o o o o
 N76 + + + + + +
@@ -2871,8 +2945,8 @@ N58 + + o o o o o o o//
 N76 + + + + – + + + ke4
 Ma1 + + + + . + + + +/
 X11 . + t[il] . + + + + ke4
-N5 + igi sa@5-sa@5 ní@-keše2-bi sa6-ge
-+ +/ + + +* + +
+0. igi sa@5-sa@5 ní@-keše2-bi sa6-ge
+N5 + + +/ + + +* + +
 N58 + + ./ + o o o o
 N76 + + +/ + + + + +
 Ma1 + . + + lá +/lú . .
@@ -2883,10 +2957,9 @@ N5 + + + + + + + + +/ + + + + +
 N76 + + + + + + + + + o + o . .
 Ma1 omits
 X11 + + + + . + + [r]a + + . o o o
-302 appendix
-N5 9. a-zu sa6-ge šim-mú dú-ra-ta šà lú-ulu3 igi du8
-+ +
-+ + + + + + + + +/ + + + N76 o . + + . + + + +/ o o o o o
+9. a-zu sa6-ge šim-mú dú-ra-ta šà lú-ulu3 igi du8
+N5 + + + + + + + + +/ + + + + +
+N76 o . + + . + + + +/ o o o o o
 Ma1* + + + + + + . . ti/ + + + . .
 X11 + + sè + . . . + + + o o o o
 *Ma1: line 9 written between lines 5 and 6
@@ -2906,7 +2979,7 @@ X11 omits
 N5 . + + . + + + + + o o/
 Ma1 omits
 X11 omits
-á-/sàg\ zi ba-an-/da\-[X]
+0. á-/sàg\ zi ba-an-/da\-[X]
 N5 + . + + + . o
 14. mu-æ u10 mu-zu- ta im-da-an-pàd
 N5 . + + + + + + + .
@@ -3058,7 +3131,7 @@ N64 + + + + + + + +
 N76 + + + + + + + +/
 N79 + + + + + + + .//
 X4 . . o o o o o o
-KA ì-bal-en-da-na
+0. KA ì-bal-en-da-na
 N24 o o o o + +!
 N64 + + . o o o
 N76 + + + + + +
@@ -3082,7 +3155,7 @@ N29 o o o o//
 N76 o o /x\ +
 N79 o . + +
 X4 [l]ú tur silim-ma-ni ad-da [x x] ka-za in-tuku
-   a-ma-ru-kam
+0.   a-ma-ru-kam
 N24 o o o +
 N29 o o + o
 N76 + + + +
@@ -3090,7 +3163,6 @@ N79 + + + +
 X4 + + o +
 
 &ANL1 = 3.3.20
-Textual Matrix
 1. diæ ir-æ á ù-na-dug4
 N116 + + + +/a\ +
 N118 + + + + +
@@ -3107,15 +3179,14 @@ N118 + + + + + + + + + +
 N116* . + ra + + + + ./ + + + + + +
 N118 + + + + + + + + + + + – +
 *N116 reverses the order of ll. 5 and 6
-6. anše-gin7
-kušusan3 hul-æ ál-la hul-æ ál-la bí-in-[x]
+6. anše-gin7 kušusan3 hul-æ ál-la hul-æ ál-la bí-in-[x]
 N116 + + + + + . o/ + + + + . o
 N118 + + + + + + +/ + + + + + o
 7. saæ ì-tuku inim nu-um-me igi tuku
 N116 o + + igi + mu o o o/
 N118 + + + + + + + + +
-igi mu-un-íl
-N116 KA NI/x\KA (traces)
+0. igi mu-un-íl
+N116 KA NI /x\ KA (traces)
 N118 + + . +
 7a. N116 adds: gi-na [. . .] / ba-da-/x\ [. . .]
 8. níæ ak-a-æ u10 igi a-rá 7-e nu-un-DU x x
@@ -3128,13 +3199,12 @@ N118 + + + + + + + + + + +
 N116 o + + + ra . . o o/
 N118 + + + + + + + +
 Su2 + + + + zu – + + +/
-šà-zu ki-bi ha-ma-ab-gi4-gi4
+0. šà-zu ki-bi ha-ma-ab-gi4-gi4
 N116 + + + + + o o o o
 N118 + + + + . + + + .
 Su2 ba-ar-mé en tar-re
 
 &ANL6 = 3.3.34
-Textual Matrix
 1. d inana-an-dùl-du10-[ga-ra ù-na-a-dug4]
 N115 . . . . .? o o o o o o
 2. m lú- d nin-urta ugula é- d nin-urta-ke4
@@ -3158,18 +3228,19 @@ N115 . + + + + + o
 9. [x]-zu sá ga-ra-ab-[dug4]
 N111 o . + + + . o
 N115 o . + + + + o
-10. tukum-bi du10-sa-mu za-e-[me-en] N111 . + + + o o o o o N115 . + + + + + + o o
+10. tukum-bi du10-sa-mu za-e-[me-en]
+N111 . + + + o o o o o
+N115 . + + + + + + o o
 
 &ANL9 = 3.3.18
-Textual Matrix
+
 1. m diæ ir-inim-sig-ga ù-na-a-dug4
 N110 o o o /x\ x + + – +
 X18 + + + + + + + + +
 2. m na-bi- d en-líl dub-sar
 N110 o o o o o . + +
 X18 + + + + + + + +
-dumu saæ -
-d en-líl-lá-ke4
+dumu saæ d en-líl-lá-ke4
 N110 + + + + + + +/
 X18 + + + + + + +
 3. na-ab-bé-a
@@ -3215,7 +3286,7 @@ X18 + + + + + + + + + + + + + + +
 N114 o o + – e + + + +
 X18 [x (x)]* + + + + + + + +
 *X18: room for 1 or 2 small (squashed?) signs
-egir ka-ka-na è-dè-en
+0. egir ka-ka-na è-dè-en
 N114 + + + + o o o
 X18 . + + ì . + +
 17. nam-mu-šè nam-dub-sar-ra mu-da-zu-zu-a
@@ -3247,7 +3318,7 @@ X18 + + + – + + +
 N110 . + + + . . ./
 N114 o o o o o . .
 X18 o o o o o o .
-nam-bí-ib-dù-e-en
+0. nam-bí-ib-dù-e-en
 N110 + ba – + + +
 N114 + ma e . . o
 X18 + + + + + +
@@ -3280,7 +3351,7 @@ X24 m + ++ + + + + +ka/x\ o o o . + +
 5. a-šà gi4-gi4-dè ur-dsuen-na [. . .]x
 N117 omits
 X24 + + + + + + ++ + o /x\
-lugal-æ u10 nam-maškim ì-tuku-e /x\-[. . .]
+0. lugal-æ u10 nam-maškim ì-tuku-e /x\-[. . .]
 X24 + +/ + + + + + + o
 5a. N105 [. . .] /x x x\ [. . .]
 6. tukum-bi šà gi-na-zu-ta šeš-æ u10-me-en
