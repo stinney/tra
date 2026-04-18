@@ -21,15 +21,19 @@ my $sdata = '';
 my @lcols = ();
 my @scols = ();
 
+my @block = ();
 my $f = 'matrices.atf';
 open(L,'>sepm-align.log');
 open(M,$f);
 while (<M>) {
     chomp;
     if (/^[-#*]/) {
+	push @block, [ 0 ];
     } elsif (/^(\d\S*?)\.\s+(.*?)\s*$/) {
+	print_block() if $#block >= 0;
 	($curr_l,$ldata) = ($1,$2);
 	@lcols = split_l($ldata);
+	push @block, [ 1, @lcols ];
     } elsif (/^(\S+?):\s+(.*?)\s*$/) {
 	($curr_s,$sdata) = ($1,$2);
 	if ($#lcols >= 0
@@ -38,11 +42,16 @@ while (<M>) {
 	    if ($#lcols != $#scols) {
 		warn "$f:$.: $currtext: wanted $#lcols cols but found $#scols\n";
 	    }
+	    push @block, [ 1 , @scols ];
 	} else {
 	    # warn "$f:$.: ignoring $sdata\n";
+	    push @block, [ 0 , @scols ];
 	}
     } elsif (/^&/) {
 	($currtext) = (/^.(\S+)/);
+	print "$_\n";
+    } else {
+	warn "$.: untrapped line\n" unless /^\s*$/;
     }
 }
 
@@ -50,8 +59,33 @@ while (<M>) {
 
 ################################################################################
 
+sub format_block {
+    my @b = @_;
+    @b;
+}
+
+sub print_block {
+    my $todo = 0;
+    for (my $i = 0; $i <= $#block; ++$i) {
+	$todo += $block[$i][0];
+    }
+    print "block has $todo rows to process\n";
+    if ($todo) {
+	@block = format_block(@block);
+    }
+    foreach (my $i = 0; $i <= $#block; ++$i) {
+	my @b = @{$block[$i]};
+	shift @b;
+	my $l = join('', @b);
+	print "$l\n";
+    }
+    print "\n";
+    @block = ();
+}
+
 sub split_l {
-    my @c = split(/[- ]/, $_[0]);
+    my $l = shift;
+    my @c = split(/[- ]/, $l);
     my @n = ();
     foreach my $c (@c) {
 	if ($c =~ s/\}(?=\S)/\} /
