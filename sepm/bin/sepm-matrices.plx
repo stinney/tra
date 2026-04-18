@@ -24,10 +24,10 @@ my $currline = '';
 while (<>) {
     if (/^(\d+[ABa-z]?)\.\s/) {
 	$currline = $1;
-    } elsif (/^(\S+?)\*?\s/ && $ms{$1}) {
+    } elsif (/^(\S+?)\**\s/ && $ms{$1}) {
 	my $ms = $1;
     } elsif (/^\s*$/ || /^\#/) {
-    } elsif (/^\*/) {
+    } elsif (/^[\*\#]/) {
     } elsif (/^&/) {
 	($currtext) = (/^.(\S+)/);
     } else {

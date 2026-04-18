@@ -319,7 +319,7 @@ N35 . o o o o o o o o o o
 N40 + – + ù o o o o o o o //
 N76 + + + + o o o o o o + /
 N81 o o o o o o o o + . o
-ù íd al-ba-al-e
+0. ù íd al-ba-al-e
 N40 + + [d]/a\? + + . o
 N76 + + o o o +
 N81 o o . + + .
@@ -357,13 +357,13 @@ N39 o o o o o o . + + + +
 N40 + + + + + + + + + + +/
 N76 o . + + o o o o o o o/
 X5 see alternate line 7A below
-za-e šu æ ar lugal-zu li-bí-in-gi4
+0. za-e šu æ ar lugal-zu li-bí-in-gi4
 N39 o o o o . + + + + +
 N40 + + + + + + + + + +
 N76 + + + + o o o o o o
 7A. a-na-aš-àm erin2 šu šà-šè ì-æ ál-a-æ á
 X5 + + + + + + + + + + + ./
-nam-lú-ulu3-ba li-bí-æ ar
+0. nam-lú-ulu3-ba li-bí-æ ar
 X5 + + + + + + +
 7B. ne-éš erin2 mu-un-æ á-æ á-e
 X5 + + + + + + + +
@@ -382,7 +382,7 @@ N39 o o o o + + + /dur10?\ + +/
 N40 + + + + + + + + +/
 N76 + + + + o o o o o
 X5 1 + + + + +æ iš + + + ke4//
-im-mu-e-ši-sar
+0. im-mu-e-ši-sar
 N39 o o + + o
 N40 + + + + +
 N76 o o . . .
@@ -426,7 +426,7 @@ X5 o o + .
 
 &SEpM6 = 3.3.1
 1. lugal gud igi gùn sum4
-na4 za-gìn lá- æ u10-úr
+0. na4 za-gìn lá- æ u10-úr
 N40 + + + + + mú o o o o o o
 N76 + + + + + + + + + a + +
 N81 + + + + + – + + + + +;/
@@ -442,13 +442,12 @@ X17b + + + + KA mú – + + – – –;
 X21 + + + + + o (traces around edge)
 Uk2 (written above the line): a-na šar-ri ša ki al-pi ši-it-ha-ru* qí-bi-ma
 *Collated; clearly different from first -ri
-X17c
-(1.) lugal-gu-/gi16\-ru (2.) si za-gi-/ru\
-(3.) mu-dù?
-*following Conti 2000, 132
-X17d
-(1.) a-la-am ku6-/sig17\* *partially erased
-(2.) /ù-na-dug4\* *partially erased
+#X17c
+#(1.) lugal-gu-/gi16\-ru (2.) si za-gi-/ru\ *following Conti 2000, 132
+#(3.) mu-dù? 
+#X17d
+#(1.) a-la-am ku6-/sig17\* *partially erased
+#(2.) /ù-na-dug4\* *partially erased
 2. ù-na-a-dug4
 N40 +* . o o
 N76 o . – +
@@ -465,17 +464,17 @@ X17b . . – .
 X21 + + . +
 *N40: ù followed by erasure
 3. alan kù-sig17 u4 du10-ga dú-da
-o . . . . + +
-+ + + + + + o
-. o o . + + +
-+ + + + + + +
-+ + + + + + +
-+ + + + + + /x\
-+ + + + + +ud +
-. + + + + ù tu
-+ + + + + ù tu
+N76 o o . . . . + +
+Ur4 + + + + + + + o
+Is1 o . o o . + + +
+Uk1 + + + + + + + +
+Uk2 + + + + + + + +
+X1 + + + + + + + /x\
+X9 + + + + + + +ud +
+X17a d+ . + + + + ù tu
+X17b d+ + + + + + ù tu
 X21 + . . + + + . .
-N76 o Ur4 + Is1 o Uk1 + Uk2 + X1 + X9 + X17a d+ X17b d+ Uk2: a-lamx (LUM) hu-ra- i i-nu-mi a-bu UD.DA
+Uk2 a-lamx(LUM) hu-ra- i i-nu-mi a-bu UD.DA
 4. áb-za-za amaš kù-ga buluæ 3-æ á
 N76 omits
 N95* o o o . + + + +/
@@ -487,8 +486,8 @@ X1 omits
 X9* + + + + + + + + //
 X21 + + o . + + + +
 *N95: Inserted after line 5
-N95 o o o šà kù d inana-ke4 pàd-da
-o + + +
+0. šà kù d inana-ke4 pàd-da
+N95 o o o o + + +
 Ur4 + + + + ta o o
 Uk1 + + + + o x x
 Uk2 + + + + ta (gl:)wa-tu + +
@@ -530,7 +529,7 @@ X1 + + + + + . .?//
 X8 o . . + . . o
 X9 + + + +! + + ta?? //
 X21 + + + + . x KA
-hur nu-gi4-gi4-dam
+0. hur nu-gi4-gi4-dam
 N33 + + + o o
 N86 + + o o o
 N96 o o + + o
@@ -568,18 +567,17 @@ X1 o o o o o . o . . .
 X8 + + + . + + + . o o
 X9 + + sag10 – + + ! + o + +
 X21 + + + + + + + + + +
-10. lugal-æ u10 bar-æ á èn li-bí-in-tar dumu uri2
-ki -ma-me-en
-+ . o o / + + + + o o
-+ + + + + + . o o o
-o o o o o o o o o o
-– + . o / o + + + + .
-– + + + / + uri5 + + + +
-+ +/ + + // + + + + + +
-– + + + + + o o o o*
-– + + + + + – +/ + +
-+ . o o // + uri5? + + + +
-. . – + + uri5 + – – –
+10. lugal-æ u10 bar-æ á èn li-bí-in-tar dumu uri2ki -ma-me-en
+N33 + + + + + + . o o / + + + + o o
+N76 . o o + + + + + + + + . o o o
+N86 . o o o o o o o o o o o o o o
+N87 o o + + + – + . o / o + + + + .
+Ur4 + + + + + – + + + / + uri5 + + + +
+Is1 + + + + + + +/ + + // + + + + + +
+Uk1 + + + + + – + + + + + o o o o*
+Uk2 + + + + + – + + + + + – +/ + +
+X1  o o o . + + . o o // + uri5? + + + +
+X8  + + + + + . . – + + uri5 + – – –
 X9 + æ á + + + + o + + // + + + + + +
 X21 + + + + + + + – + // + + + + + +
 *Uk1: Traces indicate only 3 signs in the break.
@@ -632,7 +630,7 @@ X8 + + + + +
 X9 + + + +! +
 X21 + + + +! +
 
-&SEpM6 = 3.3.2
+&SEpM7 = 3.3.2
 1. lugal zalag-ga-ni iti6-gin7 kur-kur-ra
 N13 + + – a + + o o o o/
 N14 + + + a + + + + + +/
@@ -641,7 +639,7 @@ N76 + + + + . . . + +
 Ur5 o o o o o o + o o//
 X2 o + + + + + + o o
 X8 + + + + + + + + –
-pa è-a ù-na-dug4
+0. pa è-a ù-na-dug4
 N13 + + + . o o
 N14 + + + + + +
 N68 + + + + + o
@@ -659,7 +657,7 @@ N85 o o o o o o + + + .//
 Ur5 o o o o o o o o . .!
 X2 . . + + + + + + + +//
 X8 + + + + + + + + + +
-eš-bar d ištaran-gin7 si sá-sá-e-ra
+0. eš-bar d ištaran-gin7 si sá-sá-e-ra
 N13 o o o o o/ + + o o o
 N14 + + + + + + + + + +
 N42 o o o o o . . o o o
@@ -712,7 +710,7 @@ Ur5 o o o o + + + + – +//
 X2 o o . + + – + + la +//
 X8 + + šu + – + . + + + +
 X12 + – + . o o . o o o
-edin-na ba-ab-æ en-ne-en
+0. edin-na ba-ab-æ en-ne-en
 N13 o o o o o o o
 N14 + + + + + + +
 N42 o o o . . + +
@@ -752,8 +750,7 @@ Ur5 omits
 X2 o – + + // o . + + + +
 X8* + + + + .? . + . + +
 X12* + + + – . o o o . +
-*N85: ll. 9-10 on edge of Ni 2769, as if copyist forgot the lines and so added
-them in later on.
+*N85: ll. 9-10 on edge of Ni 2769, as if copyist forgot the lines and so added them in later on.
 *X8, X12: place l. 9 after l. 10
 10. æ iš má kar gi-na-a li-bí-ib- tak4-a-gin7
 N14 + + + + + àm + . – tak4 + + +/
@@ -765,7 +762,7 @@ X8* + + + +** + – + + /x\ + (traces)
 X12* – + + + + – + [. . .] /x\ im-dab5
 *X8, X12 place l. 10 before l. 9, after l. 8
 **X8: (erased ba?) after gi-
-tum9-e ba-ab-dirig-ge-en
+0. tum9-e ba-ab-dirig-ge-en
 N14 + + + + + + –
 N76 + – + . o o o
 N85 + + + + + + +
@@ -804,7 +801,7 @@ N85 + + + + + + + + +!/
 N95 . . o o o o o o o
 X8 + + + + + + + + +
 X12 + + + – – – – – –
-siki saæ mu-dur7 ba-lá
+0. siki saæ mu-dur7 ba-lá
 N23 /saæ \ + – + . + o
 N37 o o o o/ + o
 N47 + + . . + +
@@ -865,7 +862,7 @@ N85 + + + + + . o + + o o
 X8 omits
 *N85: eš followed by erasure
 X12 omits
-ki-ta ba-an-æ ar-re-en
+0. ki-ta ba-an-æ ar-re-en
 N23 + + + o o o o
 N40 x x + + o o o o o
 N47 . + + + + – –
@@ -895,8 +892,7 @@ N76 o o o o o o o o + + + + +
 N85 (traces)
 X8 + húl + + + + + + + + . .? .?
 X12 + + + + + + a + + +/ + + + +
-22. æ iš gibil- æ iš gibil-me-en æ iš isimu2
-sar
+22. æ iš gibil- æ iš gibil-me-en æ iš isimu2{sar}
 N40 + + + + + + o o o
 N47 + + + + + + // + + +
 N67 – + – + + + + + +
@@ -905,7 +901,7 @@ N76* o o o o o o o o +
 X8 o . – + + + + + MU
 X12 – + – + + + + + +
 X14 – + – + e + . . . +
-nu-tuku-me-en ur5-re nam-ba- tùm
+0. nu-tuku-me-en ur5-re nam-ba- tùm
 N40 o o o o / + + nu? o o
 N47 o . + + // o . . . +
 N67 + + + + / + + + + túm un
@@ -915,17 +911,17 @@ X8 + + – + . o o o /x\
 X12 + + + + / + ra + + an +
 X14 + + æ e26 – / + ra – +/x\* + mu
 *X14: erased mu?
-+ 23. lugal-æ u10 èn-æ u10 hé-tar-re ki-ùr-æ u10-šè
-N40 + + o o o o o o o o N47 o o o o o o . // o o o o
+23. lugal-æ u10 èn-æ u10 hé-tar-re ki-ùr-æ u10-šè
+N40 + + + o o o o o o o o/
+N47 o o o o o o . // o o o o
 N67 + + + + + + + / + + + +
 N68 + + + + . . o // + + + +
 N76 o o o o + + + / o o o o
 N87 + . o o o o o o o o o
 X8 + + . . o o o o o o o
 X12 + + + + + + + / + + + +
-/
 X14 omits
-hé-em-mi-ib-gi4-gi4
+0. hé-em-mi-ib-gi4-gi4
 N40 + + . o o o
 N67 + + + íb + +
 N68 + + + /x\ o o
@@ -965,15 +961,15 @@ N87 + + + o o o o o o o o
 N90 o o o + + + o o o . +
 Ur1 + + + + + + + + + + + aš
 4. ti-id-nu-um ki -e šu bí-in-æ ar
-N12 N20 N40 N76 N90 + + + + + + + + . +/
-+ + + + – + + + + dab5/
+N12 + + + + + + + + . +/
+N20 + + + + – + + + + dab5/
 N34 GÌR GÌR – – – – – + + + + +
-+ + + + . o o o o o/
-+ + + + + + + + + +
+N40 + + + + . o o o o o/
+N76 + + + + + + + + + +
 N87 GÌR o o o o o o o o o o
-o o o + – . . . . .//
+N90 o o o + – . . . . .//
 Ur1 GÌR GÌR nim – – – – – – + + + +
-šibir-bi mu-un-dab5-ba
+0. šibir-bi mu-un-dab5-ba
 N12 + e + + – + bé
 N20 + + + + + bé
 N26 o o o o o bé
@@ -1011,7 +1007,7 @@ N85 o . šú – + + + //+ +
 N86 x + o o o o o / + o
 N90 o o o o o . + // o o
 Ur1 – + + æ e26 + + + ! + +
-na-ab-bé-a
+0. na-ab-bé-a
 N12 + + + +
 N20 + + + +
 N26 o . + +
@@ -1037,8 +1033,7 @@ N43 o o o o o o
 N76 . . + + – +
 N85 + + + + + +
 Ur1 + + + + + +
-10. iri kúr-ra tum12
-mušen -gin7 še mi-ni-ša4
+10. iri kúr-ra tum12mušen -gin7 še mi-ni-ša4
 N12 + + + + + + + + in +
 N34 o o o . . o o o o o;/
 N43 + + + + . o o o o o;/
@@ -1074,7 +1069,7 @@ N43 + + ma ta + . + +
 N76 + + + šu ta . o o o
 N85 + o o o o + +/
 Ki1 + + + – + + +
-asil3-lá-æ u10 háb-ba ba-an-ug5
+0. asil3-lá-æ u10 háb-ba ba-an-ug5
 N12 +/ + . + – + . +
 N20 + a + + + + + +
 N34 + o o/ + + + o o
@@ -1115,13 +1110,13 @@ N76* o o o . ba . o o o o o o o o o
 Ki1 + + + + ba – +ir + +íb o o o o o o
 X8 o o + . + x x x x/ + – KA + +
 20. edin KAL tumu ri-a-ta AŠ bad-rá-gin7
-N34 + +!* + + + + N43 + + + + + gin7 N76 o o o + + + Ki1 + + + + + + X8 o o . + + + + + + .
+N34 + +!* + + + + + + o o/
+N43 + + + + + gin7 – – – –
+N76 o o o + + + + + . o/
+Ki1 + + + + + + RI + + +
+X8 o o . + + + + + + .
 *N76: l. 19 written before line 18
-+ + o o/
-– – – –
-+ + . o/
-RI + + +
-é HAR-HAR-ra ba-dab5-bé
+0. é HAR-HAR-ra ba-dab5-bé
 N34 + + + + o o o
 N43 + + + + + o o
 N76 o o o + + + .
@@ -1139,7 +1134,7 @@ N34 o + + + + . o o o o o o
 N43 + + + + + + + + + + . o
 N76 . o . + + + + + + + + .
 N92 o o . + + o o/ o . + . o
-K1 (traces)
+Ki1 (traces)
 X8 + + + + ra + + – + + + + +!
 23. [. . .] gú ki-šè ba-lá
 N43 (traces) . . . o o
@@ -1153,8 +1148,7 @@ N76 + + o + + + + – +
 N90 (traces)
 N92 o o o . + + + o o
 X8 + + + húl + + + + +
-25. lugal KA x x bala-æ u10
-d utu- gin7 ha-ma-dirig
+25. lugal KA x x bala-æ u10 d utu- gin7 ha-ma-dirig
 N34 + + o o o o// + + + .? o o
 N42 + + o o o o/ + + o o o o
 N76 + + . o + bala e + + .? o o o
@@ -1186,13 +1180,13 @@ N76* o o o . ba . o o o o o o o o o
 Ki1 + + + + ba – +ir + +íb o o o o o o
 X8 o o + . + x x x x/ + – KA + +
 20. edin KAL tumu ri-a-ta AŠ bad-rá-gin7
-N34 + +!* + + + + N43 + + + + + gin7 N76 o o o + + + Ki1 + + + + + + X8 o o . + + + + + + .
+N34 + +!* + + + + + + o o/
+N43 + + + + + gin7 – – – –
+N76 o o o + + + + + . o/
+Ki1 + + + + + + RI + + +
+X8 o o . + + + + + + .
 *N76: l. 19 written before line 18
-+ + o o/
-– – – –
-+ + . o/
-RI + + +
-é HAR-HAR-ra ba-dab5-bé
+0. é HAR-HAR-ra ba-dab5-bé
 N34 + + + + o o o
 N43 + + + + + o o
 N76 o o o + + + .
@@ -1210,7 +1204,7 @@ N34 o + + + + . o o o o o o
 N43 + + + + + + + + + + . o
 N76 . o . + + + + + + + + .
 N92 o o . + + o o/ o . + . o
-K1 (traces)
+Ki1 (traces)
 X8 + + + + ra + + – + + + + +!
 23. [. . .] gú ki-šè ba-lá
 N43 (traces) . . . o o
@@ -1224,8 +1218,7 @@ N76 + + o + + + + – +
 N90 (traces)
 N92 o o o . + + + o o
 X8 + + + húl + + + + +
-25. lugal KA x x bala-æ u10
-d utu- gin7 ha-ma-dirig
+25. lugal KA x x bala-æ u10 d utu- gin7 ha-ma-dirig
 N34 + + o o o o// + + + .? o o
 N42 + + o o o o/ + + o o o o
 N76 + + . o + bala e + + .? o o o
@@ -1381,8 +1374,7 @@ N101 o o na+ + + + + + + + + + +
 Ur7 d+ + + + + + àm// + + + + + + +
 Ur13 d+ + + + + + àm// + + + + + + DU
 X18 o o o o o o – + + + + + o
-18. m mes-ki-áæ -
-d nanna dumu na-an-ni-ke4
+18. m mes-ki-áæ -d nanna dumu na-an-ni-ke4
 N41 + + + + + + / + + + + +
 N76 – + + + + + + o o o o
 N78 – + . o o o o o o o o
@@ -1929,7 +1921,7 @@ N4 + + + + + +/
 N41 + + + +* + ./ *BÙR+gunû
 N53 o o o o + –
 N76 o o o o + –
-šukur2 lú níæ -dab5-ba-ke4-ne
+0. šukur2 lú níæ -dab5-ba-ke4-ne
 N4 + + + . . + +
 N41 + + + + + + o
 N53 + . o o o o o
@@ -1939,9 +1931,9 @@ N4 + + + + + + . + +
 N41 +!* + + + + + /x\ o o *BÙR+gunû
 N76 o o o o /x\ + + o o
 7. m iq-bi-šúm ù a-bi-qá-ti-e inim mu-da-an-æ ar-re-eš
-N4 + + + + + + + + + +/ + N41 – .? . + + + + . o o/ + N76 o o o o o . + + o o o + + + + + +
-o + + + + o
-o o o o o o
+N4 + + + + + + + + + +/ +   + + + + + +
+N41 – .? . + + + + . o o/ + o + + + + o
+N76 o o o o o . + + o o o   o o o o o o
 8. tukum-bi lugal-me an-na-kam
 N4 + + + + + + +
 N41 . o o o o o o
@@ -1956,7 +1948,7 @@ N41 + + + + . o + + + + + + o
 N53 o o o o o . + + + . o o o
 N76 . o o o o o o o ga – + + o o
 11. dúr-bi-šè 2 iku X 180-eše3
-iku gaba a-šà-ga-bi
+0. iku gaba a-šà-ga-bi
 N41 +! + + + + o/ + + + + . o o o
 N53 o o o o o o o o o o + + + +
 N76 – – – – – – [x (x?) ] + + + o o
@@ -2041,9 +2033,9 @@ N77 o o o o . –
 Ma1 – + + + . o
 X15 + + + +// + +
 X24 + + + + + –
-X15 adds: KA-KA-ne-ne(?)
-ba-an<-šúm>-me-eš
-kišib3-ba-ne-ne in-eš
+#X15 adds: KA-KA-ne-ne(?)
+#ba-an<-šúm>-me-eš
+#kišib3-ba-ne-ne in-eš
 7. m zu-zu um-mi-a
 N35 – + + + . .
 N48 + + + + + +
@@ -2204,8 +2196,7 @@ N65 + + + + + + +
 N74 m+ + + + o o o
 N76 + + + + + + +
 N85 m+ + . . + + +
-4. urim2
-ki iri giri17-zal d nanna-ka
+4. urim2ki iri giri17-zal d nanna-ka
 N54 + + + . ./ . + +
 N61 + + + + +/ + + kam
 N65 urim5+ + + + + + kam
@@ -2391,7 +2382,7 @@ N91 o + + + + + + + + + za// . +
 Ur2 o . . . . + + + + + +// + +
 Ur8 + + + + + + + + + + + + +/
 X22 .? + + + + + + + + + x/ + +
-inim gùn-gùn-ra ù-na-a-dug4
+0. inim gùn-gùn-ra ù-na-a-dug4
 N16 o o + + + + + +
 N27 + o o o// + + o o
 N52 . /x\ + + +//+ + – +
@@ -2423,8 +2414,7 @@ N91 + + + .
 Ur2 + ne + +
 Ur8 + ne + +
 X22 + ne + +
-4. d alad2
-d lamma diæ ir kal-la-æ u10
+4. d alad2 d lamma diæ ir kal-la-æ u10
 N16 o o o o + + + +/
 N27 + + o o o o o o//
 N52 + + + + + + + +//
@@ -2434,7 +2424,7 @@ N91 o . + + + + . o/
 Ur2 a-la-ad + + + + + + + + ša i-di //
 Ur8 + + + + + + + +
 X22 – alan + + + + + +
-ulutim2 alan zíl-zíl-i
+0. ulutim2 alan zíl-zíl-i
 N16 . + + + +
 N27 + o o o o
 N52 . + + + +
@@ -2483,7 +2473,7 @@ N66 + + + + + +/ + + +
 Ur2 + + + +lá+ +// + + +
 Ur8 + – – – – –zu–zu+ + +
 X22 . . . + /x\ .? + + +
-nibruki -a ad-da-zu na-ab-bé-a
+0. nibruki -a ad-da-zu na-ab-bé-a
 N66 + + ke4//+ + + + + + +
 Ur2 + + ke4//+ + + + + + +
 Ur8 + + +/ + + + + + + +
@@ -2573,8 +2563,8 @@ X22 + + + + + + . .
 *Ur2: ba followed by erasure
 **Ur2 adds: a-ta-š[u-uš]
 ***Ur8: line 17 (= 1.17 on tablet)
-N16 o o 9. ki nam tar-ra-šè nu-ub-da-æ en- na-aš
-o o . + + + + + +
+9. ki nam tar-ra-šè nu-ub-da-æ en- na-aš
+N16 o o o o . + + + + + +
 N27 + + o o o o o o o o o
 N52 + + + + + + + + +ne en+ +
 N76 o o o o o o . + + + +
@@ -2830,17 +2820,16 @@ X10 o o o . + +bi. o o o o o o
 X11 . + + + al + + + æ u10– í[b o o o
 X19 o o o .? + . o o// o o + + ?*
 21. ki-in-DU nam-ti-la-ka @iri3-@u10 hé-bí-ib-gub-bé
-N17 + + + + . o o/ + + N49 + + . o o o o/ . o N57 + + + + + +* ke4/ + @á N76 + + + . o o . . + Ur10 + – – + + + + + + X10 o o o . + + o// o o X11 + + + + + + + + + X19 o o o o + + +// o o o o íb + +
+N17 + + + + . o o/ + +      + + o o o   
+N49 + + . o o o o/ . o	    o o o o o   
+N57 + + + + + +* ke4/ + @á  + + + + + en
+N76 + + + . o o . . +	    + + + + +   
+Ur10 + – – + + + + + +	    + + + + +   
+X10 o o o . + + o// o o	    o o + + o   
+X11 + + + + + + + + +	    ha /x\ o o o
+X19 o o o o + + +// o o o o o o íb + +  íb + +
 *X19: rest of line not visible from photo.
 *N57: la followed by erasure
-+ + o o o
-o o o o o
-+ + + + + en
-+ + + + +
-+ + + + +
-o o + + o
-ha /x\ o o o
-o o íb + +
 22. ù æ e26- e geme2-ni hé-me-en
 N8 . + + + + + . .
 N17 + + + + + . o o
@@ -2884,9 +2873,9 @@ X11 sa4 ga /x\ o o o
 X19 + + + . o
 
 &SEpM20 = 5.7.2
-+ 1. m lugal-nesaæ -e dumu zu-zu um-mi-a nibru ki -ke4
-+ . o
-N5 + + + + + + + + o N70 + + + + + . o o o o o o o
+1.  m lugal-nesaæ -e dumu zu-zu um-mi-a nibru ki -ke4
+N5  + + + + + + + + o + + . o
+N70 + + + + + . o o o o o o o
 N76 o o o o o o + + + + + + +
 X11 o o . æ e26 + . . + + + + . –
 2. tu6-ni-lú-sag9 ur kí@-gi4-a-ka-ni
@@ -2894,7 +2883,7 @@ N5 + + + + + + + + + +/
 N70 + + + + + + + o o o//
 N76 o o o o + + + + + +/
 X11 o .? + + . + + + + +!//
-d nin-tin- ug5-ga-ra mu-na-an-dím
+0. d nin-tin- ug5-ga-ra mu-na-an-dím
 N5 + + + + + + + + + .
 N58 + o o o o o/ . o o o
 N70 + + + + + + + . o o
@@ -3240,7 +3229,7 @@ X18 + + + + + + + + +
 2. m na-bi- d en-líl dub-sar
 N110 o o o o o . + +
 X18 + + + + + + + +
-dumu saæ d en-líl-lá-ke4
+0. dumu saæ d en-líl-lá-ke4
 N110 + + + + + + +/
 X18 + + + + + + +
 3. na-ab-bé-a
