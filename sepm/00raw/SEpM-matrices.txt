@@ -73,7 +73,7 @@ N76 + + + . . ./ + + + + + .
 N86 . o// + o o o// + + o o o o
 X8 . o o o o o o o o o o o
 X16 + + + æ á// + bi*+ o o o o o o
-*X16: written KI.SU.LU.EŠ.BI.æ GAR
+*X16: written KI.SU.LU.EŠ.BI.GAR
 11. hé-em-ma-su8-ge-eš
 N2 o o o o + +
 N35 + + . . bé +
@@ -294,7 +294,7 @@ N35 . o o o// + + . o o o
 N40 . . . o o / + gag + + . .
 N76 o o . + + ki + + + + +/
 N81 (one wedge preserved mid-line)
-Ur15
+Ur15 (no content)
 X8 o o . . + ki o o o o o
 13. æ iš má tur-tur šu-ku6-bi-šè
 N35 + + . o o o o o
@@ -1095,77 +1095,8 @@ Ki1 + e x sipad?-ba šà a mi-ni-[. . .]
 N34 . . . . la x o //x (x)\ a/x\
 N43 . + la o o
 N76 /x\ [. . .]/x\ [. . .]
-N85 – + + e o // N[ I? . . .] Ki1 [x]-e-a TÚL E LA MU X RA HAR-re /ha\-x-x-[. . .]
-18. gud-gin7 mur-æ u10 eme ba-šub6 nu-tuku-gin7 šu ì-ša-an-ša
-N34 + + . . KA + . .? o o + + + . o
-N43 + + + æ á + + . o o o/ + – + + +
-N76* o o o o o o o o o o . ab + .? o
-N85 . o o o o o o o o o o o o o o
-Ki1 + + + + + + + + + + + + + + o
-*N76: l. 18 written after l. 19
-19. peš amar-æ u10 gùd-bi zi ba-ni-in-gi4 ka ú gu7 ba-peš
-N34 + + + + . o o o o o/ + + + /x\ o
-N43 peš11 + + + .?/ + + + + + + + KA/bí?\ o
-N76* o o o . ba . o o o o o o o o o
-Ki1 + + + + ba – +ir + +íb o o o o o o
-X8 o o + . + x x x x/ + – KA + +
-20. edin KAL tumu ri-a-ta AŠ bad-rá-gin7
-N34 + +!* + + + + + + o o/
-N43 + + + + + gin7 – – – –
-N76 o o o + + + + + . o/
-Ki1 + + + + + + RI + + +
-X8 o o . + + + + + + .
-*N76: l. 19 written before line 18
-0. é HAR-HAR-ra ba-dab5-bé
-N34 + + + + o o o
-N43 + + + + + o o
-N76 o o o + + + .
-Ki1 + + o o o o o
-X8 . . . . – – –
-21. ug5-ga ki nu-túm- ma-me-en še-gin7 àr-[àr . . .]
-N34 o + + + + + . o o o o o
-N43 + + + + + + + + + + + o
-N76 o o . + + + + + + + . o
-N92 o o o o o + . o/ o . + ba o
-Ki1 + gin7 + – + túm mu – – nu-zu + + + o
-X8 . . + +? + mu o o /TU?\-uš – – –
-22. šeš-æ u10 lú kúr nu-me-a igi tur mu-un-gíd
-N34 o + + + + . o o o o o o
-N43 + + + + + + + + + + . o
-N76 . o . + + + + + + + + .
-N92 o o . + + o o/ o . + . o
-Ki1 (traces)
-X8 + + + + ra + + – + + + + +!
-23. [. . .] gú ki-šè ba-lá
-N43 (traces) . . . o o
-N76 saæ [x (x?)] + + + + +
-N92 [. . .] + + + + +
-X8 nam? ma?-da? + + + + +
-24. ša6-ga-æ u10 hul-šè mu-da-an-sig10
-N34 + . o o o o o o o
-N42 . . o o o o o o o
-N76 + + o + + + + – +
-N90 (traces)
-N92 o o o . + + + o o
-X8 + + + húl + + + + +
-25. lugal KA x x bala-æ u10 d utu- gin7 ha-ma-dirig
-N34 + + o o o o// + + + .? o o
-N42 + + o o o o/ + + o o o o
-N76 + + . o + bala e + + .? o o o
-N90 [. . .] . + [(x?)]
-N92 o o o o o o e]n-líl-lá o o o o
-X8 + + ga ke4 + + + + + + + +!
-16. zarah-àm ur-gin7 [. . .]
-N34 . . + + o
-N43 o . + + x o
-N76 . o o o o
-N85 + e o o o //HAR-/ru?\-[. . .]
-Ki1 + e x sipad?-ba šà a mi-ni-[. . .]
-17. ù-u8-a- u8 [. . .]
-N34 . . . . la x o //x (x)\ a/x\
-N43 . + la o o
-N76 /x\ [. . .]/x\ [. . .]
-N85 – + + e o // N[ I? . . .] Ki1 [x]-e-a TÚL E LA MU X RA HAR-re /ha\-x-x-[. . .]
+N85 – + + e o // N[ I? . . .]
+Ki1 [x]-e-a TÚL E LA MU X RA HAR-re /ha\-x-x-[. . .]
 18. gud-gin7 mur-æ u10 eme ba-šub6 nu-tuku-gin7 šu ì-ša-an-ša
 N34 + + . . KA + . .? o o + + + . o
 N43 + + + æ á + + . o o o/ + – + + +
@@ -3342,7 +3273,8 @@ N117 omits
 X24 + + + + + + ++ + o /x\
 0. lugal-æ u10 nam-maškim ì-tuku-e /x\-[. . .]
 X24 + +/ + + + + + + o
-5a. N105 [. . .] /x x x\ [. . .]
+5a. 
+N105 [. . .] /x x x\ [. . .]
 6. tukum-bi šà gi-na-zu-ta šeš-æ u10-me-en
 N105 o o o + + . o o o o o
 N117 + + + + + + + + + + +
