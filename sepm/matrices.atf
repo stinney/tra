@@ -9,7 +9,7 @@
 # // one line of the ecletic text written on two lines of the manuscript
 # / \ variant sign is partially preserved
 
-&SEpM2 = 3.2.1
+&Q000562 = SEpM2 = 3.2.1
 1. lugal-ŋá ù-na-dug₄
 N2: o . + o o
 N9: + + + + +
@@ -89,7 +89,7 @@ N76: + + . . o
 N86: a-ma-[ru]-kam
 X8: . o o o o
 
-&SEpM3 = 3.2.2
+&Q000563 = SEpM3 = 3.2.2
 
 1. {m} {d} sîn-tillati ra-bi sí-kà-tum-ma
 N2: o o o o o o + + + +;/
@@ -207,7 +207,7 @@ Ur11: + + + +
 X3: + + + +
 X8: + + + +
 
-&SEpM4 = 3.2.3
+&Q000564 = SEpM4 = 3.2.3
 1. lugal-ŋá ù-na-a-dug₄
 N76: + + + + - +
 N81: + o + + - +
@@ -332,7 +332,7 @@ N40: + + + o
 N76: + + + +
 N81: o o o +
 
-&SEpM5 = 3.2.4
+&Q000565 = SEpM5 = 3.2.4
 1. {m} {d} nanna-ki-áŋ ra-bi-sí- kà-tum-ma
 N40: + + + + + + + + + + o
 N76: . . o o o o o o + + +
@@ -424,7 +424,7 @@ N40: + . o o
 N76: . + + +
 X5: o o + .
 
-&SEpM6 = 3.3.1
+&Q000573 = SEpM6 = 3.3.1
 1. lugal gud igi gùn sum₄ na₄ za-gìn lá- ŋu₁₀-úr
 N40: + + + + +mú o o o o o o
 N76: + + + + + + + + + a + +
@@ -630,7 +630,7 @@ X8: + + + + +
 X9: + + + +! +
 X21: + + + +! +
 
-&SEpM7 = 3.3.2
+&Q000574 = SEpM7 = 3.3.2
 1. lugal zalag-ga-ni iti₆-gin₇ kur-kur-ra
 N13: + + -a + + o o o o/
 N14: + + +a + + + + + +/
@@ -930,7 +930,7 @@ X12: +! + + . o o
 23a. lugal-ŋu₁₀ hé-en-zu
 X14: + + + + +
 
-&SEpM8 = 3.3.3
+&Q000575 = SEpM8 = 3.3.3
 1. lugal {d} utu-gin₇ šà kalam-ma mu-un-zalag-ga
 N12: + + + + + + + + - + .
 N20: + + + + + + + + + + +
@@ -1157,7 +1157,7 @@ N76: + + . o + bala e + + .? o o o
 -N92: o o o o o o e]n-líl-lá o o o o
 X8: + + ga ke₄ + + + + + + + +!
 
-&SEpM9 = 2.1.3
+&Q000373 = SEpM9 = 2.1.3
 1. en-me-barag-ge₄-e-si lugal-e
 N76: + + + . o o o o;
 N78: + + . o o o o o
@@ -1474,7 +1474,7 @@ N85: + o o o o o o o
 N98: - šutum₂ . . o o o o
 N101: o o o o o o . +
 
-&SEpM10 = 5.7.3
+&Q000561 = SEpM10 = 5.7.3
 1. nibru ki -ta-lú
 N7: + + + +;
 N10: o + + o
@@ -1635,7 +1635,7 @@ N58: o ⸢zi⸣ + + . - + +
 N70: + + o o o o o o
 N85: + + o o o o o o
 N102: + + + + + - + +
-&SEpM11 = 3.3.13
+&Q000561 = SEpM11 = 3.3.13
 1. šagina-e-ne
 N7: + + + er;
 N32: . + +;
@@ -1749,7 +1749,7 @@ N32: + + + +
 N85: + + + +
 X13: šagina-e-ne hé-en-zu
 
-&SEpM12 = 3.3.4
+&Q000561 = SEpM12 = 3.3.4
 1. ensi₂ saŋŋa-ra ù-ne-a-dug₄
 N6: o + +/ o o + +
 N32: + + + + na + .
@@ -1832,7 +1832,7 @@ N85: + o o .
 Ma1: o o + +
 X23: + + + +
 
-&SEpM13 = 3.3.5
+&Q000561 = SEpM13 = 3.3.5
 2. ensi₂ saŋŋa-ke₄ na-ab-bé-a
 N4: + + + + + + +
 N41: + + o o o o o
@@ -1905,7 +1905,7 @@ N53: o o o o o + + + + + +
 N76: + + + + + + + o o o o
 N77: o o o o o o o o o o .
 
-&SEpM14 = 5.7.a
+&Q000561 = SEpM14 = 5.7.a
 1. kišib₃ mu-sar ur-dun dam-gàr-ra ú-gu ba-an-dé
 N35: + + + + + + + +// + + + + +
 N48: o o o o o o o o/ o o ...
@@ -2029,7 +2029,7 @@ Ma1: o ... .
 X15: - + + + o bi
 X24: +e + - + +ta?
 
-&SEpM15 = 3.3.6
+&Q000561 = SEpM15 = 3.3.6
 1. šeš-ŋu₁₀-ne ù-na-dug₄
 N11: + + + + + +
 N19: o + + + + .
@@ -2106,7 +2106,7 @@ N19: + + + +
 N76: + + + o
 N80: + + + o
 
-&SEpM15 = 3.3.7
+&Q000561 = SEpM15 = 3.3.7
 1. lú di lú di ama-ŋu₁₀-ra
 N54: + + . + + + +
 N61: + + + + + + .
@@ -2181,7 +2181,7 @@ N74: . + + o
 N76: + + + +
 N85: . + + .
 
-&SEpM17 = 3.3.8
+&Q000561 = SEpM17 = 3.3.8
 1. {m} i-la-ak-ni-id ù-na-dug₄
 N15: - +* + + + + + + o
 N31: o . lu + + . o o o
@@ -2304,7 +2304,7 @@ N76: o o o o
 N77: + + + +
 Ma1: + + + .
 
-&SEpM18 = 3.3.9
+&Q000561 = SEpM18 = 3.3.9
 1. {m} {d} en-líl-mas-su inim dùg ad-gi₄ sag₉ kag làl
 N16: o o o o o o o o . gi + o o/
 N27: o + + + + o o o o o o o o/
@@ -2516,7 +2516,7 @@ Ur2: + + + + + ka - + + + + +/ + o o
 Ur8: + + + + + le - + + + + + + - +
 X22: + + + + + + -// + + + + - ba ab .
 
-&SEpM19 = 3.3.10
+&Q000561 = SEpM19 = 3.3.10
 1. {d} nin-tin- ug₅-ga agrig zid é-kur-ra
 N8: + + + + + + + + . o
 N17: + + + + + . o o o o
@@ -2807,7 +2807,7 @@ N76: o o + - +
 -X11: sa₄ ga ⸢x⸣ o o o
 X19: + + + . o
 
-&SEpM20 = 5.7.2
+&Q000562 = SEpM20 = 5.7.2
 1.  {m} lugal-nesaŋ -e dumu zu-zu um-mi-a nibru ki -ke₄
 N5: + + + + + + + + o + + . o
 N70: + + + + + . o o o o o o o
@@ -2931,7 +2931,7 @@ N60: + + + + + +/ + + + + + + + .
 Ma1: (traces)
 X11: + + + + + + ... + + + . .
 
-&SEpM21 = 3.3.11
+&Q000562 = SEpM21 = 3.3.11
 1. {m} {d} en-líl-mas-su ù-na-dug₄
 N5: o o . + o +/ o + a .
 N22: o o o o o o (traces)
@@ -2996,7 +2996,7 @@ N55: + + + +
 N56: + + + +
 N76: + + + +
 
-&SEpM22 = 3.3.12
+&Q000562 = SEpM22 = 3.3.12
 1. {m} lugal-ibila ù-na-dug₄
 N29: o + . o o o
 N64: + + + + + o
@@ -3086,7 +3086,7 @@ N76: + + + +
 N79: + + + +
 X4: + + o +
 
-&ANL1 = 3.3.20
+&Q000592 = ANL1 = 3.3.20
 1. diŋir-ŋá ù-na-dug₄
 N116: + + + +⸢a⸣ +
 N118: + + + + +
@@ -3128,7 +3128,7 @@ N116: + + + + + o o o o
 N118: + + + + . + + + .
 Su2: ba-ar-mé en tar-re
 
-&ANL6 = 3.3.34
+&Q000606 = ANL6 = 3.3.34
 1. {d} inana-an-dùl-du₁₀-[ga-ra ù-na-a-dug₄]
 N115: ... . .? o o o o o o
 2. {m} lú- {d} nin-urta ugula é- {d} nin-urta-ke₄
@@ -3156,7 +3156,7 @@ N115: o . + + + + o
 N111: . + + + o o o o o
 N115: . + + + + + + o o
 
-&ANL9 = 3.3.18
+&Q000590 = ANL9 = 3.3.18
 
 1. {m} diŋir-inim-sig-ga ù-na-a-dug₄
 N110: o o o ⸢x⸣ x + + - +
@@ -3256,7 +3256,7 @@ X18: o o o o o o o o o . + +
 N110: o . + + ... o + . +
 X18: o o o o o o o o o + .
 
-&ANL10 = 3.3.16
+&Q000592 = ANL10 = 3.3.16
 1. {m}nu-úr- {d} kab-ta-ra ù-na-a-dug₄
 N117: .+ + + + + + + . - .
 X24: ++ + + + + + + + + +
