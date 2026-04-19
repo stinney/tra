@@ -57,8 +57,8 @@
 17.	inim pu-úh-ru-um-ma šu-ba e₁₁-dè-bi mu-un-da-sì-ge
 #lem: inim[word]N; puhrum[assembly]N; šu[hand]N; ed[descend]; sig[put]
 
-18.	ŋeš-gin₇ tir-ŋá mu-un-dù-ù-nam mu-dur₇-re im-gam-me-en
-#lem: ŋeš[tree]; tir[forest]; du[to build, make]V/t; mudur[dirt]N; gam[bend]
+18.	ŋeš-gin₇ tir-ŋá mu-un-dù-ù-nam mu-dur₇-re im-gurum-me-en
+#lem: ŋeš[tree]; tir[forest]; du[to build, make]V/t; mudur[dirt]N; gurum[bend]
 
 19.	{ŋeš}gu-za-ŋá lú mu-un-da-lá-a šu-ŋu₁₀ ešé im-ma-lá
 #lem: guza[chair, stool]N; lu[person]N; la[to hang, balance, suspend]V/t; šu[hand]N; eše[a unit of length]N; la[to hang, balance, suspend]V/t
@@ -332,7 +332,7 @@ camp among the army, @lab{11}he should put them into service (elsewhere).
 #lem: kaŋirid[road]; lah[bring]
 
 17.	ugnim-zu nam-ba-lá-e
-#lem: ugnim[army, troops]N; la[less]
+#lem: ugnim[army, troops]N; lal[small]
 
 #note: Var (Ur11, X8): ugnim(-bi) te-a nam-ba-lá-e.
 18.	ul₄-la-bi ŋá-nam-ma
@@ -513,7 +513,7 @@ urgent!
 #lem: kituš[dwelling place]N; sar[to run, hasten]V/i
 
 13.	kíŋ-šè šu ì-ŋar-re-ne nam-bí-še-ga
-#lem: kiŋ[work]N; šu[hand]N; ŋar[to put, place, lay down]V/t; šega[obey]
+#lem: kiŋ[work]N; šu[hand]N; ŋar[to put, place, lay down]V/t; šeg[agree//obey]
 
 14.	iri dili-dili zag-ba zag-za en-nu-ùŋ-bi ak-ab
 #lem: iri[city]N; dili[(to be) single, unique, sole]V/i; zag[side]N; zag[side]N; ennuŋ[watch, guard]N; ak[to do]V/t
@@ -586,12 +586,13 @@ Atta-mannum) is stationing (his) troops there!”
 #lem: zaʾe[you]IP; dim[to create, fashion, make, manufacture]V/t; dumu[child, son, daughter]N; an[sky, heaven]N
 
 #note: ^1^ Uk2 gloss: [x?] wa /x\ [x] /ma?\-ra-ni.
+
 7.	dug₄-ga-zu inim diŋir-ra-gin₇ hur nu-gi₄-gi₄-dam^1^^2^
 #lem: dug[to speak, talk, say]V/t; inim[word]N; diŋir[deity, god, goddess]N; hur[ever (again)]AV; gi[to turn, return]V/i
 
 #note: ^1^ Uk2 gloss: hu-ur la ta-ar.
 #note: ^2^ Var (Ur4): dug₄-ga-zu inim diŋir-ra kur-kur nu-g[i₄-gi₄-dam].
-#note: ^2^ Var (Ur4): dug₄-ga-zu inim diŋir-ra kur-kur nu-g[i₄-gi₄-dam].
+
 8.	inim-zu im an-ta šèŋ-ŋe₂₆-gin₇ šid nu-du₁₂-du₁₂-dam
 #lem: inim[word]N; im[clay, mud]N; an[sky, heaven]N; šeŋ[to rain]V/i; šid[to count]V/t; tuku[have]
 
@@ -712,7 +713,7 @@ father’s estate. @lab{14}This my lord should know!
 #lem: aya[father]N; šag[heart]N; ur[root, trunk]N; gur[lift]; kita[lower]AJ; ŋar[to put, place, lay down]V/t
 
 20.	nin arhuš-a-ŋu₁₀ é-bi ba-kal igi nu-mu-ši-bar-re
-#lem: nin[lady]N; arhuš[compassion]N; e[house]N; kal[(to be) rare, valuable]V/i; igi[face]N; bar[cvne]
+#lem: nin[lady]N; arhuš[compassion]N; e[house]N; kal[(to be) rare, valuable]V/i; igi[face]N; bar[cvve]
 
 21.	ŋiš hul gurun nu-íl-la-gin₇ lú na-ma-ši-húl-le
 #lem: ŋeš[tree]N; hulu[(to be) bad, evil]V/i; gurun[fruit, flower]N; il[to raise, carry]V/t; lu[person]N; hul[to rejoice]V/i
@@ -1079,7 +1080,7 @@ Enlil.
 #lem: haš[break]
 
 11.	ga-mu-na-ab-silim
-#lem: silim[(to be) healthy//repair]'V/t
+#lem: silim[healthy//repair]V/i'V/t
 
 12.	ú-gu hé-ni-ib-dé-e
 #lem: ugu[cvne]N; de[to pour]V/t
@@ -1834,7 +1835,7 @@ countenance look (upon me) in accordance with Enlil’s command.
 #lem: asag[a demon]N; su[body]N; ŋal[⟦be⟧ to be (there, at hand, available)]V/i; su[body]N; zig[to rise]V/i
 
 21.	ki-in-DU nam-ti-la-ka ŋiri₃-ŋu₁₀ hé-bí-ib-gub-bé
-#lem: kindu[earth]; namtila[life]; ŋiri[foot]N; gub[to stand]V/i
+#lem: kindu[earth]; namtil[life]; ŋiri[foot]N; gub[to stand]V/i
 
 22.	ù ŋe₂₆-e geme₂-ni hé-me-en
 #lem: u[and]CNJ; ŋaʾe[I]IP; geme[female worker]N; me[to be]V/i
@@ -2055,7 +2056,7 @@ inheritance. @lab{15}It is urgent!
 #lem: emegir[the Sumerian language]N; gu[neck]N; šub[to fall]V/i
 
 4.	min₃-kam-ma-šè eme si sá-bi-šè lú mu-e-ši-in-gi₄-gi₄
-#lem: minkamak[second]; eme[tongue]N; si[horn]N; sa[to equal, compare, compete, rival]V/t; lu[person]N; gi[to turn, return]V/i
+#lem: minakamak[second]; eme[tongue]N; si[horn]N; sa[to equal, compare, compete, rival]V/t; lu[person]N; gi[to turn, return]V/i
 
 5.	lú-tur igi-zu-šè al-durun-ù-na
 #lem: lutur[child]N; igi[eye]N; durun[sit]
@@ -2219,7 +2220,7 @@ instructions. @lab{8}It is urgent!
 #lem: namšakkanak[governorship]; du[to go, imperfect singular stem of ŋen⟦to go⟧]V/i
 
 5.	[du]mu é-dub-ba-a tur-ta bul[uŋ₃]-šè
-#lem: dumu[child, son, daughter]N; edubbaʾa[scribal school]N; tur[(to be) small]V/i; buluŋ[raise]
+#lem: dumu[child, son, daughter]N; edubbaʾa[scribal school]N; tur[(to be) small]V/i; buluŋ[grow]
 
 6.	lú me-me-ta lú dub did[li]-šè
 #lem: lu[person]N; meme[a text, the scribal exercise me-me]N; lu[person]N; dub[tablet]N; didli[several, various]AJ
@@ -2329,7 +2330,7 @@ $ (Restorations based on Version B.)
 #lem: e[speak]
 
 4.	[{m}a-a-an-dùl] arad₂ nam-en-na {d}nin-urta-ke₄
-#lem: Aaʾandul; arad[slave, servant]N; namen[high priesthood]; Ninurtak[1]DN
+#lem: Aaʾandul; arad[slave, servant]N; namen[priesthood]; Ninurtak[1]DN
 
 5.	[a-a-{d}]nin-urta-ke₄ šu ba-an-ti-eš-ma
 #lem: Aaninurta[1]PN; šu[hand]N; teŋ[near]
@@ -2398,7 +2399,7 @@ agree to your ...
 #lem: a[arm]N; u; sa[to equal, compare, compete, rival]V/t; dug[to speak, talk, say]V/t
 
 8.	{m}a-a-an-dùl arad₂ nam-en-na é {d}nin-urta-ke₄
-#lem: X; arad[slave, servant]N; namen[high priesthood]; e[house]; Ninurtak[1]DN
+#lem: X; arad[slave, servant]N; namen[priesthood]; e[house]; Ninurtak[1]DN
 
 9.	a-an-{d}nin-urta-ke₄ šu ba-an-ti-me-eš
 #lem: X; šu[hand]N; teŋ[to approach]'V/t
@@ -2445,7 +2446,7 @@ received it. @lab{10}What ... did he transfer to its place? @lab{11}
 #lem: ud[day]N; tur[(to be) small]V/i; zu[know]
 
 4.	dumu-zu-ne-gin₇ n[am-n]i-buluŋ₃-e-zé-en
-#lem: dumu[child]; buluŋ[raise]
+#lem: dumu[child]; buluŋ[grow]
 
 5.	lú gi-na-gin₇ ⸢x⸣ [x] tuku-a-gin₇ igi bí-[x]-⸢x⸣-ni-gíd!?-dè-en
 #lem: lu[person]N; gin[true]; u; u; tuku[have]; igi[face]N; gid[long]
@@ -2547,7 +2548,7 @@ $ (rest fragmentary)
 #lem: Nibru[1]SN; edubbaʾa[scribal school]N; dili[(to be) single, unique, sole]V/i; me[to be]V/i; zu[to know, learn]V/t
 
 16.	[x (x)] nu-zu-a i-ra-an-dug₄-ma egir KA-KA-na e₁₁-dè-en
-#lem: u; u; zu[to know, learn]V/t; dug[speak]; egir[back, end, rear]N; kag[mouth]; ed[leave]
+#lem: u; u; zu[to know, learn]V/t; dug[speak]; egir[back, end, rear]N; kag[mouth]; e[leave]
 
 17.	[nam]-ŋu₁₀-šè nam-dub-sar-ra mu-da-zu-zu-a
 #lem: nam[fate, destiny]N; namdubsar[the scribal arts]N; zu[know]
@@ -2751,4 +2752,4 @@ $ beginning of reverse broken
 #lem: u; X
 
 7.	[...]-⸢x⸣-na ŋiri₃! lí-bí-in-DU
-#lem: u; ŋiri[foot]N; gud[stand]
+#lem: u; ŋiri[foot]N; gub[stand]
