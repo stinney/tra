@@ -32,7 +32,7 @@
 9.	ì-kala-ga lugal-ŋu₁₀ ga-ab-ús^1^
 #lem: kalag[strong]; lugal[king]N; us[to accompany, follow]V/t
 
-#note: ^1^ Vars.: kala-ga-me-en lugal-@u10 ga-ab-ús; kala-ga-me-en àga-ús-zu hé-me-en.
+#note: ^1^ Vars.: kala-ga-me-en lugal-ŋu10 ga-ab-ús; kala-ga-me-en àga-ús-zu hé-me-en.
 10.	igi-tuku igi-zu-šè ga-ŋen
 #lem: igituku[seeing]AJ; igi[eye]N; ŋen[to go]V/i
 
@@ -2243,7 +2243,7 @@ instructions. @lab{8}It is urgent!
 
 #note: ^1^ Collated, line left out of copy in PBS 12.
 12.	ù za-e uru₂-àm-ma-ir-ra-bi im-gíd-[...]
-#lem: u[and]CNJ; zaʾe[you]IP; Uruʾamairabi[1]ON; imgida[tablet]
+#lem: u[and]CNJ; zaʾe[you]IP; Uruʾamairabi[1]N; imgida[tablet]
 
 13.	lú im-gíd-da-ke₄-ne-ne ⸢x x x⸣ [...]
 #lem: lu[person]N; imgida[tablet]; u; u; u; u
@@ -2386,10 +2386,10 @@ agree to your ...
 #lem: e[speak]
 
 4.	é {d}nin-urta é-šu-<me>-ša₄ hé-a-du-du-du
-#lem: e[house]; Ninurtak[1]DN; Ešumeša[1]TN; X
+#lem: e[house]; Ninurtak[1]DN; Ešumeša[1]TN; du[go]
 
 5.	nam ⸢gur₅?⸣-uš-a-zu ba-ab-bu-ús-sá
-#lem: nam[fate, destiny]N; X; X
+#lem: nam[fate, destiny]N; guruš[trim]; us[check]
 
 6.	ni[bru]{ki#}-šè ⸢kíŋ⸣-gi₄-a-zu ba-ab-de₆
 #lem: Nibru[1]SN; kiŋgia[messenger]N; de[to carry]V/t
@@ -2448,10 +2448,10 @@ received it. @lab{10}What ... did he transfer to its place? @lab{11}
 #lem: dumu[child]; buluŋ[raise]
 
 5.	lú gi-na-gin₇ ⸢x⸣ [x] tuku-a-gin₇ igi bí-[x]-⸢x⸣-ni-gíd!?-dè-en
-#lem: lu[person]N; X; u; u; X; igi[face]N; u
+#lem: lu[person]N; gin[true]; u; u; tuku[have]; igi[face]N; gid[long]
 
 6.	[x] ⸢x⸣ si sá ⸢x⸣ [x] ma-ni-ib-gi₄-gi₄-zé-en
-#lem: u; u; si[horn]N; sa[to equal, compare, compete, rival]V/t; u; u; X
+#lem: u; u; si[horn]N; sa[to equal, compare, compete, rival]V/t; u; u; gi[return]
 
 7.	($traces$) [... b]a-an-ráh-an-na
 #lem: u; rah[beat]
@@ -2468,13 +2468,13 @@ $ beginning of reverse broken
 #lem: u; u
 
 11.	[x-(x)] lú-kúr-ni [x] ⸢x⸣ al-|KA×X|-|KA×X|-ne
-#lem: u; X; u; u; X
+#lem: u; lukur[stranger]; u; u; X
 
 12.	[x]-e lú-kúr-⸢zu?⸣ ⸢x⸣ tur-ra-zu-ne bí-⸢x⸣-dé-⸢en⸣
-#lem: dug[to speak, talk, say]V/t; X; u; X; u
+#lem: u; lukur[stranger]; X; tur[small]; X; u
 
 13.	nam-sa₆-ga-ne ⸢x⸣ nibru{ki} dù-a-bi gàr? BU ⸢x⸣-ak-ne
-#lem: X; u; Nibru[1]SN; du[(to be) all]V/i; gar[knob]N; gid[to drag, tow (a boat upstream)]V/t; u
+#lem: namsag[pleasure]; u; Nibru[1]SN; du[(to be) all]V/i; X; X; ak[do]
 
 14.	ŋá-e nam-sa₆-ga ⸢x⸣ li-bí-ib-x HI ⸢x⸣ [x]-zu-en
 #lem: ŋaʾe[I]IP; namsag[pleasure]N; u; u; HI[cvne]N; u; u
@@ -2485,11 +2485,8 @@ $ beginning of reverse broken
 
 @translation labeled en project
 
-
-
 @(1)Say to my colleagues, @lab{2} thus says Nabi-Enlil, the scribe ... their
 brother ...
-
 
 @(3)From youth we learned ... @lab{4}You raised me like your child. @lab{5}Like
 righteous men, we did not frown like one who had ... @lab{6}For me you
@@ -2508,52 +2505,52 @@ $ (rest fragmentary)
 #lem: X; dug[to speak, talk, say]V/t
 
 2.	{m}na-bi-{d}en-líl dub-sar dumu saŋ-{d}en-líl-lá-ke₄
-#lem: Nabienlil[1]PN; dubsar[scribe]N; dumu[child, son, daughter]N; X
+#lem: Nabienlil[1]PN; dubsar[scribe]N; dumu[child, son, daughter]N; Saŋenlila[1]PN
 
 3.	na-ab-bé-a
 #lem: e[speak]
 
 4.	[ŋe₂₆-e] ne-e níŋ bí-a-ak
-#lem: ŋaʾe[I]IP; nen[this]DP; niŋ[thing, possession]N; X
+#lem: ŋaʾe[I]IP; nen[this]DP; niŋ[thing, possession]N; ak[do]
 
 5.	di₄-di₄-lá-e-ne nibru{ki} ir-si-im hé-ak-ne
-#lem: X; Nibru[1]SN; irsim[fragrance]N; ak[to do]V/t
+#lem: didila[infant]; Nibru[1]SN; irsim[fragrance]N; ak[to do]V/t
 
 6.	mu-da 3-kam-ma-ta lú-da im-mi-in-gi₄
 #lem: mu[year]N; n; lu[person]N; gi[to turn, return]V/i
 
-7.	ki al-dúr-ru-ne-eš-àm é-um-mi-a-ka ù igi-ŋá nu-sag₉
-#lem: ki[place]N; X; X; u[and]CNJ; igi[eye]N; sag[(to be) good, sweet, beautiful]V/i
+7.	ki al-dúr-ru-ne-eš-àm é um-mi-a-ka ù igi-ŋá nu-sag₉
+#lem: ki[place]N; durun[sit]; e[house]; ummia[expert]; u[and]CNJ; igi[eye]N; sag[(to be) good, sweet, beautiful]V/i
 
 8.	ù lú al-tur-ra {m}KA-{d}nin-urta-ra in-na-dug₄
-#lem: u[and]CNJ; lu[person]N; tur[(to be) ill, sick]V/i; X; dug[to speak, talk, say]V/t
+#lem: u[and]CNJ; lu[person]N; tur[(to be) ill, sick]V/i; KA.ninurta[1]PN; dug[to speak, talk, say]V/t
 
-9.	mu é-um-mi-a-ŋá-ke₄ kag₂-ŋu₁₀ nu-ba
-#lem: mu[year]N; X; X; ba[to allot]V/t
+9.	mu é um-mi-a-ŋá-ke₄ kag₂-ŋu₁₀ nu-ba
+#lem: mu[year]N; e[house]; ummia[expert]; kag[mouth]; bad[open]
 
 10.	a-da-al ki al-dúr-ru-ne-eš-a é-dub-ba-a gi-na in-nu
-#lem: adal[an exclamation, `now', `right now']MA; ki[place]N; X; edubbaʾa[scribal school]N; gin[(to be) firm, permanent]V/i; inu[straw]N
+#lem: adal[an exclamation, `now', `right now']MA; ki[place]N; durun[sit]; edubbaʾa[scribal school]N; gin[(to be) firm, permanent]V/i; nu[not]
 
 11.	nam-dub-sar-ra nu-mu-un-da-zu-zu
 #lem: namdubsar[the scribal arts]N; zu[to know, learn]V/t
 
-12.	ka-inim-ma 20-àm 30-àm nu-mu-un-da-šid
-#lem: kaʾinimak[incantation formula]N; n; ušu[thirty]NU; X
+12.	ka-inim-ma niš-àm ušu₃-àm nu-mu-un-da-šid
+#lem: kaʾinimak[incantation formula]N; niš[twenty]; ušu[thirty]NU; šid[count]
 
-13.	èn-du 10-àm 20-àm nu-mu-un-da-bal
-#lem: endu[a song]N; u[ten]NU; n; X
+13.	èn-du u-àm niš-àm nu-mu-un-da-bal
+#lem: endu[a song]N; u[ten]NU; niš[twenty]; bala[turn]
 
-14.	dub-saŋ-ta é-um-mi-a-ŋá-ka kag₂-ŋu₁₀ nu-ba-e-en
-#lem: dubsaŋ[first]AJ; X; X; X
+14.	dub-saŋ-ta é um-mi-a-ŋá-ka kag₂-ŋu₁₀ nu-ba-e-en
+#lem: dubsaŋ[first]AJ; e[house]; ummia[expert]; kag[mouth]; bad[open]
 
 15.	nibru{ki}-a é-dub-ba-a dili-àm al-me-a nu-e-zu
 #lem: Nibru[1]SN; edubbaʾa[scribal school]N; dili[(to be) single, unique, sole]V/i; me[to be]V/i; zu[to know, learn]V/t
 
 16.	[x (x)] nu-zu-a i-ra-an-dug₄-ma egir KA-KA-na e₁₁-dè-en
-#lem: u; u; zu[to know, learn]V/t; X; egir[back, end, rear]N; X; X
+#lem: u; u; zu[to know, learn]V/t; dug[speak]; egir[back, end, rear]N; kag[mouth]; ed[leave]
 
 17.	[nam]-ŋu₁₀-šè nam-dub-sar-ra mu-da-zu-zu-a
-#lem: nam[fate, destiny]N; namdubsar[the scribal arts]N; X
+#lem: nam[fate, destiny]N; namdubsar[the scribal arts]N; zu[know]
 
 18.	nibru{ki} ì-si-in{ki}-na dù-a-bi èn tar-bi
 #lem: Nibru[1]SN; Isin[1]SN; du[(to be) all]V/i; en[cvne]N; tar[to cut]V/t
@@ -2562,28 +2559,28 @@ $ (rest fragmentary)
 #lem: kaʾinimak[incantation formula]N; endu[a song]N; narua[stele]N; emegir[the Sumerian language]N; katar[praise]N
 
 20.	[x (x)] zà nam-gala-šè ga-ne-eb-zu-zu
-#lem: u; u; zag[side]N; namgala[the art of lamentation singing]N; X
+#lem: u; u; zag[side]N; namgala[the art of lamentation singing]N; zu[know]
 
 21.	[nibru]{ki#}-gin₇-nam ki-gal-la ga-ne-eb-gub
-#lem: X; kigal[platform, pedestal]N; X
+#lem: Nibru[1]SN; kigal[platform, pedestal]N; gub[stand]
 
 22.	[x x] kug-sig₁₇ 1 gún kug-babbar ugu-ne-ne-a ga-me-eb-ŋar
-#lem: u; u; kugsig[gold]N; diš[one]NU; gun[a unit of weight, talent]N; kugbabbar[silver]N; ugu[skull, pate]N; X
+#lem: u; u; kugsig[gold]N; diš[one]NU; gun[a unit of weight, talent]N; kugbabbar[silver]N; ugu[skull, pate]N; ŋar[put]
 
 23.	[...] da-ra nam-bí-šub-bé-en
 #lem: u; da[line, edge, side]N; šub[to fall]V/i
 
 24.	di₄-di₄-lá-e-ne inim x nam-bí-ib-dù-e-en
-#lem: X; inim[word]N; u; X
+#lem: didila[infant]; inim[word]N; u; X
 
 25.	nam-dub-sar-ra nam-bí-ib-dib-bé-en
-#lem: namdubsar[the scribal arts]N; X
+#lem: namdubsar[the scribal arts]N; dib[pass by]
 
 26.	[x x] a-la-la izi lú-ša hé-zu-zu-ne
-#lem: u; u; alala[soothing expression]J; izi[fire]N; X; X
+#lem: u; u; alala[soothing expression]J; Izi[izi]N/izi#~; +luša[lu₂=ša]N/lu₂-ša#~; zu[know]
 
 27.	[u₄]-da egir-bi-šè eme-sig nam-bí-gu₇-gu₇
-#lem: ud[day]N; egir[back, end, rear]N; emesig[plank]N; X
+#lem: ud[day]N; egir[back, end, rear]N; emesig[slander]N; gu[eat]
 
 
 @translation labeled en project
@@ -2591,12 +2588,10 @@ $ (rest fragmentary)
 
 
 @(1)Say to Diŋir-inim-siga @lab{3}thus says @lab{2}Nabi-Enlil, the scribe, the son of
-Sa@-Enlila:
-
+Saŋ-Enlila:
 
 @(4)This is what I have done (so that) @lab{5}the youngsters would get a whiff
 of Nippur!
-
 
 @(6)For three years I have been replaced with someone. @lab{8}I told
 KANinurta @lab{7}that the place they (the youngsters) were staying was
@@ -2622,7 +2617,6 @@ to and including the lamentation corpus! @lab{21}I will establish it for them
 in a great place, just like Nippur is! @lab{22}I will deposit [n (units)] of gold
 (and) 1 talent of silver to their credit.
 
-
 @(23)Do not neglect ...! @lab{24}Do not keep the kids from ... speech! @lab{25}Do
 not let them bypass (any aspect of ) the curriculum! @lab{26}They should
 learn ..., the alala songs, (as well as) the series izi and lú-ša. @lab{27}(If so,
@@ -2644,19 +2638,19 @@ then) in the future, I shall never complain again!^2^
 #lem: X; e[speak]
 
 3.	za-e zabar-dab₅ ù nar-gal-e
-#lem: zaʾe[you]IP; zabardab[an official]N; u[and]CNJ; X
+#lem: zaʾe[you]IP; zabardab[an official]N; u[and]CNJ; nargal[musician]
 
 4.	kù-{d}nin-líl-lá abul-mah-a haš₄ dab₅-bé-da-en-zé-en
-#lem: X; X; haš[thigh]N; X
+#lem: Kugninlila[1]PN; Abulmah[1]ON; haš[thigh]N; dab[seize]
 
-5.	a-šà gi₄-gi₄-dè ur-{d}suen-a [...] x lugal-ŋu₁₀ nam-maškim ì-tuku e-⸢x⸣-[...]
-#lem: ašag[field]N; gi[to turn, return]V/i; X; u; u; lugal[king]N; nammaškim[office of maškim]N; tuku[to acquire, get]V/t; u
+5.	a-šà gi₄-gi₄-dè ur-{d}suen-a [...] x-lugal-ŋu₁₀ nam-maškim ì-tuku e-⸢x⸣-[...]
+#lem: ašag[field]N; gi[to turn, return]V/i; Ursuenak[1]PN; u; x.lugal.ŋu[0]PN; nammaškim[office of maškim]N; tuku[to acquire, get]V/t; u
 
 6.	tukum-bi šà gi-na-zu-ta šeš-ŋu₁₀-me-en
-#lem: tukum[if]CNJ; šag[heart]N; X; X
+#lem: tukum[if]CNJ; šag[heart]N; gin[true]; šeš[brother]
 
 7.	di-ŋu₁₀ |LÚ×GAN₂@t|-éš na-an-ne-en
-#lem: did[lawsuit, trial]N; X; e[speak]
+#lem: did[lawsuit, trial]N; heše[oppressed]; e[speak]
 
 8.	mu di-da-ka-ni igi-zu-šè KA bal-e
 #lem: mu[year]N; did[lawsuit, trial]N; igi[eye]N; KA[unmng]N; bala[to turn, rotate, turn over]V/t
@@ -2676,7 +2670,7 @@ then) in the future, I shall never complain again!^2^
 
 
 @(3)When you (together with) the zabardab and the chief singer, @lab{4}detained
-Ku-Ninlila at the Abulmah gate, @lab{5}Ur-Sin procured ... -lugal@u (to act)
+Ku-Ninlila at the Abulmah gate, @lab{5}Ur-Sin procured ... -lugalŋu (to act)
 as baliff in order to (obtain) the return of the ﬁeld.
 
 
@@ -2703,19 +2697,19 @@ sending you a man. You must not neglect him! @lab{10}It is urgent!
 #lem: u; u; e[speak]
 
 5.	[(x) luga]l-zid-a iti {d}nin-MUG zàh-da-bi-ta
-#lem: u; X; itud[month]N; X; X
+#lem: u; Lugalzida[1]PN; itud[month]N; Ninmug[1]DN; zah[disappear]
 
 6.	[x x (x)] siki-ke₄ ⸢x x x x⸣ [x]
 #lem: u; u; u; X; u; u; u; u; u
 
 7.	[x] ⸢ba⸣-a[n ...]
-#lem: u; ban[a unit of capacity]N; u
+#lem: u; u; u
 
 8.	[x]-in-⸢x⸣-[...]
 #lem: u
 
 9.	⸢x⸣-bi ba-[...]
-#lem: X[1]RN; u
+#lem: u; u
 
 10.	[a-m]a-ru-[kam]
 #lem: amaru[flood]N
@@ -2723,10 +2717,7 @@ sending you a man. You must not neglect him! @lab{10}It is urgent!
 
 @translation labeled en project
 
-
-
 @(1 - 2)Say to Enlil-bani, @lab{3-4}thus says ... -Kabta ...:
-
 
 @(5)After Lugal-zida escaped in the month of Ninmug, @lab{4 lines unclear}
 
@@ -2746,7 +2737,7 @@ sending you a man. You must not neglect him! @lab{10}It is urgent!
 #lem: u; u; sag[to strike, beat]V/t
 
 3.	[...] ⸢lah₄?⸣-eš-àm
-#lem: u; X
+#lem: u; lah[bring]
 
 4.	[...] ⸢bí-in⸣-[...]
 #lem: u; u
@@ -2760,4 +2751,4 @@ $ beginning of reverse broken
 #lem: u; X
 
 7.	[...]-⸢x⸣-na ŋiri₃! lí-bí-in-DU
-#lem: X.x.na[00]DN; ŋiri[foot]N; X
+#lem: u; ŋiri[foot]N; gud[stand]
