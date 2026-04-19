@@ -22,7 +22,7 @@
   <option name="outline-default-sort-labels" value="period,ruler"/>
   <option name="outline-default-catalog-fields" value="designation,primary_edition,distribution"/>
   <option name="outline-default-catalog-widths" value="25,35,35"/>
-  <option name="%sux" value=". epsd2/literary epsd2/names epsd2"/>
+  <option name="%sux" value=". epsd2 epsd2/names"/>
   <option name="sum-alias" value="yes"/>
   <option name="fuzzy-alias" value="yes"/>
   <option name="gh-user" value="stinney"/>
