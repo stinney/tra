@@ -1,0 +1,585 @@
+@project	epsd2
+@name		epsd2/sux
+@lang		sux
+
+@entry GIŠ.NE@s [fruit] N
+@bases |GIŠ.NE@s|-|GIŠ.NE@s|
+@form {ŋeš}gibil-{ŋeš}gibil /|GIŠ.NE@s|-|GIŠ.NE@s| #~
+@sense N fresh fruit
+@end entry
+
+@entry Izi [Izi] N
+@bases izi
+@form izi /izi #~
+@sense N	the series Izi
+@end entry
+
+@entry Uruʾamairabi [1] N
+@bases uru₂-am₃-ma-ir-ra-bi
+@form uru₂-am₃-ma-ir-ra-bi /uru₂-am₃-ma-ir-ra-bi #~
+@sense N	the series Uru amirabi
+@end entry
+
+@entry ak [do] V/t
+@bases a-ak; ak; x-ak-ne
+@form x-ak-ne /x-ak-ne #x:~;ene
+@form bi₂-a-ak /a-ak #ba.i:~
+@form ib₂-ak-e /ak #V.b:~;e
+@sense V/t to do
+@end entry
+
+@entry akan [nipple] N
+@bases akan
+@form akan{a-ka-an} /akan #~
+@sense N nipple
+@end entry
+
+@entry bad [open] V/t
+@bases ba
+@form nu-ba /ba #nu:~
+@form nu-ba-e-en /ba #nu:~;e.en
+@sense V/t to open, undo
+@end entry
+
+@entry bala [turn] V/t
+@bases bal-la; bala
+@form bal-la-ŋa₂-a-gin₇ /bal-la #~;*a,ŋu.ak.gin
+@form nu-mu-un-da-bal /bala #nu.mu.n.da:~
+@sense V/t to turn, rotate, turn over
+@end entry
+
+@entry bar [cvve] V/t
+@bases bar
+@form nu-mu-ši-bar-re /bar +-re=r.e #nu.mu.ši:~;e
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry buluŋ [grow] V/t
+@bases buluŋ₃
+@form buluŋ₃-še₃ /buluŋ₃ #~;*a,eše
+@form nam-ni-buluŋ₃-e-ze₂-en /buluŋ₃ #na.V.m.ni:~;e.enzen
+@sense V/t to grow, bring up, rear, nurture
+@end entry
+
+@entry dab [seize] V/t
+@bases dab₅
+@form ba-dab₅-be₂ /dab₅ +-be₂=b.e #ba:~;e
+@form dab₅-be₂-da-en-ze₂-en /dab₅ #~;e.*a,da.men
+@form mu-da-an-dab₅-be₂-eš /dab₅ +-be₂=b.e #mu.da.n:~;e.eš
+@sense V/t to seize, take, hold
+@end entry
+
+@entry daggi [quarter] N
+@bases dag-gi₄
+@form dag-gi₄-a-me /dag-gi₄ #~,ak.me
+@sense N city quarter
+@end entry
+
+@entry daŋal [wide] V/i
+@bases daŋal
+@form daŋal-ŋu₁₀-še₃ /daŋal #~;*a.ŋu,eše
+@sense V/i (to be) wide, broad
+@end entry
+
+@entry de [carry] V/t
+@bases de₆; de₆-de₆
+@form de₆-de₆-e /de₆-de₆ #~;e
+@form la-ba-ni-de₆ /de₆ #nu.ba.ni:~
+@sense V/t to carry
+@end entry
+
+@entry dib [pass] V/t
+@bases dib; dib₂
+@form ba-an-dib₂ /dib₂ #ba.n:~
+@form nam-bi₂-ib-dib-be₂-en /dib +-be₂=b.e #na.ba.i.b:~;e.en
+@sense V/t to pass, go along
+@end entry
+
+@entry didila [smaller] V/i
+@bases di₄-di₄-la₂
+@form di₄-di₄-la₂-e-ne /di₄-di₄-la₂ #~;e.ene
+@sense V/i (to be) small(er)
+@end entry
+
+@entry didli [several] AJ
+@bases didli
+@form didli-zu /didli #~;zu
+@sense AJ several, various
+@end entry
+
+@entry dili [single] V/i
+@bases dili
+@form dili /dili #~
+@sense NU V/i:(to be) single, unique, sole
+@end entry
+
+@entry dim [create] V/t
+@bases dim₂
+@form u₃-me-dim₂ /dim₂ #u.mu.e:~
+@sense V/t to create, fashion, make, manufacture
+@end entry
+
+@entry dirig [exceed] V/i
+@bases dirig
+@form ba-ab-dirig-ge-en /dirig +-ge=g+e #ba.b:~;e.en
+@form ha-ma-dirig /dirig #ha.mu.a:~
+@sense V/i to exceed, to be more than, surpass
+@end entry
+
+@entry du [go] V/i
+@bases du-du-du
+@form he₂-a-du-du-du /du-du-du #ha.V.a:~
+@sense V/i to go, imperfect singular stem of ŋen⟦to go⟧
+@end entry
+
+@entry dub [tablet] N
+@bases {im}dub
+@form {im}dub-ba-ne-ne /{im}dub +-ba=b.a #~,anene
+@sense N tablet
+@end entry
+
+@entry dug [speak] V/t
+@bases dug₄
+@form i-ra-an-dug₄-ma /dug₄ #V.ra.n:~;ma
+@sense V/t to speak, talk, say
+@end entry
+
+@entry duga [command] N
+@bases dug₄-ga₁₄
+@form dug₄-ga₁₄(KA) /dug₄-ga₁₄ #~
+@sense N command
+@end entry
+
+@entry duh [loosen] V/t
+@bases duh
+@form he₂-ni-in-du₈ /duh #ha.V.ni.n:~
+@sense V/t to loosen, release
+@end entry
+
+@entry dumu [child] N
+@bases dumu
+@form dumu-zu-ne-gin₇ /dumu #~,zunene.gin
+@sense N child, son, daughter
+@end entry
+
+@entry dun [to be subordinated] V/i
+@bases du₂₄(DUN)
+@form ba-ab-du₂₄(DUN) /du₂₄(DUN) #ba.b:~
+@sense V/i to be subordinated
+@end entry
+
+@entry durun [sit] V/i
+@bases durun; dur₂-ru-n·e
+@form al-dur₂-ru-ne-eš-a /dur₂-ru-n·e +-ne=n+e #al:~;e.eš.a
+@form al-dur₂-ru-ne-eš-am₃ /dur₂-ru-n·e +-ne=n+e #al:~;e.eš.am
+@form al-durun-u₃-na /durun #al:~;e.en.a
+@sense V/i to sit, plural stem of tuš⟦to sit (down)⟧
+@end entry
+
+@entry e [leave] V/i
+@bases e·n
+@form e₁₁-de₃-en /e·n #~;enden
+@sense V/i to leave, go out
+@end entry
+
+@entry e [speak] V/t
+@bases e
+@form mu-ni-ib-e /e #mu.ni.b:~
+@sense V/t to speak, perfect plural and imperfect stem of dug⟦to speak⟧
+@end entry
+
+@entry ere [go] V/i
+@bases re₇
+@form i-im-re₇-en-na /re₇ #V.m:~;en.a
+@sense V/i to go (perfect plural stem of ŋen⟦to go⟧)
+@end entry
+
+@entry gaʾar [cheese] N
+@bases ga-ara₂
+@form ga-ara₂ /ga-ara₂ #~
+@sense N cheese
+@end entry
+
+@entry gi [turn] V/i
+@bases gi₄; gi₄-gi₄
+@form gi₄-ma-ab /gi₄ #~!mu.a.b
+@form hu-mu-e-gi₄ /gi₄ #ha.mu.e:~
+@form hu-mu-un-in-gi₄-gi₄ /gi₄-gi₄ #ha.mu.n:~
+@form ma-ni-ib-gi₄-gi₄-ze₂-en /gi₄-gi₄ #mu.a.ni.b:~;enzen
+@sense V/i to turn, return
+@end entry
+
+@entry gid [long] V/i
+@bases gid₂
+@form bi₂-x-x-ni-gid₂-de₃-en /gid₂ #ba.i.x.x.ni:~;e-en
+@form mu-gid₂-eš /gid₂ #mu:~;eš
+@sense V/i (to be) long
+@end entry
+
+@entry gin [firm] V/i
+@bases gen₇; gin₆
+@form gi-na-gin₇ /gen₇ #~;*a,gin
+@form gi-na-zu-ta /gin₆ #~;*a.zu,ta
+@sense V/i (to be) firm, permanent
+@end entry
+
+@entry gu [eat] V/t
+@bases gu₇; gu₇-gu₇
+@form nam-bi₂-gu₇-gu₇ /gu₇-gu₇ #na.ba.i:~
+@form ub-gu₇ /gu₇ #u.V.b:~
+@sense V/t to eat, consume
+@end entry
+
+@entry gub [a stand] N
+@bases gub; DU
+@form li₂-bi₂-in-DU /DU #nu.ba.i.n:~
+@form ga-ne-eb-gub /gub #ga.V.ne.b:~
+@sense N a stand
+@end entry
+
+@entry gurum [bend] V/t
+@bases gurum
+@form im-gurum-me-en /gurum +-me=m+e #V.m:~;e.en
+@sense V/t to bend, curve, wrap around
+@end entry
+
+@entry guruš [cut] V/t
+@bases guru₅
+@form gur₅-uš-a-zu /guru₅ #~;eš.a.zu
+@sense V/t to cut, fell, trim, peel off
+@end entry
+
+@entry haš [break] V/t
+@bases haš
+@form he₂-eb₂-ta-haš-e /haš #ha.V.b.ta:~;e
+@sense V/t to break off
+@end entry
+
+@entry hedab [worker] N
+@bases lu₂-dab₅
+@form lu₂-dab₅-ne-ne /lu₂-dab₅ #~,anene
+@sense N a worker
+@end entry
+
+@entry hul [rejoice] V/i
+@bases hul₂
+@form ba-hul₂-en /hul₂ #ba:~;en
+@sense V/i to rejoice
+@end entry
+
+@entry imgida [tablet] N
+@bases im-gid₂-da; im-gid₂-x
+@form im-gid₂-x /im-gid₂-x #~
+@form im-gid₂-da-ke₄-ne-ne /im-gid₂-da #~,ak.anene.e
+@form im-gid₂-da-ne-ne /im-gid₂-da #~,anene
+@sense N a type of tablet
+@end entry
+
+@entry imšuk [tablet] N
+@bases im-šu-k·a
+@form im-šu-ka-ne-ne /im-šu-k·a +-ka=k.a #~,anene
+@sense N a small tablet
+@end entry
+
+@entry ineš [now] MA
+@bases ne-eš
+@form ne-eš /ne-eš #~
+@sense MA now
+@end entry
+
+@entry kaŋirid [road] N
+@bases ka-ŋiri₃
+@form ka-ŋiri₃-za /ka-ŋiri₃ #~,zu.ak
+@sense N road, path
+@end entry
+
+@entry lah [bring] V/t
+@bases lah₄; lah₅
+@form lah₅-am₃ /lah₅ #~;am
+@form lah₄-eš-am₃ /lah₄ #~;eš.am
+@sense V/t plural stem of tum ⟦bring⟧
+@end entry
+
+@entry lal [small] V/i
+@bases lal
+@form nam-ba-la₂-e /lal #na.ba:~;e
+@sense V/i (to be) small, little
+@end entry
+
+@entry lukur [stranger] N
+@bases lu₂-kur₂
+@form lu₂-kur₂-ni /lu₂-kur₂ #~,ani
+@form lu₂-kur₂-zu /lu₂-kur₂ #~,zu
+@sense N stranger, foreigner
+@end entry
+
+@entry mur [dress] V/i
+@bases mur₁₀
+@form mi-ni-mu₄-ra /mur₁₀ #mu.i:~;
+@sense V/i to dress, get dressed, clothe oneself
+@end entry
+
+@entry namsag [pleasure] N
+@bases nam-sa₆
+@form nam-sa₆-ga-ne /nam-sa₆ +-ga=g.a #~,ene
+@sense N pleasure
+@end entry
+
+@entry namšakkanak [governorship] N
+@bases nam-šagina
+@form nam-šagina-bi-še₃ /nam-šagina #~,bi.eše
+@sense N governorship
+@end entry
+
+@entry nargal [musician] N
+@bases nar-gal
+@form nar-gal-e /nar-gal #~,e
+@sense N chief musician
+@end entry
+
+@entry niŋkas [account] N
+@bases niŋ₂-kas₇
+@form niŋ₂-kas₇-ne-ne-še₃ /niŋ₂-kas₇ #~,anene.eše
+@sense N account
+@end entry
+
+@entry niŋrah [wound] N
+@bases niŋ₂-ra-ah
+@form niŋ₂-ra-ah-a /niŋ₂-ra-ah #~,ak
+@sense N wound
+@end entry
+
+@entry niš [twenty] NU
+@bases niš
+@form niš-am₃ /niš #~,am
+@sense NU twenty
+@end entry
+
+@entry pad [find] V/t
+@bases pad₃
+@form nu-mu-un-da-pad₃ /pad₃ #nu.mu.n.da:~
+@sense V/t to find, discover
+@end entry
+
+@entry peš [thick] V/i
+@bases peš
+@form ba-peš /peš #ba:~
+@sense V/i (to be) thick
+@end entry
+
+@entry rah [beat] V/t
+@bases ra-ra; rah₂
+@form ba-an-rah₂-an-na /rah₂ #ba.n:~;en.a
+@form um-mi-ib₂-ra-ra /ra-ra #u.Vmma.i.b:~
+@sense V/t to beat, kill
+@end entry
+
+@entry sag [beat] V/t
+@bases sag₃
+@form ib₂-sag₃-ge-eš /sag₃ +-ge=g+e #V.b:~;e.eš
+@sense V/t to strike, beat
+@end entry
+
+@entry sag [good] V/i
+@bases sag₉; sag₉-sag₉
+@form sa₆-sa₆-ŋa₂ /sag₉-sag₉ #~;*a,ŋu.ak
+@form u₃-ba-an-sa₆-ga /sag₉ #u.ba.n:~;
+@sense V/i (to be) good, sweet, beautiful
+@end entry
+
+@entry sar [write] V/t
+@bases sar
+@form ab-sar-e /sar #V.b:~;e
+@sense V/t to write
+@end entry
+
+@entry sig [equal] V/t
+@bases sig₁₀
+@form mu-da-an-sig₁₀ /sig₁₀ #mu.da.n:~
+@sense V/t to equal
+@end entry
+
+@entry sig [flatten] V/t
+@bases si-ge-en
+@form ib₂-si-ge-en /si-ge-en #V.b:~
+@sense V/t to flatten, lay flat
+@end entry
+
+@entry silim [healthy] V/i
+@bases silim
+@form silim-ma-zu /silim #~;zu
+@form ga-mu-na-ab-silim /silim #ga.mu.na.b:~
+@sense V/i (to be) healthy
+@sense V/t	to repair
+@end entry
+
+@entry sug [stand] V/i
+@bases su₈-g·e
+@form he₂-em-ma-su₈-ge-eš /su₈-g·e +-ge=g+e #ha.Vmma:~;e.eš
+@sense V/i to stand, plural stem of gub⟦to stand⟧
+@end entry
+
+@entry taka [abandon] V/t
+@bases taka₄
+@form taka₄-en-na-zu /taka₄ #~;en.a.zu
+@sense V/t to set aside, leave behind, abandon, reject
+@end entry
+
+@entry teŋ [near] V/i
+@bases teŋ₄
+@form ba-an-ti-eš-ma /teŋ₄ #ba.n:~;eš.ma
+@sense V/i (to be) near to
+@end entry
+
+@entry til [complete] V/i
+@bases til
+@form i-ni-til /til #V.i:~
+@form nu-mu-un-da-til-en /til #nu.mu.n.da:~;en
+@sense V/i (to be) complete, completed
+@end entry
+
+@entry tir [forest] N
+@bases tir
+@form tir-ŋa₂ /tir #~,ŋu.ak
+@sense N forest, wood
+@end entry
+
+@entry tu [cvve] V/t
+@bases tu₅-tu₅
+@form mi-ni-ib₂-tu₅-tu₅-a /tu₅-tu₅ #mu.i.b:~;a
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry tuku [acquire] V/t
+@bases tuku
+@form tuku-a-gin₇ /tuku #~;a,gin
+@form tuku-ne-ne /tuku #~;ene.*a,ene
+@sense V/t to acquire, get
+@end entry
+
+@entry tukul [weapon] N
+@bases {ŋeš}tukul
+@form {ŋeš}tukul-bi-da /{ŋeš}tukul #~,bida
+@sense N weapon
+@end entry
+
+@entry tum [bring] V/t
+@bases DU-DU; tum₃
+@form i₃-DU-DU-en /DU-DU #V:~;en
+@form nam-ba-tum₃ /tum₃ #na.ba:~
+@sense V/t to bring
+@end entry
+
+@entry tur [small] V/i
+@bases tur
+@form tur-ra-zu-ne /tur #~;zu.ne
+@sense V/i (to be) small
+@end entry
+
+@entry ummia [expert] N
+@bases um-mi-a
+@form um-mi-a-ŋa₂-ke₄ /um-mi-a #~,ŋu.ak.e
+@sense N expert
+@end entry
+
+@entry us [follow] V/t
+@bases us₂
+@form ba-ab-bu-us₂-sa₂ /us₂ +-sa₂=s.a #ba.b:~;a
+@sense V/t to accompany, follow
+@end entry
+
+@entry zah [disappear] V/i
+@bases zah₃
+@form zah₃-da-bi-ta /zah₃ #~;de.a,bi.ta
+@sense V/i to disappear, flee
+@end entry
+
+@entry zarah [wailing] N
+@bases zarah
+@form zarah-am₃ /zarah #~,am
+@sense N wailing, lamentation
+@end entry
+
+@entry zig [rise] V/i
+@bases zi-zi-i; zig
+@form ib₂-zi-zi-i /zi-zi-i #V.b:~
+@form im-ma-zig /zig #Vmma:~
+@sense V/i to rise
+@end entry
+
+@entry zu [know] V/t
+@bases zu; zu-a; zu-zu
+@form mu-ta-x-zu-NE-de₃-en /zu #mu.ta.x:~;de.enden
+@form ga-ne-eb-zu-zu /zu-zu #ga.V.ne.b:~
+@form he₂-zu-zu-ne /zu-zu #ha:~;ene
+@form mu-da-zu-zu-a /zu-a #mu.da:~;a
+@sense V/t to know, learn
+@end entry
+
+@entry ŋar [place] V/t
+@bases ŋar
+@form ga-me-eb-ŋar /ŋar #ga.mu.e.b:~
+@form mu-un-ŋar-re-eš-ma /ŋar +-re=r+e #mu.n:~;e.eš.ma
+@sense V/t to put, place, lay down
+@end entry
+
+@entry ša [cvve] V/t
+@bases ša₄
+@form mi-ni-ša₄ /ša₄ #mu.i:~
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry šanšaša [cvve] V/t
+@bases ša-an-ša
+@form i₃-ša-an-ša /ša-an-ša #V:~
+@sense V/t (compound verb verbal element)
+@end entry
+
+@entry šeg [agree] V/i
+@bases še-g·a
+@form nam-bi₂-še-ga /še-g·a #na.ba.i:~;
+@sense V/i to agree, be in agreement, be favorable
+@end entry
+
+@entry šeš [brother] N
+@bases šeš
+@form šeš-ŋu₁₀-me-en /šeš #~,ŋu.men
+@sense N brother
+@end entry
+
+@entry šid [count] V/t
+@bases šid
+@form nu-mu-un-da-šid /šid #nu.mu.n.da:~
+@sense V/t to count
+@end entry
+
+@entry šub [lick] V/t
+@bases šub₆
+@form ba-šub₆ /šub₆ #ba:~
+@sense V/t to lick
+@end entry
+
+@entry šubtum [dwelling] N
+@bases šubtu₅
+@form šubtu₅-ta /šubtu₅ #~,ta
+@sense N dwelling, encampment
+@end entry
+
+@entry šudul [yoke] N
+@bases šudul₄
+@form šudul₄-a /šudul₄ #~,ak
+@sense N yoke, crossbeam
+@end entry
+
+@entry šukud [fisherman] N
+@bases šu-ku₆
+@form šu-ku₆-bi-še₃ /šu-ku₆ #~,bi.eše
+@sense N fisherman
+@end entry
+
+@entry šum [give] V/t
+@bases šum₂
+@form ga-ba-e-šum₂ /šum₂ #ga.ba.e:~
+@sense V/t to give
+@end entry
+

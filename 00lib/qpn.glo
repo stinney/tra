@@ -1,0 +1,180 @@
+@project	epsd2
+@name		epsd2/qpn
+@lang		qpn
+
+@entry Aaninurta [1] PN
+@bases a-a-{d}nin-urta-k·e₄
+@form a-a-{d}nin-urta-ke₄ %sux /a-a-{d}nin-urta-k·e₄ #~,e
+@sense PN	1
+@end entry
+
+@entry Abulmah [1] ON
+@bases abul-mah
+@form abul-mah-a %sux /abul-mah #~,a
+@sense ON	1
+@end entry
+
+@entry Attamanum [1] PN
+@bases {m}at-ta₂-ma-nu-um
+@form {m}at-ta₂-ma-nu-um %sux /{m}at-ta₂-ma-nu-um #~
+@sense PN	1
+@end entry
+
+@entry Dunnum [1] SN
+@bases du-nu-um{ki}
+@form du-nu-um{ki} %sux /du-nu-um{ki} #~
+@sense SN	1
+@end entry
+
+@entry Edanna [1] SN
+@bases e₂-dana{ki}
+@form e₂-dana{ki}-še₃ %sux /e₂-dana{ki} #~,eše
+@sense SN	1
+@end entry
+
+@entry Enlil [1] DN
+@bases {d}en-lil₂-le₄
+@form {d}en-lil₂-le-ke₄ %sux /{d}en-lil₂-le₄ #~,ak.e
+@sense DN	1
+@end entry
+
+@entry Gilgameš [1] DN
+@bases {d}gilgameš₃
+@form {d}bil₄-ga-mes-e %sux /{d}gilgameš₃ #~,e
+@form {d}bil₄-ga-mes-ke₄ %sux /{d}gilgameš₃ #~,ak.e
+@sense DN	1
+@end entry
+
+@entry Gišgidulla [1] FN
+@bases ŋiš-gi-du₅-la₂
+@form ŋiš-gi-du₅-la₂-še₃ %sux /ŋiš-gi-du₅-la₂ #~,eše
+@sense FN	1
+@end entry
+
+@entry Idamarsuena [1] WN
+@bases id₂-amar-{d}suena-ka
+@form id₂-amar-{d}suena-ka-še₃ %sux /id₂-amar-{d}suena-ka #~,eše
+@sense WN	1
+@end entry
+
+@entry Iddatum [1] PN
+@bases {m}id-da-tum
+@form {m}id-da-tum %sux /{m}id-da-tum #~
+@sense PN	1
+@end entry
+
+@entry Inanaʾandulduga [1] PN
+@bases {d}inana-an-dul₃-du₁₀-ga
+@form {d}inana-an-dul₃-du₁₀-ga-ra %sux /{d}inana-an-dul₃-du₁₀-ga #~,ra
+@sense PN	1
+@end entry
+
+@entry Iqbišum [1] PN
+@bases {m}iq-bi-šum₂
+@form {m}iq-bi-šum₂ %sux /{m}iq-bi-šum₂ #~
+@sense PN	1
+@end entry
+
+@entry KA.ninurta [1] PN
+@bases {m}KA-{d}nin-urta
+@form {m}KA-{d}nin-urta-ra %sux /{m}KA-{d}nin-urta #~,ra
+@sense PN	1
+@end entry
+
+@entry Kakulatum [1] SN
+@bases ka-ku-la-tum
+@form ka-ku-la-tum %sux /ka-ku-la-tum #~
+@sense SN	1
+@end entry
+
+@entry Kugninlila [1] PN
+@bases ku₃-{d}nin-lil₂-la₂
+@form ku₃-{d}nin-lil₂-la₂ %sux /ku₃-{d}nin-lil₂-la₂ #~
+@sense PN	1
+@end entry
+
+@entry Liburam [1] PN
+@bases {m}li-bur-ra-am
+@form {m}li-bur-ra-am %sux /{m}li-bur-ra-am #~
+@sense PN	1
+@end entry
+
+@entry Lugalzida [1] PN
+@bases lugal-zid-a
+@form lugal-zid-a %sux /lugal-zid-a #~
+@sense PN	1
+@end entry
+
+@entry Lugina [1] PN
+@bases lu₂-gi-na
+@form lu₂-gi-na %sux /lu₂-gi-na #~
+@sense PN	1
+@end entry
+
+@entry Luninurta [1] PN
+@bases {m}lu₂-{d}nin-urta
+@form {m}lu₂-{d}nin-urta %sux /{m}lu₂-{d}nin-urta #~
+@sense PN	1
+@end entry
+
+@entry Mesanepada [1] RN
+@bases mes-an-ne₂-pa₃-da-k·e₄; {m}mes-an-ne₂-pa₃-da
+@form {m}mes-an-ne₂-pa₃-da %sux /{m}mes-an-ne₂-pa₃-da #~
+@form mes-an-ne₂-pa₃-da-ke₄ %sux /mes-an-ne₂-pa₃-da-k·e₄ #~,e
+@sense RN	1
+@end entry
+
+@entry Meskiaŋnanna [1] RN
+@bases {m}mes-ki-aŋ₂-{d}nanna
+@form {m}mes-ki-aŋ₂-{d}nanna %sux /{m}mes-ki-aŋ₂-{d}nanna #~
+@sense RN	1
+@end entry
+
+@entry Meskiaŋnuna [1] RN
+@bases {m}mes-ki-aŋ₂-nun-na
+@form {m}mes-ki-aŋ₂-nun-na %sux /{m}mes-ki-aŋ₂-nun-na #~
+@sense RN	1
+@end entry
+
+@entry Nibru [1] SN
+@bases nibru{ki}
+@form nibru{ki}-gin₇-nam %sux /nibru{ki} #~,gin.am
+@sense SN	1
+@end entry
+
+@entry Nudimmudsiga [1] PN
+@bases {d}nu-dim₂-mud-sig₇-ga
+@form {d}nu-dim₂-mud-sig₇-ga-ra %sux /{d}nu-dim₂-mud-sig₇-ga #~,ra
+@sense PN	1
+@end entry
+
+@entry Saŋenlila [1] PN
+@bases saŋ-{d}en-lil₂-la₂-k·e₄
+@form saŋ-{d}en-lil₂-la₂-ke₄ %sux /saŋ-{d}en-lil₂-la₂-k·e₄ #~,e
+@sense PN	1
+@end entry
+
+@entry Sumutara [1] PN
+@bases {m}su-mu-tar-ra
+@form {m}su-mu-tar-ra %sux /{m}su-mu-tar-ra #~
+@sense PN	1
+@end entry
+
+@entry Udtila [1] PN
+@bases ud-ti-la
+@form ud-ti-la %sux /ud-ti-la #~
+@sense PN	1
+@end entry
+
+@entry Ursuenak [1] DN
+@bases ur-{d}suen-a
+@form ur-{d}suen-a %sux /ur-{d}suen-a #~
+@sense DN	1
+@end entry
+
+@entry x.lugal.ŋu [0] PN
+@bases x-lugal-ŋu₁₀
+@form x-lugal-ŋu₁₀ %sux /x-lugal-ŋu₁₀ #~
+@sense PN	0
+@end entry
+

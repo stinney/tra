@@ -14,6 +14,7 @@
   <option name="asl-script" value="middle"/>
   <option name="asl-stats" value="yes"/>
   <option name="catalog-build-policy" value="custom"/>
+  <option name="cbd-no-harvest" value="tra epsd2 epsd2/names"/>
   <option name="cbd-oid" value="yes"/>
   <option name="cfy-key" value="cv01-150-middle-."/>
   <option name="build-approved-policy" value="atf"/>
@@ -22,7 +23,7 @@
   <option name="outline-default-sort-labels" value="period,ruler"/>
   <option name="outline-default-catalog-fields" value="designation,primary_edition,distribution"/>
   <option name="outline-default-catalog-widths" value="25,35,35"/>
-  <option name="%sux" value=". epsd2 epsd2/names"/>
+  <option name="%sux" value=". tra epsd2 epsd2/names"/>
   <option name="sum-alias" value="yes"/>
   <option name="fuzzy-alias" value="yes"/>
   <option name="gh-user" value="stinney"/>
