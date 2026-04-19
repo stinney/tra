@@ -295,7 +295,7 @@ camp among the army, @lab{11}he should put them into service (elsewhere).
 #lem: Kakulatum[1]SN; gabari[copy]N; gid[(to be) long]V/i
 
 6.	{d}lamma {d}da-gan {d}kab-ta ù {d}en-líl-le-ke₄ erin₂-na gú bí-ri^1^
-#lem: lammar[(female) tutelary deity]N; Dagan[1]DN; Kabta[1]DN; u[and]CNJ; X; erin[people]N; gu[neck]N; ri[impose]
+#lem: lammar[(female) tutelary deity]N; Dagan[1]DN; Kabta[1]DN; u[and]CNJ; Enlil[1]DN; erin[people]N; gu[neck]N; ri[impose]
 
 #note: ^1^ Var (X8): dlamma dda-gan dkab-ta erin2-bi sa@-bi-šè sá íb-dug4-ga.
 7.	me-lám-ŋu₁₀ kalam-ma ba-e-dul
@@ -390,7 +390,7 @@ work!
 #lem: arad[slave, servant]N; e[speak]
 
 4.	é-dana{ki} lugal-ŋu₁₀ ba-an-da-bal
-#lem: Edanna[1]SN; lugal[king]N; X
+#lem: Edanna[1]SN; lugal[king]N; bala[turn]
 
 5.	šà é-dana{ki}-šè 6 me-at ugnim gu-un-gu-nu-um
 #lem: šag[heart]N; Edanna[1]SN; aš[six]NU; meat[100]N; ugnim[army, troops]N; Gungunum[1]RN
@@ -821,7 +821,7 @@ am a shoot with no off-shoots, thus I do not want to be carried off!
 #lem: ŋeš[tree]N; kiri[(fruit) plantation, orchard]N; a[water]N; dug[to speak, talk, say]V/t; asilala[joy]N; hab[(to be) malodorous, fetid]V/i; ug[to kill]V/t
 
 15.	igi-lá é lugal-ŋá-ke₄ íb-si-ge i₅-ŋar gig ma-lá
-#lem: +igila[glance]N/igi-la₂#~; e[house]N; lugal[king]N; X; iŋar[oracular utterance]N; kib[wheat]N; la[to hang, balance, suspend]V/t
+#lem: +igila[glance]N/igi-la₂#~; e[house]N; lugal[king]N; sig[silence]; iŋar[oracular utterance]N; kib[wheat]N; la[to hang, balance, suspend]V/t
 
 16.	zarah-àm ur-gin₇ [...]
 #lem: zarah[wailing]; X; u
@@ -1058,10 +1058,10 @@ Enlil.
 #lem: Nergal[1]DN
 
 4.	{urudu}ha-zi-in an-na mu-na-ni-in-dím
-#lem: X; an[sky, heaven]N; dim[to create, fashion, make, manufacture]V/t
+#lem: hazin[ax]; an[sky, heaven]N; dim[to create, fashion, make, manufacture]V/t
 
-5.	ŋiš-bi {ŋeš}ar-ga-nu-um hur-saŋ-ŋá
-#lem: X; arganum[a conifer]N; hursaŋ[mountain, foothills]N
+5.	ŋeš-bi {ŋeš}ar-ga-nu-um hur-saŋ-ŋá
+#lem: ŋeš[wood]; arganum[a conifer]N; hursaŋ[mountain, foothills]N
 
 6.	a-làl-e diri-ga-àm
 #lem: ulal[a plant]N; dirig[to exceed, to be more than, surpass]V/i
@@ -1076,46 +1076,42 @@ Enlil.
 #lem: sag[to strike, beat]V/t; a[arm]N; kušu[(to be) tired]V/i
 
 10.	hé-éb-ta-haš-e
-#lem: X
+#lem: haš[break]
 
 11.	ga-mu-na-ab-silim
-#lem: silim[(to be) healthy]V/i
+#lem: silim[(to be) healthy//repair]'V/t
 
 12.	ú-gu hé-ni-ib-dé-e
 #lem: ugu[cvne]N; de[to pour]V/t
 
 13.	ki-bi ga-mu-na-ab-gi₄
-#lem: ki[place]N; gi[to turn, return]V/i
+#lem: ki[place+=replace]N; gi[to turn, return]V/i
 
 14.	u₄ ti-la-ŋá igi hu-mu-un-du₈
-#lem: ud[day]N; X; igi[face]N; du[to spread]V/t
+#lem: ud[day]N; til[live]; igi[face]N; du[to spread]V/t
 
 15.	u₄ ba-úš-en kur-ra
-#lem: ud[day]N; X; kur[mountain(s)]N
+#lem: ud[day]N; uš[die]; kur[mountain(s)]N
 
 16.	a si-ga hu-mu-un-na₈-na₈
-#lem: a[water]N; sig[to impose]V/t; naŋ[to drink]V/t
+#lem: a[water]N; sig[clear]; naŋ[to drink]V/t
 
 
 @translation labeled en project
 
-
-
 @(1)Nippurtalu, @lab{2}son of Lugal-šuba, the merchant, @lab{4}fashioned a heavenly axe @lab{3}for Nergal.
-
 
 @(5)Its wood of the arganum-tree of the mountain @lab{6}is superior to the
 alal(-stone). @lab{7}Its stone is antasura, @lab{8}which has no rival.
-
 
 @(9)When he strikes (with it), may his arm never tire. @lab{10}Should it break,
 
 @(11)I will repair it for him. @lab{12}Should he lose it, @lab{13}I will replace it for him.
 
-
 @(14)As long as I lie may I be regarded (with benevolence). @lab{15}When I die
 
 @(16)may I drink clear water in the netherworld.
+
 
 &Q000585 = SEpM 11. Letter to the Generals (3.3.13)
 #project: tra/sepm
@@ -1139,13 +1135,13 @@ alal(-stone). @lab{7}Its stone is antasura, @lab{8}which has no rival.
 #lem: Tummal[1]TN; e[to leave, go out]V/i
 
 6.	ù káb-ku₅ mah ugnim íb-ak-e
-#lem: u[and]CNJ; kabkud[a reservoir for flood control]N; mah[(to be) great]V/i; ugnim[army, troops]N; X
+#lem: u[and]CNJ; kabkud[a reservoir for flood control]N; mah[(to be) great]V/i; ugnim[army, troops]N; ak[do]
 
 7.	a-šà ŋiš-gi-du₅-lá-šè ba-ni-ib-è
-#lem: ašag[field]N; X; e[to leave, go out]V/i
+#lem: ašag[field]N; Gišgidulla[1]FN; e[to leave, go out]V/i
 
-8.	a-zi-ga 1(diš) 1/2(diš) kùš im-ma-zig
-#lem: X; n; n; kuš[a unit of length]N; X
+8.	a zi-ga 1(diš) 1/2(diš) kùš im-ma-zig
+#lem: a[water]; zig[rise]; n; n; kuš[a unit of length]N; zig[rise]
 
 9.	tukum-bi {d}utu nu-um-ta-è
 #lem: tukum[if]CNJ; Utu[1]DN; e[to leave, go out]V/i
@@ -1157,7 +1153,7 @@ alal(-stone). @lab{7}Its stone is antasura, @lab{8}which has no rival.
 #lem: šargal[216000]NU; ašag[field]N; tum[to bring]V/t
 
 12.	á ma-tur nu-mu-un-da-til-en
-#lem: a[arm]N; tur[(to be) small]V/i; X
+#lem: a[arm]N; tur[(to be) small]V/i; til[finish]
 
 13.	a-ma-ru-kam
 #lem: amaru[flood]N
@@ -1173,7 +1169,7 @@ alal(-stone). @lab{7}Its stone is antasura, @lab{8}which has no rival.
 @(4)The surface of the Euphrates @lab{5}has overﬂowed as far as Tumal @lab{6}and
 the army is making a huge ﬂood control reservoir. @lab{7}(But) it has spread
 all the way to the Gišgidulla ﬁeld. @lab{8}The ﬂood waters rose to 1 ½
-cubits @lab{0.75m}. @lab{9}If the sun does not come out, @lab{10}not even 7200 troops
+cubits (0.75m). @lab{9}If the sun does not come out, @lab{10}not even 7200 troops
 will stand against it. @lab{11}A huge amount64 of land has already been
 carried away!
 
@@ -1192,8 +1188,8 @@ carried away!
 1.	ensi₂ saŋŋa-ra ù-ne-a-dug₄
 #lem: ensik[governor]N; saŋŋa[an official, the chief administrator of a temple household]N; dug[to speak, talk, say]V/t
 
-2.	mur-{d}en-líl-lá-ke₄ na-ab-bé-a
-#lem: X; e[speak]
+2.	{m}ur-{d}en-líl-lá-ke₄ na-ab-bé-a
+#lem: Urenlila[1]PN; e[speak]
 
 3.	pa₅ a luh-ha a i-íb-tùm
 #lem: par[(small) canal, irrigation ditch]N; a[water]N; luh[to clean, wash, refine]V/t; a[water]N; tum[to bring]V/t
@@ -1202,10 +1198,10 @@ carried away!
 #lem: Enlilaŋu[1]PN; u[and]CNJ; Hanzamu[1]PN
 
 5.	íb-sàg-ge-eš mu-da-an-kar-re-eš
-#lem: X; kar[to flee]V/i
+#lem: sag[beat]; kar[to flee]V/i
 
-6.	m lugal-an-né na-ab-bé-a
-#lem: X; Lugalane[1]RN; e[speak]
+6.	{m}lugal-an-né na-ab-bé-a
+#lem: Lugalane[1]RN; e[speak]
 
 7.	ŋe₂₆-e pa₅ 1-àm za-e pa₅ 1-àm ensi₂ pa₅ 1-àm
 #lem: ŋaʾe[I]IP; par[(small) canal, irrigation ditch]N; n; zaʾe[you]IP; par[(small) canal, irrigation ditch]N; n; ensik[governor]N; par[(small) canal, irrigation ditch]N; n
@@ -1217,7 +1213,7 @@ carried away!
 #lem: erin[people]N; id[river, watercourse, canal]N; nu[(to be) not, no]V/i; par[(small) canal, irrigation ditch]N; a[water]N; tum[to bring]V/t
 
 10.	ŋe₂₆-e záh-bi a ma-ab-tùm
-#lem: ŋaʾe[I]IP; X; a[water]N; tum[to bring]V/t
+#lem: ŋaʾe[I]IP; zah[lost]; a[water]N; tum[to bring]V/t
 
 11.	á ma-tur 5 ŋuruš 10 hu-mu-e-ši-in-gi₄-gi₄-ma
 #lem: a[arm]N; tur[(to be) small]V/i; ya[five]NU; ŋuruš[young adult male, able-bodied male worker, semi-free male worker]N; u[ten]NU; gi[to turn, return]V/i
@@ -1234,12 +1230,13 @@ carried away!
 
 @(3)An irrigation channel, which had been cleared, was carrying water.
 
-@(4)(But) Enlila@u and Hanzamu @lab{5}breached it (and so) made off with
-(water) from it. @lab{6}(Because of this) Lugalane said: @lab{7}“(That) single channel is for me, (that) single channel is for you (and that) single channel
-is for the governor. @lab{8}Thus water will certainly be brought to each
-of you.” He spoke, (but) they (i.e. Enlila@u and Hanzamu) did not
-agree: @lab{9}“Your canal has no workmen, (so) its channel carries water
-(unchecked).”
+@(4)(But) Enlilaŋu and Hanzamu @lab{5}breached it (and so) made off
+with (water) from it. @lab{6}(Because of this) Lugalane said:
+@lab{7}“(That) single channel is for me, (that) single channel is for
+you (and that) single channel is for the governor. @lab{8}Thus water
+will certainly be brought to each of you.” He spoke, (but) they
+(i.e. Enlilaŋu and Hanzamu) did not agree: @lab{9}“Your canal has no
+workmen, (so) its channel carries water (unchecked).”
 
 
 @(10)As for me, what escapes from it carries water to me. @lab{11}The labor
@@ -1261,7 +1258,7 @@ agree: @lab{9}“Your canal has no workmen, (so) its channel carries water
 #lem: ensik[governor]N; saŋŋa[an official, the chief administrator of a temple household]N; e[speak]
 
 3.	a-šà da-ab-ta{ki} 10800 iku-bi
-#lem: ašag[field]N; Dabta[1]ON; n; X
+#lem: ašag[field]N; Dabta[1]FN; n; iku[unit]
 
 4.	éš-gàr {d}en-líl {d}nin-líl ù {d}nin-urta
 #lem: ešgar[work assignment]N; Enlil[1]DN; Ninlil[1]DN; u[and]CNJ; Ninurtak[1]DN
@@ -1269,11 +1266,11 @@ agree: @lab{9}“Your canal has no workmen, (so) its channel carries water
 5.	šà-bi-ta 540iku-àm šukur₂ lú níŋ-dab₅-ba-ke₄-ne
 #lem: šag[heart]N; n; šukur[food allocation, ration]N; lu[person]N; niŋdab[requisitions, requisitioned items]N
 
-6.	180iku-àm sa-dúr a-šà-ga-bi
-#lem: n; sadur[lower end of a field]N; X
+6.	180 iku-àm sa-dúr a-šà-ga-bi
+#lem: n; iku[unit]; sadur[lower end of a field]N; ašag[field]
 
-7.	m iq-bi-šúm ù a-bi-qá-ti-e inim mu-da-an-ŋar-re-eš
-#lem: X; X; u[and]CNJ; Abiqati[1]PN; inim[word]N; ŋar[to put, place, lay down]V/t
+7.	{m}iq-bi-šúm ù a-bi-qá-ti-e inim mu-da-an-ŋar-re-eš
+#lem: Iqbišum[1]PN; u[and]CNJ; Abiqati[1]PN; inim[word]N; ŋar[to put, place, lay down]V/t
 
 8.	tukum-bi lugal-me an-na-kam
 #lem: tukum[if]CNJ; lugal[king]N; anna[approval, `indeed']N
@@ -1282,10 +1279,10 @@ agree: @lab{9}“Your canal has no workmen, (so) its channel carries water
 #lem: ragaba[rider, messenger]N; gi[to turn, return]V/i
 
 10.	kíŋ a-ak bulug a-šà inim dug₄ hu-mu-ni-ib-[bé]
-#lem: kiŋ[to seek, search]V/t; ak[to do]V/t; bulug[needle, drill]N; ašag[field]N; inim[word]N; dug[to speak, talk, say]V/t; dug[to speak, talk, say]V/t
+#lem: kiŋ[work]N; ak[to do]V/t; bulug[boundary]; ašag[field]N; inim[word]N; dug[to speak, talk, say]V/t; dug[to speak, talk, say]V/t
 
-11.	dúr!-bi-šè 2(diš) iku X 180-eše₃ iku gaba a-šà-ga-bi
-#lem: dur[buttocks, rump]N; n; iku[a unit of area]N; X[a bird]N; n; iku[a unit of area]N; gaba[breast, chest]N; X
+11.	dúr!-bi-šè 2(diš) iku x 180-eše₃ iku gaba a-šà-ga-bi
+#lem: dur[buttocks, rump]N; n; iku[a unit of area]N; u; n; iku[a unit of area]N; gaba[breast, chest]N; ašag[field]
 
 12.	{ŋeš}al-ta ba-dúb kíŋ-šè ba-ak
 #lem: al[hoe, pickax]N; dub[to tremble, make tremble]V/t; kiŋ[work]N; ak[to do]V/t
@@ -1293,8 +1290,8 @@ agree: @lab{9}“Your canal has no workmen, (so) its channel carries water
 13.	erin₂ tah-hu-um engar šà-gu₄ lú {ŋeš}apin-na nu-me-a
 #lem: erin[people]N; tahhum[replacement]N; engar[farmer]N; šagud[ox driver]N; lu[person]N; apin[(seed) plow]N; me[to be]V/i
 
-14.	gu₄ dili-dili-ta a-šà ŋiš bí-ùr
-#lem: gud[bull, ox]N; dili[(to be) single, unique, sole]V/i; ašag[field]N; ŋeš[tree]N; ur[to drag]V/t
+14.	gu₄ didli-ta a-šà ŋiš bí-ùr
+#lem: gud[bull, ox]N; didli[several]; ašag[field]N; ŋeš[tree]N; ur[to drag]V/t
 
 15.	al ì-ak-en-dè-en lugal-me hé-en-zu
 #lem: al[hoe, pickax]N; ak[to do]V/t; lugal[king]N; zu[to know, learn]V/t
@@ -1302,25 +1299,24 @@ agree: @lab{9}“Your canal has no workmen, (so) its channel carries water
 
 @translation labeled en project
 
-
-
 @(1)Say to our king, @lab{2}thus says the governor (and) chief temple administrator:
 
-
-@(3)The Dabta ﬁeld—3000 ha @lab{10,800 iku}—(4)(is the) ešgar (ﬁeld) of
-Enlil, Ninlil and Ninurta. @lab{5}From it: 150 ha @lab{540 iku} are the sustenance ﬁelds of the men in charge of the requisitions. @lab{6}50 ha @lab{180 iku} is (the
-area at) the lower end of the ﬁeld. @lab{7}(About this) Iqbišum and Abi-qati
-instituted a claim.
-
+@(3)The Dabta ﬁeld—3000 ha @lab{10,800 iku}—(4)(is the) ešgar (ﬁeld)
+of Enlil, Ninlil and Ninurta. @lab{5}From it: 150 ha @lab{540 iku} are
+the sustenance ﬁelds of the men in charge of the
+requisitions. @lab{6}50 ha @lab{180 iku} is (the area at) the lower
+end of the ﬁeld. @lab{7}(About this) Iqbišum and Abi-qati instituted a
+claim.
 
 @(8)If our king consents, @lab{9}he should send a courier and @lab{10}[give] (us) an
 order (regarding) the work and the boundary of the ﬁeld.
 
-
-@(11)0.5 ha @lab{2 iku} at its back and 50[+x] ha @lab{180[+x] iku} at the edge
-of the ﬁeld @lab{12}were broken up with hoes (and so) prepared. @lab{13}There
-being no replacement workers, farmers, ox-drivers or plowmen, @lab{14}the
-ﬁeld was harrowed (only) with individual oxen. @lab{15}We are (only) working with hoes! This our king should know.
+@(11)0.5 ha (2 iku) at its back and 50[+x] ha (180[+x] iku) at
+the edge of the ﬁeld @lab{12}were broken up with hoes (and so)
+prepared. @lab{13}There being no replacement workers, farmers,
+ox-drivers or plowmen, @lab{14}the ﬁeld was harrowed (only) with
+individual oxen. @lab{15}We are (only) working with hoes! This our
+king should know.
 
 
 &X000577 = SEpM 13a. Ur Version (3.3.5.a)
@@ -1330,19 +1326,19 @@ being no replacement workers, farmers, ox-drivers or plowmen, @lab{14}the
 #atf: use math
 #key: after A. Kleinerman, CM 24
 1.	a-šà me-àm{ki} [...] iku-àm
-#lem: ašag[field]N; Meam[1]ON; u; iku[a unit of area]N
+#lem: ašag[field]N; Meam[1]FN; u; iku[a unit of area]N
 
-2.	éš-gàr {d}en-líl ù d nin-urta
-#lem: ešgar[work assignment]N; Enlil[1]DN; u[and]CNJ; X; X
+2.	éš-gàr {d}en-líl ù {d}nin-urta
+#lem: ešgar[work assignment]N; Enlil[1]DN; u[and]CNJ; Ninurtak[1]DN
 
-3.	šà-bi-ta 540iku-àm
-#lem: šag[heart]N; n
+3.	šà-bi-ta 540 iku-àm
+#lem: šag[heart]N; n iku[unit]
 
 4.	šukur₂ lú níŋ-PAD-e-ne
 #lem: šukur[food allocation, ration]N; lu[person]N; niŋdab[requisitions, requisitioned items]N
 
-5.	egir?-bi-šè sahar 2 iku iku-ba-me-a
-#lem: egir[back, end, rear]N; sahar[soil, earth]N; min[two]NU; iku[a unit of area]N; X
+5.	egir?-bi-šè sahar 2 iku iku-ba me-a
+#lem: egir[back, end, rear]N; sahar[soil, earth]N; min[two]NU; iku[a unit of area]N; iku[unit]; me[be]
 
 6.	al-ta ba-dúb erin₂-ta hé-x-a
 #lem: al[hoe, pickax]N; dub[to tremble, make tremble]V/t; erin[people]N; u
@@ -1363,26 +1359,23 @@ being no replacement workers, farmers, ox-drivers or plowmen, @lab{14}the
 #lem: anna[approval, `indeed']N
 
 12.	ra-gaba hu-mu-un-in-gi₄-gi₄
-#lem: ragaba[rider, messenger]N; X
+#lem: ragaba[rider, messenger]N; gi[return]
 
 13.	kíŋ ak bulug a-šà-ga-bi
-#lem: kiŋ[to seek, search]V/t; ak[to do]V/t; bulug[needle, drill]N; X
+#lem: kiŋ[to seek, search]V/t; ak[to do]V/t; bulug[boundary]N; ašag[field]
 
 14.	inim dug₄-ga₁₄(KA) mu-ni-ib-e!
-#lem: inim[word]N; X; X
+#lem: inim[word]N; duga[command]; e[speak]
 
 
 @translation labeled en project
-
-
 
 @(1)The “Where-Is-It?” ﬁeld (is) [...] hectares. @lab{2}(It is) the ešgar
 (ﬁeld) of Enlil and Ninurta. @lab{3}From among it: 150 ha @lab{540 iku} are
 
 @(4)the sustenance ﬁelds of the men in charge of the requisitions.
 
-
-@(5)At its back there are 0.5 ha @lab{2 iku} of soil (that) @lab{6}were broken
+@(5)At its back there are 0.5 ha (2 iku) of soil (that) @lab{6}were broken
 up by the hoe (and so) should be worked by the troops (but) @lab{7}there
 are no plowmen to work the plot in the ﬁeld. @lab{8}(About this) Iqbišum
 and Abiqati @lab{9}instituted a claim.
@@ -1406,7 +1399,7 @@ boundary of the ﬁeld.
 #lem: inim[word]N; puhrum[assembly]N
 
 3.	niŋir-e sila-sila-a si gù ba-ni-in-ra
-#lem: niŋir[herald]N; sila[street]N; si[horn]N; gu[voice, cry, noise]N; X
+#lem: niŋir[herald]N; sila[street]N; si[horn]N; gu[voice, cry, noise]N; rah[beat]
 
 4.	lú na-me níŋ na-me ugu-na li-bí-in-tuku
 #lem: lu[person]N; name[any]AJ; niŋ[thing, possession]N; name[any]AJ; ugu[to bear, give birth (to)]V/t; tuku[to acquire, get]V/t
@@ -1415,7 +1408,7 @@ boundary of the ﬁeld.
 #lem: Lusuena[1]PN; šakkanak[general, governor-general]N
 
 6.	{m}lugal-me-lám ensi₂ saŋŋa^1^
-#lem: X; ensik[governor]N; saŋŋa[an official, the chief administrator of a temple household]N
+#lem: +Lugalmelam[1]PN/{m}lugal-me-lám#~; ensik[governor]N; saŋŋa[an official, the chief administrator of a temple household]N
 
 #note: ^1^ X15 adds: inim-inim-ne-ne ba-an<-šúm>-me-eš kišib3-ba-ne-ne in-eš.
 7.	{m}zu-zu um-mi-a
@@ -1425,10 +1418,10 @@ boundary of the ﬁeld.
 #lem: Sidu[1]PN; dubsar[scribe]N
 
 9.	{m}ad-lul agrig
-#lem: X; agrig[steward, housekeeper]N
+#lem: +Adlul[1]PN/{m}ad-lul#~; agrig[steward, housekeeper]N
 
 10.	{m}ba-an-sa₆-ge-en gala
-#lem: X; gala[lamentation singer]N
+#lem: +Bansagen[1]PN/{m}ba-an-sa₆-ge-en#~; gala[lamentation singer]N
 
 11.	{m}ul-lí-a ha-za-nu-um
 #lem: Ullia[1]PN; hazanum[mayor]N
@@ -1470,10 +1463,10 @@ steward, @lab{10}Bansagen, the lamentation performer, @lab{11}Ullia the mayor,
 #lem: X; e[speak]
 
 3.	al-sù-ud kaskal i-im-re₇-en-na
-#lem: sud[(to be) distant]V/i; kaskal[way, road]N; X
+#lem: sud[(to be) distant]V/i; kaskal[way, road]N; ere[go]
 
 4.	ù lugal gi-na lugal-me-er ba-an-ús
-#lem: u[and]CNJ; lugal[king]N; gin[(to be) firm, permanent]V/i; X; us[to accompany, follow]V/t
+#lem: u[and]CNJ; lugal[king]N; gin[(to be) firm, permanent]V/i; +lugal[king]N/lugal#~,me.ra; us[to accompany, follow]V/t
 
 5.	kaskal-kaskal-e kaskal ba-an-tah
 #lem: kaskal[way, road]N; kaskal[way, road]N; tah[to add, increase]V/t
@@ -1482,7 +1475,7 @@ steward, @lab{10}Bansagen, the lamentation performer, @lab{11}Ullia the mayor,
 #lem: ama[mother]N; en[cvne]N; tar[to cut]V/t
 
 7.	dag-gi₄-a-me u₄ na-an-šú-uš-a LUL.AŠ
-#lem: X; ud[day]N; šuš[to cover, to spread over]V/t; X
+#lem: daggi[quarter]; ud[day]N; šuš[to cover, to spread over]V/t; LUL.AŠ[very much]AV
 
 8.	1 sila₃ mun 1 sila₃ gazi
 #lem: diš[one]NU; sila[a unit of capacity]N; mun[salt]N; diš[one]NU; sila[a unit of capacity]N; gazi[a condiment, mustard seed or licorice]N
@@ -1491,7 +1484,7 @@ steward, @lab{10}Bansagen, the lamentation performer, @lab{11}Ullia the mayor,
 #lem: diš[one]NU; šagadu[belt]N; tug[textile, garment]N
 
 10.	lú-gir₇ hu-mu-e-gi₄
-#lem: X; X
+#lem: +gir[runner]N/{lu₂}gir₇#~; gi[return]
 
 11.	kaskal-me al-sù-ud
 #lem: kaskal[way, road]N; sud[(to be) distant]V/i
@@ -1502,20 +1495,15 @@ steward, @lab{10}Bansagen, the lamentation performer, @lab{11}Ullia the mayor,
 
 @translation labeled en project
 
-
-
 @(1)Say to my brothers, @lab{2}thus says Ilaba-tah-lugal@a:
-
 
 @(3)The campaign we are serving on is long. @lab{4}And now the just king
 has followed our king, @lab{5}(and so) he has extended the campaign.^1^
 
 @(6)(Therefore) we cannot take care of our mother.
 
-
 @(7)Be sure that before the sun sets on our neighborhood, @lab{10}you have
 sent a runner (with) @lab{8}1 liter of salt, 1 liter of gazi @lab{9}and a belt.
-
 
 @(11)Our campaign is long. @lab{12}It is urgent!
 
@@ -1541,7 +1529,7 @@ sent a runner (with) @lab{8}1 liter of salt, 1 liter of gazi @lab{9}and a belt.
 #lem: Urim[1, Ur]SN; iri[city]N; kirizal[joy, rejoicing]N; Nanna[1]DN
 
 5.	eridug{ki} iri hé-ŋál {d}en-ki-ga-ka
-#lem: Eridug[1]SN; iri[city]N; heŋal[plenty]N; X
+#lem: Eridug[1]SN; iri[city]N; heŋal[plenty]N; Enkik[1]DN
 
 6.	ŋe₂₆-e egir {ŋeš}ig é nar-gal-ka al-tuš-en
 #lem: ŋaʾe[I]IP; egir[back, end, rear]N; ig[door]N; e[house]N; nargal[chief musician]N; tuš[to sit (down)]V/i
@@ -1550,13 +1538,13 @@ sent a runner (with) @lab{8}1 liter of salt, 1 liter of gazi @lab{9}and a belt.
 #lem: igitumla[spy?]N; gu[to eat, consume]V/t
 
 8.	nam-ba-da-úš-en
-#lem: X
+#lem: uš[die]
 
 9.	ninda ba-ra-gibil-lá kaš ba-ra-gibil-lá
 #lem: ninda[bread]N; gibil[(to be) new]V/i; kaš[beer]N; gibil[(to be) new]V/i
 
 10.	lú-gir₇ kaskal-e šu taka₄-ma-ab
-#lem: X; kaskal[way, road]N; šu[hand]N; taka[to set aside, leave behind, abandon, reject]V/t
+#lem: +gir[runner]; kaskal[way, road]N; šu[hand]N; taka[to set aside, leave behind, abandon, reject]V/t
 
 11.	a-ma-ru-kam
 #lem: amaru[flood]N
@@ -1578,17 +1566,17 @@ house of the master musician. @lab{7}(All ) I am eating is (my) jealousy!
 fresh, @lab{10}send a runner on route for me. @lab{11}It is urgent!
 
 
-&Q000580 = SEpM 17. Šamaš- āb to Ilak-ni’id (B15, 3.3.8)
+&Q000580 = SEpM 17. Šamaš-Ṭāb to Ilak-ni’id (B15, 3.3.8)
 #project: tra/sepm
 #atf: use unicode
 #atf: use legacy
 #atf: use math
 #key: after A. Kleinerman, CM 24
 1.	i-la-ak-ni-id ù-na-dug₄
-#lem: X; dug[to speak, talk, say]V/t
+#lem: Ilakniʿid; dug[to speak, talk, say]V/t
 
-2.	{m}{d}UTU.DÙG-e na-ab-bé-a
-#lem: X; e[speak]
+2.	{m}{d}UTU-DÙG-e na-ab-bé-a
+#lem: Šamašṭab[1]PN; e[speak]
 
 3.	kaskal iti 1 ud 15-kam ud ní-za hé-bí-DU
 #lem: kaskal[way, road]N; itud[month]N; diš[one]NU; ud[day]N; n; ud[day]N; ni[self]RP; X
@@ -1602,8 +1590,8 @@ fresh, @lab{10}send a runner on route for me. @lab{11}It is urgent!
 6.	bar-zu èn bí-in-tar ŋiri₃-zu si ba-ab-sá
 #lem: bar[outside, (other) side]N; en[cvne]N; tar[to cut]V/t; ŋiri[foot]N; si[horn]N; sa[to equal, compare, compete, rival]V/t
 
-7.	2 anše-ŋiš-a kug-bi 4 gín
-#lem: min[two]NU; X; kug[metal, silver]N; limmu[four]NU; giŋ[a unit of weight, shekel]N
+7.	2 anše ŋeš-a kug-bi 4 gín
+#lem: min[two]NU; anše[donkey]; ŋeš[tree]; kug[metal, silver]N; limmu[four]NU; giŋ[a unit of weight, shekel]N
 
 8.	1 šà-ga-dù gada kug-bi 1/2 gín
 #lem: diš[one]NU; šagadu[belt]N; gada[flax]N; kug[metal, silver]N; sa[half]N; giŋ[a unit of weight, shekel]N
@@ -1618,7 +1606,7 @@ fresh, @lab{10}send a runner on route for me. @lab{11}It is urgent!
 #lem: a[water]N; sig[(to be) clear]V/i
 
 12.	zi-ga didli-zu šà-bi-ta nu-ŋál
-#lem: ziga[expenditure]N; X; šag[heart]N; ŋal[⟦be⟧ to be (there, at hand, available)]V/i
+#lem: ziga[expenditure]N; didli[several]; šag[heart]N; ŋal[⟦be⟧ to be (there, at hand, available)]V/i
 
 13.	2 gún siki da-gal-tum-ma kug-bi ha-ra-da-šid
 #lem: min[two]NU; gun[a unit of weight, talent]N; siki[wool, fleece]N; dagaltuma[a description of wool or sheep]AJ; kug[metal, silver]N; šid[to count]V/t
@@ -1633,7 +1621,7 @@ fresh, @lab{10}send a runner on route for me. @lab{11}It is urgent!
 #lem: ŋeštug[ear]N; heŋal[plenty]N
 
 17.	kug didli-zu saŋ-bi ha-ra-ab-dab₅ im-ma hu-mu-ra-ab-tag
-#lem: kug[metal, silver]N; X; saŋ[head]N; dab[to seize, take, hold]V/t; imma[last year]MA; tag[to touch, take hold of]V/t
+#lem: kug[metal, silver]N; didli[several]; saŋ[head]N; dab[to seize, take, hold]V/t; imma[last year]MA; tag[to touch, take hold of]V/t
 
 18.	u₄-da-ta á áŋ-ŋá-zu hé-em-tùm
 #lem: ud[day]N; a[arm]N; aŋ[to measure]V/t; tum[to bring]V/t
@@ -1644,17 +1632,13 @@ fresh, @lab{10}send a runner on route for me. @lab{11}It is urgent!
 
 @translation labeled en project
 
-
-
 @(1)Say to Ilak-ni’id, @lab{2}thus says Šamaš-¢Êb:
-
 
 @(3)The journey is 1 month and 15 days. You should leave at once.^1^
 
 @(4 - 5)There is no reason you should not (be able to) report back to me^2^
 in Niqum by the 3rd of the month. @lab{6}I have looked after you and
 arranged your way.
-
 
 @(7)Of the 2 donkeys, their silver: 4 skekels;
 
@@ -1667,16 +1651,13 @@ arranged your way.
 @(11)The water is clear. @lab{12}Your miscellaneous expenses will not be included
 among these.
 
-
 @(13)I have calculated for you, in your presence, the value of 2 talents
 of dagaltum wool: @lab{14}The merchandise is (worth)77 1 and 2/3 mana of
 silver. Bring it to me in tin! @lab{16}Keep on the lookout for @lab{15}the duši’a,
 the nirigi and the nirmuš@ír stones
 
-
 @(17)Your various payments—its capital—has been taken on your behalf
 and recorded on a tablet for you. @lab{18}As of today report back to me.78
-
 
 @(19)It is urgent!
 
@@ -1692,7 +1673,7 @@ sg. hamtu transitive verb hé-bí-DU.
 #atf: use math
 #key: after A. Kleinerman, CM 24
 1.	{m}{d}en-líl-mas-su inim dùg ad gi₄ sag₉ kag₂ làl inim gùn-gùn-ra ù-na-a-dug₄
-#lem: Enlilmassu[1]PN; inim[word]N; dug[(to be) good]V/i; ad[voice]N; gi[to turn, return]V/i; sag[goodness, good (thing)]'N; X; lal[syrup]N; inim[word]N; gunu[(to be) speckled, multicolored]V/i; dug[to speak, talk, say]V/t
+#lem: Enlilmassu[1]PN; inim[word]N; dug[(to be) good]V/i; ad[voice]N; gi[to turn, return]V/i; sag[goodness, good (thing)]'N; kag[mouth]; lal[syrup]N; inim[word]N; gunu[(to be) speckled, multicolored]V/i; dug[to speak, talk, say]V/t
 
 2.	dumu diŋir-ra-ni-ir gub-ba a-a ama-ni ní tèŋ-ŋe₂₆-ra
 #lem: dumu[child, son, daughter]N; diŋir[deity, god, goddess]N; gub[to stand]V/i; aya[father]N; ama[mother]N; ni[fear]N; teŋ[to approach]'V/t
@@ -1719,13 +1700,13 @@ sg. hamtu transitive verb hé-bí-DU.
 #lem: dumu[child, son, daughter]N; Enlilalsag[1]PN; ummia[expert]N; Nibru[1]SN; adda[father]N; e[speak]
 
 10.	ud taka₄-en-na-zu ba-hu-hu-bu-uš-en
-#lem: ud[day]N; X; X
+#lem: ud[day]N; taka[abandon]; hubuš[crush]
 
 11.	šà-ŋu₁₀ mu-da-šub enmen₂ šà-ŋar-ŋu₁₀ ba-tur
 #lem: šag[heart]N; šub[to fall]V/i; immen[thirst]N; šaŋar[starvation, hunger]N; tur[(to be) small]V/i
 
 12.	nam-zu íb-gu₇-en i-si-iš-zu íb-si-ge-en
-#lem: nam[fate, destiny]N; gu[to eat, consume]V/t; isiš[wailing, lamentation, sorrow]N; X
+#lem: nam[fate, destiny]N; gu[to eat, consume]V/t; isiš[laughter]N; sig[flatten]
 
 13.	mah-zu íb-sur-re-en
 #lem: mah[(to be) great]V/i; sur[to press, squeeze]V/t
@@ -1737,10 +1718,10 @@ sg. hamtu transitive verb hé-bí-DU.
 #lem: lib[daze, dazed silence]N; bar[outside, (other) side]N; ak[to do]V/t; šu[hand]N; dag[to demolish]V/t
 
 16.	ŋeštug₂ šà-ŋu₁₀-ta lib ba-ŋar
-#lem: ŋeštug[ear]N; X; lib[daze, dazed silence]N; ŋar[to put, place, lay down]V/t
+#lem: ŋeštug[ear]N; šag[heart]; lib[daze, dazed silence]N; ŋar[to put, place, lay down]V/t
 
 17.	ní te-te-ŋu₁₀-ta šà-ŋu₁₀ úš lugud ba-si
-#lem: ni[fear]N; X; šag[heart]N; uš[to die]V/i; lugud[pus, suppuration]N; sig[to put into, onto]V/t
+#lem: ni[fear]N; teŋ[near]; šag[heart]N; uš[to die]V/i; lugud[pus, suppuration]N; sig[to put into, onto]V/t
 
 18.	èn tar-tar-re-dè zi ba-ir
 #lem: en[cvne]N; tar[to cut]V/t; zi[life]N; ir[cvve]V/t
@@ -1799,7 +1780,7 @@ countenance look (upon me) in accordance with Enlil’s command.
 #lem: azu[doctor]N; kalam[the Land (of Sumer)]N; dug[to speak, talk, say]V/t
 
 3.	nin tu₆ dug₄-ga-ni ùŋ šár ti-le
-#lem: nin[lady]N; tu[incantation, spell]N; dug[to speak, talk, say]V/t; uŋ[people]N; šar[(to be) numerous]'V/i; X
+#lem: nin[lady]N; tu[incantation, spell]N; dug[to speak, talk, say]V/t; uŋ[people]N; šar[(to be) numerous]'V/i; til[live]
 
 4.	mu₇-mu₇-ma-ni ùŋ sag₉-ga
 #lem: mu[incantation, spell]N; uŋ[people]N; sag[(to be) good, sweet, beautiful]V/i
@@ -1835,13 +1816,13 @@ countenance look (upon me) in accordance with Enlil’s command.
 #lem: nin[lady]N; e[house]N; du[to build, make]V/t; igi[face]N; la[to hang, balance, suspend]V/t; tuš[to sit (down)]V/i
 
 15.	zu-a kal-la-ŋu₁₀ ŋiri₃ kúr mu-da-an-dab₅-bé-eš
-#lem: zu[to know, learn]V/t; kal[(to be) rare, valuable]V/i; ŋiri[foot]N; kur[a unit of capacity]N; X
+#lem: zu[to know, learn]V/t; kal[(to be) rare, valuable]V/i; ŋiri[foot]N; kur[a unit of capacity]N; dab[seize]
 
 16.	lú èn tar-re la-ba-an-tuku
 #lem: lu[person]N; en[cvne]N; tar[to cut]V/t; tuku[to acquire, get]V/t
 
 17.	im-ma-si im-ma-diri-ga-ta
-#lem: si[to fill, load up]V/t; X
+#lem: si[to fill, load up]V/t; dirig[exceed]
 
 18.	zi al-ir-ir-re-en
 #lem: zi[life]N; ir[cvve]V/t
@@ -1853,7 +1834,7 @@ countenance look (upon me) in accordance with Enlil’s command.
 #lem: asag[a demon]N; su[body]N; ŋal[⟦be⟧ to be (there, at hand, available)]V/i; su[body]N; zig[to rise]V/i
 
 21.	ki-in-DU nam-ti-la-ka ŋiri₃-ŋu₁₀ hé-bí-ib-gub-bé
-#lem: X; X; ŋiri[foot]N; gub[to stand]V/i
+#lem: kindu[earth]; namtila[life]; ŋiri[foot]N; gub[to stand]V/i
 
 22.	ù ŋe₂₆-e geme₂-ni hé-me-en
 #lem: u[and]CNJ; ŋaʾe[I]IP; geme[female worker]N; me[to be]V/i
@@ -1862,15 +1843,13 @@ countenance look (upon me) in accordance with Enlil’s command.
 #lem: e[house]N; kisalluh[courtyard sweeper]N; me[to be]V/i; igi[eye]N; gub[to stand]V/i
 
 24.	ù-ba-sa₆-ge nin-ŋu₁₀ lú-ku₅-da du₇-du₇
-#lem: X; nin[lady]N; X; du[to push, thrust, knock, butt, gore]V/t
+#lem: sag[good]; nin[lady]N; lukud[disabled]; du[perfect]
 
 25.	mu-šè ga-an-sa₄
-#lem: mu[name]N; X
+#lem: mu[name]N; še[call]
 
 
 @translation labeled en project
-
-
 
 @(2)Say @lab{1}to Nintinuga, efﬁcacious steward of the Ekur, @lab{2}physician
 of the homeland; @lab{7}Repeat to @lab{3}the lady whose incantations cure the
@@ -1880,13 +1859,11 @@ relenting, the merciful, who hears my petitions; @lab{8}You care for the
 living and the dead, @lab{9}great healer of cripples. @lab{10–11}Thus says
 Inanaka, daughter of Enlil-amah, your servant:
 
-
 @(12)Having taken to bed for the second time,^1^ @lab{13}I went through much
 woe and I do not know its course. @lab{14}My lady, someone built a house
 for me, but I can only sit furtively. @lab{15}My acquaintances and dear ones
 have abandoned me. @lab{16}I have no one who inquires about me. @lab{17}Since
 it is enough for me, too much for me, @lab{18}I am truly desperate.
-
 
 @(19)If it is my lady’s will, @lab{20}may she cause the asag demon that is in
 my body to be torn out of my ﬂesh. @lab{21}May she stand my feet on the
@@ -1895,7 +1872,6 @@ sweeper of her temple, I will serve her, @lab{24–25}(and) as soon as I am well
 I will name my lady, “healer of cripples.”
 
 ^1^ Literally: “With my being thrown to bed for the second time.”
-
 
 &Q000791 = SEpM 20. Dedication of a Dog to Nintinuga (B18, 5.7.2)
 #project: tra/sepm
@@ -1916,31 +1892,31 @@ I will name my lady, “healer of cripples.”
 #lem: nin[lady]N; an[sky, heaven]N; ki[place]N; šukur[food allocation, ration]N; šum[to give]V/t; agrig[steward, housekeeper]N; Enlil[1]DN
 
 5.	akan{+a-ka-an} dùg kur-kur šà si-si nam-hé-a de₆-de₆-e
-#lem: X; dug[(to be) good]V/i; kur[mountain(s)]N; šag[heart]N; si[to fill, load up]V/t; namhe[abundance]N; X
+#lem: akan[nipple]; dug[(to be) good]V/i; kur[mountain(s)]N; šag[heart]N; si[to fill, load up]V/t; namhe[abundance]N; de[carry]
 
 6.	á-sàg simₓ(GIG)-ma šà-bi bar ak ŋiri₃-paₓ(PAD)-rá igi bar-re
-#lem: asag[a demon]N; sim[carbuncle, skin sore]N; šag[heart]N; bar[outside, (other) side]N; ak[to do]V/t; X; igi[face]N; bar[to place outside, set aside]'V/t
+#lem: asag[a demon]N; sim[carbuncle, skin sore]N; šag[heart]N; bar[outside, (other) side]N; ak[to do]V/t; ŋiripadra[bone]; igi[face]N; bar[to place outside, set aside]'V/t
 
 7.	sa nam-ti-la sa nam-úš-a-ka igi saŋ₅-saŋ₅ níŋ-keše₂-bi sa₆-ge
 #lem: sa[reed-bundle]N; namtil[life]N; sa[reed-bundle]N; namuš[death]N; igi[face]N; saŋ[to choose]V/t; niŋkešed[band]N; sag[(to be) good, sweet, beautiful]V/i
 
-8.	níŋ ra-ah-a du₁₁-ga zi ir-ra ki-gig-bi zu-zu
-#lem: niŋ[thing, possession]N; rah[to beat, kill]V/t; dug[to speak, talk, say]V/t; zi[life]N; ir[cvve]V/t; X; zu[to know, learn]V/t
+8.	níŋ-ra-ah-a du₁₁-ga zi ir-ra ki gig-bi zu-zu
+#lem: niŋrah[wound]V/t; dug[to speak, talk, say]V/t; zi[life]N; ir[cvve]V/t; ki[place]; gig[sick]; zu[to know, learn]V/t
 
 9.	a-zu sa₆-ge šim-mú dú-ra-ta šà lú-ulu₃ igi du₈
-#lem: azu[doctor]N; sag[(to be) good, sweet, beautiful]V/i; šimmu[a priest]N; X; šag[heart]N; lulum[Lullubu]'GN; igi[face]N; du[to spread]V/t
+#lem: azu[doctor]N; sag[(to be) good, sweet, beautiful]V/i; šimmu[a priest]N; tur[sick]; šag[heart]N; lulu[humanity]; igi[face]N; du[to spread]V/t
 
 10.	nin-ŋu₁₀ mu-un-dím-en-na
 #lem: nin[lady]N; dim[to create, fashion, make, manufacture]V/t
 
 11.	tu₆-ni-lú-sag₉ mu-šè mu-un-sa₄
-#lem: Tunilusag[1]ON; mu[name]N; še[to call by name]V/t
+#lem: Tunilusag[1]PN; mu[name]N; še[to call by name]V/t
 
-12.	x ba-an-sa₆-ga mu-šè mu-sa₄-a
-#lem: u; X; mu[name]N; X
+12.	u₃!-ba-an-sa₆-ga mu-šè mu-sa₄-a
+#lem: sag[good]; mu[name]N; še[call]
 
 13.	[X]-ga-DI zi-pa-áŋ ù-mu-ni-[X X] á-⸢sàg⸣ zi ba-an-⸢da⸣-[X]
-#lem: X; zipaŋ[breath]N; X; X[a bird]N; asag[a demon]N; zi[life]N; X
+#lem: X; zipaŋ[breath]N; X; u; asag[a demon]N; zi[life]N; u
 
 14.	mu-ŋu₁₀ mu-zu-ta im-da-an-pàd
 #lem: mu[name]N; zu[to know, learn]V/t; pad[to find, discover]V/t
@@ -1949,24 +1925,22 @@ I will name my lady, “healer of cripples.”
 #lem: namgur[thickness]N; ki[place]N; kiŋ[to seek, search]V/t
 
 16.	tu₆-ni-lú-sag₉ mu-šè mu-un-sa₄^1^
-#lem: Tunilusag[1]ON; mu[name]N; še[to call by name]V/t
+#lem: Tunilusag[1]PN; mu[name]N; še[to call by name]V/t
 
-#note: ^1^ X11 adds: ma-an-sa6-ga mu-šè mu-sa4-a-me-en.
+#note: ^1^ X11 adds: ma-an-sa₆-ga mu-šè mu-sa₄-a-me-en.
+
 17.	u₄ ti-la-ŋá igi hu-mu-un-du₈
-#lem: ud[day]N; X; igi[face]N; du[to spread]V/t
+#lem: ud[day]N; til[live]; igi[face]N; du[to spread]V/t
 
 18.	u₄ ba-úš-en kur-ra a si-ga hu-mu-un-na₈-na₈
-#lem: ud[day]N; X; kur[mountain(s)]N; a[water]N; sig[to impose]V/t; naŋ[to drink]V/t
+#lem: ud[day]N; uš[die]; kur[mountain(s)]N; a[water]N; sig[clear]; naŋ[to drink]V/t
 
 
 @translation labeled en project
 
-
-
 @(1)Lugal-nesa@e, son of Zuzu, ummia of Nippur, @lab{2}fashioned Tuni-lusag,
 his canine emissary, for Nintinuga. @lab{3}To this end, the dog wags its tail
 at its mistress and barks at her:
-
 
 @(4)“Mistress, who provided sustenance in heaven and earth, steward of
 Enlil, @lab{5}sweet breast, satisfying all the lands, bringing abundance,
@@ -1978,11 +1952,8 @@ diseases exacerbated by wounds and deep afﬂictions, @lab{9}the healing
 physician, šimmu priest to the sick, observing the entrails of
 mankind,
 
-
-
 @(10)My mistress, who fashioned me, @lab{11}my name is Tuni-lusag. @lab{12}After
 it (= the disease) had healed, I was so named.
-
 
 @(13)(But) when ... the throat, the asag-demon ... (my) life. @lab{14}My name is
 invoked alongside your name! @lab{15}I seek your strength! @lab{16}I am called
@@ -2009,10 +1980,10 @@ was named thus!
 #lem: Iniminana[1]PN; e[speak]
 
 3.	inim na-me ma-an-ne-eš-ma LUL.AŠ ba-húl-en
-#lem: inim[word]N; name[any]AJ; e[speak]; X; X
+#lem: inim[word]N; name[any]AJ; e[speak]; LUL.AŠ[very much]; hul[rejoice]
 
 4.	{d}lamma ud-ti-la a-kal-la lugal-šú
-#lem: lammar[(female) tutelary deity]N; X; Ayakala[1]PN; Lugalšu[1]PN
+#lem: lammar[(female) tutelary deity]N; Udtila[1]PN; Ayakala[1]PN; Lugalšu[1]PN
 
 5.	na-<bi>-{d}en-líl ù {d}en-líl-al-sag₉
 #lem: Nabienlil[1]PN; u[and]CNJ; Enlilalsag[1]PN
@@ -2026,8 +1997,8 @@ was named thus!
 8.	ù {d}nidaba nin ŋeštug₂ daŋal-la-ke₄
 #lem: u[and]CNJ; Nisabak[1]DN; nin[lady]N; ŋeštug[ear]N; daŋal[(to be) wide, broad]V/i
 
-9.	geštug₂ ha-ra-ab-šúm-mu-ne
-#lem: X; šum[to give]V/t
+9.	ŋeštug₂ ha-ra-ab-šúm-mu-ne
+#lem: ŋeštug[wisdom]; šum[to give]V/t
 
 10.	níŋ im-ma im-sar-re-a
 #lem: niŋ[thing, possession]N; imma[last year]MA; sar[to write]V/t
@@ -2039,10 +2010,10 @@ was named thus!
 #lem: min[two]NU; giŋ[a unit of weight, shekel]N; kugbabbar[silver]N; diš[one]NU; tug[textile, garment]N; min[two]NU; barsig[a garment]N
 
 13.	lú-gi-na šu mu-ra-tak₄-tak₄ šu ti-ba-ab
-#lem: X; šu[hand]N; taka[to set aside, leave behind, abandon, reject]V/t; šu[hand]N; teŋ[(to be) near to]V/i
+#lem: Lugina[1]PN; šu[hand]N; taka[to set aside, leave behind, abandon, reject]V/t; šu[hand]N; teŋ[(to be) near to]V/i
 
 14.	ha-la da₁₃-da₁₃ ama-zu šu nam-bí-te-en-tèŋ
-#lem: hala[inheritance share, lot]N; taka[to set aside, leave behind, abandon, reject]V/t; ama[mother]N; šu[hand]N; X
+#lem: hala[inheritance share, lot]N; taka[to set aside, leave behind, abandon, reject]V/t; ama[mother]N; šu[hand]N; teŋ[near]
 
 15.	a-ma-ru-kam
 #lem: amaru[flood]N
@@ -2050,22 +2021,16 @@ was named thus!
 
 @translation labeled en project
 
-
-
 @(1)Say to Enlil-massu, @lab{2}thus says Inim-Inana:
 
-
 @(3)Everything they told me made me very happy.^1^
-
 
 @(4)May Lamma, Ud-tila, Akala, Lugal-šu, @lab{5}Na<bi>-Enlil and Enlilalsag, @lab{6}scholars who preceded you, @lab{7}Nin-imma, your goddess and
 
 @(8)Nidaba, lady of broad wisdom, @lab{9}give you wisdom.
 
-
 @(10)Regarding what was written on the tablet, @lab{11}did you not know it’s
 the case that the city does not settle accounts?
-
 
 @(12 - 13)Lu-gina is sending you 2 shekels of silver, 1 garment and 2 shawls.
 Take them! @lab{14}(But) your mother should not take the remainder of the
@@ -2089,23 +2054,23 @@ inheritance. @lab{15}It is urgent!
 3.	eme-gir₁₅-šè gú-zu na-ab-šub-bé-en
 #lem: emegir[the Sumerian language]N; gu[neck]N; šub[to fall]V/i
 
-4.	2-kam-ma-šè eme si sá-bi-šè lú mu-e-ši-in-gi₄-gi₄
-#lem: n; eme[tongue]N; si[horn]N; sa[to equal, compare, compete, rival]V/t; lu[person]N; gi[to turn, return]V/i
+4.	min₃-kam-ma-šè eme si sá-bi-šè lú mu-e-ši-in-gi₄-gi₄
+#lem: minkamak[second]; eme[tongue]N; si[horn]N; sa[to equal, compare, compete, rival]V/t; lu[person]N; gi[to turn, return]V/i
 
 5.	lú-tur igi-zu-šè al-durun-ù-na
-#lem: lutur[child]N; igi[eye]N; X
+#lem: lutur[child]N; igi[eye]N; durun[sit]
 
 6.	é-dub-ba-a-ta na-ab-ta-è-en
-#lem: edubbaʾa[scribal school]N; X
+#lem: edubbaʾa[scribal school]N; e[leave]
 
 7.	na-an-ga-ma lú na-me lul i-ri-ib-sì-ke
-#lem: nangama[be that as it may]MA; lu[person]N; name[any]AJ; lul[(to be) false]V/i; X
+#lem: nangama[be that as it may]MA; lu[person]N; name[any]AJ; lul[(to be) false]V/i; sig[put]
 
 8.	ugu ad-da-na-šè ga-àm-ŋen a-ra-ab-bé
 #lem: ugu[skull, pate]N; adda[father]N; ŋen[to go]V/i; e[speak]
 
-9.	en-na {ŋeš}kim ŋe₂₆-e ù za-e KA ì-bal-en-da-na
-#lem: enna[until, up to]CNJ; X; ŋaʾe[I]IP; u[and]CNJ; zaʾe[you]IP; KA[unmng]N; X
+9.	en-na ŋeškim ŋe₂₆-e ù za-e inim ì-bal-en-da-na
+#lem: enna[until, up to]CNJ; ŋeškim[sign]; ŋaʾe[I]IP; u[and]CNJ; zaʾe[you]IP; inim[word]N; bala[turn]
 
 10.	lú mu-e-ši-in-gi₄-gi₄
 #lem: lu[person]N; gi[to turn, return]V/i
@@ -2121,14 +2086,10 @@ inheritance. @lab{15}It is urgent!
 
 @translation labeled en project
 
-
-
 @(1)Say to Lugal-ibila, @lab{2}thus says Inim-Inana:
-
 
 @(3)Do not neglect Sumerian! @lab{4}For the second time, I am sending you a
 message in the proper language.
-
 
 @(5 - 6)Do not let the children seated before you leave school. @lab{7}Moreover,
 should someone try to deceive you @lab{8}saying to you “I want to go” on
@@ -2161,7 +2122,7 @@ of the kids go! @lab{12}You are responsible for ...^1^ It is urgent!
 #lem: nagada[herdsman]N; gin[(to be) firm, permanent]V/i; tum[to bring]V/t
 
 5.	dam-gàr saŋ dù-dù nu-zu bal-šè mu-e-ni-ak
-#lem: damgar[merchant, trader]N; saŋ[head]N; du[to build, make]V/t; zu[to know, learn]V/t; X; ak[to do]V/t
+#lem: damgar[merchant, trader]N; saŋ[head]N; du[to build, make]V/t; zu[to know, learn]V/t; bala[turn]; ak[to do]V/t
 
 6.	anše-gin₇ {kuš}usan₃ hul-ŋál-la hul-ŋál-la bí-in-[x]
 #lem: anše[equid, donkey]N; usan[whip]N; huluŋal[evil]AJ; huluŋal[evil]AJ; u
@@ -2172,21 +2133,18 @@ of the kids go! @lab{12}You are responsible for ...^1^ It is urgent!
 8.	níŋ ak-a-ŋu₁₀ a-rá 7-e nu-un-DU x x
 #lem: niŋ[thing, possession]N; ak[to do]V/t; ara[times (with numbers)]N; n; X; u; u
 
-9.	zag-ba a-rá 7-e nu-mu-un-da-pàd
-#lem: zag[side]N; ara[times (with numbers)]N; n; X
+9.	zag-ba a-rá imin-e nu-mu-un-da-pàd
+#lem: zag[side]N; ara[times (with numbers)]N; imin[seven]; pad[find]
 
 10.	diŋir-ŋu₁₀ lú kúr di nu-me-en šà-zu ki-bi ha-ma-ab-gi₄-gi₄^1^
 #lem: diŋir[deity, god, goddess]N; lu[person]N; kur[a unit of capacity]N; did[lawsuit, trial]N; me[to be]V/i; šag[heart]N; ki[place]N; gi[to change status]V/i
 
-#note: ^1^ Var (Su2): di@ir-@u10 lú kúr-zu nu-me-en ba-ar-mé en-tar-re.
+#note: ^1^ Var (Su2): diŋir-ŋu10 lú kúr-zu nu-me-en ba-ar-mé en-tar-re.
 
 
 @translation labeled en project
 
-
-
 @(1)Say to my god, @lab{2}thus says Gudea, your servant:
-
 
 @(3)Like a sheep, who has no reliable shepherd, @lab{4}I have no reliable
 herdsman to guide me. @lab{5}(Instead) I have been forced to accompany an
@@ -2207,25 +2165,25 @@ for me!^1^
 #atf: use math
 #key: after A. Kleinerman, CM 24
 1.	{m}su-mu-tar-ra ù-na-dug₄
-#lem: X; dug[to speak, talk, say]V/t
+#lem: Sumutara[1]PN; dug[to speak, talk, say]V/t
 
 2.	{m}id-da-tum na-ab-bé-a
-#lem: X; e[speak]
+#lem: Iddatum[1]PN; e[speak]
 
 3.	{lú}kíŋ-gi₄-a kur {ŋeš}erin-na zag-b[i?-ta?]
 #lem: kiŋgia[messenger]N; kur[mountain(s)]N; eren[cedar]N; zag[side]N
 
 4.	igi-mu-šè gú mu-un-ŋar-re-eš-ma
-#lem: igi[face]N; gu[neck]N; X
+#lem: igi[face]N; gu[neck]N; ŋar[put]
 
 5.	mu {lú}kíŋ-gi₄-a-zu á áŋ-ŋá la-[...]
 #lem: mu[year]N; X; a[arm]N; aŋ[to measure]V/t; u
 
 6.	{lú}kíŋ-gi₄-a-zu ù-um-ŋen
-#lem: X; ŋen[to go]V/i
+#lem: kiŋgia[messenger]; ŋen[to go]V/i
 
 7.	igi-ni-šè á áŋ-ŋá ga-ba-e-šúm
-#lem: igi[eye]N; a[arm]N; aŋ[to measure]V/t; X
+#lem: igi[eye]N; a[arm]N; aŋ[to measure]V/t; šum[give]
 
 8.	a-ma-ru-kam
 #lem: amaru[flood]N
@@ -2233,10 +2191,7 @@ for me!^1^
 
 @translation labeled en project
 
-
-
 @(1)Say to Sumutara, @lab{2}thus says Iddatum:
-
 
 @(3)The messengers [from?] the border of the juniper mountains
 
@@ -2252,48 +2207,49 @@ instructions. @lab{8}It is urgent!
 #atf: use math
 #key: after A. Kleinerman, CM 24
 1.	{d}nu-dím-mud-sig₇-ga-ra ù-na-dug₄
-#lem: X; dug[to speak, talk, say]V/t
+#lem: Nudimmudsiga[1]PN; dug[to speak, talk, say]V/t
 
 2.	{m}ig-mil-{d}suen ad-da!-zu na-ab-bé-a
-#lem: X; adda[father]N; e[speak]
+#lem: Igmilsin; adda[father]N; e[speak]
 
-3.	⸢du⸣-nu-um{ki} gú íd ama[r-{d}suena-k]a-šè
-#lem: X; gu[neck]N; id[river, watercourse, canal]N; X
+3.	⸢du⸣-nu-um{ki} gú íd-ama[r-{d}suena-k]a-šè
+#lem: Dunnum[1]SN; gu[bank]N; Idamarsuena[1]WN
 
 4.	nam-šagina-bi-šè du-a-[ŋu₁₀]-ne
-#lem: X; du[to go, imperfect singular stem of ŋen⟦to go⟧]V/i
+#lem: namšakkanak[governorship]; du[to go, imperfect singular stem of ŋen⟦to go⟧]V/i
 
 5.	[du]mu é-dub-ba-a tur-ta bul[uŋ₃]-šè
-#lem: dumu[child, son, daughter]N; edubbaʾa[scribal school]N; tur[(to be) small]V/i; X
+#lem: dumu[child, son, daughter]N; edubbaʾa[scribal school]N; tur[(to be) small]V/i; buluŋ[raise]
 
 6.	lú me-me-ta lú dub did[li]-šè
 #lem: lu[person]N; meme[a text, the scribal exercise me-me]N; lu[person]N; dub[tablet]N; didli[several, various]AJ
 
 7.	lú a-rá-ta níŋ-kas₇-ne-ne-šè
-#lem: lu[person]N; X; X
+#lem: lu[person]N; +ara[times//multiplication tablet]N'N/a-ra₂#~; niŋkas[account]
 
 8.	lú ka-inim-ma lú èn-du ⸢búr⸣-búr-ra
 #lem: lu[person]N; kaʾinimak[incantation formula]N; lu[person]N; endu[a song]N; bur[to spread out, cover]V/t
 
-9.	im-dub-ba-ne-ne im-gíd-da-ne-ne im-šu-ka-ne-ne^1^
-#lem: X; X; X
+9.	{im}dub-ba-ne-ne im-gíd-da-ne-ne im-šu-ka-ne-ne^1^
+#lem: dub[tablet]; imgida[tablet]; imšuk[tablet]
 
 #note: ^1^ Collated, order of ll. 9 and 10 in Civil 2000a is incorrect.
+
 10.	u₄-da zal-la-bi bí-⸢sar⸣
 #lem: ud[day]N; zal[to pass time]V/t; sar[to write]V/t
 
 11.	{gi}bisaŋ-šu-ŋá bí-ŋ[ar]^1^
-#lem: X; ŋar[to put, place, lay down]V/t
+#lem: +bisaŋšu[hand-basket]N/{gi}bisaŋ-šu#~; ŋar[to put, place, lay down]V/t
 
 #note: ^1^ Collated, line left out of copy in PBS 12.
-12.	ù za-e uru₂ àm-ma-ir-ra-bi im-gíd-[...]
-#lem: u[and]CNJ; zaʾe[you]IP; uru[flood, deluge]N; X; u
+12.	ù za-e uru₂-àm-ma-ir-ra-bi im-gíd-[...]
+#lem: u[and]CNJ; zaʾe[you]IP; Uruʾamairabi[1]ON; imgida[tablet]
 
 13.	lú im-gíd-da-ke₄-ne-ne ⸢x x x⸣ [...]
-#lem: lu[person]N; X; u; u; u; u
+#lem: lu[person]N; imgida[tablet]; u; u; u; u
 
 14.	lú níŋ-kas₇ du[b-ba-a ...]^1^
-#lem: lu[person]N; niŋkas[account]N; dub[to heap up, pile, pour]V/t; u
+#lem: lu[person]N; niŋkas[account]N; dub[tablet]; u
 
 #note: ^1^ While there are large gaps after ll. 12, 13, and 14, the lines above (e.g. ll. 7, 9) also have large spaces between the last sign on the line and the sign immediately preceding it. As such these three lines may be essentially complete as stands.
 
@@ -2311,24 +2267,23 @@ $ (beginning of rev. broken; Civil 2000a, 105 suggests a gap of circa 10 lines.)
 #lem: niŋba[gift]N; zu[to know, learn]V/t; u
 
 18.	silim-ma-ŋu₁₀ silim-[ma-zu]
-#lem: silim[(to be) healthy]V/i; X
+#lem: silim[well-being]; silim[well-being]
 
 19.	ú silim dumu é-du[b-ba ...] nu-mu-e-š[i ...]
-#lem: u[grass, herb]N; silim[(to be) healthy]V/i; dumu[child, son, daughter]N; edubbaʾa[scribal school]N; u; X; u
+#lem: u[and]; silim[well-being]; dumu[child, son, daughter]N; edubbaʾa[scribal school]N; u; X; u
+
+#COLLATE u₂
 
 20.	{m}li-bur-ra-am GIŠ.NE ⸢x⸣ [...]
-#lem: X; X; u; u
+#lem: Liburam[1]PN; X; u; u
 
 21.	iri bal-la-ŋá-a-gin₇ [...] šà-ŋu₁₀ hé-x-x-⸢x⸣
-#lem: iri[city]N; X; u; šag[heart]N; u
+#lem: iri[city]N; bala[change]; u; šag[heart]N; u
 
 
 @translation labeled en project
 
-
-
 @(1)Say to Nudimmudsiga, @lab{2}thus says Igmil-Sin, your father:
-
 
 @(3 - 4)When I arrived as governor @lab{3}to Dunnum, on the bank of the
 Amar-Suen canal, @lab{5}(all) the students, from the youngest to the
@@ -2343,7 +2298,9 @@ multi-column tablets, their single-column tablets (or) their
 lenticular tablets. @lab{11}I had them deposited in my “hand” basket(s).
 
 
-@(12)For your part, you transferred the (texts of the bala@) @uru @am-ma-irra-bi. @lab{13}The ones (who write) their single-column tablets ... @lab{14}the ones (who write) accounts ...
+@(12)For your part, you transferred the (texts of the balaŋ) @uru
+@am-ma-irra-bi. @lab{13}The ones (who write) their single-column
+tablets ... @lab{14}the ones (who write) accounts ...
 
 $ (ca. 10 lines missing)
 
@@ -2363,19 +2320,19 @@ my heart will [...].
 $ (Restorations based on Version B.)
 
 1.	{d}inana-an-dùl-du₁₀-[ga-ra ù-na-a-dug₄]
-#lem: X; dug[to speak, talk, say]V/t
+#lem: Inanaʾandulduga[1]PN; dug[to speak, talk, say]V/t
 
-2.	{m}lú-{d}nin-urta ugula é-{d}nin-urta-ke₄
-#lem: X; ugula[overseer, foreman, supervisor]N; X
+2.	{m}lú-{d}nin-urta ugula é {d}nin-urta-ke₄
+#lem: Luninurta[1]PN; ugula[overseer, foreman, supervisor]N; e[house]; Ninurtak[1]DN
 
 3.	na-ab-bé-a
 #lem: e[speak]
 
-4.	[ma-a-an-dùl] arad₂ nam-en-na {d}nin-urta-ke₄
-#lem: X; arad[slave, servant]N; namena[prime quality]AJ; Ninurtak[1]DN
+4.	[{m}a-a-an-dùl] arad₂ nam-en-na {d}nin-urta-ke₄
+#lem: Aaʾandul; arad[slave, servant]N; namen[high priesthood]; Ninurtak[1]DN
 
 5.	[a-a-{d}]nin-urta-ke₄ šu ba-an-ti-eš-ma
-#lem: X; šu[hand]N; X
+#lem: Aaninurta[1]PN; šu[hand]N; teŋ[near]
 
 6.	[...]{ki}-ga-ka al-dúr-ru-ne-eš
 #lem: u; durun[to sit, plural stem of tuš⟦to sit (down)⟧]V/i
@@ -2384,16 +2341,16 @@ $ (Restorations based on Version B.)
 #lem: u; u; du[(to be) fitting, suitable]V/i
 
 8.	nibru{ki}-šè lú gi₄-ma-[ab]
-#lem: Nibru[1]SN; lu[person]N; X
+#lem: Nibru[1]SN; lu[person]N; gi[return]
 
 9.	[x-z]u sá ga-ra-ab-[dug₄]
-#lem: en[cvne]N; sa[to equal, compare, compete, rival]V/t; dug[to speak, talk, say]V/t
+#lem: u; sa[to equal, compare, compete, rival]V/t; dug[to speak, talk, say]V/t
 
 10.	tukum-bi du₁₀-sa-ŋu₁₀ za-e-⸢me-en⸣
-#lem: tukum[if]CNJ; X; zaʾe[you]IP
+#lem: tukum[if]CNJ; dusa[friend]; zaʾe[you]IP
 
 11.	[x]-zu šúm-⸢ma⸣-ab ⸢x⸣-[x (...)]
-#lem: en[cvne]N; šum[to give]V/t; X[2]PN; u
+#lem: u; šum[to give]V/t; u; u
 
 12.	a-ma-ru-kam
 #lem: amaru[flood]N
@@ -2401,16 +2358,12 @@ $ (Restorations based on Version B.)
 
 @translation labeled en project
 
-
-
 @(1)Say to Inana-andul-duga, @lab{3}thus says @lab{2}Lu-Ninurta, overseer of the
 Ninurta temple:
-
 
 @(4)[Aa-andul], the servant attached to the ofﬁce of the high priest of
 Ninurta @lab{5}(and) [Aa]-Ninurta received it and @lab{6}remained in. ... @lab{7} you
 agree to your ...
-
 
 @(8)Send a man to Nippur for me. @lab{9} I will make sure you receive your ...
 
@@ -2424,16 +2377,16 @@ agree to your ...
 #atf: use math
 #key: after A. Kleinerman, CM 24
 1.	{d}inana-an-dul₃-du₁₀-ga-ra ù-na-a-dug₄
-#lem: X; dug[to speak, talk, say]V/t
+#lem: Inanaʾandulduga[1]PN; dug[to speak, talk, say]V/t
 
-2.	{m}lú-{d}nin-urta saŋŋa? x é-{d}nin-urta
-#lem: X; saŋŋa[an official, the chief administrator of a temple household]N; u; X
+2.	{m}lú-{d}nin-urta saŋŋa? x é {d}nin-urta
+#lem: Luninurta[1]PN; saŋŋa[an official, the chief administrator of a temple household]N; u; e[house]; Ninurtak[1]RN
 
 3.	na-ab-bé-a
 #lem: e[speak]
 
-4.	é-{d}nin-urta é-šu-<me>-ša₄ hé-a-du-du-du
-#lem: X; Ešumeša[1]TN; X
+4.	é {d}nin-urta é-šu-<me>-ša₄ hé-a-du-du-du
+#lem: e[house]; Ninurtak[1]DN; Ešumeša[1]TN; X
 
 5.	nam ⸢gur₅?⸣-uš-a-zu ba-ab-bu-ús-sá
 #lem: nam[fate, destiny]N; X; X
@@ -2444,17 +2397,17 @@ agree to your ...
 7.	á-⸢šè⸣ ⸢x⸣ sá ga-ra-ab-dug₄
 #lem: a[arm]N; u; sa[to equal, compare, compete, rival]V/t; dug[to speak, talk, say]V/t
 
-8.	ma-a-an-dùl arad₂ nam-en-na é-{d}nin-urta-ke₄
-#lem: X; arad[slave, servant]N; namena[prime quality]AJ; X
+8.	{m}a-a-an-dùl arad₂ nam-en-na é {d}nin-urta-ke₄
+#lem: X; arad[slave, servant]N; namen[high priesthood]; e[house]; Ninurtak[1]DN
 
 9.	a-an-{d}nin-urta-ke₄ šu ba-an-ti-me-eš
 #lem: X; šu[hand]N; teŋ[to approach]'V/t
 
 10.	a-na x ⸢ki⸣-bi-⸢šè⸣ ba-an-díb
-#lem: ana[what?]QP; u; ki[place]N; X
+#lem: ana[what?]QP; u; ki[place]N; dib[transfer]
 
 11.	⸢x⸣ ma ⸢x um?⸣ ⸢zé?⸣ ù?-me?-dím?
-#lem: u; ma[ship, boat]N; u; um[reed rope]N; zi[to cut, remove]V/t; X
+#lem: u; u; u; u; u; dim[make]
 
 12.	[a-ma-ru]-kam
 #lem: amaru[flood]N
@@ -2462,18 +2415,14 @@ agree to your ...
 
 @translation labeled en project
 
-
-
 @(1)Say to Inana-andul-duga, @lab{3}thus says @lab{2}Lu-Ninurta, administrator of the
 Ninurta temple:
 
-
 @(4)May you continually serve in the Ešumeša, the temple of Ninurta.
 
-
-@(5)Concerning your “trimmings” that have been checked, 6your messengers have taken them to Nippur. 7In the meantime, I will make
-sure you receive ...
-
+@(5)Concerning your “trimmings” that have been checked, @lab{6}your
+messengers have taken them to Nippur. @lab{7}In the meantime, I will
+make sure you receive ...
 
 @(8)Aa-andul, the servant of the en-priest of Ninurta @lab{9}(and) Ninurta
 received it. @lab{10}What ... did he transfer to its place? @lab{11}
@@ -2493,10 +2442,10 @@ received it. @lab{10}What ... did he transfer to its place? @lab{11}
 #lem: Nabienlil[1]PN; dubsar[scribe]N; u; šeš[brother]N; u; e[speak]
 
 3.	ud tur-ra mu-ta-[x]-zu-NE-dè-en
-#lem: ud[day]N; tur[(to be) small]V/i; u
+#lem: ud[day]N; tur[(to be) small]V/i; zu[know]
 
 4.	dumu-zu-ne-gin₇ n[am-n]i-buluŋ₃-e-zé-en
-#lem: X; X
+#lem: dumu[child]; buluŋ[raise]
 
 5.	lú gi-na-gin₇ ⸢x⸣ [x] tuku-a-gin₇ igi bí-[x]-⸢x⸣-ni-gíd!?-dè-en
 #lem: lu[person]N; X; u; u; X; igi[face]N; u
@@ -2505,7 +2454,7 @@ received it. @lab{10}What ... did he transfer to its place? @lab{11}
 #lem: u; u; si[horn]N; sa[to equal, compare, compete, rival]V/t; u; u; X
 
 7.	($traces$) [... b]a-an-ráh-an-na
-#lem: u; X
+#lem: u; rah[beat]
 
 8.	[...] ⸢x⸣ bí-ak
 #lem: u; u; ak[to do]V/t
@@ -2519,7 +2468,7 @@ $ beginning of reverse broken
 #lem: u; u
 
 11.	[x-(x)] lú-kúr-ni [x] ⸢x⸣ al-|KA×X|-|KA×X|-ne
-#lem: X[2]PN; X; u; u; X
+#lem: u; X; u; u; X
 
 12.	[x]-e lú-kúr-⸢zu?⸣ ⸢x⸣ tur-ra-zu-ne bí-⸢x⸣-dé-⸢en⸣
 #lem: dug[to speak, talk, say]V/t; X; u; X; u
