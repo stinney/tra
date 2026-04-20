@@ -1,5 +1,5 @@
-@project	epsd2
-@name		epsd2/qpn
+@project	tra
+@name		tra/qpn
 @lang		qpn
 
 @entry Aaninurta [1] PN
@@ -18,6 +18,12 @@
 @bases {m}at-ta₂-ma-nu-um
 @form {m}at-ta₂-ma-nu-um %sux /{m}at-ta₂-ma-nu-um #~
 @sense PN	1
+@end entry
+
+@entry Dabta [1] FN
+@bases da-ab-ta
+@form da-ab-ta %sux /da-ab-ta #~
+@sense FN 1
 @end entry
 
 @entry Dunnum [1] SN

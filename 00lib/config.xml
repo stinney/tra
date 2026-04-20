@@ -16,6 +16,7 @@
   <option name="catalog-build-policy" value="custom"/>
   <option name="cbd-no-harvest" value="tra epsd2 epsd2/names"/>
   <option name="cbd-oid" value="yes"/>
+  <option name="cbd-use-psus" value="%sux:epsd2"/>
   <option name="cfy-key" value="cv01-150-middle-."/>
   <option name="build-approved-policy" value="atf"/>
   <option name="outline-default-select" value="false"/>

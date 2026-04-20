@@ -1,5 +1,5 @@
-@project	epsd2
-@name		epsd2/sux
+@project	tra
+@name		tra/sux
 @lang		sux
 
 @entry GIŠ.NE@s [fruit] N
@@ -46,6 +46,7 @@
 @form bal-la-ŋa₂-a-gin₇ /bal-la #~;*a,ŋu.ak.gin
 @form nu-mu-un-da-bal /bala #nu.mu.n.da:~
 @sense V/t to turn, rotate, turn over
+@sense V/t to change, transgress (the terms of an agreement)
 @end entry
 
 @entry bar [cvve] V/t
@@ -93,12 +94,14 @@
 @form ba-an-dib₂ /dib₂ #ba.n:~
 @form nam-bi₂-ib-dib-be₂-en /dib +-be₂=b.e #na.ba.i.b:~;e.en
 @sense V/t to pass, go along
+@sense V/t to transfer
 @end entry
 
 @entry didila [smaller] V/i
 @bases di₄-di₄-la₂
 @form di₄-di₄-la₂-e-ne /di₄-di₄-la₂ #~;e.ene
 @sense V/i (to be) small(er)
+@sense N youngster
 @end entry
 
 @entry didli [several] AJ
@@ -110,7 +113,7 @@
 @entry dili [single] V/i
 @bases dili
 @form dili /dili #~
-@sense NU V/i:(to be) single, unique, sole
+@sense V/i (to be) single, unique, sole
 @end entry
 
 @entry dim [create] V/t
@@ -154,6 +157,7 @@
 @bases duh
 @form he₂-ni-in-du₈ /duh #ha.V.ni.n:~
 @sense V/t to loosen, release
+@sense V/t to open
 @end entry
 
 @entry dumu [child] N
@@ -221,6 +225,7 @@
 @form gi-na-gin₇ /gen₇ #~;*a,gin
 @form gi-na-zu-ta /gin₆ #~;*a.zu,ta
 @sense V/i (to be) firm, permanent
+@sense V/i (to be) true, correct, normal
 @end entry
 
 @entry gu [eat] V/t
@@ -259,6 +264,7 @@
 @bases lu₂-dab₅
 @form lu₂-dab₅-ne-ne /lu₂-dab₅ #~,anene
 @sense N a worker
+@sense N prisoner
 @end entry
 
 @entry hul [rejoice] V/i
@@ -293,6 +299,12 @@
 @sense N road, path
 @end entry
 
+@entry ki.bi(.eše) gi [to restore] V/t
+@parts ki[place]N gi[turn]V/i
+@sense V/t to restore
+@sense V/t to replace
+@end entry
+
 @entry lah [bring] V/t
 @bases lah₄; lah₅
 @form lah₅-am₃ /lah₅ #~;am
@@ -313,9 +325,9 @@
 @sense N stranger, foreigner
 @end entry
 
-@entry mur [dress] V/i
+@entry mur [wear] V/i
 @bases mur₁₀
-@form mi-ni-mu₄-ra /mur₁₀ #mu.i:~;
+@form mi-ni-mu₄-ra /mur₁₀ #mu.i:~;a
 @sense V/i to dress, get dressed, clothe oneself
 @end entry
 
@@ -364,7 +376,9 @@
 @entry peš [thick] V/i
 @bases peš
 @form ba-peš /peš #ba:~
+@form peš /peš #~
 @sense V/i (to be) thick
+@sense N offspring
 @end entry
 
 @entry rah [beat] V/t
@@ -411,6 +425,7 @@
 @form ga-mu-na-ab-silim /silim #ga.mu.na.b:~
 @sense V/i (to be) healthy
 @sense V/t	to repair
+@sense N well-being
 @end entry
 
 @entry sug [stand] V/i
@@ -436,6 +451,7 @@
 @form i-ni-til /til #V.i:~
 @form nu-mu-un-da-til-en /til #nu.mu.n.da:~;en
 @sense V/i (to be) complete, completed
+@sense V/t to make complete, end, finish (off)
 @end entry
 
 @entry tir [forest] N
@@ -455,6 +471,7 @@
 @form tuku-a-gin₇ /tuku #~;a,gin
 @form tuku-ne-ne /tuku #~;ene.*a,ene
 @sense V/t to acquire, get
+@sense V/t to have
 @end entry
 
 @entry tukul [weapon] N
@@ -486,6 +503,7 @@
 @bases us₂
 @form ba-ab-bu-us₂-sa₂ /us₂ +-sa₂=s.a #ba.b:~;a
 @sense V/t to accompany, follow
+@sense V/t to check
 @end entry
 
 @entry zah [disappear] V/i
@@ -539,6 +557,7 @@
 @bases še-g·a
 @form nam-bi₂-še-ga /še-g·a #na.ba.i:~;
 @sense V/i to agree, be in agreement, be favorable
+@sense V/t to obey
 @end entry
 
 @entry šeš [brother] N
@@ -563,6 +582,7 @@
 @bases šubtu₅
 @form šubtu₅-ta /šubtu₅ #~,ta
 @sense N dwelling, encampment
+@sense N ambush
 @end entry
 
 @entry šudul [yoke] N
@@ -581,5 +601,13 @@
 @bases šum₂
 @form ga-ba-e-šum₂ /šum₂ #ga.ba.e:~
 @sense V/t to give
+@end entry
+
+@entry šu gid [accept] V/t
+@parts šu[hand]N gid[long]V/i
+@bases šu gid₂
+@sense V/t to accept
+@equiv %akk mahāru
+@isslp 2000 F. Karahashi, Sumerian Compound Verbs 161-162.
 @end entry
 
