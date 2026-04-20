@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project xmlns="http://oracc.org/ns/xpd/1.0" xmlns:xpd="http://oracc.org/ns/xpd/1.0" n="tra/sepm">
+  <name>Translations SEpM</name>
+  <abbrev>TRA/SEpM</abbrev>
+  <project-type>user</project-type>
+  <blurb/>
+  <type>corpus</type>
+  <logo type="text">TRA/SEpM</logo>
+  <option name="l2" value="yes"/>
+  <inherit project="tra"/>
+</project>
