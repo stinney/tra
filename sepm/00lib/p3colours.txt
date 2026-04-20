@@ -1,7 +1,7 @@
 colour-def-white		#fff
 colour-def-black		#000
 colour-def-dark			#008000
-colour-def-light		#0000ff
+colour-def-light		#d1ffbd
 colour-def-medium		#990033
 colour-def-outline		#cccccc
 colour-def-alternate		#eeeeee
@@ -11,7 +11,7 @@ colour-def-blms-contrast 	#008000
 colour-def-blms-dark   		#333333
 colour-def-blms-mid   		#008000
 colour-def-blms-light   	#fff
-colour-def-blms-pale  		#0000ff
+colour-def-blms-pale  		#d1ffbd
 colour-def-blms-ultra-light  	#50D050
 
 colour-bind-blms-mid 		href-fg banner-bg hover-fg
