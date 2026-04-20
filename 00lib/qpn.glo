@@ -2,6 +2,12 @@
 @name		tra/qpn
 @lang		qpn
 
+@entry Aaʾandul [1] PN
+@bases {m}a-a-an-dul₃
+@form {m}a-a-an-dul₃ %sux /{m}a-a-an-dul₃ #~
+@sense PN 1
+@end entry
+
 @entry Aaninurta [1] PN
 @bases a-a-{d}nin-urta-k·e₄
 @form a-a-{d}nin-urta-ke₄ %sux /a-a-{d}nin-urta-k·e₄ #~,e
@@ -67,6 +73,18 @@
 @bases {m}id-da-tum
 @form {m}id-da-tum %sux /{m}id-da-tum #~
 @sense PN	1
+@end entry
+
+@entry Igmilsin [1] PN
+@bases {m}ig-mil-{d}suen
+@form {m}ig-mil-{d}suen %sux /{m}ig-mil-{d}suen #~
+@sense PN 1
+@end entry
+
+@entry Ilakniʾid [1] PN
+@bases i-la-ak-ni-id
+@form i-la-ak-ni-id /i-la-ak-ni-id #~
+@sense PN 1
 @end entry
 
 @entry Inanaʾandulduga [1] PN
@@ -172,10 +190,10 @@
 @sense PN	1
 @end entry
 
-@entry Ursuenak [1] DN
+@entry Ursuenak [1] PN
 @bases ur-{d}suen-a
 @form ur-{d}suen-a %sux /ur-{d}suen-a #~
-@sense DN	1
+@sense PN	1
 @end entry
 
 @entry x.lugal.ŋu [0] PN

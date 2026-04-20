@@ -299,6 +299,12 @@
 @sense N road, path
 @end entry
 
+@entry ki [place] N
+@bases ki
+@form ki /ki #~
+@sense N place
+@end entry
+
 @entry ki.bi(.eše) gi [to restore] V/t
 @parts ki[place]N gi[turn]V/i
 @sense V/t to restore
@@ -602,12 +608,3 @@
 @form ga-ba-e-šum₂ /šum₂ #ga.ba.e:~
 @sense V/t to give
 @end entry
-
-@entry šu gid [accept] V/t
-@parts šu[hand]N gid[long]V/i
-@bases šu gid₂
-@sense V/t to accept
-@equiv %akk mahāru
-@isslp 2000 F. Karahashi, Sumerian Compound Verbs 161-162.
-@end entry
-
