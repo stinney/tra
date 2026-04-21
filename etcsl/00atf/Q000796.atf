@@ -1,0 +1,2339 @@
+&Q000796 = Proverbs: collection 2 + 6
+@composite
+#project: epsd2/literary
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.02
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.02&display=Crit&charenc=gcirc#
+
+@div segment A
+
+@div proverb 2.1
+
+1. ki gul-la-ba ki he₂-en-gul
+#lem: ki[place]; gul[destroy]; ki[place]; gul[destroy]
+#etcsl: line-id=A.2.1.1
+
+#note: cf. 6.1.07.1, 6.2.1: Ni 9824 Seg. A ll. 1-2, 6.2.3: UET 6/2 356 ll. 3-8
+
+2. ki nu-gul-la-ba gu₂-ŋiri₃ he₂-en-ŋal₂
+#lem: ki[place]; gul[destroy]; guŋiri[breach]; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=A.2.1.2
+
+3. ki-ni ki lu-ub₂{sar} kud-da he₂-a
+#lem: ki[place]; ki[place]; lub[turnip]; kud[cut]; me[be]
+#etcsl: line-id=A.2.1.3
+
+4. ŋarza-bi ŋiri₃ ba-da-kur₂
+#lem: ŋarza[rites]; ŋiri[foot]; kur[different]
+#etcsl: line-id=A.2.1.4
+
+5. di-ir-ga-a ki ba-e-gul
+#lem: dirga[bond]; ki[place]; gul[destroy]
+#etcsl: line-id=A.2.1.5
+
+6. me-bi ba-da-ha-lam
+#lem: me[Being]; halam[forsake]
+#etcsl: line-id=A.2.1.6
+
+7. ŋarza-bi ŋiri₃ na-ab-ta-ab-kur₂-ru-de₃-en-ze₂-en
+#lem: ŋarza[rites]; ŋiri[foot]; kur[different]
+#etcsl: line-id=A.2.1.7
+
+8. di-ir-ga-a ki nam-ba-e-gul-lu-de₃-en-ze₂-en
+#lem: dirga[bond]; ki[place]; gul[destroy]
+#etcsl: line-id=A.2.1.8
+
+9. me-bi na-ab-ta-ab-ha-lam-e-en-ze₂-en
+#lem: me[Being]; halam[forsake]
+#etcsl: line-id=A.2.1.9
+
+10. gud-de₃ ki-gub-ba na-ab-ta-ab-kur₂-ru-de₃-en-ze₂-en
+#lem: gud[bull]; kigub[station]; kur[different]
+#etcsl: line-id=A.2.1.10
+
+@end proverb
+
+@div proverb 2.2
+
+11. nam-tar-ŋu₁₀ ga-am₃-dug₄ in-na-am₃
+#lem: namtar[fate]; dug[speak]; in[abuse]
+#etcsl: line-id=A.2.2.11
+
+#note: cf. 6.1.26.c10, 6.2.3: UET 6/2 292 ll. 1-2
+
+12. pa ga-am₃-e₃ sulummar₂-am₃
+#lem: pa[branch]; e[leave]; sulummar[slander]
+#etcsl: line-id=A.2.2.12
+
+@end proverb
+
+@div proverb 2.3
+
+13. nam-tar-ŋu₁₀ ušur-ŋa₂ ga-na-ab-dug₄
+#lem: namtar[fate]; usar[(female) neighbor]; dug[speak]
+#etcsl: line-id=A.2.3.13
+
+14. in-na ma-ŋa₂-ŋa₂
+#lem: in[abuse]; ŋar[put]
+#etcsl: line-id=A.2.3.14
+
+@end proverb
+
+@div proverb 2.4
+
+15. a-a igi i-ni-in-bar nam-tar-ŋu₁₀ ba-dib-ba
+#lem: a[water]; igi[eye]; bar[place outside]; namtar[fate]; dib[pass]
+#etcsl: line-id=A.2.4.15
+
+#note: cf. 6.2.1: Ni 9824 Seg. A l. 4
+
+@end proverb
+
+@div proverb 2.5
+
+16. ud nam-tar gig-ga-ka ba-tu-ud-de₃-en
+#lem: ud[sun]; namtar[fate]; gig[sick]; utud[give birth (to)]
+#etcsl: line-id=A.2.5.16
+
+@end proverb
+
+@div proverb 2.6
+
+17. nam-tar-ŋu₁₀ gu₃-nam ama-ŋu₁₀ mu-da-an-kur₂
+#lem: namtar[fate]; gu[voice]; ama[mother]; kur[different]
+#etcsl: line-id=A.2.6.17
+
+#note: cf. 6.2.1: Ni 4300 Seg. A l. 4
+
+@end proverb
+
+@div proverb 2.7
+
+18. zu-a ur₃-ra mu-un-ne-e-ed₃
+#lem: zu[know]; ur[roof]; ed[go up]
+#etcsl: line-id=A.2.7.18
+
+@end proverb
+
+@div proverb 2.8
+
+19. ušur ama-ŋu₁₀ e₂-a-na zi mu-un-di-ni-gi₄
+#lem: usar[(female) neighbor]; ama[mother]; e[house]; zi[life]; gi[turn]
+#etcsl: line-id=A.2.8.19
+
+@end proverb
+
+@div proverb 2.9
+
+20. nam nu-tar-re ki-gul-la gaba ba-an-ri#-[me-en]
+#lem: nam[fate]; tar[cut]; kigula[destitute person]; gaba[breast]; ri[impose]
+#etcsl: line-id=A.2.9.20
+
+21. lu₂ kug la₂ zu-me-en igi-za ga-gub ma-an-dug₄-e-še
+#lem: lu[person]; kug[purify]; la[hang]; zu[know]; igi[eye]; gub[stand]; dug[speak]
+#etcsl: line-id=A.2.9.21
+
+@end proverb
+
+@div proverb 2.10
+
+22. nam nu-tar-re a₂-sag₃-e gaba ba-an-ri-me-en
+#lem: nam[fate]; tar[cut]; Asag[1]DN; gaba[breast]; ri[impose]
+#etcsl: line-id=A.2.10.22
+
+23. kug niŋ₂-gur₁₁ zu-me-en igi-za ga-gub ma-an-dug₄-e-še
+#lem: kug[purify]; niŋgur[property]; zu[know]; igi[eye]; gub[stand]; dug[speak]
+#etcsl: line-id=A.2.10.23
+
+@end proverb
+
+@div proverb 2.11
+
+24. nam-tar ur-ra-am₃ zu₂ mu-un-da-an-kud
+#lem: namtar[fate]; ur[dog]; zu[tooth]; kud[cut]
+#etcsl: line-id=A.2.11.24
+
+#note: cf. 6.1.07.70
+
+25. tug₂-mu-dur₇-ra-gin₇ im-ma-tab-tab
+#lem: tugmudura[mourning garment]; tab[double]
+#etcsl: line-id=A.2.11.25
+
+26. a-ba-am₃ lu₂-ŋu₁₀ hu-mu-un-da-an-zu
+#lem: aba[who?]; lu[person]; zu[know]
+#etcsl: line-id=A.2.11.26
+
+@end proverb
+
+@div proverb 2.12
+
+27. nam-tar tug₂-ga-am₃ edin-na mu-un-na-an-la₂
+#lem: namtar[fate]; tug[textile]; eden[back]; la[hang]
+#etcsl: line-id=A.2.12.27
+
+@end proverb
+
+@div proverb 2.13
+
+28. nam-tar ud huš kalam-ma ri-a
+#lem: namtar[fate]; ud[storm]; huš[reddish]; kalam[the Land (of Sumer)]; ri[impose]
+#etcsl: line-id=A.2.13.28
+
+@end proverb
+
+@div proverb 2.14
+
+29. (1:du-lum:1) ur-gir₁₅-ra-am₃ egir-ra-na mu-un-DU
+#lem: dulum[toil]; urgir[(domestic) dog]; egir[back]; X
+#etcsl: line-id=A.2.14.29
+
+:29v.1.1: (#note: 1 ms. has instead:#) nam-tar
+#lem: namtar[fate]
+
+@end proverb
+
+@div proverb 2.15
+
+30. ukur₃-re niŋ₂ gu₇-u₃-da-ni-še₃ igi an-ši-du₃-du₃
+#lem: ukur[poor]; niŋ[thing]; gu[eat]; igi[eye]; du[build]
+#etcsl: line-id=A.2.15.30
+
+@end proverb
+
+@div proverb 2.16
+
+31. ukur₃ bu-lu-uh₂ si-il-le# lu₂ niŋ₂-tuku-e igi tur nam-ba-e-gid₂-i
+#lem: ukur[poor]; buluh[vomit]; sil[split]; lu[person]; niŋtuku[rich]; igi[eye]; tur[small]; gid[long]
+#etcsl: line-id=A.2.16.31
+
+@end proverb
+
+@div proverb 2.17
+
+32. ukur₃-re še ur₁₁-ru nu-mu-un-zu-a ziz₂ a-na ba-ur₁₁-ru
+#lem: ukur[poor]; še[barley]; uru[sow]; zu[know]; ziz[emmer wheat]; ana[what?]; uru[sow]
+#etcsl: line-id=A.2.17.32
+
+@end proverb
+
+@div proverb 2.18
+
+33. ukur₃ nu-kal
+#lem: ukur[poor]; kal[rare]
+#etcsl: line-id=A.2.18.33
+
+@end proverb
+
+@div proverb 2.19
+
+34. ukur₃-re niŋ₂ šu ti-a-ni zu₂ an-ur₅
+#lem: ukur[poor]; niŋ[thing]; šu[hand]; teŋ[approach]; zu[tooth]; ur[cvve]
+#etcsl: line-id=A.2.19.34
+
+@end proverb
+
+@div proverb 2.20
+
+35. en-te-na-ka a-šag₄ nu-ur₁₁-ru
+#lem: enten[winter]; ašag[field]; uru[sow]
+#etcsl: line-id=A.2.20.35
+
+#note: cf. 6.1.26.d4
+
+36. ud# buru₁₄#-ka šu ga-rig₂ am₃-du₃-du₃-e
+#lem: ud[sun]; buru[harvest]; šu[hand]; garig[comb]; du[build]
+#etcsl: line-id=A.2.20.36
+
+@end proverb
+
+@div proverb 2.21
+
+37. [...] X X niŋ₂-na e₂ šar₂-ra [...] X X X BAR
+#lem: X; X; X; niŋna[incense (burner)]; e[house]; šar[numerous]V/i; X; X; X; X; X
+#etcsl: line-id=A.2.21.37
+
+@end proverb
+
+@div proverb 2.22
+
+38. ukur₃-re al#-ŋal₂-la X X
+#lem: ukur[poor]; ŋal[⟦be⟧ to be (there]; X; X
+#etcsl: line-id=A.2.22.38
+
+#note: cf. 6.1.17.b5
+
+39. tu₇ ubur#-ra bi₂-in-šu₂
+#lem: tu[soup]; ubur[breast]; šuš[cover]
+#etcsl: line-id=A.2.22.39
+
+@end proverb
+
+@div proverb 2.23
+
+40. ukur₃-re dumu-ni tibir 1(DIŠ)-am₃ [šu nu-um-ma-ni-dug₄-ge]
+#lem: ukur[poor]; dumu[child]; tibir[hand]; n; šu[hand]; dug[speak]
+#etcsl: line-id=A.2.23.40
+
+#note: cf. 6.1.17.b4
+
+41. gi₁₆-sa da-ri₂-še₃ nu-mu-[...]
+#lem: gilsa[treasure]; dari[eternal]; X
+#etcsl: line-id=A.2.23.41
+
+@end proverb
+
+@div proverb 2.24
+
+42. ukur₃-re niŋ₂-tuku-na sun₇-na [... ...]
+#lem: ukur[poor]; niŋtuku[rich]; sun[authoritative]; X; X
+#etcsl: line-id=A.2.24.42
+
+43. [...] X X [... ...]
+#lem: X; X; X; X; X
+#etcsl: line-id=A.2.24.43
+
+@end proverb
+
+@div proverb 2.26
+
+44. e₂-e₂ ukur₃#-ukur₃!-ra teš₂-e la-ba-gam-e
+#lem: e[house]; ukur[poor]; teš[unity]; gurum[bend]
+#etcsl: line-id=A.2.26.44
+
+@end proverb
+
+@div proverb 2.27
+
+45. inim ukur₃-ra-še₃ šu la-ba-ši-in-ti
+#lem: inim[word]; ukur[poor]; šu[hand]; teŋ[approach]
+#etcsl: line-id=A.2.27.45
+
+@end proverb
+
+@div proverb 2.28
+
+46. du-du nam-ukur₃-ra a₂ bi₂-ib-ŋar
+#lem: ŋen[go]; namukur[poverty]; a[arm]; ŋar[put]
+#etcsl: line-id=A.2.28.46
+
+#note: cf. 2.34A, 6.1.22: l. 236, 6.2.3: UET 6/2 260 l. 1
+
+47. lu₂ du-du zu in-kalag ugu lu₂ tuš-a nam-til₃ bi₂-ib-tah-e
+#lem: lu[person]; ŋen[go]; zu[know]; kalag[strong]; ugu[skull]; lu[person]; tuš[sit (down)]; namtil[life]; tah[add]
+#etcsl: line-id=A.2.28.47
+
+@end proverb
+
+@div proverb 2.29
+
+48. ukur₃ a-na-am₃ al-tur-re
+#lem: ukur[poor]; ana[what?]; tur[small]
+#etcsl: line-id=A.2.29.48
+
+49. e₂-{na₄}kinkin-na gu₂ {im}šu-rin-na-ka
+#lem: ekinkin[mill]; gu[neck]; šurin[oven]
+#etcsl: line-id=A.2.29.49
+
+50. tug₂ bir₇-ra-ni nu-kalag-ge-dam
+#lem: tug[textile]; bir[shred]; kalag[strong]
+#etcsl: line-id=A.2.29.50
+
+51. niŋ₂ u₂-gu de₂-a-ni nu-mu-un-kiŋ₂-kiŋ₂-dam
+#lem: niŋ[thing]; ugu[cvne]; de[pour]; kiŋ[seek]
+#etcsl: line-id=A.2.29.51
+
+@end proverb
+
+@div proverb 2.30
+
+52. ukur₃ ur₅-ra-am₃ al-tur-re
+#lem: ukur[poor]; ura[interest-bearing loan]; tur[small]
+#etcsl: line-id=A.2.30.52
+
+53. ka-ta kar-ra ur₅-ra ab-su-su
+#lem: kag[mouth]; kar[flee]; ura[interest-bearing loan]; sug[replace]
+#etcsl: line-id=A.2.30.53
+
+@end proverb
+
+@div proverb 2.31
+
+54. ukur₃ kug tukur₂
+#lem: ukur[poor]; kug[metal]; tukur[chew]
+#etcsl: line-id=A.2.31.54
+
+@end proverb
+
+@div proverb 2.32
+
+55. ukur₃ si-ig kalam-ma-ka
+#lem: ukur[poor]; sig[weak]; kalam[the Land (of Sumer)]
+#etcsl: line-id=A.2.32.55
+
+@end proverb
+
+@div proverb 2.33
+
+56. gu₅-li ukur₃-ra-ka
+#lem: guli[friend]; ukur[poor]
+#etcsl: line-id=A.2.33.56
+
+57. niŋ₂ hu-hu-nu nu-mu-un-su-a-ka
+#lem: niŋ[thing]; hunu[weak (of animals)]; numunkuš[widow]
+#etcsl: line-id=A.2.33.57
+
+@end proverb
+
+@div proverb 2.34
+
+58. muš₃-me ukur₃-ra-ka
+#lem: mušme[face]; ukur[poor]
+#etcsl: line-id=A.2.34.58
+
+59. gaba ud-da-kam i₃-tuš-tuš-u₃-de₃ i-ni-in-ŋar
+#lem: gaba[breast]; ud[storm]; tuš[sit (down)]; ŋar[put]
+#etcsl: line-id=A.2.34.59
+
+@end proverb
+
+@div proverb 2.34A
+
+60. du-du nam-ukur₃-re a₂ bi₂-ib₂-ŋar
+#lem: ŋen[go]; namukur[poverty]; a[arm]; ŋar[put]
+#etcsl: line-id=A.2.34A.60
+
+#note: cf. 2.28, 6.1.22: l. 236, 6.2.3: UET 6/2 260 l. 1
+
+@end proverb
+
+@div proverb 2.35
+
+61. lu₂ du-du-ra ninda ga-na-šum₂#
+#lem: lu[person]; du[go]; ninda[bread]; šum[give]
+#etcsl: line-id=A.2.35.61
+
+62. lu₂ nu-du-du-ra# me-ta ga-mu-na-ab-tum₃
+#lem: lu[person]; du[go]; meta[where from? whence?]; tum[bring]
+#etcsl: line-id=A.2.35.62
+
+63. lu₂ %e di-di-ra %s ninda ga-na-ab-šum₂
+#lem: lu[person]; de[go]; ninda[bread]; šum[give]
+#etcsl: line-id=A.2.35.63
+
+64. lu₂ %e nu-di-di-ra %s me-ta %e [da]-mu-na-i-ir
+#lem: lu[person]; de[go]; meta[where from? whence?]; ir[bring]V/t
+#etcsl: line-id=A.2.35.64
+
+@end proverb
+
+@div proverb 2.36
+
+65. [...] šag₄# dub-ba [...]
+#lem: X; šag[heart]; dub[tablet]; X
+#etcsl: line-id=A.2.36.65
+
+66. dub-sar# ni₂-te#-a-ni# X X X [...]
+#lem: dubsar[scribe]; ni[self]; X; X; X; X
+#etcsl: line-id=A.2.36.66
+
+@end proverb
+
+@div proverb 2.37
+
+67. [dub-sar-me]-en mu ni₂-za nu-zu [igi ni₂-za] X-ge
+#lem: dubsar[scribe]; mu[name]; ni[self]; zu[know]; igi[eye]; ni[self]; X
+#etcsl: line-id=A.2.37.67
+
+#note: cf. 6.1.11.146, 6.2.3: UET 6/2 267 ll. 1-2
+
+@end proverb
+
+@div proverb 2.38
+
+68. [dub]-sar-re mu 1(DIŠ)-am₃ he₂-en-zu
+#lem: dubsar[scribe]; mu[name]; n; zu[know]
+#etcsl: line-id=A.2.38.68
+
+#note: cf. 6.2.3: UET 6/2 268 ll. 1-2
+
+69. [šu]-ni he₂-sag₉-sag₉ e-ne-am₃ dub-sar-re
+#lem: šu[hand]; sag[good]; ane[he]; dubsar[scribe]
+#etcsl: line-id=A.2.38.69
+
+@end proverb
+
+@div proverb 2.39
+
+70. nar-re en₃-du 1(DIŠ)-am₃ he₂-en-zu
+#lem: nar[musician]; endu[song]; n; zu[know]
+#etcsl: line-id=A.2.39.70
+
+#note: cf. 6.2.3: UET 6/2 268 ll. 3-4, 6.2.3: UET 6/2 290, 6.2.3: UET 6/3 452 ll. 1-2
+
+71. ad ša₄-am₃ he₂-en-sag₉ e-ne-am₃ nar-ra
+#lem: ad[voice]; ša[cvve]; sag[good]; ane[he]; nar[musician]
+#etcsl: line-id=A.2.39.71
+
+@end proverb
+
+@div proverb 2.40
+
+72. dub-sar šu ka-ta sa₂-a e-ne-am₃ dub-sar-ra-am₃
+#lem: dubsar[scribe]; šu[hand]; kag[mouth]; sa[equal]; ane[he]; dubsar[scribe]
+#etcsl: line-id=A.2.40.72
+
+#note: cf. 6.2.3: UET 6/3 452 l. 3
+
+@end proverb
+
+@div proverb 2.41
+
+73. nar za-pa-aŋ₂ nu-dug₃-ga hu-ru-um nar-e-ne
+#lem: nar[musician]; zipaŋ[voice]; dug[good]; hurum[junior]; nar[musician]
+#etcsl: line-id=A.2.41.73
+
+@end proverb
+
+@div proverb 2.42
+
+74. dub-sar hu-ru a-[ga-aš gi₄] e₂-dub-ba-X
+#lem: dubsar[scribe]; hurum[junior]; aga[rear]; gi[turn]; edubbaʾa[scribal school]
+#etcsl: line-id=A.2.42.74
+
+#note: cf. 5.4.02: l. 95, 5.4.03: l. 9
+
+@end proverb
+
+@div proverb 2.43
+
+75. dub-sar šu nu-a nar ŋili₃ nu-a
+#lem: dubsar[scribe]; šu[hand]; nu[not]; nar[musician]; ŋeli[throat]; nu[not]
+#etcsl: line-id=A.2.43.75
+
+@end proverb
+
+@div proverb 2.44
+
+76. dub-sar an-ta-me-en lu₂ ki-ta nu-me-en
+#lem: dubsar[scribe]; anta[upper]; lu[person]; kita[lower]; me[be]
+#etcsl: line-id=A.2.44.76
+
+@end proverb
+
+@div proverb 2.45
+
+77. dumu um-mi-a {na₄}gug-gin₇ ti-ba un-burudₓ(U)
+#lem: dumu[child]; ummia[expert]; gug[carnelian]; ti[rib]; burud[perforate]
+#etcsl: line-id=A.2.45.77
+
+78. e-ne dub-sar-ra-am₃
+#lem: ane[he]; dubsar[scribe]
+#etcsl: line-id=A.2.45.78
+
+@end proverb
+
+@div proverb 2.46
+
+79. ti-ba un-burudₓ(U) {na₄}za-gin₃-na-am₃
+#lem: ti[rib]; burud[perforate]; zagin[lapis lazuli]
+#etcsl: line-id=A.2.46.79
+
+@end proverb
+
+@div proverb 2.47
+
+80. dub-sar eme-gir₁₅ nu-mu-un-zu-a a-na-am₃ nam-dub-sar-ra-ni
+#lem: dubsar[scribe]; emegir[the Sumerian language]; zu[know]; ana[what?]; namdubsar[the scribal arts]
+#etcsl: line-id=A.2.47.80
+
+@end proverb
+
+@div proverb 2.48
+
+81. lu₂ a-a nu-mu-un-da-ak-da-am₃ eme kaš₄-kaš₄ me-da he₂-en-tum₃
+#lem: lu[person]; aʾa[text]; ak[do]; eme[tongue]; kaš[run]; meta[where from? whence?]; tum[bring]
+#etcsl: line-id=A.2.48.81
+
+@end proverb
+
+@div proverb 2.49
+
+82. dub-sar eme-gir₁₅ nu-mu-un-zu-a inim bal-e me-da he₂-en-tum₃
+#lem: dubsar[scribe]; emegir[the Sumerian language]; zu[know]; inim[word]; bala[turn]; meta[where from? whence?]; tum[bring]
+#etcsl: line-id=A.2.49.82
+
+#note: cf. 6.2.3: UET 6/2 269
+
+@end proverb
+
+@div proverb 2.50
+
+83. dub-sar šudum-ma im-ma ba-an-lal
+#lem: dubsar[scribe]; šudum[reckoning]; im[clay]; lal[small]
+#etcsl: line-id=A.2.50.83
+
+84. dub-sar [im]-ma# šudum-e ba-an-lal
+#lem: dubsar[scribe]; im[clay]; šudum[reckoning]; lal[small]
+#etcsl: line-id=A.2.50.84
+
+@end proverb
+
+@div proverb 2.51
+
+85. dub-sar šag₄-ba-me-en KA [...]
+#lem: dubsar[scribe]; šag[heart]; X; X
+#etcsl: line-id=A.2.51.85
+
+@end proverb
+
+@div proverb 2.52
+
+86. dub-sar lu₂ gu₃ ra-ah nam-tag-ga-ni ab-gu-ul#
+#lem: dubsar[scribe]; lu[person]; gu[voice]; rah[beat]; namtaga[sin]; gal[big]
+#etcsl: line-id=A.2.52.86
+
+@end proverb
+
+@div proverb 2.53
+
+87. dub-sar-tur ninda šag₄-gal-la#-ni-še₃ bi₂-ib₂-dirig-dirig-ge
+#lem: dubsartur[junior scribe]; ninda[bread]; šaggal[food]; dirig[make more than]
+#etcsl: line-id=A.2.53.87
+
+88. nam-dub-sar-ra-še₃ ŋeštug₂ nu-ub-ši-ŋa₂-ŋa₂
+#lem: namdubsar[the scribal arts]; ŋeštug[ear]; ŋar[put]
+#etcsl: line-id=A.2.53.88
+
+@end proverb
+
+@div proverb 2.54
+
+89. dub-sar pe-el-la₂ lu₂-mu₇-mu₇-ma-kam
+#lem: dubsar[scribe]; pel[defile]; lumumun[incantation priest]
+#etcsl: line-id=A.2.54.89
+
+#note: cf. 6.2.3: UET 6/2 267 ll. 5-7
+
+90. nar pe-el-la₂ lu₂-gi-di-da-kam
+#lem: nar[musician]; pel[defile]; lugididak[musician]
+#etcsl: line-id=A.2.54.90
+
+91. gala pe-el-la₂# lu₂-<gi>-gid₂#-a-kam
+#lem: gala[lamentation singer]; pel[defile]; lugigidak[type of musician]
+#etcsl: line-id=A.2.54.91
+
+92. dam-gara₃ pe-el-la₂ da-ba-ri-ri-a-kam
+#lem: damgar[merchant]; pel[defile]; dabariri[liar?]
+#etcsl: line-id=A.2.54.92
+
+93. nagar pe-el-la₂ lu₂-{ŋiš}bal-a-kam
+#lem: nagar[carpenter]; pel[defile]; lubalakak[spinner]
+#etcsl: line-id=A.2.54.93
+
+94. simug pe-el-la₂ lu₂-{urud}gur₁₀-a-kam
+#lem: simug[smith]; pel[defile]; lugura[reaper]
+#etcsl: line-id=A.2.54.94
+
+95. šidim pe-el-la₂ im-BU-BU-kam
+#lem: šidim[builder]; pel[defile]; im.BU.BU[hod-carrier]
+#etcsl: line-id=A.2.54.95
+
+@end proverb
+
+@div proverb 2.55
+
+96. kindagal eme-gir₁₅ ba-an-zu-a
+#lem: kindagal[leader]; emegir[the Sumerian language]; ban[unit of capacity]
+#etcsl: line-id=A.2.55.96
+
+@end proverb
+
+@div proverb 2.55A
+
+97. [...] lu₂ eme-gir₁₅# [...]
+#lem: X; lu[person]; emegir[the Sumerian language]; X
+#etcsl: line-id=A.2.55A.97
+
+@end proverb
+
+@div proverb 2.56
+
+98. dub-sar šag₄ dab₅-ba nu-un-zu-a inim bal-e me-da he₂-em-tum₃
+#lem: dubsar[scribe]; šag[heart]; dab[seize]; zu[know]; inim[word]; bala[turn]; meta[where from? whence?]; tum[bring]
+#etcsl: line-id=A.2.56.98
+
+@end proverb
+
+@div proverb 2.57
+
+99. nar za-pa-aŋ₂ he₂-en-dug₃ e-ne-am₃ nar-am₃
+#lem: nar[musician]; zipaŋ[voice]; dug[good]; ane[he]; nar[musician]
+#etcsl: line-id=A.2.57.99
+
+@end proverb
+
+@div proverb 2.58
+
+100. ka₅-a-a {d}en-lil₂ lul ba-e#-[...]
+#lem: kaʾa[fox]; Enlil[1]DN; lul[false]; X
+#etcsl: line-id=A.2.58.100
+
+@end proverb
+
+@div proverb 2.58A
+
+101. X TU-re bar# igi X
+#lem: X; X; bar[outside]; igi[eye]; X
+#etcsl: line-id=A.2.58A.101
+
+@end proverb
+
+@div proverb 2.59
+
+102. ka₅-a-a šag₄ ba-ab-si (1:ubur-bi:1) ga ba-an-had₂
+#lem: kaʾa[fox]; šag[heart]; si[fill]; ubur[breast]; ga[milk]; ah[dry]
+#etcsl: line-id=A.2.59.102
+
+:102v.1.1: (#note: 1 ms. has instead:#) ubur ama-bi
+#lem: ubur[breast]; ama[mother]
+
+#note: cf. 6.2.1: Ni 3318 ll. 2-3
+
+@end proverb
+
+@div proverb 2.60
+
+103. ka₅#-a-a ama-a-bi ka₅-a ab-dirig
+#lem: kaʾa[fox]; ama[mother]; kaʾa[fox]; dirig[make more than]
+#etcsl: line-id=A.2.60.103
+
+#note: cf. 6.2.1: Ni 3318 ll. 4-5
+
+@end proverb
+
+@div proverb 2.61
+
+104. ka₅-a-a ŋeštug₂-bi al-gig ŋiri₃-bi al-guz-e
+#lem: kaʾa[fox]; ŋeštug[ear]; gig[sick]; ŋiri[foot]; guz[be crushed]
+#etcsl: line-id=A.2.61.104
+
+#note: cf. 6.2.1: Ni 3318 l. 6, 6.2.5: P 374
+
+@end proverb
+
+@div proverb 2.61A
+
+105. ka₅-a kun-bi al-dugud
+#lem: kaʾa[fox]; kun[tail]; dugud[heavy]
+#etcsl: line-id=A.2.61A.105
+
+#note: cf. 6.1.08.b26
+
+106. {ŋiš}gana₂-ur₃ la₂-am₃-me-e-[še]
+#lem: ganur[harrow]; la[hang]
+#etcsl: line-id=A.2.61A.106
+
+@end proverb
+
+@div proverb 2.61B
+
+107. ka₅-a {ŋiš}si-ŋar-bi ŋiš-ur₃-am₃
+#lem: kaʾa[fox]; siŋar[bolt]; ŋušur[beam]
+#etcsl: line-id=A.2.61B.107
+
+#note: cf. 6.1.08.b27
+
+@end proverb
+
+@div proverb 2.62
+
+108. ka₅-a-a e₂-a-ni nu-mu-da-an-du₃#
+#lem: kaʾa[fox]; e[house]; du[build]
+#etcsl: line-id=A.2.62.108
+
+#note: cf. 6.1.23.7
+
+109. e₂ gu₅-li-na-še₃ al-tar-re ba-gub
+#lem: e[house]; guli[friend]; altar[construction work]; gub[stand]
+#etcsl: line-id=A.2.62.109
+
+@end proverb
+
+@div proverb 2.63
+
+110. al-lub e₂-a-ni a ab-si e₂ ma-la-ga-ni-še₃ girid₂-de₃ i₃-ŋen
+#lem: allub[crab]; e[house]; a[water]; si[fill]; e[house]; malag[female neighbor]; X; ŋen[go]
+#etcsl: line-id=A.2.63.110
+
+@end proverb
+
+@div proverb 2.64
+
+111. ka₅-a-a a-numun₂ še šu bi₂-in-dug₄
+#lem: kaʾa[fox]; anumun[rush water]; še[barley]; šu[hand]; dug[speak]
+#etcsl: line-id=A.2.64.111
+
+112. niŋ₂ nam tar-ra umuš-bi kur₂-ra-am₃-e-še
+#lem: niŋ[thing]; nam[fate]; tar[cut]; umuš[consideration]; kur[different]
+#etcsl: line-id=A.2.64.112
+
+@end proverb
+
+@div proverb 2.65
+
+113. ka₅-a ŋiri₃-suhub₂ am-ma-ke₄ ŋiri₃-ni bi₂-in-gub nu-ub-sig₁₀-e-še
+#lem: kaʾa[fox]; ŋirisuhub[hoof?]; am[wild bull]; ŋiri[foot]; gub[stand]; sig[put into]
+#etcsl: line-id=A.2.65.113
+
+@end proverb
+
+@div proverb 2.66
+
+114. ka₅-a-a ŋidru an-da-ŋal₂ a-ba-am₃ an-tud₂-de₃-en
+#lem: kaʾa[fox]; ŋidru[scepter]; ŋal[⟦be⟧ to be (there]; aba[who?]; tud[hit]
+#etcsl: line-id=A.2.66.114
+
+115. kišib an-ši-la₂ a-na-am₃ ab-gur-re-en
+#lem: kišib[cylinder seal]; la[hang]; ana[what?]; gur[turn]
+#etcsl: line-id=A.2.66.115
+
+@end proverb
+
+@div proverb 2.67
+
+116. ka₅-a-a a-ab-ba-še₃ ŋiš₃-a-ni u₃-bi₂-in-sur
+#lem: kaʾa[fox]; aʾabak[sea]; ŋeš[penis]; sur[press]
+#etcsl: line-id=A.2.67.116
+
+#note: cf. 6.2.3: UET 6/2 216
+
+117. a-ab-ba du₅-bi kaš₃-ŋu₁₀-um-e-še
+#lem: aʾabak[sea]; dul[lower]; kaš[urine]
+#etcsl: line-id=A.2.67.117
+
+@end proverb
+
+@div proverb 2.68
+
+118. ka₅-a-a nu-un-dab₅! {ŋiš}az-gu₂-bi al-ak-e
+#lem: kaʾa[fox]; dab[seize]; azgu[neck-stock]; ak[do]
+#etcsl: line-id=A.2.68.118
+
+#note: cf. 6.2.3: UET 6/2 214
+
+@end proverb
+
+@div proverb 2.69
+
+119. ka₅-a-a dam-a-ni an-na-ab-be₂
+#lem: kaʾa[fox]; dam[spouse]; e[speak]
+#etcsl: line-id=A.2.69.119
+
+120. ŋa₂-nu unug{ki} ga-raš{sar}-gin₇ zu₂ ga-am₃-gaz-e-en-de₃-en
+#lem: ŋen[go]; Unug[1]SN; garaš[leek]; zu[tooth]; gaz[kill]
+#etcsl: line-id=A.2.69.120
+
+121. kul-aba{ki} {kuš}e-sir₂-gin₇ ŋiri₃-me-a ga-am₃-ma-ab-sig₉-ge₄-en-de₃-en
+#lem: Kulaba[1]SN; esir[sandal(s)]; ŋiri[foot]; sig[put into]
+#etcsl: line-id=A.2.69.121
+
+122. iri-še₃ 600 uš nu-te-a-ba
+#lem: iri[city]; n; uš[unit of length]; teŋ[approach]
+#etcsl: line-id=A.2.69.122
+
+123. iri-da ur-re šeg₁₁ am₃-da-gi₄-gi₄
+#lem: iri[city]; ur[dog]; šeg[voice]; gi[turn]
+#etcsl: line-id=A.2.69.123
+
+124. geme₂-tum-ma-al{ki} geme₂-tum-ma-al{ki}
+#lem: Gemetummal[1]PN; Gemetummal[1]PN
+#etcsl: line-id=A.2.69.124
+
+125. dur₂-zu-še₃ %e ŋa₂-nam-ma-da
+#lem: dur[buttocks]; men[go]V/i
+#etcsl: line-id=A.2.69.125
+
+126. iri{ki}-da niŋ₂-hul-e šeg₁₁ am₃-da-gi₄-gi₄
+#lem: iri[city]; niŋhulu[evil]; šeg[voice]; gi[turn]
+#etcsl: line-id=A.2.69.126
+
+@end proverb
+
+@div proverb 2.70
+
+127. kug-zu ka₅-a šu-lu₂{mušen} šeg₁₁ ba-an-[gi₄]
+#lem: kugzu[wise]; kaʾa[fox]; šulu[bird]; šeg[voice]; gi[turn]
+#etcsl: line-id=A.2.70.127
+
+@end proverb
+
+@div proverb 2.71
+
+128. lul dug₄-ga-ab zid dug₄-ga-ab lul ba-e-sig₁₀-ge₅
+#lem: lul[false]; dug[speak]; zid[right]; dug[speak]; lul[false]; sig[put into]
+#etcsl: line-id=A.2.71.128
+
+#note: cf. 6.1.07.89
+
+@end proverb
+
+@div proverb 2.72
+
+129. lul dug₄-dug₄ ra-gaba ki ba₉-ra₂
+#lem: lul[false]; dug[speak]; ragaba[rider]; ki[place]; bad[open]
+#etcsl: line-id=A.2.72.129
+
+#note: cf. 5.4.01: l. 66, 5.4.02: l. 69
+
+@end proverb
+
+@div proverb 2.73
+
+130. anše al-dug₄-dug₄-ge barag al-huŋ-huŋ-e
+#lem: anše[equid]; dug[speak]; barag[sack]; huŋ[hire]
+#etcsl: line-id=A.2.73.130
+
+@end proverb
+
+@div proverb 2.74
+
+131. anše hu-nu-zu kaš₄-ta e₃-a
+#lem: anše[equid]; hunu[weak (of animals)]; kaš[run]; e[leave]
+#etcsl: line-id=A.2.74.131
+
+132. {d}en-lil₂ lu₂ hu-nu-zu lirum-ta e₃-a
+#lem: Enlil[1]DN; lu[person]; hunu[weak (of animals)]; lirum[strength]; e[leave]
+#etcsl: line-id=A.2.74.132
+
+@end proverb
+
+@div proverb 2.75
+
+133. anše-ŋu₁₀ kaš₄ kar-re-de₃ nu-mu-un-tum₂
+#lem: anše[equid]; kaš[run]; kar[flee]; tum[suitable]
+#etcsl: line-id=A.2.75.133
+
+134. eme ak-da mu-un-tum₂
+#lem: eme[tongue]; ak[do]; tum[suitable]
+#etcsl: line-id=A.2.75.134
+
+@end proverb
+
+@div proverb 2.76
+
+135. anše gu₃ an-mur lugal anše-ke₄ pa-aŋ₂ an-ze₂
+#lem: anše[equid]; gu[voice]; mur[make a noise]; lugal[king]; anše[equid]; paŋ[nostril]; zir[tear out]
+#etcsl: line-id=A.2.76.135
+
+136. ba-da-ra-ab-ed₃-de₃-en-de₃-en kaš₄-a ŋen-na-e-še
+#lem: ed[go up]; kaš[run]; ŋen[go]
+#etcsl: line-id=A.2.76.136
+
+@end proverb
+
+@div proverb 2.77
+
+137. anše ki-nu₂ ni₂-ba-a gu₇-gu₇
+#lem: anše[equid]; kinud[sleeping quarter]; ni[self]; gu[eat]
+#etcsl: line-id=A.2.77.137
+
+#note: cf. 5.1.2: l. 162, 5.4.02: l. 127
+
+@end proverb
+
+@div proverb 2.78
+
+138. anše ŋiš₃-a-ni šag₄-ga-ni ra-ra
+#lem: anše[equid]; ŋeš[penis]; šag[heart]; rah[beat]
+#etcsl: line-id=A.2.78.138
+
+@end proverb
+
+@div proverb 2.79
+
+139. anše ze₂ nu-a anše naŋa dub₂ nu-a
+#lem: anše[equid]; zeda[stench]; nu[not]; anše[equid]; naŋa[potash]; dub[tremble]; nu[not]
+#etcsl: line-id=A.2.79.139
+
+@end proverb
+
+@div proverb 2.80
+
+140. anše nu-mu-un-su-a še₁₀ dur₂-re pad₃-da
+#lem: anše[equid]; numunkuš[widow]; šed[excrement]; dur[buttocks]; pad[find]
+#etcsl: line-id=A.2.80.140
+
+@end proverb
+
+@div proverb 2.81
+
+141. anše-gin₇ dam mu 3-am₃ nu-mu-un-tuku-tuku
+#lem: anše[equid]; dam[spouse]; mu[year]; n; tuku[acquire]
+#etcsl: line-id=A.2.81.141
+
+@end proverb
+
+@div proverb 2.82
+
+142. anše lu₂ a-ga-de₃{ki} 2-am₃ u₂-gu ba-an-de₂
+#lem: anše[equid]; lu[person]; Agade[1]SN; n; ugu[cvne]; de[pour]
+#etcsl: line-id=A.2.82.142
+
+143. al-ŋen ud za-ha-al ak-e ul-tuš šer₇-da-am₃
+#lem: ŋen[go]; ud[sun]; uzahal[disappearance]; ak[do]; tuš[sit (down)]; šerda[crime]
+#etcsl: line-id=A.2.82.143
+
+@end proverb
+
+@div proverb 2.83
+
+144. gud DU-am₃ {ŋiš}tukul a-ab-am₃
+#lem: gud[bull]; X; tukul[weapon]; aʾabak[sea]
+#etcsl: line-id=A.2.83.144
+
+#note: cf. 6.2.1: Ni 9824 Seg. A l. 3
+
+@end proverb
+
+@div proverb 2.84
+
+145. gud zi in-bu saŋ-us₂-sa nu₂-nu₂
+#lem: gud[ox]; zid[right]; bu[howl]; saŋus[attendant]; nud[lie down]
+#etcsl: line-id=A.2.84.145
+
+#note: cf. 6.1.26.d8
+
+@end proverb
+
+@div proverb 2.85
+
+146. gud sur₁₂-ta kar-ra-gin₇ lul ab-sig₉-ge
+#lem: gud[bull]; sur[threshing floor]; kar[flee]; lul[false]; sig[put into]
+#etcsl: line-id=A.2.85.146
+
+@end proverb
+
+@div proverb 2.86
+
+147. gud sur₁₂-ra ab-sin₂-bi al-sag₉-sag₉
+#lem: gud[bull]; sur[threshing floor]; absin[furrow]; sag[good]
+#etcsl: line-id=A.2.86.147
+
+#note: cf. 6.1.05.17, 6.1.26.d6
+
+@end proverb
+
+@div proverb 2.87
+
+148. gud sur₁₂ us₂-sa numun nu-ŋa₂-ŋa₂
+#lem: gud[bull]; sur[threshing floor]; us[accompany]; numun[seed]; ŋar[put]
+#etcsl: line-id=A.2.87.148
+
+#note: cf. 6.1.26.d5
+
+@end proverb
+
+@div proverb 2.88
+
+149. buru₁₄-da gu₇-e lag nu-bur₁₂-re
+#lem: buru[harvest]; gu[eat]; lag[clod (of earth)]; bur[tear out]
+#etcsl: line-id=A.2.88.149
+
+#note: cf. 6.1.26.d5
+
+150. šu i₃-bur₁₂-ra numun nu-ŋa₂-ŋa₂
+#lem: šu[hand]; bur[tear out]; numun[seed]; ŋar[put]
+#etcsl: line-id=A.2.88.150
+
+@end proverb
+
+@div proverb 2.89
+
+151. gud-sumun₂ gu₇-a-gin₇ giri₁₇ gu₄-ud-e-za
+#lem: sumun[wild cow]; gu[eat]; kiri[nose]; gud[jump (on)]
+#etcsl: line-id=A.2.89.151
+
+@end proverb
+
+@div proverb 2.90
+
+152. gud-de₃ sahar ub-ak igi ni₂-ba zid₂-am₃
+#lem: gud[bull]; sahar[soil]; ak[do]; igi[eye]; ni[self]; zid[flour]
+#etcsl: line-id=A.2.90.152
+
+#note: cf. 6.1.26.d10
+
+@end proverb
+
+@div proverb 2.91
+
+153. gud-de₃ al-ur₁₁-ru ur-re sur₃ an-tag
+#lem: gud[bull]; uru[sow]; ur[dog]; sur[canal]; tag[touch]
+#etcsl: line-id=A.2.91.153
+
+@end proverb
+
+@div proverb 2.92
+
+154. gud šag₄ sur še₁₀ sila sud-am₃#
+#lem: gud[bull]; šag[heart]; sur[press]; šed[excrement]; sila[street]; sud[distant]
+#etcsl: line-id=A.2.92.154
+
+@end proverb
+
+@div proverb 2.93
+
+155. gud kur₂-ra u₂ gu₇-gu₇
+#lem: gud[bull]; kur[different]; u[plant(s)]; gu[eat]
+#etcsl: line-id=A.2.93.155
+
+#note: cf. 6.1.07.81, 6.2.3: UET 6/3 31 ll. 5-6
+
+156. gud ni₂-ŋa₂ u₂-šim-e ba-nu₂
+#lem: gud[bull]; ni[self]; išim[hunger]; nud[lie down]
+#etcsl: line-id=A.2.93.156
+
+@end proverb
+
+@div proverb 2.94
+
+157. am-da kar-ra-ŋu₁₀-ne immal₂-e gaba ba-an-ri-en
+#lem: am[wild bull]; kar[flee]; immal[cow]; gaba[breast]; ri[impose]
+#etcsl: line-id=A.2.94.157
+
+@end proverb
+
+@div proverb 2.95
+
+158. [... ...] gud#-da ri-a
+#lem: X; X; gud[bull]; ri[impose]
+#etcsl: line-id=A.2.95.158
+
+159. gud kur₂-ra gud-da ri-me-e-še
+#lem: gud[bull]; kur[different]; gud[bull]; ri[impose]
+#etcsl: line-id=A.2.95.159
+
+@end proverb
+
+@div proverb 2.96
+
+160. ga ab-kar-re ga ba-kar-re an-us₂-sa
+#lem: ga[milk]; kar[flee]; ga[milk]; kar[flee]; us[accompany]
+#etcsl: line-id=A.2.96.160
+
+@end proverb
+
+@div proverb 2.97
+
+161. gala-e gana₂ e₂-e us₂-sa
+#lem: gala[lamentation singer]; gana[field]; e[house]; us[accompany]
+#etcsl: line-id=A.2.97.161
+
+@end proverb
+
+@div proverb 2.98
+
+162. gala du₅ {ŋiš}ma₂-kam
+#lem: gala[lamentation singer]; dul[lower]; ma[ship]
+#etcsl: line-id=A.2.98.162
+
+@end proverb
+
+@div proverb 2.99
+
+163. gala-e (1:dumu-ni a ha-ba-an-da-ra-ra:1)
+#lem: gala[lamentation singer]; dumu[child]; a[water]; rah[beat]
+#etcsl: line-id=A.2.99.163
+
+:163v.1.1: (#note: 1 ms. %e has %s instead:#) dumu-na a-a %e ba-da-ze₂-eŋ₃
+#lem: dumu[child]; a[water]; zeŋ[give]
+
+164. iri{ki} ŋe₂₆-gin₇ he₂-du₃ kalam ŋe₂₆-gin₇ he₂-en-til₃
+#lem: iri[city]; ŋaʾe[I]; du[build]; kalam[the Land (of Sumer)]; ŋaʾe[I]; til[live (of a single person)]
+#etcsl: line-id=A.2.99.164
+
+@end proverb
+
+@div proverb 2.100
+
+165. gala-e bid₃-da-ni ha-ba-an-da-ze₂-er
+#lem: gala[lamentation singer]; bed[anus]; zir[tear out]
+#etcsl: line-id=A.2.100.165
+
+166. %e aŋ₂ ga-ša-an-an-na %e ga-ša-an-ŋu₁₀ %s ba-ra-zi-zi-de₃-en-e-še
+#lem: aŋ[thing]N; Gašanana[1]DN; gašan[lady]N; zig[rise]
+#etcsl: line-id=A.2.100.166
+
+@end proverb
+
+@div proverb 2.101
+
+167. gala-e ur-mah-e edin-na u₃-mu-ni-in-te
+#lem: gala[lamentation singer]; urmah[lion]; eden[back]; teŋ[approach]
+#etcsl: line-id=A.2.101.167
+
+#note: cf. 6.1.22: ll. 280-283
+
+168. he₂-en-du ERIM₃{ki}-a kan₄ {d}inana-še₃
+#lem: du[go]; ERIM[1]SN; kan[gate]; Inanak[1]DN
+#etcsl: line-id=A.2.101.168
+
+169. ur šika-da-ke₄ ŋiš-a-ni ra#
+#lem: ur[dog]; šika[sherd]; ŋeš[tree]; rah[beat]
+#etcsl: line-id=A.2.101.169
+
+170. šeš-zu edin-na %e ta-am₃ %s mu-un-ak-e-še
+#lem: šeš[brother]; eden[back]; ta[what?]QP; ak[do]
+#etcsl: line-id=A.2.101.170
+
+@end proverb
+
+@div proverb 2.102
+
+171. X gala e₂-ni-še₃ ga-ab-HAR# [...] SI#
+#lem: X; gala[lamentation singer]; e[house]; X; X; X
+#etcsl: line-id=A.2.102.171
+
+172. [...] X {d}en-[...] NA
+#lem: X; X; En.X[1]DN; X
+#etcsl: line-id=A.2.102.172
+
+173. [...] MU e₂ lu₂-ra X [...]-an-SI
+#lem: X; X; e[house]; lu[person]; X; X
+#etcsl: line-id=A.2.102.173
+
+@end proverb
+
+@div proverb 2.103
+
+@variants
+
+#note: cf. 6.1.11.8-9
+174. gala-e {ŋiš}ma₂ še-ka-ni ha-ba-da-an-su
+#lem: gala[lamentation singer]; ma[ship]; še[barley]; su[sink]
+#etcsl: line-id=A.2.103.174
+
+175. bar-rim₄-ma ba-e-ŋen
+#lem: barim[dry land]; ŋen[go]
+#etcsl: line-id=A.2.103.175
+
+176. [...] X X X
+#lem: X; X; X; X
+#etcsl: line-id=A.2.103.176
+
+@variant
+
+#note: instead of lines 174-176, 1 ms. has 4 lines:
+A. gala-e {ŋiš}ma₂ ha-ba#-[...]
+#lem: gala[lamentation singer]; ma[ship]; X
+#etcsl: line-id=A.2.103.A
+
+B. %e {d}am-an-ki# [...]
+#lem: Amanki[]DN; X
+#etcsl: line-id=A.2.103.B
+
+Š. KAR# [...]
+#lem: X; X
+#etcsl: line-id=A.2.103.C
+
+D. X [...]
+#lem: X; X
+#etcsl: line-id=A.2.103.D
+
+@endvariants
+@end proverb
+
+@div proverb 2.104
+
+177. ninda gala-kam lag-ga ab-gu-ul ki-la₂-bi al-tur
+#lem: ninda[bread]; gala[lamentation singer]; lag[clod (of earth)]; gal[big]; kila[weight]; tur[small]
+#etcsl: line-id=A.2.104.177
+
+@end proverb
+
+@div proverb 2.105
+
+178. arad gala-a-ke₄ tilla₂ šeg₁₁ al-gi₄-gi₄
+#lem: arad[slave]; gala[lamentation singer]; tilla[street]; šeg[voice]; gi[turn]
+#etcsl: line-id=A.2.105.178
+
+179. kurum₆-ma-ŋu₁₀ lag-ga ab-gu-ul ki-la₂-bi al-tur
+#lem: kurum[food ration]; lag[clod (of earth)]; gal[big]; kila[weight]; tur[small]
+#etcsl: line-id=A.2.105.179
+
+180. lag kurum₆-ma-ŋu₁₀ ga-ab-dug₄
+#lem: lag[clod (of earth)]; kurum[food ration]; dug[speak]
+#etcsl: line-id=A.2.105.180
+
+181. dag-gi₄-a {ŋiš}šukur mu-te-te
+#lem: daggi[city quarter]; šukur[lance]; te[pierce]
+#etcsl: line-id=A.2.105.181
+
+@end proverb
+
+@div proverb 2.106
+
+182. gala mu₇-mu₇ nu-dug₃-ga un₃ gala-e-ne
+#lem: gala[lamentation singer]; mu[incantation]; dug[good]; un[high]; gala[lamentation singer]
+#etcsl: line-id=A.2.106.182
+
+@end proverb
+
+@div proverb 2.107
+
+183. ur šub₆-ba saŋ KA-DU ha-ha-za
+#lem: ur[dog]; šub[lick]; saŋ[head]; X; haza[hold]
+#etcsl: line-id=A.2.107.183
+
+184. me-še₃ gi₄-mu-un-ze₂-en gub-ba
+#lem: meše[where to? whither?]; gi[turn]; gub[stand]
+#etcsl: line-id=A.2.107.184
+
+@end proverb
+
+@div proverb 2.108
+
+185. ur galam-galam igi-kal lu₂ teš₂ nu-tuku-am₃
+#lem: ur[dog]; galam[skilful]; igikal[scowling]; lu[person]; teš[(sense of) shame]; tuku[acquire]
+#etcsl: line-id=A.2.108.185
+
+@end proverb
+
+@div proverb 2.109
+
+186. ur si-im-si-im e₂-e₂-a ku₄-ku₄
+#lem: ur[dog]; sim[smell]; e[house]; kur[enter]
+#etcsl: line-id=A.2.109.186
+
+@end proverb
+
+@div proverb 2.110
+
+187. ur niŋ₂-u₂-zug₄ gu₇-a
+#lem: ur[dog]; niŋmuzug[impure thing]; gu[eat]
+#etcsl: line-id=A.2.110.187
+
+188. ur niŋ₂ ud zal-le nu-taka₄-a
+#lem: ur[dog]; niŋ[thing]; ud[sun]; zal[pass time]; taka[set aside]
+#etcsl: line-id=A.2.110.188
+
+@end proverb
+
+@div proverb 2.111
+
+189. ur X gu₇ tilla₂-a šah₂ in-gu₇ {dug}šaŋan SI X [...]
+#lem: ur[dog]; X; gu[eat]; tilla[street]; šah[pig]; gu[eat]; šaŋan[flask]; X; X; X
+#etcsl: line-id=A.2.111.189
+
+@end proverb
+
+@div proverb 2.112
+
+190. ur simug-ke₄ {na₄}šu-min₃-e nu-mu-un-zig₃ pisaŋ₂ dug-a i-im-zig₃
+#lem: ur[dog]; simug[smith]; šumin[stone or mineral used in medicine]; zig[rise]; bisaŋ[basket]; dug[(clay) pot]; zig[rise]
+#etcsl: line-id=A.2.112.190
+
+@end proverb
+
+@div proverb 2.113
+
+191. ur lul-la gu₂ sag₉-sag₉ gu₂-tar sag₉
+#lem: ur[dog]; lul[false]; gu[neck]; sag[good]; guhaš[nape of the neck]; sag[goodness]
+#etcsl: line-id=A.2.113.191
+
+@end proverb
+
+@div proverb 2.114
+
+192. ur ki-tuš-bi nu-mu-zu-a
+#lem: ur[dog]; kituš[dwelling place]; zu[know]
+#etcsl: line-id=A.2.114.192
+
+@end proverb
+
+@div proverb 2.115
+
+193. ur ni₂-bi-še₃ kug-zu#-a lugal-bi-ir SA um-ra
+#lem: ur[dog]; ni[self]; kugzu[wise]; lugal[king]; X; rah[beat]
+#etcsl: line-id=A.2.115.193
+
+@end proverb
+
+@div proverb 2.116
+
+194. ur al-ed₃-de₃ {ŋiš}šukur al-ed₃-de₃# ba-ni-ib-sig₁₀-ge
+#lem: ur[dog]; ed[go up]; šukur[lance]; ed[go up]; sig[put into]
+#etcsl: line-id=A.2.116.194
+
+@end proverb
+
+@div proverb 2.117
+
+195. ur-gir₁₅ ŋiš₃ bir₂-bi eme šub₆-be₂
+#lem: urgir[(domestic) dog]; ŋeš[penis]; birig[sneer at]; eme[tongue]; šub[lick]
+#etcsl: line-id=A.2.117.195
+
+#note: cf. 5.1.2: l. 161
+
+@end proverb
+
+@div proverb 2.118
+
+196. iri# nu ur-gir₁₅# ka₅-a nu-banda₃-am₃
+#lem: iri[city]; nu[not]; urgir[(domestic) dog]; kaʾa[fox]; nubanda[overseer]
+#etcsl: line-id=A.2.118.196
+
+#note: cf. 6.1.01.65, 6.2.3: UET 6/2 221
+
+@end proverb
+
+@div proverb 2.119
+
+197. iri ad₄-e-ne-ka ba-za# lu₂-kaš₄-a-kam
+#lem: iri[city]; ad[crippled]; baza[dwarf]; kaš[runner]
+#etcsl: line-id=A.2.119.197
+
+#note: cf. 6.1.01.66, 6.2.5: UIOM 1999
+
+@end proverb
+
+@div proverb 2.120
+
+198. ba-za a-na-am₃ gub-ba-bi#
+#lem: baza[dwarf]; ana[what?]; gub[stand]
+#etcsl: line-id=A.2.120.198
+
+#note: cf. 6.1.22: ll. 233-235
+
+@end proverb
+
+@div proverb 2.121
+
+199. sag₉-ga-bi pad₃-da hul-bi u₂-gu de₂-am₃
+#lem: sag[good]; pad[find]; hulu[bad]; ugu[cvne]; de[pour]
+#etcsl: line-id=A.2.121.199
+
+@end proverb
+
+@div proverb 2.122
+
+200. i₃-pad₃ ba-hul₂-le-en
+#lem: pad[find]; hul[rejoice]
+#etcsl: line-id=A.2.122.200
+
+201. u₂-gu i-ni-in-de₂ šag₄#-ŋu₁₀ la-ba-gig-ga-am₃
+#lem: ugu[cvne]; de[pour]; šag[heart]; gig[sick]
+#etcsl: line-id=A.2.122.201
+
+@end proverb
+
+@div proverb 2.123
+
+202. nam-sag₉-ga kaš-am₃ nam-hul kaskal-am₃
+#lem: namsag[pleasure]; kaš[beer]; namhulu[evil]; kaskal[way]
+#etcsl: line-id=A.2.123.202
+
+#note: cf. 6.1.07.98
+
+@end proverb
+
+@div proverb 2.124
+
+203. sag₉-ga-ni-še₃ tuku-am₃ ŋalga{ga}-ni-še₃ taka₄-am₃
+#lem: sag[good]; tuku[acquire]; ŋalga[(fore)thought]; taka[set aside]
+#etcsl: line-id=A.2.124.203
+
+@end proverb
+
+@div proverb 2.125
+
+204. sag₉-ga-ne-ne hul-ne-ne
+#lem: sag[good]; hulu[bad]
+#etcsl: line-id=A.2.125.204
+
+205. hul-ne-ne sag₉-ga-ne-ne
+#lem: hulu[bad]; sag[good]
+#etcsl: line-id=A.2.125.205
+
+@end proverb
+
+@div proverb 2.126
+
+206. lu₂ ur₃-ra al-til₃-la
+#lem: lu[person]; ur[roof]; til[live (of a single person)]
+#etcsl: line-id=A.2.126.206
+
+#note: cf. 6.1.04.56, 6.1.11.131
+
+207. lu₂ e₂-a-ra al-zalag-zalag-ga-e-še
+#lem: lu[person]; e[house]; zalag[bright]
+#etcsl: line-id=A.2.126.207
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+@div proverb 2.131
+
+1. a-šag₄ na-[ab-daŋal-e]
+#lem: ašag[field]; daŋal[wide]
+#etcsl: line-id=B.2.131.1
+
+#note: cf. 6.1.26.d13
+
+2. še mu-na-[...]
+#lem: še[barley]; X
+#etcsl: line-id=B.2.131.2
+
+@end proverb
+
+@div proverb 2.132
+
+3. |KA×A|-ba [...] u₂ degₓ(RI)-ga ba-[...]
+#lem: X; X; u[plant(s)]; deg[gather up]; X
+#etcsl: line-id=B.2.132.3
+
+#note: cf. 6.1.26.d2
+
+@end proverb
+
+@div proverb 2.133
+
+4. u₂ degₓ(RI)-degₓ(RI)-[ga] kalag-ga-še₃
+#lem: u[plant(s)]; deg[gather up]; kalag[strong]
+#etcsl: line-id=B.2.133.4
+
+#note: cf. 6.1.11.6, 6.1.22: l. 80, 6.1.26.d3
+
+5. sig₉-ga bar-rim₄-[ma] mu-na-an-[tuš]
+#lem: sig[weak]; barim[dry land]; tuš[sit (down)]
+#etcsl: line-id=B.2.133.5
+
+@end proverb
+
+@div proverb 2.134
+
+6. [saŋ sar-ra] siki# ba-an-tuku-tuku
+#lem: saŋ[head]; sar[run]; siki[hair]; tuku[acquire]
+#etcsl: line-id=B.2.134.6
+
+#note: cf. 6.2.3: UET 6/2 293
+
+7. u₂ degₓ(RI)-degₓ(RI)-ga {d}ezina₃ ba-an-dirig-dirig-e-še
+#lem: u[plant(s)]; deg[gather up]; Ezina[1]DN; dirig[make more than]
+#etcsl: line-id=B.2.134.7
+
+@end proverb
+
+@div proverb 2.135
+
+8. [e₂ gul-gul]-la gi gul!-la#
+#lem: e[house]; gul[destroy]; gi[reed]; gul[destroy]
+#etcsl: line-id=B.2.135.8
+
+#note: cf. 6.1.19.b4, 6.1.24.3
+
+9. [e₂ gul]-la# kug-sig₁₇ gul-la#
+#lem: e[house]; gul[destroy]; kugsig[gold]; gul[destroy]
+#etcsl: line-id=B.2.135.9
+
+@end proverb
+
+@div proverb 2.136
+
+10. [...] nu#-gur-am₃ a nu-ŋar-ra-ba
+#lem: X; gur[turn]; a[water]; ŋar[put]
+#etcsl: line-id=B.2.136.10
+
+11. [...]-bi nu-gu₇
+#lem: X; gu[eat]
+#etcsl: line-id=B.2.136.11
+
+@end proverb
+
+@div proverb 2.137
+
+@variants
+
+#note: cf. 6.1.19.b3
+12. [en]-gin₇# DU saŋ-ki DU
+#lem: en[lord]; X; saŋki[forehead]; X
+#etcsl: line-id=B.2.137.12
+
+13. saŋ#-gin₇ DU en-gin₇ DU
+#lem: saŋ[head]; X; en[lord]; X
+#etcsl: line-id=B.2.137.13
+
+@variant
+
+#note: instead of lines 12-13, 1 ms. has:
+A. [en-gin₇] du₃ saŋ-gin₇ du₃
+#lem: en[lord]; du[build]; saŋ[head]; du[build]
+#etcsl: line-id=B.2.137.A
+
+B. [saŋ-gin₇] du₃ en-gin₇ du₃
+#lem: saŋ[head]; du[build]; en[lord]; du[build]
+#etcsl: line-id=B.2.137.B
+
+@variant
+
+#note: another ms. has instead:
+AA. [en]-gin₇ DU saŋ-gin₇ DU
+#lem: en[lord]; X; saŋ[head]; X
+#etcsl: line-id=B.2.137.AA
+
+BB. [saŋ]-gin₇# DU en-gin₇ DU
+#lem: saŋ[head]; X; en[lord]; X
+#etcsl: line-id=B.2.137.BB
+
+@endvariants
+@end proverb
+
+@div proverb 2.138
+
+14. šu šu-a ba-ab-tah e₂ lu₂ al-du₃-e
+#lem: šu[hand]; šu[hand]; tah[add]; e[house]; lu[person]; du[build]
+#etcsl: line-id=B.2.138.14
+
+15. šag₄-gal šag₄-gal-e ba-ab-tah e₂ lu₂ al-gul-e
+#lem: šaggal[food]; šaggal[food]; tah[add]; e[house]; lu[person]; gul[destroy]
+#etcsl: line-id=B.2.138.15
+
+@end proverb
+
+@div proverb 2.139
+
+16. {ŋiš}al u₂ nu-kud {ŋiš}kibir₂ u₂ nu-kud
+#lem: al[hoe]; u[plant(s)]; kud[cut]; kibir[sharp implement]; u[plant(s)]; kud[cut]
+#etcsl: line-id=B.2.139.16
+
+@end proverb
+
+@div proverb 2.140
+
+17. e₂ ŋuruš gal-gal-e-ne-ka {ŋiš}al {ŋiš}dusu al-ur₁₁-ru#
+#lem: e[house]; ŋuruš[young adult male]; gal[big]; al[hoe]; dupsik[basket (for carrying earth and bricks)]; uru[sow]
+#etcsl: line-id=B.2.140.17
+
+#note: cf. 6.2.3: UET 6/2 315 ll. 5-6
+
+@end proverb
+
+@div proverb 2.141
+
+18. ama ŋuruš 8-e tu-ud-da niŋ₂ sig-ga ba-nu₂
+#lem: ama[mother]; ŋuruš[young adult male]; n; utud[give birth (to)]; niŋ[thing]; sig[weak]; nud[lie down]
+#etcsl: line-id=B.2.141.18
+
+@end proverb
+
+@div proverb 2.142
+
+19. e₂ lu₂ zid-de₃ du₃-a lu₂-lul-e gul-la
+#lem: e[house]; lu[person]; zid[right]; du[build]; lulul[liar]; gul[destroy]
+#etcsl: line-id=B.2.142.19
+
+#note: = Alster 1997 2.142 = 6 Sec. A 1; cf. 6.1.23.7, 6.1.25.7
+
+@end proverb
+
+@div proverb 2.143
+
+20. e₂-a lu₂ zu-bi mu-un-gul
+#lem: e[house]; lu[person]; zu[know]; gul[destroy]
+#etcsl: line-id=B.2.143.20
+
+#note: = Alster 1997 2.143 = 6 Sec. A 2; cf. 6.1.14.17
+
+21. en₃-bi-a ba-tar-re-X
+#lem: en[cvne]; tar[cut]
+#etcsl: line-id=B.2.143.21
+
+@end proverb
+
+@div proverb 2.144
+
+22. e₂-e kislah he₂-eb₂-us₂
+#lem: e[house]; kislah[uncultivated]; us[accompany]
+#etcsl: line-id=B.2.144.22
+
+#note: = Alster 1997 2.144 = 6 Sec. A 3
+
+23. a-šag₄-ga sur₁₂ he₂-eb₂-us₂#
+#lem: ašag[field]; sur[threshing floor]; us[accompany]
+#etcsl: line-id=B.2.144.23
+
+@end proverb
+
+@div proverb 2.145
+
+24. e₂-a-ni e₂ zag iri-gin₇ ab-ba he₂-[...]
+#lem: e[house]; e[house]; zag[side]; iri[city]; abba[father]; X
+#etcsl: line-id=B.2.145.24
+
+#note: = Alster 1997 2.145 = 6 Sec. A 4
+
+@end proverb
+
+@div proverb 2.146
+
+25. e₂ dam-e gu₃ nu-de₂-dam
+#lem: e[house]; dam[spouse]; gu[voice]; de[pour]
+#etcsl: line-id=B.2.146.25
+
+#note: = Alster 1997 2.146 = 6 Sec. A 5
+
+26. [ad]-da inim hul₂ nu-ŋa₂-ŋa₂-dam
+#lem: adda[father]; inim[word]; hul[rejoice]; ŋar[put]
+#etcsl: line-id=B.2.146.26
+
+27. šag₄# nu-ši#-ib-kuš₂#-u₃
+#lem: šag[heart]; kušu[tired]
+#etcsl: line-id=B.2.146.27
+
+@end proverb
+
+@div proverb 2.147
+
+28. [...] X
+#lem: X; X
+#etcsl: line-id=B.2.147.28
+
+#note: = Alster 1997 2.147 = 6 Sec. A 6
+
+29. [...] X X
+#lem: X; X; X
+#etcsl: line-id=B.2.147.29
+
+@end proverb
+
+@div proverb 2.148
+
+30. [...] nu-gi₄
+#lem: X; gi[turn]
+#etcsl: line-id=B.2.148.30
+
+#note: = Alster 1997 2.148 = 6 Sec. A 7
+
+@end proverb
+
+@div proverb 2.149
+
+31. a#-da ab-tuš kur-šag₄-še₃ igi du₈
+#lem: a[water]; tuš[sit (down)]; kuršag[center of the mountains]; igi[eye]; du[spread]
+#etcsl: line-id=B.2.149.31
+
+#note: = Alster 1997 2.149 = 6 Sec. A 8; cf. 6.1.11.69, 6.1.26.d15
+
+32. ni₂#-bi-še₃ igi nu-du₈
+#lem: ni[self]; igi[eye]; du[spread]
+#etcsl: line-id=B.2.149.32
+
+@end proverb
+
+@div proverb 2.150
+
+33. a-da-be₂ niŋ₂ im-[ba nu-zu]
+#lem: Adapa[1]PN; niŋ[thing]; imba[deficit]; zu[know]
+#etcsl: line-id=B.2.150.33
+
+#note: = Alster 1997 2.150 = 6 Sec. A 9 = Veldhuis 2000c 2.150; cf. 6.1.11.70
+
+34. kur-šag₄-ge kur# [...]
+#lem: kuršag[center of the mountains]; kur[mountain(s)]; X
+#etcsl: line-id=B.2.150.34
+
+@end proverb
+
+@div proverb 2.151
+
+35. id₂ [...]
+#lem: id[river]; X
+#etcsl: line-id=B.2.151.35
+
+#note: = Veldhuis 2000c 2.151
+
+@end proverb
+
+@div proverb 2.152
+
+36. X X X [...]
+#lem: X; X; X; X
+#etcsl: line-id=B.2.152.36
+
+#note: = Veldhuis 2000c 2.152
+
+37. lu₂# id₂-da# [...]
+#lem: lu[person]; id[river]; X
+#etcsl: line-id=B.2.152.37
+
+@end proverb
+
+@div proverb 2.153
+
+38. e₂-gal gud-de₃ kun-[bi he₂-dab₅]
+#lem: egal[palace]; gud[bull]; kun[tail]; dab[seize]
+#etcsl: line-id=B.2.153.38
+
+#note: = Alster 1997 2.153 = 6.1; cf. 6.1.14.21
+
+@end proverb
+
+@div proverb 2.154
+
+39. e₂-gal id₂ mah-[am₃] šag₄-bi [gud] du₇-du₇#-[dam]
+#lem: egal[palace]; id[river]; mah[great]; šag[heart]; gud[bull]; du[push]
+#etcsl: line-id=B.2.154.39
+
+#note: = Alster 1997 2.154 = 6.2; cf. 5.6.1: l. 94
+
+@end proverb
+
+@div proverb 2.155
+
+40. e₂-gal tir-ra-am₃ lugal [ur]-mah#
+#lem: egal[palace]; tir[forest]; lugal[king]; urmah[lion]
+#etcsl: line-id=B.2.155.40
+
+#note: = Alster 1997 2.155 = 6.3; cf. 6.1.28.24, 6.2.3: UET 6/2 209 ll. 1-3, 1.8.1.5: ll. 193-199
+
+41. {d}nun-gal {sa}šu₂-uš-gal# lu₂ bi₂-dul#-dul-e
+#lem: Nungal[1]DN; sašušgal[net]; lu[person]; dul[cover]
+#etcsl: line-id=B.2.155.41
+
+42. {d}utu# šu-ŋu₁₀ gid₂-i-ma-ni-ib
+#lem: Utu[1]DN; šu[hand]; gid[long]
+#etcsl: line-id=B.2.155.42
+
+@end proverb
+
+@div proverb 2.156
+
+43. [e₂]-gal# ki-ma-an-ze₂-er nu-um#-zu dab₅-dab₅-be₂
+#lem: egal[palace]; kimanzer[slippery place]; zu[know]; dab[seize]
+#etcsl: line-id=B.2.156.43
+
+#note: = Alster 1997 2.156 = 6.4; cf. 6.1.14.23, 6.1.25.8
+
+@end proverb
+
+@div proverb 2.157
+
+44. e₂-gal a-ri-a nu-da₁₃-da₁₃
+#lem: egal[palace]; eria[wasteland]; taka[set aside]
+#etcsl: line-id=B.2.157.44
+
+#note: = Alster 1997 2.157 = 6.5; cf. 6.1.14.20, 6.1.25.11, 6.2.3: UET 6/2 317
+
+45. {ŋiš}ma₂-gur₈ in-nu-da nu-da₁₃-da₁₃
+#lem: magur[barge]; inu[straw]; taka[set aside]
+#etcsl: line-id=B.2.157.45
+
+46. dumu-gir₁₅-bi du-lum la-ba-an-da₁₃-da₁₃
+#lem: dumugir[citizen]; dulum[toil]; taka[set aside]
+#etcsl: line-id=B.2.157.46
+
+47. [dumu]-munus lugal-la eš₂-dam [nu-da₁₃-da₁₃]
+#lem: dumumunus[daughter]; lugal[king]; ešdam[tavern]; taka[set aside]
+#etcsl: line-id=B.2.157.47
+
+@end proverb
+
+@div proverb 2.158
+
+48. e₂-gal ud 1(DIŠ) ama tud-da-am₃
+#lem: egal[palace]; ud[sun]; n; ama[mother]; utud[give birth (to)]
+#etcsl: line-id=B.2.158.48
+
+#note: = Alster 1997 2.158 = 6.6; cf. 6.1.14.22, 6.1.17.b9, 6.1.25.10
+
+49. ud 1(DIŠ) ama a-nir-ra-am₃
+#lem: ud[sun]; n; ama[mother]; anir[lament]
+#etcsl: line-id=B.2.158.49
+
+@end proverb
+
+@div proverb 2.159
+
+50. e₂ du₃-du₃-a-ŋa₂ ur₅-ra-bi ŋe₂₆-e#-me-en#
+#lem: e[house]; du[build]; ura[interest-bearing loan]; ŋaʾe[I]
+#etcsl: line-id=B.2.159.50
+
+#note: = Alster 1997 2.159 = 6.7
+
+51. gana₂ ŋar-ŋar-ra-ŋa₂ nu-ur₁₁-ru-bi ŋe₂₆-e-me-en
+#lem: gana[field]; ŋar[put]; uru[sow]; ŋaʾe[I]
+#etcsl: line-id=B.2.159.51
+
+@end proverb
+
+@div proverb 2.160
+
+52. e₂ dumu tab du₃-a he₂-me-en
+#lem: e[house]; dumu[child]; tab[double]; du[build]; me[be]
+#etcsl: line-id=B.2.160.52
+
+#note: = Alster 1997 2.160 = 6.8
+
+@end proverb
+
+@div proverb 2.161
+
+53. e₂-še₃ ga-ŋen-na saŋ a-ab-kal
+#lem: e[house]; ŋen[go]; saŋ[head]; kal[rare]
+#etcsl: line-id=B.2.161.53
+
+#note: = Alster 1997 2.161; cf. 6.1.03.165, 6.1.25.8
+
+@end proverb
+
+@div proverb 2.162
+
+54. e₂ kur₉-ra-ni 50-am₃
+#lem: e[house]; kur[enter]; n
+#etcsl: line-id=B.2.162.54
+
+#note: = Alster 1997 2.162 = 6.8
+
+@end proverb
+
+@div proverb 2.163
+
+55. e₂ numun til-til-la-še₃ a-ba-am₃ mu-un-tum₃-me-en
+#lem: e[house]; numun[seed]; til[complete]; aba[who?]; tum[bring]
+#etcsl: line-id=B.2.163.55
+
+#note: = Alster 1997 2.163 = 6.9
+
+@end proverb
+
+@div proverb 2.164
+
+56. e₂ lugal-bi nu-tuš-a šag₄-bi-a nu-gur-re-en
+#lem: e[house]; lugal[king]; tuš[sit (down)]; šag[heart]; gur[turn]
+#etcsl: line-id=B.2.164.56
+
+#note: = Alster 1997 2.164 = 6.10
+
+@end proverb
+
+@div proverb 2.165
+
+57. [...] X i₃-bal [...] HAR
+#lem: X; X; bala[turn]; X; X
+#etcsl: line-id=B.2.165.57
+
+#note: = Alster 1997 6.11
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+@div proverb 2.c1
+
+1. ud# ma-da an-šum₂-ma# en ki pa-rim₄-bi-im
+#lem: ud[sun]; mada[land]; šum[give]; en[lord]; ki[place]; barim[dry land]
+#etcsl: line-id=C.2.c1.1
+
+#note: = Veldhuis 2000c 6.20
+
+@end proverb
+
+@div proverb 2.c2
+
+2. mušen an-na um{mušen}-e dug₃-ga
+#lem: mušen[bird]; an[sky]; um[water bird]; dug[good]
+#etcsl: line-id=C.2.c2.2
+
+#note: = Veldhuis 2000c 6.21
+
+@end proverb
+
+@div proverb 2.c3
+
+3. ku₆ engur-ra eštub{ku₆} gi dug₃-ga
+#lem: kud[fish]; engur[(cosmic) underground waters]; eštub[carp]; gi[reed]; dug[good]
+#etcsl: line-id=C.2.c3.3
+
+#note: = Veldhuis 2000c 6.22
+
+@end proverb
+
+@div proverb 2.c4
+
+4. niŋ₂-ur₂-limmu₂ peš₂-ŋiš-gi dug₃-ga
+#lem: niŋurlimmu[four legged creature]; pešgi[rodent]; dug[good]
+#etcsl: line-id=C.2.c4.4
+
+#note: = Veldhuis 2000c 6.23
+
+@end proverb
+
+@div proverb 2.c5
+
+5. mušen ba-dal-dal ama dili-bi ba-an-tuš
+#lem: mušen[bird]; dal[fly]; ama[mother]; dili[single]; tuš[sit (down)]
+#etcsl: line-id=C.2.c5.5
+
+#note: = Veldhuis 2000c 6.24
+
+@end proverb
+
+@div proverb 2.c6
+
+6. mušen ba-dal-dal {d}nin-a-zu ha-la-zu-e-še
+#lem: mušen[bird]; dal[fly]; Ninazu[1]DN; hala[inheritance share]
+#etcsl: line-id=C.2.c6.6
+
+#note: = Alster 1997 6.25
+
+@end proverb
+
+@div proverb 2.c7
+
+7. mušen-du₃ ŋiš-pap-hal-la-ka niŋ₂ al-gu₇-e
+#lem: mušendu[bird-catcher]; ŋešpaphalla[trap?]; niŋ[thing]; gu[eat]
+#etcsl: line-id=C.2.c7.7
+
+#note: = Alster 1997 6.26
+
+@end proverb
+
+@div proverb 2.c8
+
+8. mušen ku₆ gu₇-e u₃ nu-um-ši-ku-[ku]
+#lem: mušen[bird]; kud[fish]; gu[eat]; u[sleep]; ku[place]
+#etcsl: line-id=C.2.c8.8
+
+#note: = Alster 1997 6.27
+
+@end proverb
+
+@div proverb 2.c9
+
+9. mušen# KA-DUB-ŠEŠ a-na-am₃ ab-ak#
+#lem: mušen[bird]; KA.DUB.ŠEŠ[designation of bird]; ana[what?]; ak[do]
+
+#etcsl: line-id=C.2.c9.9
+
+#note: = Alster 1997 6.28
+
+@end proverb
+
+@div proverb 2.c10
+
+10. (1:um{mušen} gu₃ de₂ [...] nu-sag₉#:1)
+#lem: um[water bird]; gu[voice]; de[pour]; X; sag[good]
+#etcsl: line-id=C.2.c10.10
+
+:10v.1.1: (#note: 1 ms. has instead:#) [...]-a gu-du gid₂ [...]
+#lem: X; gudu[buttocks]; gid[long]; X
+
+#note: = Alster 1997 6.29
+
+@end proverb
+
+@div proverb 2.c11
+
+11. um{mušen} saŋ-ki X nu-X X
+#lem: um[water bird]; saŋki[forehead]; X; X; X
+#etcsl: line-id=C.2.c11.11
+
+#note: = Alster 1997 6.30
+
+@end proverb
+
+@div proverb 2.c12
+
+12. um{mušen}-gin₇ a am₃-gir₅-gir₅-e#
+#lem: um[water bird]; a[water]; gir[slip (in or through)]
+#etcsl: line-id=C.2.c12.12
+
+#note: = Alster 1997 6.31; cf. 6.1.19.d4
+
+@end proverb
+
+@div proverb 2.c13
+
+13. ir₇-saŋ{mušen} gu₃ de₂-de₂ {ŋiš}kiri₆ me-te-bi
+#lem: irsaŋ[pigeon]; gu[voice]; de[pour]; kiri[(fruit) plantation]; mete[appropriate thing]
+#etcsl: line-id=C.2.c13.13
+
+#note: = Alster 1997 6.32; cf. 6.2.2: MDP 27 206 l. 1, 6.2.3: UET 6/2 244 ll. 1-2, 6.2.3: UET 6/3 80 l. 4
+
+@end proverb
+
+@div proverb 2.c14
+
+14. [dar]{[mušen]} [gu₃] de₂ a-šag₄-ga me-te-bi#-[im]
+#lem: dar[bird]; gu[voice]; de[pour]; ašag[field]; mete[appropriate thing]
+#etcsl: line-id=C.2.c14.14
+
+#note: = Alster 1997 6.33; cf. 6.2.2: MDP 27 206 l. 3, 6.2.3: UET 6/2 244 ll. 3-4, 6.2.3: UET 6/3 80 l. 6
+
+@end proverb
+
+@div proverb 2.c15
+
+15. [... gu₃] de₂# [e₂]-gal#-la me-te-bi#-[im]
+#lem: X; gu[voice]; de[pour]; egal[palace]; mete[appropriate thing]
+#etcsl: line-id=C.2.c15.15
+
+#note: = Alster 1997 6.34
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment D
+
+@div proverb 2.d1
+
+1. diŋir sizkur-ra me-te-bi-im
+#lem: diŋir[deity]; siškur[prayer]; mete[appropriate thing]
+#etcsl: line-id=D.2.d1.1
+
+#note: = Alster 1997 6.37
+
+@end proverb
+
+@div proverb 2.d2
+
+2. [...]{mušen} ku₆ engur-ra-ke₄ [...] ba-ab-tah
+#lem: X; kud[fish]; engur[(cosmic) underground waters]; X; tah[add]
+#etcsl: line-id=D.2.d2.2
+
+#note: = Alster 1997 6.38
+
+@end proverb
+
+@div proverb 2.d3
+
+3. [a-ra₂]-bu#{mušen} niŋ₂ a₂-ba-ka nu-gu₇
+#lem: arabu[bird]; niŋ[thing]; a[time]; gu[eat]
+#etcsl: line-id=D.2.d3.3
+
+#note: = Alster 1997 6.39; cf. 6.1.07.30
+
+@end proverb
+
+@div proverb 2.d4
+
+4. (1:[...] UŠ-ta I NE-NE [...]:1)
+#lem: X; X; X; X; X
+#etcsl: line-id=D.2.d4.4
+
+:4v.1.1: (#note: 1 ms. has instead:#) [...]{mušen} DU IM# [...]
+#lem: X; X; X; X
+
+#note: = Alster 1997 6.40
+
+@end proverb
+
+@div proverb 2.d5
+
+5. (1:[...] TUM-ba nu-gur-re {im}šu-rin-na-ta ba-gur-re:1)
+#lem: X; X; gur[turn]; šurin[oven]; gur[turn]
+#etcsl: line-id=D.2.d5.5
+
+:5v.1.1: (#note: 1 ms. has instead:#) [...] DU# X-ba nu-nir-ra
+#lem: X; X; X; nir[winnow]
+
+#note: = Alster 1997 6.41
+
+@end proverb
+
+@div proverb 2.d6
+
+6. [...] saŋ#-du suhur{ku₆} saŋ-du (1:maš₂-gur-ra-ŠEŠ{ku₆}:1) he₂-da-gu₇-e
+#lem: X; saŋdu[head]; suhur[carp]; saŋdu[head]; maš₂.gur.ra.ŠEŠ[fish]; gu[eat]
+#etcsl: line-id=D.2.d6.6
+
+:6v.1.1: (#note: 1 ms. has instead:#) [...]{mušen}-ra
+#lem: X
+
+#note: = Alster 1997 6.42; cf. 6.1.07.27
+
+@end proverb
+
+@div proverb 2.d7
+
+7. a₂#-še ŋiš-gi-a nam-mu-nu₂-de₃-en peš₂-ŋiš-gi-a [i₃]-gu₇#-e-en
+#lem: aše[now]; ŋešgi[thicket]; nud[lie down]; pešgi[rodent]; gu[eat]
+#etcsl: line-id=D.2.d7.7
+
+#note: = Alster 1997 6.43; cf. 6.1.11.26
+
+@end proverb
+
+@div proverb 2.d8
+
+8. [...] na#-an-de₂-e-en ŋiri₃# gub-gub-e an-DU
+#lem: X; de[pour]; ŋiri[foot]; gub[stand]; X
+#etcsl: line-id=D.2.d8.8
+
+#note: = Alster 1997 6.44
+
+@end proverb
+
+@div proverb 2.d9
+
+9. id₂#-da a na-de₂-en peš₂-bi am₃-ed₃-de₃
+#lem: id[river]; a[water]; de[pour]; peš[large mouse]; ed[go up]
+#etcsl: line-id=D.2.d9.9
+
+#note: = Alster 1997 6.45
+
+@end proverb
+
+@div proverb 2.d10
+
+10. [...] u₅{mušen}
+#lem: X; u[wild goose]
+#etcsl: line-id=D.2.d10.10
+
+#note: = Alster 1997 6.46
+
+11. [...]-ta ku₅-ra₂
+#lem: X; kud[cut]
+#etcsl: line-id=D.2.d10.11
+
+12. su-din{mušen} 1(DIŠ)-am₃ ab-tum₃
+#lem: sudin[bat]; n; tum[bring]
+#etcsl: line-id=D.2.d10.12
+
+13. [...] u₂-bi X
+#lem: X; u[plant(s)]; X
+#etcsl: line-id=D.2.d10.13
+
+@end proverb
+
+@div proverb 2.d11
+
+14. X{mušen}-gin₇ ib₂-ba-ta sun₄-za ga-bi₂-ib-tud₂-de₃-en
+#lem: X; ib[angry]; sum[beard]; tud[hit]
+#etcsl: line-id=D.2.d11.14
+
+#note: = Alster 1997 6.47
+
+@end proverb
+
+@div proverb 2.d12
+
+15. [... ...] X X gir#-ra-bi
+#lem: X; X; X; X; X
+#etcsl: line-id=D.2.d12.15
+
+#note: = Alster 1997 p. 153 CBS 11335 5
+
+16. [...] AM₃-bi
+#lem: X; X
+#etcsl: line-id=D.2.d12.16
+
+@end proverb
+
+@div proverb 2.d13
+
+17. 2 e-sig{mušen} 2 (1:gu₂-sur-ra{ku₆}:1) 3 suhur{ku₆}
+#lem: n; esig[bird]; n; gusur[fish]; n; suhur[carp]
+#etcsl: line-id=D.2.d13.17
+
+:17v.1.1: (#note: 1 ms. has instead:#) gu₂-sur-ra#{mušen}
+#lem: gusura[bird]
+
+#note: = Alster 1997 6.48; cf. 6.2.5: P 376
+
+18. 2 eštub{ku₆} 2 suhur{ku₆} (1::1) ku₆-ab-ba{ku₆}
+#lem: n; eštub[carp]; n; suhur[carp]; kuʾabak[sea fish]
+#etcsl: line-id=D.2.d13.18
+
+:18v.1.1: (#note: 1 ms. adds:#) 2
+#lem: n
+
+19. {ŋiš}banšur {d}en-lil₂-la₂-ka ba-ŋal₂-la
+#lem: banšur[table]; Enlil[1]DN; ŋal[⟦be⟧ to be (there]
+#etcsl: line-id=D.2.d13.19
+
+@end proverb
+
+@div proverb 2.d14
+
+20. pisaŋ-ninda-ŋar {d}en-lil₂-la₂-ka
+#lem: bisaŋnindaŋar[bread basket]; Enlil[1]DN
+#etcsl: line-id=D.2.d14.20
+
+#note: = Alster 1997 6.49
+
+21. i₃ ku₆ i₃ mušen-na-ka gu₂-zu-še₃ SAR-re-eš₂ he₂-em-DU
+#lem: i[oil]; kud[fish]; i[oil]; mušen[bird]; gu[neck]; X; X
+#etcsl: line-id=D.2.d14.21
+
+@end proverb
+
+@div proverb 2.d15
+
+22. a-ba-am₃ sahar (1:mu-un-de₆:1)
+#lem: aba[who?]; sahar[soil]; de[carry]
+#etcsl: line-id=D.2.d15.22
+
+:22v.1.1: (#note: 1 ms. has instead:#) mu-un-zig₃
+#lem: zig[rise]
+
+#note: = Alster 1997 6.50; cf. 6.1.07.78
+
+23. a-ba-am₃ {ŋiš}ma₂ bi₂-in-du₈
+#lem: aba[who?]; ma[ship]; du[spread]
+#etcsl: line-id=D.2.d15.23
+
+24. [a]-ba-am₃ šir₃-e dur₂-dur₂-ru-da mu-un-[...]
+#lem: aba[who?]; šir[song]; dur[sit]; X
+#etcsl: line-id=D.2.d15.24
+
+@end proverb
+
+@div proverb 2.d16
+
+25. [...] X še ze₂-ze₂ še-zu X X [...]
+#lem: X; X; še[barley]; zir[tear out]; še[barley]; X; X; X
+#etcsl: line-id=D.2.d16.25
+
+#note: = Alster 1997 6.51
+
+@end proverb
+
+@div proverb 2.d17
+
+26. [...] X NA lum-lum# [...]
+#lem: X; X; X; lum[fruit]; X
+#etcsl: line-id=D.2.d17.26
+
+#note: = Alster 1997 6.52
+
+@end proverb
+
+@div proverb 2.d18
+
+27. [...] X [...]
+#lem: X; X; X
+#etcsl: line-id=D.2.d18.27
+
+#note: = Alster 1997 6.53
+
+@end proverb
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+

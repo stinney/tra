@@ -1,0 +1,146 @@
+&Q000816 = Proverbs: collection 24
+@composite
+#project: epsd2/literary
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.6.1.24
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.6.1.24&display=Crit&charenc=gcirc#
+
+$ (unknown no. of lines missing)
+@div proverb 24.1
+
+1. [...] A MU# [...]
+#lem: X; X; X; X
+#etcsl: line-id=24.1.1
+
+@end proverb
+
+@div proverb 24.2
+
+2. šah₂# [niga] ab#-šum-de₃ niŋ₂!# [i₃-gu₇-a-ŋu₁₀ ga-ab-sug₆-e-še]
+#lem: šah[pig]; niga[fattened]; šum[slaughter]; niŋ[thing]; gu[eat]; sug[replace]
+#etcsl: line-id=24.2.2
+
+#note: cf. 6.1.09.a12-13, 6.1.19.b1-2, 6.1.21.b4-5, 6.2.5: YBC 4677 ll. 1-4
+
+3. šah₂-ze₂#-eh-tur-e šu# [al-gu₄-ud-gu₄-ud-de₃] sag₉-ga-aš-am₃ ŋe₂₆-e# [nu-gu₇-e-še]
+#lem: šahzehtur[piglet]; šu[hand]; gud[jump (on)]; sag[good]; ŋaʾe[I]; gu[eat]
+#etcsl: line-id=24.2.3
+
+@end proverb
+
+@div proverb 24.3
+
+4. e₂ gul-gul-e [kug i₃-gul-e]
+#lem: e[house]; gul[destroy]; kug[metal]; gul[destroy]
+#etcsl: line-id=24.3.4
+
+#note: cf. 6.1.02.135, 6.1.19.b4
+
+5. e₂ gul-e kug-sig₁₇# [i₃-gul-e]
+#lem: e[house]; gul[destroy]; kugsig[gold]; gul[destroy]
+#etcsl: line-id=24.3.5
+
+@end proverb
+
+@div proverb 24.4
+
+6. dam %e u₃#-mu-un-si# %s gam-[am₃ geme₂ ug₅-ga-am₃]
+#lem: dam[spouse]; umunsik[ruler]N; gurum[bend]; geme[female worker]; ug[kill]
+#etcsl: line-id=24.4.6
+
+#note: cf. 6.1.09.a14, 6.1.19.b5
+
+7. %e u₃-mu-un-si# %s gam-[am₃ arad ug₅-ga-am₃]
+#lem: umunsik[ruler]N; gurum[bend]; arad[slave]; ug[kill]
+#etcsl: line-id=24.4.7
+
+@end proverb
+
+@div proverb 24.5
+
+8. ga-gid₂ mu#-un-da#-[ku₅-ru šu-bi bar edin-na mu-da-an-DU]
+#lem: gid[long]; kud[cut]; šu[hand]; bar[outside]; eden[back]; X
+#etcsl: line-id=24.5.8
+
+#note: cf. 6.1.03.71, 6.1.11.19, 6.1.19.b6
+
+@end proverb
+
+@div proverb 24.6
+
+9. im-ba am₃-ŋa₂-ŋa₂# [...]
+#lem: imba[deficit]; ŋar[put]; X
+#etcsl: line-id=24.6.9
+
+10. ba-ab-ak i₃-[...]
+#lem: ak[do]; X
+#etcsl: line-id=24.6.10
+
+@end proverb
+
+@div proverb 24.7
+
+11. saŋ bul-e id₂#-[da bal-e]
+#lem: saŋ[head]; bul[shake]; id[river]; bala[turn]
+#etcsl: line-id=24.7.11
+
+#note: cf. 6.1.03.88, 6.1.18.14
+
+@end proverb
+
+@div proverb 24.8
+
+12. {kuš}ummud zi# [lu₂-kam] {kuš}e-sir₂ [igi lu₂-kam]
+#lem: ummud[waterskin]; zi[life]; lu[person]; esir[sandal(s)]; igi[eye]; lu[person]
+#etcsl: line-id=24.8.12
+
+#note: cf. 6.1.19.c7, 6.1.21.c1, 6.1.23.18
+
+13. dam dim₄-ma lu₂#-[kam] dumu-nitah# ŋissu lu₂#-[kam]
+#lem: dam[spouse]; dim[check]; lu[person]; dumunita[son]; ŋissu[shade]; lu[person]
+#etcsl: line-id=24.8.13
+
+14. dumu-munus saŋ šu ŋar lu₂-kam e₂-gi₄-a gal₅-la₂ lu₂#-[kam]
+#lem: dumumunus[daughter]; saŋ[head]; šu[hand]; ŋar[put]; lu[person]; egia[bride]; galla[policeman]; lu[person]
+#etcsl: line-id=24.8.14
+
+@end proverb
+
+@div proverb 24.9
+
+15. {d}utu bar-ra šu he₂-en-ne#-[šu₂] ni₂-zu šu nu-zu-a kur₉#-ni-[ib]
+#lem: Utu[1]DN; bar[outside]; šu[hand]; šuš[cover]; ni[self]; šu[hand]; zu[know]; kur[enter]
+#etcsl: line-id=24.9.15
+
+#note: cf. 6.1.03.26, 6.1.19.c2
+
+@end proverb
+
+@div proverb 24.10
+
+16. kaš %e ga-an-ze₂-eb-ba %s ušur!(UKUR₃) [nu]-mu#-un-kal-[e]
+#lem: kaš[beer]; zeb[good]V/i; usar[(female) neighbor]; kal[rare]
+#etcsl: line-id=24.10.16
+
+#note: cf. 6.1.21.c4
+
+@end proverb
+
+@div proverb 24.11
+
+×.
+#lem: 
+
+#etcsl: line-id=24.11.x
+
+#note: cf. 6.1.21.c5; edited separately as 5.6.9 The fowler and his wife
+
+@end proverb
+
+$ (unknown no. of lines missing)
+
+
+
+
+

@@ -80,8 +80,8 @@ For six days, he …… ill. …… on his skin like resin. Lord <w type="RN">Gi
 <gap extent="1 line fragmentary"/>
 …… is lying alone. …… is lying alone. …… the king …….
 <gap extent="1 line fragmentary"/>
-…… will come to you. …… will come to you. …… will come to you. …… will come to you. …… will come to you. …… will come to you. …… will come to you.
-</q><gap extent="unknown no. of lines missing"/></p>
+…… will come to you. …… will come to you. …… will come to you. …… will come to you. …… will come to you. …… will come to you. …… will come to you.</q>
+<gap extent="unknown no. of lines missing"/></p>
 <linkGrp><link targType="q" targets="t1813.q1 t1813.q2 t1813.q3 t1813.q4"/></linkGrp></div1><div1 type="segment" n="G">
 <p xml:id="t1813.p12" n="1-22" corresp="c1813.1.G.1"><gap extent="1 line fragmentary"/>
 …… <w type="RN">Gilgameš</w> ……
@@ -89,8 +89,8 @@ For six days, he …… ill. …… on his skin like resin. Lord <w type="RN">Gi
 …… they answered him. …… he weeps. Why is …… made ……? …… <w type="DN">Nintur</w> has not given birth yet.
 <gap extent="2 lines fragmentary"/>
 <gap extent="1 line unclear"/>
-<q toWhom="Gilgamec">The birds of the sky …… cannot escape. The fish of the deep water cannot see ……. Having spread his net, the young fisherman will catch you (?). Who has ever seen anyone who could ascend …… from (?) the …… of the nether world? No king has ever been destined a fate like yours. Who …… anyone among mankind, whoever they may be, …… like you? …… the governorship of the nether world. You …… your ghost …… pass judgments …….
-</q><gap extent="unknown no. of lines missing"/></p>
+<q toWhom="Gilgamec">The birds of the sky …… cannot escape. The fish of the deep water cannot see ……. Having spread his net, the young fisherman will catch you (?). Who has ever seen anyone who could ascend …… from (?) the …… of the nether world? No king has ever been destined a fate like yours. Who …… anyone among mankind, whoever they may be, …… like you? …… the governorship of the nether world. You …… your ghost …… pass judgments …….</q>
+<gap extent="unknown no. of lines missing"/></p>
 </div1><div1 type="segment" n="H">
 <p xml:id="t1813.p13" n="1-21" corresp="c1813.1.H.1"><w type="SN">Kulaba</w> ……. As <w type="SN">Unug</w> rose ……, as <w type="SN">Kulaba</w> rose ……. Within the first month ……, it was not five or 10 days before they …… the <w type="WN">Euphrates</w>. …… its shells. Then, as in the bed of the <w type="WN">Euphrates</w>, the earth cracked dry. …… was built from stone. …… was built from stone. …… were hard diorite. …… its latches were hard stone. …… were cast in gold. …… heavy blocks of stone. …… heavy blocks of stone. …… brought in ……. …… for future days.
 <gap extent="1 line fragmentary"/>
@@ -157,7 +157,8 @@ After Lord <w type="RN">Gilgameš</w> had arrived at the assembly, the pre-emine
 <addSpan to="t1813.v2"/><note xml:id="t1813.n8" lang="eng" target="t1813.v1">1 ms. has instead:</note> place
 <anchor xml:id="t1813.v2"/>. Having brought down to the Land the divine powers of <w type="GN">Sumer</w>, which at that time were forgotten forever, the orders, and the rituals, he (?) carried out correctly the rites of hand washing and mouth washing …….
 <gap extent="1 line fragmentary"/>
-</q><gap extent="3 lines missing"/></p>
+</q>
+<gap extent="3 lines missing"/></p>
 <altGrp><alt targType="addSpan" targets="t1813.v1 t1813.v2"/></altGrp>
 <p xml:id="t1813.p27" n="23-37" corresp="c1813.3.F.23"><gap extent="2 lines fragmentary"/>
 <w type="DN">Enlil's</w> advice was given to <w type="DN">Enki</w>. <w type="DN">Enki</w> answered <w type="DN">An</w> and <w type="DN">Enlil</w>: <q who="Enki" toWhom="An, Enlil">In those days, in those distant days, in those nights, in those distant nights, in those years, in those distant years, after the assembly had made the Flood sweep over to destroy the seed of mankind, among us I was the only one who was for life (?), and so he remained alive (?) -- <w type="RN">Zi-ud-sura</w>, although (?) a human being, remained alive (?). Then you made me swear by heaven and by earth, and …… that no human will be allowed to live forever (?) any more. Now, as we look at <w type="RN">Gilgameš</w>, could not he escape because of his mother?</q></p>

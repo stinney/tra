@@ -1,4 +1,5 @@
 <xsl:transform xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+  <xsl:strip-space elements="q"/>
   <xsl:output method="text" encoding="UTF-8"/>
   <xsl:template match="p">
     <xsl:text>@(</xsl:text>
@@ -30,9 +31,13 @@
     <xsl:text>}</xsl:text>
   </xsl:template>
   <xsl:template match="q">
-    <xsl:value-of select="concat('@q[',@who,',',@toWhom,']{“')"/>
+    <xsl:text>@q</xsl:text>
+    <xsl:if test="string-length(@who)>0 or string-length(@toWhom)>0">
+      <xsl:value-of select="concat('[',@who,',',@toWhom,']')"/>
+    </xsl:if>
+    <xsl:text>{“</xsl:text>
     <xsl:apply-templates/>
-    <xsl:text>”</xsl:text>
+    <xsl:text>”}</xsl:text>
   </xsl:template>
   <xsl:template match="foreign">
     <xsl:value-of select="concat('@f',@lang,'{')"/>
@@ -40,7 +45,14 @@
     <xsl:text>}</xsl:text>
   </xsl:template>
   <xsl:template match="gap">
-    <xsl:if test="count(preceding-sibling::*)=0"><xsl:text>&#xa;</xsl:text></xsl:if>
+    <xsl:choose>
+      <xsl:when test="count(preceding-sibling::*)=0">
+	<xsl:text>&#xa;</xsl:text>
+      </xsl:when>
+      <xsl:when test="preceding-sibling::*[1][local-name()='q']">
+	<xsl:text>&#xa;</xsl:text>
+      </xsl:when>
+    </xsl:choose>
     <xsl:value-of select="concat('$ (',@extent,')')"/>
   </xsl:template>
   <xsl:template match="head">

@@ -1,0 +1,198 @@
+&Q000676 = A hymn to Nanna (Nanna G)
+@composite
+#project: epsd2/literary
+#atf: use unicode
+#atf: use math
+#etcsl: text-id=c.4.13.07
+#key: after http://etcsl.orinst.ox.ac.uk/cgi-bin/etcsl.cgi?text=c.4.13.07&display=Crit&charenc=gcirc#
+
+@div segment A
+
+$ (unknown no. of lines missing)
+1. {d}nanna# [...]
+#lem: Nanna[1]DN; X
+#etcsl: line-id=A.1
+
+2. en dumu {d}en-lil₂-la₂# [...]
+#lem: en[lord]; dumu[child]; Enlil[1]DN; X
+#etcsl: line-id=A.2
+
+3. {d}nanna en X [...]
+#lem: Nanna[1]DN; en[lord]; X; X
+#etcsl: line-id=A.3
+
+4. en dumu {d}en-lil₂-la₂ [...]
+#lem: en[lord]; dumu[child]; Enlil[1]DN; X
+#etcsl: line-id=A.4
+
+5. en u₆ di dug₃-ga# [...]
+#lem: en[lord]; u[admiration]; di[speak]; dug[good]; X
+#etcsl: line-id=A.5
+
+6. munus hi-li šu du₇ [...]
+#lem: munus[woman]; hili[attractiveness]; šu[hand]; du[perfect]; X
+#etcsl: line-id=A.6
+
+7. {d}nanna en u₆ [di dug₃-ga ...]
+#lem: Nanna[1]DN; en[lord]; u[admiration]; di[speak]; dug[good]; X
+#etcsl: line-id=A.7
+
+8. munus hi-li šu du₇ [...]
+#lem: munus[woman]; hili[attractiveness]; šu[hand]; du[perfect]; X
+#etcsl: line-id=A.8
+
+9. {d}nin-hur-saŋ-ŋa₂ [...]
+#lem: Ninhursaŋak[1]DN; X
+#etcsl: line-id=A.9
+
+10. ama gal# {d}nin-hur#-[saŋ-ŋa₂ ...]
+#lem: ama[mother]; gal[big]; Ninhursaŋak[1]DN; X
+#etcsl: line-id=A.10
+
+11. {d}nanna X [...]
+#lem: Nanna[1]DN; X; X
+#etcsl: line-id=A.11
+
+12. ama gal {d}nin#-[hur-saŋ-ŋa₂ ...]
+#lem: ama[mother]; gal[big]; Ninhursaŋak[1]DN; X
+#etcsl: line-id=A.12
+
+13. mu-ni-in-X [...]
+#lem: X; X
+#etcsl: line-id=A.13
+
+14. za-e lu₂ nir [...]
+#lem: zaʾe[you]; lu[person]; nir[lordly]; X
+#etcsl: line-id=A.14
+
+15. {d}nanna mu-[...]
+#lem: Nanna[1]DN; X
+#etcsl: line-id=A.15
+
+16. [za]-e# lu₂ nir X [...]
+#lem: zaʾe[you]; lu[person]; nir[lordly]; X; X
+#etcsl: line-id=A.16
+
+17. [...] X X KI# X [...]
+#lem: X; X; X; X; X; X
+#etcsl: line-id=A.17
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment B
+
+1. [...] X X [... ...]
+#lem: X; X; X; X; X
+#etcsl: line-id=B.1
+
+2. [...] la-la-zu ma-[ak-ak]
+#lem: X; lala[plenty]; ak[do]
+#etcsl: line-id=B.2
+
+3. [hi-li-zu] {[tug₂]}[...]-gin₇ bar-ŋa₂ he₂-em-mi#-dul
+#lem: hili[attractiveness]; X; bar[outside]; dul[cover]
+#etcsl: line-id=B.3
+
+4. {d}nanna šag₄-ŋu₁₀ X GIŠGAL X kug# la-la ma-ak-ak
+#lem: Nanna[1]DN; šag[heart]; X; X; X; kug[purify]; lala[plenty]; ak[do]
+#etcsl: line-id=B.4
+
+5. hi-li-zu {tug₂}X-gin₇! bar-ŋa₂ he₂-em-mi-dul
+#lem: hili[attractiveness]; X; bar[outside]; dul[cover]
+#etcsl: line-id=B.5
+
+6. en šu sikil-e {dug}šakir₃-e he₂-du₇
+#lem: en[lord]; šu[hand]; sikil[pure]; šakir[churn]; hedu[ornament]
+#etcsl: line-id=B.6
+
+7. niŋ₂ šu dug₄-ga-zu# an-ra {d}en-lil₂-ra ša-mu-un-ne-sag₉
+#lem: niŋ[thing]; šu[hand]; dug[speak]; An[1]DN; Enlil[1]DN; sag[good]
+#etcsl: line-id=B.7
+
+8. {d}nanna en šu sikil#-la {dug}šakir₃-e he₂-du₇
+#lem: Nanna[1]DN; en[lord]; šu[hand]; sikil[pure]; šakir[churn]; hedu[ornament]
+#etcsl: line-id=B.8
+
+9. niŋ₂ šu dug₄-ga-zu# an-ra {d}en-lil₂-ra ša-mu-un-ne-sag₉
+#lem: niŋ[thing]; šu[hand]; dug[speak]; An[1]DN; Enlil[1]DN; sag[good]
+#etcsl: line-id=B.9
+
+10. e₂ ud du₆ ul-la-ka su₃-ud-še₃ he₂-du₃
+#lem: e[house]; ud[sun]; X; ul[distant time]; sud[distant]; du[build]
+#etcsl: line-id=B.10
+
+11. e₂ {d}nanna ud du₆ ul#-la a₂-mi kisal {d}nanna su₃-ud-še₃ he₂-du₃#
+#lem: e[house]; Nanna[1]DN; ud[sun]; X; ul[distant time]; emi[queen's household]; kisal[courtyard]; Nanna[1]DN; sud[distant]; du[build]
+#etcsl: line-id=B.11
+
+12. e₂ ŋissu-bi ab-šag₄-ga la₂-a
+#lem: e[house]; ŋissu[shade]; abšag[center of the sea]; la[hang]
+#etcsl: line-id=B.12
+
+13. e₂-kiš-nu-ŋal₂# u₆ di dug₃-ga
+#lem: Ekišnuŋal[1]TN; u[admiration]; di[speak]; dug[good]
+#etcsl: line-id=B.13
+
+14. e₂ {d}nanna šag₄#-sig-ga du₃-a
+#lem: e[house]; Nanna[1]DN; šagsiga[waste land?]; du[build]
+#etcsl: line-id=B.14
+
+15. [...] {d}suen# diŋir-re-ne# X X
+#lem: X; Suen[1]DN; diŋir[deity]; X; X
+#etcsl: line-id=B.15
+
+16. [... ...] X {d}en-lil₂# [...]
+#lem: X; X; X; Enlil[1]DN; X
+#etcsl: line-id=B.16
+
+17. [...] {d}nanna en dumu gal an-na [...] ki# aŋ₂ {d}en-lil₂ {d}nin-lil₂-la₂ [...]
+#lem: X; Nanna[1]DN; en[lord]; dumu[child]; gal[big]; An[1]DN; X; ki[place]; aŋ[measure]; Enlil[1]DN; Ninlil[1]DN; X
+#etcsl: line-id=B.17
+
+$ (unknown no. of lines missing)
+@end segment
+
+@div segment C
+
+1. [...]-me-en
+#lem: X
+#etcsl: line-id=C.1
+
+2. [...] X
+#lem: X; X
+#etcsl: line-id=C.2
+
+$ (approx. 4 lines missing)
+7. [...]-de₃#-en
+#lem: X
+#etcsl: line-id=C.7
+
+8. [...]-in-sa₄
+#lem: še[call by name]
+#etcsl: line-id=C.8
+
+9. [...] X-la-me-en
+#lem: X; X
+#etcsl: line-id=C.9
+
+10. [...]-ri#-in-sa₄
+#lem: še[call by name]
+#etcsl: line-id=C.10
+
+11. [...]-en#
+#lem: X
+#etcsl: line-id=C.11
+
+12. [...] X
+#lem: X; X
+#etcsl: line-id=C.12
+
+$ (unknown no. of lines missing)
+@end segment
+
+
+
+
+
+
