@@ -3,9 +3,16 @@
   <xsl:output method="text" encoding="UTF-8"/>
   <xsl:template match="p">
     <xsl:text>@(</xsl:text>
+    <xsl:choose>
+      <xsl:when test="contains(@corresp,'.')">
+	<xsl:value-of select="substring-after(@corresp,'.')"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:value-of select="@corresp"/>
+      </xsl:otherwise>
+    </xsl:choose>
+    <xsl:text> = </xsl:text>
     <xsl:value-of select="@n"/>
-    <xsl:text>=</xsl:text>
-    <xsl:value-of select="@corresp"/>
     <xsl:text>) </xsl:text>
     <xsl:apply-templates/>
     <xsl:text>&#xa;</xsl:text>
