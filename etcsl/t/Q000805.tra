@@ -8,7 +8,7 @@
 
 #lg 12.a1	proverb
 
-@(A.12.a1.1 = 1-4)  @note{= Alster 1997 12 Sec. B 1}  ((4 lines fragmentary)) 
+@(A.12.a1.1 = 1-4)  @note{= Alster 1997 12 Sec. B 1}  @gap{4 lines fragmentary} 
 
 #lg 12.a2	proverb
 
@@ -49,7 +49,7 @@
 
 #lg 12.a11	proverb
 
-@(A.12.a11.18 = 18-19)  @note{= Alster 1997 12 Sec. B 11}  ((2 lines unclear)) 
+@(A.12.a11.18 = 18-19)  @note{= Alster 1997 12 Sec. B 11}  @gap{2 lines unclear} 
 
 #lg 12.a12	proverb
 
@@ -61,15 +61,15 @@
 
 #lg 12.a14	proverb
 
-@(A.12.a14.24 = 24-26)  @note{= Alster 1997 12 Sec. A 1 = Sec. B 13 B obv. i 11 ll. 3-5}  ((2 lines fragmentary))  …… let me …….
+@(A.12.a14.24 = 24-26)  @note{= Alster 1997 12 Sec. A 1 = Sec. B 13 B obv. i 11 ll. 3-5}  @gap{2 lines fragmentary}  …… let me …….
 
 #lg 12.a15	proverb
 
-@(A.12.a15.27 = 27-28)  @note{= Alster 1997 12 Sec. B 14}  ((2 lines fragmentary)) 
+@(A.12.a15.27 = 27-28)  @note{= Alster 1997 12 Sec. B 14}  @gap{2 lines fragmentary} 
 
 #lg 12.a16	proverb
 
-@(A.12.a16.29 = 29-30)  @note{= Alster 1997 12 Sec. A 2}  ((1 line unclear))  my well-wisher …… my malefactor.
+@(A.12.a16.29 = 29-30)  @note{= Alster 1997 12 Sec. A 2}  @gap{1 line unclear}  my well-wisher …… my malefactor.
 
 #lg 12.a17	proverb
 
@@ -82,16 +82,16 @@
 
 #lg 12.a19	proverb
 
-@(A.12.a19.33 = 33-37)  @note{= Alster 1997 12 Sec. A 5} …… in order to make an agreement with …… his fool …… I will tell him ……  ((2 lines fragmentary)) 
+@(A.12.a19.33 = 33-37)  @note{= Alster 1997 12 Sec. A 5} …… in order to make an agreement with …… his fool …… I will tell him ……  @gap{2 lines fragmentary} 
 
 #lg 12.a20	proverb
 
-@(A.12.a20.38 = 38-39)  @note{= Alster 1997 12 Sec. A 6} …… not having ……  ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(A.12.a20.38 = 38-39)  @note{= Alster 1997 12 Sec. A 6} …… not having ……  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 12.b1	proverb
 
-@(B.12.b1.1 = 1)  @note{= Alster 1997 12 Sec. C 1}  ((1 line fragmentary)) 
+@(B.12.b1.1 = 1)  @note{= Alster 1997 12 Sec. C 1}  @gap{1 line fragmentary} 
 
 #lg 12.b2	proverb
 
@@ -119,7 +119,7 @@
 
 #lg 12.b8	proverb
 
-@(B.12.b8.13 = 13-14)  @note{= Alster 1997 12 Sec. C 8} A man who stole (?) …… cattle  ((1 line unclear)) 
+@(B.12.b8.13 = 13-14)  @note{= Alster 1997 12 Sec. C 8} A man who stole (?) …… cattle  @gap{1 line unclear} 
 
 #lg 12.b9	proverb
 
@@ -127,11 +127,11 @@
 
 #lg 12.b10	proverb
 
-@(B.12.b10.17 = 17-18)  @note{= Alster 1997 12 Sec. C 10}  ((2 lines fragmentary)) 
+@(B.12.b10.17 = 17-18)  @note{= Alster 1997 12 Sec. C 10}  @gap{2 lines fragmentary} 
 
 #lg 12.b11	proverb
 
-@(B.12.b11.19 = 19)  @note{= Alster 1997 12 Sec. C 11} The wise man ……  ((unknown no. of lines missing)) 
+@(B.12.b11.19 = 19)  @note{= Alster 1997 12 Sec. C 11} The wise man ……  @gap{unknown no. of lines missing} 
 
 
 #lg 12.c1	proverb
@@ -164,16 +164,16 @@
 
 #lg 12.c8	proverb
 
-@(C.12.c8.15 = 15)  @note{= Alster 1997 12 Sec. D 7}  ((1 line fragmentary)) 
+@(C.12.c8.15 = 15)  @note{= Alster 1997 12 Sec. D 7}  @gap{1 line fragmentary} 
 
 #lg 12.c9	proverb
 
-@(C.12.c9.16 = 16)  @note{= Alster 1997 12 Sec. D 8}  ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(C.12.c9.16 = 16)  @note{= Alster 1997 12 Sec. D 8}  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 12.d1	proverb
 
-@(D.12.d1.1 = 1-2)  @note{= Alster 1997 12 Sec. E 1}  ((2 lines fragmentary)) 
+@(D.12.d1.1 = 1-2)  @note{= Alster 1997 12 Sec. E 1}  @gap{2 lines fragmentary} 
 
 #lg 12.d2	proverb
 
@@ -181,19 +181,19 @@
 
 #lg 12.d3	proverb
 
-@(D.12.d3.5 = 5-6)  @note{= Alster 1997 12 Sec. E 3; cf. @xref[t.6.2.3,t623.h67]{6.2.3: UET 6/2 282 and UET 6/2 332}} A wild ram …… a poplar …….  ((unknown no. of lines missing)) 
+@(D.12.d3.5 = 5-6)  @note{= Alster 1997 12 Sec. E 3; cf. @xref[t.6.2.3,t623.h67]{6.2.3: UET 6/2 282 and UET 6/2 332}} A wild ram …… a poplar …….  @gap{unknown no. of lines missing} 
 
 
 #lg 12.e1	proverb
 
-@(E.12.e1.1 = 1-6)  @note{= Alster 1997 12 Sec. F 1}  ((6 lines fragmentary)) 
+@(E.12.e1.1 = 1-6)  @note{= Alster 1997 12 Sec. F 1}  @gap{6 lines fragmentary} 
 
 
 $ (unplaced)
 
 #lg 12.f1	proverb
 
-@(F.12.f1.1 = 1)  @note{= Alster 1997 p. 205 CBS 7800 rev. 1}  ((1 line fragmentary)) 
+@(F.12.f1.1 = 1)  @note{= Alster 1997 p. 205 CBS 7800 rev. 1}  @gap{1 line fragmentary} 
 
 #lg 12.f2	proverb
 

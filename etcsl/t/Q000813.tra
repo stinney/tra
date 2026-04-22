@@ -11,28 +11,28 @@ $ (= Alster 1997 p. 260 Ni 3206)
 $ (unknown no. of lines missing)
 #lg 21.a1	proverb
 
-@(A.21.a1.1 = 1)   ((3 lines fragmentary))   ((2 lines missing)) 
+@(A.21.a1.1 = 1)   @gap{3 lines fragmentary}   @gap{2 lines missing} 
 
 #lg 21.a4	proverb
 
-@(A.21.a4.6 = 6-7)   ((2 lines fragmentary)) 
+@(A.21.a4.6 = 6-7)   @gap{2 lines fragmentary} 
 
 #lg 21.a5	proverb
 
-@(A.21.a5.8 = 8)   ((1 line fragmentary)) 
+@(A.21.a5.8 = 8)   @gap{1 line fragmentary} 
 
 #lg 21.a6	proverb
 
-@(A.21.a6.9 = 9-10)   ((2 lines fragmentary))   ((unknown no. of lines missing)) 
+@(A.21.a6.9 = 9-10)   @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 21.b1	proverb
 
-@(B.21.b1.1 = 1)  @note{= Alster 1997 21 Sec. B 1}  ((1 line fragmentary)) 
+@(B.21.b1.1 = 1)  @note{= Alster 1997 21 Sec. B 1}  @gap{1 line fragmentary} 
 
 #lg 21.b2	proverb
 
-@(B.21.b2.2 = 2-4)  @note{= Alster 1997 21 Sec. B 2}  ((1 line missing))   ((2 lines fragmentary)) 
+@(B.21.b2.2 = 2-4)  @note{= Alster 1997 21 Sec. B 2}  @gap{1 line missing}   @gap{2 lines fragmentary} 
 
 #lg 21.b3	proverb
 
@@ -44,7 +44,7 @@ $ (unknown no. of lines missing)
 
 #lg 21.b5	proverb
 
-@(B.21.b5.8 = 8)  @note{= Alster 1997 21 Sec. B 5; cf. @xref[t.6.1.09,t.6.1.09.a13]{6.1.09.a13}, @xref[t.6.1.19,t.6.1.19.b2]{6.1.19.b2}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 3-4}} As the piglet snuffles around, it says @q{“…….”}  ((unknown no. of lines missing)) 
+@(B.21.b5.8 = 8)  @note{= Alster 1997 21 Sec. B 5; cf. @xref[t.6.1.09,t.6.1.09.a13]{6.1.09.a13}, @xref[t.6.1.19,t.6.1.19.b2]{6.1.19.b2}, @xref[t.6.1.24,t.6.1.24.2]{6.1.24.2}, @xref[t.6.2.5,]{6.2.5: YBC 4677 ll. 3-4}} As the piglet snuffles around, it says @q{“…….”}  @gap{unknown no. of lines missing} 
 
 
 #lg 21.c1	proverb
@@ -109,12 +109,12 @@ $ (unknown no. of lines missing)
 
 #lg 21.c16	proverb
 
-@(C.21.c16.x = 34-48)  @note{= Alster 1997 21 Sec. A 16; cf. @xref[t.6.1.09,t.6.1.09.b4]{6.1.09.b4}, @xref[t.6.1.09,t.6.1.09.b5]{6.1.09.b5-8}; edited separately as 5.6.8 The lazy slave girl}  ((unknown no. of lines missing)) 
+@(C.21.c16.x = 34-48)  @note{= Alster 1997 21 Sec. A 16; cf. @xref[t.6.1.09,t.6.1.09.b4]{6.1.09.b4}, @xref[t.6.1.09,t.6.1.09.b5]{6.1.09.b5-8}; edited separately as 5.6.8 The lazy slave girl}  @gap{unknown no. of lines missing} 
 
 
 #lg 21.d1	proverb
 
-@(D.21.d1.1 = 1)  @note{= Alster 1997 21 Sec. D 1}  ((1 line fragmentary)) 
+@(D.21.d1.1 = 1)  @note{= Alster 1997 21 Sec. D 1}  @gap{1 line fragmentary} 
 
 #lg 21.d2	proverb
 
@@ -126,29 +126,29 @@ $ (unknown no. of lines missing)
 
 #lg 21.d4	proverb
 
-@(D.21.d4.8 = 8-9)  @note{= Alster 1997 21 Sec. D 4} A field, whose owner, a friend of a lamentation priest, ……  ((1 line fragmentary)) 
+@(D.21.d4.8 = 8-9)  @note{= Alster 1997 21 Sec. D 4} A field, whose owner, a friend of a lamentation priest, ……  @gap{1 line fragmentary} 
 
 
 $ (= Alster 1997 p. 260 UM 29-13-264a; unplaced; belongs somewhere after 21.c5)
 
 #lg 21.e1	proverb
 
-@(E.21.e1.1 = 1-3)   ((3 lines fragmentary)) 
+@(E.21.e1.1 = 1-3)   @gap{3 lines fragmentary} 
 
 #lg 21.e2	proverb
 
-@(E.21.e2.4 = 4-8)   ((5 lines fragmentary)) 
+@(E.21.e2.4 = 4-8)   @gap{5 lines fragmentary} 
 
 #lg 21.e3	proverb
 
-@(E.21.e3.9 = 9-11)   ((3 lines fragmentary)) 
+@(E.21.e3.9 = 9-11)   @gap{3 lines fragmentary} 
 
 
 $ (= Alster 1997 p. 260 N 7918; unplaced; may not belong in collection 21)
 
 #lg 21.f1	proverb
 
-@(F.21.f1.1 = 1-4)   ((4 lines fragmentary)) 
+@(F.21.f1.1 = 1-4)   @gap{4 lines fragmentary} 
 
 
 

@@ -84,12 +84,12 @@
 
 #lg 4.20	proverb
 
-@(A.4.20.28 = 28)   ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(A.4.20.28 = 28)   @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 4.41	proverb
 
-@(B.4.41.1 = 1-4)   ((1 line fragmentary))  in order to cross …… when he lifts it up ……: @q{“The weapon will take care of the oxen rent for me!”}
+@(B.4.41.1 = 1-4)   @gap{1 line fragmentary}  in order to cross …… when he lifts it up ……: @q{“The weapon will take care of the oxen rent for me!”}
 
 #lg 4.42	proverb
 
@@ -133,7 +133,7 @@
 
 #lg 4.52	proverb
 
-@(B.4.52.23 = 23-24)   ((1 line unclear))  Let my gifts never cease (?) in the presence of his god.
+@(B.4.52.23 = 23-24)   @gap{1 line unclear}  Let my gifts never cease (?) in the presence of his god.
 
 #lg 4.53	proverb
 

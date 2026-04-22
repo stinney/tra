@@ -7,11 +7,11 @@
 
 #lg 13.1	proverb
 
-@(13.1.1 = 1)   ((1 line fragmentary)) 
+@(13.1.1 = 1)   @gap{1 line fragmentary} 
 
 #lg 13.2	proverb
 
-@(13.2.2 = 2)   ((1 line fragmentary)) 
+@(13.2.2 = 2)   @gap{1 line fragmentary} 
 
 #lg 13.3	proverb
 
@@ -119,24 +119,24 @@
 
 #lg 13.29	proverb
 
-@(13.29.50 = 50-52)  @note{cf. @xref[t.6.1.09,t.6.1.09.d3]{6.1.09.d3}, @xref[t.6.1.19,t.6.1.19.e3]{6.1.19.e3}, @xref[t.6.2.3,]{6.2.3: UET 6/3 464 l. 3}} {  ((3 lines fragmentary))  }  {@note{1 ms. has instead:}  ((1 line fragmentary))  } 
+@(13.29.50 = 50-52)  @note{cf. @xref[t.6.1.09,t.6.1.09.d3]{6.1.09.d3}, @xref[t.6.1.19,t.6.1.19.e3]{6.1.19.e3}, @xref[t.6.2.3,]{6.2.3: UET 6/3 464 l. 3}} {  @gap{3 lines fragmentary}  }  {@note{1 ms. has instead:}  @gap{1 line fragmentary}  } 
 
 
 #lg 13.30	proverb
 
-@(13.30.53 = 53)   ((1 line fragmentary)) 
+@(13.30.53 = 53)   @gap{1 line fragmentary} 
 
 #lg 13.31	proverb
 
-@(13.31.54 = 54-55)   ((2 lines fragmentary)) 
+@(13.31.54 = 54-55)   @gap{2 lines fragmentary} 
 
 #lg 13.32	proverb
 
-@(13.32.56 = 56)   ((1 line fragmentary)) 
+@(13.32.56 = 56)   @gap{1 line fragmentary} 
 
 #lg 13.33	proverb
 
-@(13.33.57 = 57)   ((1 line fragmentary)) 
+@(13.33.57 = 57)   @gap{1 line fragmentary} 
 
 #lg 13.34	proverb
 
@@ -226,19 +226,19 @@
 
 #lg 13.55	proverb
 
-@(13.55.97 = 97)   ((1 line fragmentary)) 
+@(13.55.97 = 97)   @gap{1 line fragmentary} 
 
 #lg 13.56	proverb
 
-@(13.56.98 = 98)   ((1 line fragmentary)) 
+@(13.56.98 = 98)   @gap{1 line fragmentary} 
 
 #lg 13.57	proverb
 
-@(13.57.99 = 99-101)  They treated an immigrant badly.  ((1 line fragmentary))  It is an abomination to @wDN{Ninurta}.
+@(13.57.99 = 99-101)  They treated an immigrant badly.  @gap{1 line fragmentary}  It is an abomination to @wDN{Ninurta}.
 
 #lg 13.58	proverb
 
-@(13.58.102 = 102)   ((1 line fragmentary)) 
+@(13.58.102 = 102)   @gap{1 line fragmentary} 
 
 #lg 13.59	proverb
 

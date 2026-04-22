@@ -78,12 +78,12 @@ $ (1 ms. adds 4 proverbs:)
 
 #lg 5.18	proverb
 
-@(A.5.18.18 = 18-19)  The ox …….  ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(A.5.18.18 = 18-19)  The ox …….  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 5.25	proverb
 
-@(B.5.25.1 = 1-2)  The ox ……  ((1 line fragmentary)) 
+@(B.5.25.1 = 1-2)  The ox ……  @gap{1 line fragmentary} 
 
 #lg 5.26	proverb
 
@@ -115,7 +115,7 @@ $ (1 ms. adds 4 proverbs:)
 
 #lg 5.33	proverb
 
-@(B.5.33.10 = 10)   ((1 line fragmentary)) 
+@(B.5.33.10 = 10)   @gap{1 line fragmentary} 
 
 #lg 5.34	proverb
 
@@ -143,7 +143,7 @@ $ (1 ms. adds 4 proverbs:)
 
 #lg 5.40	proverb
 
-@(B.5.40.24 = 24)  The donkey …….  ((unknown no. of lines missing)) 
+@(B.5.40.24 = 24)  The donkey …….  @gap{unknown no. of lines missing} 
 
 
 #lg 5.41	proverb
@@ -188,9 +188,7 @@ $ (1 ms. adds 4 proverbs:)
 
 #lg 5.51	proverb
 
-@(C.5.51.18 = 18-22)  A sick donkey went up ……: @q{“How long have you not felt well? If until now you have not felt well, …… there is a canal inspector ……. Let him come to you, and your bones will feel well again.
-
-$ (unknown no. of lines missing)”}
+@(C.5.51.18 = 18-22)  A sick donkey went up ……: @q{“How long have you not felt well? If until now you have not felt well, …… there is a canal inspector ……. Let him come to you, and your bones will feel well again.  @gap{unknown no. of lines missing} ”}
 
 
 #lg 5.52	proverb
@@ -260,7 +258,7 @@ $ (unknown no. of lines missing)”}
 
 #lg 5.x1	proverb
 
-@(D.5.x1.34 = 34-35)  @note{= Alster 1997 5 Vers. A 69}  ((1 line missing))  you drink water …….
+@(D.5.x1.34 = 34-35)  @note{= Alster 1997 5 Vers. A 69}  @gap{1 line missing}  you drink water …….
 
 #lg 5.x2	proverb
 
@@ -288,7 +286,7 @@ $ (unknown no. of lines missing)”}
 
 #lg 5.x8	proverb
 
-@(D.5.x8.55 = 55)  @note{= Alster 1997 p. 133 P i 10'}  ((1 line fragmentary)) 
+@(D.5.x8.55 = 55)  @note{= Alster 1997 p. 133 P i 10'}  @gap{1 line fragmentary} 
 
 #lg 5.x9	proverb
 
@@ -340,9 +338,7 @@ $ (unknown no. of lines missing)”}
 
 #lg 5.82	proverb
 
-@(D.5.82.83 = 83-84)  The dog  {wags his tongue (?) at a millstone }  {@note{1 ms. has instead:} …… licks his tongue } , and says to his companion: @q{“$ (1 ms. adds:)
- It is an omen from heaven!
- Let me clothe you in the lid of a measuring bowl!”}
+@(D.5.82.83 = 83-84)  The dog  {wags his tongue (?) at a millstone }  {@note{1 ms. has instead:} …… licks his tongue } , and says to his companion: @q{“{@note{1 ms. adds:} It is an omen from heaven! }  Let me clothe you in the lid of a measuring bowl!”}
 
 
 #lg 5.83	proverb
@@ -363,15 +359,15 @@ $ (unknown no. of lines missing)”}
 
 #lg 5.87	proverb
 
-@(D.5.87.93 = 93-94)  A dog ……  ((1 line fragmentary)) 
+@(D.5.87.93 = 93-94)  A dog ……  @gap{1 line fragmentary} 
 
 #lg 5.88	proverb
 
-@(D.5.88.95 = 95-99)  When the dog goes out into an orchard to get dates, the owner of the orchard chases him away. The thief …… goes out …… dates.  ((1 line fragmentary)) 
+@(D.5.88.95 = 95-99)  When the dog goes out into an orchard to get dates, the owner of the orchard chases him away. The thief …… goes out …… dates.  @gap{1 line fragmentary} 
 
 #lg 5.89	proverb
 
-@(D.5.89.100 = 100-101)  A dog ……  ((1 line fragmentary)) 
+@(D.5.89.100 = 100-101)  A dog ……  @gap{1 line fragmentary} 
 
 #lg 5.90	proverb
 
@@ -379,7 +375,7 @@ $ (unknown no. of lines missing)”}
 
 #lg 5.91	proverb
 
-@(D.5.91.103 = 103-104)  A dog ……  ((1 line fragmentary)) 
+@(D.5.91.103 = 103-104)  A dog ……  @gap{1 line fragmentary} 
 
 #lg 5.92	proverb
 
@@ -427,7 +423,7 @@ $ (unknown no. of lines missing)”}
 
 #lg 5.103	proverb
 
-@(D.5.103.126 = 126-128)  The dog …… winter ……:  ((1 line fragmentary))  @q{“The start of summer will tease my nose!”}
+@(D.5.103.126 = 126-128)  The dog …… winter ……:  @gap{1 line fragmentary}  @q{“The start of summer will tease my nose!”}
 
 #lg 5.104	proverb
 
@@ -518,11 +514,11 @@ $ (unplaced)
 
 #lg 5.e1	proverb
 
-@(E.5.e1.1 = 1)  @note{= Alster 1997 p. 121 D i 1 = Gordon 1958 5.19}  ((1 line fragmentary)) 
+@(E.5.e1.1 = 1)  @note{= Alster 1997 p. 121 D i 1 = Gordon 1958 5.19}  @gap{1 line fragmentary} 
 
 #lg 5.e2	proverb
 
-@(E.5.e2.2 = 2-3)  @note{= Alster 1997 p. 121 D i 2 = Gordon 1958 5.20}  ((2 lines fragmentary)) 
+@(E.5.e2.2 = 2-3)  @note{= Alster 1997 p. 121 D i 2 = Gordon 1958 5.20}  @gap{2 lines fragmentary} 
 
 
 

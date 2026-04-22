@@ -102,11 +102,11 @@
 
 #lg 1.24	proverb
 
-@(A.1.24.31 = 31)   ((1 line fragmentary)) 
+@(A.1.24.31 = 31)   @gap{1 line fragmentary} 
 
 #lg 1.25	proverb
 
-@(A.1.25.32 = 32)   ((1 line unclear)) 
+@(A.1.25.32 = 32)   @gap{1 line unclear} 
 
 #lg 1.26	proverb
 
@@ -246,32 +246,32 @@
 
 #lg 1.59	proverb
 
-@(A.1.59.79 = 79-80)  For morsels of bread and fine onions, ……  ((1 line fragmentary)) 
+@(A.1.59.79 = 79-80)  For morsels of bread and fine onions, ……  @gap{1 line fragmentary} 
 
 #lg 1.60	proverb
 
-@(A.1.60.81 = 81)   ((1 line fragmentary)) 
+@(A.1.60.81 = 81)   @gap{1 line fragmentary} 
 
 #lg 1.61	proverb
 
-@(A.1.61.82 = 82)   ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(A.1.61.82 = 82)   @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 1.62	proverb
 
-@(B.1.62.1 = 1-5)   ((5 lines fragmentary)) 
+@(B.1.62.1 = 1-5)   @gap{5 lines fragmentary} 
 
 #lg 1.63	proverb
 
-@(B.1.63.6 = 6-7)   ((2 lines fragmentary)) 
+@(B.1.63.6 = 6-7)   @gap{2 lines fragmentary} 
 
 #lg 1.64	proverb
 
-@(B.1.64.8 = 8-9)   ((2 lines fragmentary)) 
+@(B.1.64.8 = 8-9)   @gap{2 lines fragmentary} 
 
 #lg 1.64A	proverb
 
-@(B.1.64A.10 = 10-11)   ((2 lines fragmentary)) 
+@(B.1.64A.10 = 10-11)   @gap{2 lines fragmentary} 
 
 #lg 1.65	proverb
 
@@ -299,7 +299,7 @@
 
 #lg 1.71	proverb
 
-@(B.1.71.20 = 20)   ((1 line fragmentary)) 
+@(B.1.71.20 = 20)   @gap{1 line fragmentary} 
 
 #lg 1.72	proverb
 
@@ -392,7 +392,7 @@
 
 #lg 1.94	proverb
 
-@(B.1.94.54 = 54-55)   ((2 lines fragmentary)) 
+@(B.1.94.54 = 54-55)   @gap{2 lines fragmentary} 
 
 #lg 1.95	proverb
 
@@ -457,11 +457,11 @@
 
 #lg 1.110	proverb
 
-@(B.1.110.86 = 86)   ((1 line fragmentary)) 
+@(B.1.110.86 = 86)   @gap{1 line fragmentary} 
 
 #lg 1.111	proverb
 
-@(B.1.111.87 = 87-88)   ((2 lines fragmentary)) 
+@(B.1.111.87 = 87-88)   @gap{2 lines fragmentary} 
 
 #lg 1.112	proverb
 
@@ -469,15 +469,15 @@
 
 #lg 1.113	proverb
 
-@(B.1.113.90 = 90)   ((1 line unclear)) 
+@(B.1.113.90 = 90)   @gap{1 line unclear} 
 
 #lg 1.114	proverb
 
-@(B.1.114.91 = 91)   ((1 line fragmentary)) 
+@(B.1.114.91 = 91)   @gap{1 line fragmentary} 
 
 #lg 1.115	proverb
 
-@(B.1.115.92 = 92)   ((1 line fragmentary)) 
+@(B.1.115.92 = 92)   @gap{1 line fragmentary} 
 
 #lg 1.116	proverb
 
@@ -489,20 +489,20 @@
 
 #lg 1.118	proverb
 
-@(B.1.118.95 = 95)   ((1 line fragmentary)) 
+@(B.1.118.95 = 95)   @gap{1 line fragmentary} 
 
 #lg 1.119	proverb
 
-@(B.1.119.96 = 96)   ((1 line fragmentary)) 
+@(B.1.119.96 = 96)   @gap{1 line fragmentary} 
 
 #lg 1.120	proverb
 
-@(B.1.120.97 = 97-98)  …… in their backside …… something …….  ((unknown no. of lines missing)) 
+@(B.1.120.97 = 97-98)  …… in their backside …… something …….  @gap{unknown no. of lines missing} 
 
 
 #lg 1.124	proverb
 
-@(C.1.124.1 = 1-2)   ((2 lines fragmentary)) 
+@(C.1.124.1 = 1-2)   @gap{2 lines fragmentary} 
 
 #lg 1.125	proverb
 
@@ -514,7 +514,7 @@
 
 #lg 1.127	proverb
 
-@(C.1.127.7 = 7-8)  {…… pleasing …… divorce ……. }  {@note{1 ms. has instead:}  ((2 lines fragmentary))  } 
+@(C.1.127.7 = 7-8)  {…… pleasing …… divorce ……. }  {@note{1 ms. has instead:}  @gap{2 lines fragmentary}  } 
 
 #lg 1.128	proverb
 
@@ -522,12 +522,12 @@
 
 #lg 1.129	proverb
 
-@(C.1.129.14 = 14-15)   ((2 lines fragmentary))   ((unknown no. of lines missing)) 
+@(C.1.129.14 = 14-15)   @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 1.140	proverb
 
-@(D.1.140.1 = 1)   ((1 line fragmentary)) 
+@(D.1.140.1 = 1)   @gap{1 line fragmentary} 
 
 #lg 1.141	proverb
 
@@ -639,7 +639,7 @@
 
 #lg 1.168	proverb
 
-@(D.1.168.57 = 57-58)   ((2 lines fragmentary)) 
+@(D.1.168.57 = 57-58)   @gap{2 lines fragmentary} 
 
 #lg 1.169	proverb
 
@@ -651,7 +651,7 @@
 
 #lg 1.171	proverb
 
-@(D.1.171.63 = 63-64)   ((2 lines fragmentary)) 
+@(D.1.171.63 = 63-64)   @gap{2 lines fragmentary} 
 
 #lg 1.172	proverb
 
@@ -659,7 +659,7 @@
 
 #lg 1.173	proverb
 
-@(D.1.173.67 = 67-69)  A sheep …… to her girl friend ……  ((1 line fragmentary)) 
+@(D.1.173.67 = 67-69)  A sheep …… to her girl friend ……  @gap{1 line fragmentary} 
 
 #lg 1.174	proverb
 
@@ -683,11 +683,11 @@
 
 #lg 1.179	proverb
 
-@(D.1.179.81 = 81-82)   ((1 line fragmentary))  …… drinking …….
+@(D.1.179.81 = 81-82)   @gap{1 line fragmentary}  …… drinking …….
 
 #lg 1.180	proverb
 
-@(D.1.180.83 = 83)  …… pleasant thing …….  ((approx. 2 lines missing)) 
+@(D.1.180.83 = 83)  …… pleasant thing …….  @gap{approx. 2 lines missing} 
 
 #lg 1.183	proverb
 
@@ -746,19 +746,19 @@
 
 #lg 1.197	proverb
 
-@(D.1.197.114 = 114-118)  In the darkness …… painted (?)  ((1 line fragmentary))  someone …… attractiveness …….
+@(D.1.197.114 = 114-118)  In the darkness …… painted (?)  @gap{1 line fragmentary}  someone …… attractiveness …….
 
 #lg 1.198	proverb
 
-@(D.1.198.119 = 119-123)  A daughter-in-law ……  ((3 lines fragmentary))  girl …….
+@(D.1.198.119 = 119-123)  A daughter-in-law ……  @gap{3 lines fragmentary}  girl …….
 
 #lg 1.199	proverb
 
-@(D.1.199.124 = 124-128)   ((5 lines fragmentary)) 
+@(D.1.199.124 = 124-128)   @gap{5 lines fragmentary} 
 
 #lg 1.200	proverb
 
-@(D.1.200.129 = 129-131)   ((3 lines fragmentary)) 
+@(D.1.200.129 = 129-131)   @gap{3 lines fragmentary} 
 
 #lg 1.201	proverb
 
@@ -766,21 +766,21 @@
 
 #lg 1.202	proverb
 
-@(D.1.202.136 = 136-140)   ((3 lines fragmentary))  …… don't cover the …… with your hand.
+@(D.1.202.136 = 136-140)   @gap{3 lines fragmentary}  …… don't cover the …… with your hand.
 
 
 $ (unplaced)
 
 #lg 1.e1	proverb
 
-@(E.1.e1.1 = 1-4)  @note{= Alster 1997 p. 26 YY}  ((4 lines fragmentary)) 
+@(E.1.e1.1 = 1-4)  @note{= Alster 1997 p. 26 YY}  @gap{4 lines fragmentary} 
 
 
 $ (unplaced)
 
 #lg 1.f1	proverb
 
-@(F.1.f1.1 = 1-3)  @note{= Alster 1997 p. 16 Y}  ((3 lines fragmentary)) 
+@(F.1.f1.1 = 1-3)  @note{= Alster 1997 p. 16 Y}  @gap{3 lines fragmentary} 
 
 
 $ (unplaced)
@@ -795,11 +795,11 @@ $ (unplaced)
 
 #lg 1.g3	proverb
 
-@(G.1.g3.5 = 5-6)  @note{= Alster 1997 p. 6 AA 5-6, N 5138 1-2}  ((1 line fragmentary))  mix …….
+@(G.1.g3.5 = 5-6)  @note{= Alster 1997 p. 6 AA 5-6, N 5138 1-2}  @gap{1 line fragmentary}  mix …….
 
 #lg 1.g4	proverb
 
-@(G.1.g4.7 = 7-8)  @note{= Alster 1997 p. 6 N 5138 3-4} Let there be ……  ((1 line fragmentary)) 
+@(G.1.g4.7 = 7-8)  @note{= Alster 1997 p. 6 N 5138 3-4} Let there be ……  @gap{1 line fragmentary} 
 
 
 

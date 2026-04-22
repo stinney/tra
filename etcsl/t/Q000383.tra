@@ -13,7 +13,7 @@
 
 $ (beginning of 1st @fsux{kirugu})
 
-@(1.A.A.5 = 1-10)  ((4 lines missing))  The roaring storm covered it like a cloak, was spread over it like a sheet. It covered @wSN{Eridug} like a cloak, was spread over it like a sheet. In the city, the furious storm resounded ……. In @wSN{Eridug}, the furious storm resounded ……. Its voice was smothered with silence as by a gale. Its people ……. @wSN{Eridug} was smothered with silence as by a gale. Its people …….
+@(1.A.A.5 = 1-10)  @gap{4 lines missing}  The roaring storm covered it like a cloak, was spread over it like a sheet. It covered @wSN{Eridug} like a cloak, was spread over it like a sheet. In the city, the furious storm resounded ……. In @wSN{Eridug}, the furious storm resounded ……. Its voice was smothered with silence as by a gale. Its people ……. @wSN{Eridug} was smothered with silence as by a gale. Its people …….
 
 @(1.A.A.11 = 11-18) Its king stayed outside his city as if it were an alien city. He wept bitter tears. Father @wDN{Enki} stayed outside his city as if it were an alien city. He wept bitter tears. For the sake of his harmed city, he wept bitter tears. Its lady, like a flying bird, left her city. The mother of @wTN{E-maḫ}, holy @wDN{Damgalnuna}, left her city. The divine powers of the city of holiest divine powers were overturned. The divine powers of the rites of the greatest divine powers were altered. In @wSN{Eridug} everything was reduced to ruin, was wrought with confusion.
 
@@ -37,7 +37,7 @@ $ (beginning of 1st @fsux{kirugu})
 #lg C	kirugu
 
 
-@(1.A.C.30 = 30-37) A second time the storm destroyed the city -- its song was plaintive. …… was trampled (?). …… intensified the lament. It cut the lock from its main gate. The storm dislodged its door. …… It stacked the people up in heaps. …… on its own destroyed it. It turned …… into tears. …… defiled ……  ((1 line missing)) 
+@(1.A.C.30 = 30-37) A second time the storm destroyed the city -- its song was plaintive. …… was trampled (?). …… intensified the lament. It cut the lock from its main gate. The storm dislodged its door. …… It stacked the people up in heaps. …… on its own destroyed it. It turned …… into tears. …… defiled ……  @gap{1 line missing} 
 
 @(1.A.C.39 = 39-47) …… It distorted its appearance. …… It distorted its appearance. It circled its …… wall. It overturned its foundations. Throughout his city, the pure, radiant (?) place, the foundations were filled with dust. It cast down its ziggurat, the shrine which reaches up to heaven, into a heap of debris. The loftiness of its elevated door-ornament, befitting a house, was stripped down (?). It cut down the gate, its Great-Ziggurat-of-Heaven-and-Earth-Covered-with-Terrible-Awesomeness, its shining door, and it broke through its bolt. It ripped out its doorframe. The house was defaced.
 
@@ -73,7 +73,7 @@ $ (beginning of 1st @fsux{kirugu})
 #lg F	jicgijal
 
 
-@(1.A.F.75 = 75-76)  ((2 lines fragmentary)) 
+@(1.A.F.75 = 75-76)  @gap{2 lines fragmentary} 
 
 #trailer rubric	jicgijal
 
@@ -83,7 +83,7 @@ $ (beginning of 1st @fsux{kirugu})
 #lg G	kirugu
 
 
-@(1.A.G.78 = 78-99) …… distressed and anxious …… like a pigeon …….  ((1 line fragmentary))  The birds of the destroyed city …… a nest. The @fsux{ukuku} bird, bird of heart's sorrow, …… the place. Pain ……. The area became entangled in wild thornbushes. It …… wild thornbushes. The @wEN{Šimaškians} and @wEN{Elamites}, the destroyers, looked at the holy kettles which no one may look at. In the House of @wDN{Nisaba's} Wisdom, the house of understanding, …… covered over ……. The divine powers which embellish the @wTN{Abzu} ……. When the holy treasures stored in the treasury were put ……, when, like a mist lying heavily on the earth, ……, they went like small birds shooed from their hiding places.  ((7 lines fragmentary))   ((unknown no. of lines missing)) 
+@(1.A.G.78 = 78-99) …… distressed and anxious …… like a pigeon …….  @gap{1 line fragmentary}  The birds of the destroyed city …… a nest. The @fsux{ukuku} bird, bird of heart's sorrow, …… the place. Pain ……. The area became entangled in wild thornbushes. It …… wild thornbushes. The @wEN{Šimaškians} and @wEN{Elamites}, the destroyers, looked at the holy kettles which no one may look at. In the House of @wDN{Nisaba's} Wisdom, the house of understanding, …… covered over ……. The divine powers which embellish the @wTN{Abzu} ……. When the holy treasures stored in the treasury were put ……, when, like a mist lying heavily on the earth, ……, they went like small birds shooed from their hiding places.  @gap{7 lines fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg G	kirugu
@@ -114,7 +114,7 @@ $ (continuation of 4th @fsux{kirugu})
 
 @(1.B.I.5 = 5-9) Because of this, @wDN{Enki}, king of the @fsux{abzu}, stayed outside his city as if it were an alien city. It bowed its neck down to the ground. @wSN{Eridu's} lady, holy @wDN{Damgalnuna}, the faithful cow, the compassionate one, clawed at her breast, clawed at her eyes. She uttered a frenzied cry. She held a dagger and a sword in her two hands -- they clashed together.
 
-@(1.B.I.10 = 10-15) She tore out her hair like rushes, uttering a bitter lament: @q[Damgalnuna,Eridug]{“You, my city whose woman does not dwell there, whose charms do not satisfy her -- where is a lament uttered bitterly for you? @wSN{Eridug}! You, my city whose woman does not dwell there, whose charms do not satisfy her -- where are tears wept for you? I fall like a bull in your lofty …… falls ……. I am ……. My heart …… queen …….”}  ((unknown no. of lines missing))  @notegap{incorporating end of 5th @fsux{kirugu}}
+@(1.B.I.10 = 10-15) She tore out her hair like rushes, uttering a bitter lament: @q[Damgalnuna,Eridug]{“You, my city whose woman does not dwell there, whose charms do not satisfy her -- where is a lament uttered bitterly for you? @wSN{Eridug}! You, my city whose woman does not dwell there, whose charms do not satisfy her -- where are tears wept for you? I fall like a bull in your lofty …… falls ……. I am ……. My heart …… queen …….”}  @gap{unknown no. of lines missing}  @notegap{incorporating end of 5th @fsux{kirugu}}
 
 
 #lg J	kirugu
@@ -122,7 +122,7 @@ $ (continuation of 4th @fsux{kirugu})
 
 $ (continuation of 6th @fsux{kirugu})
 
-@(1.C.J.1 = 1-8)  ((1 line fragmentary))  …… far away …… the great gods. Lord @wDN{Enlil}, king of the lands, looked maliciously at @wGN{Sumer}. He demolished it. He destroyed the @wTN{Ki-ur}, the great place. He razed with the pickaxe all of the shining @wTN{E-kur}. He destroyed it but did not abandon it -- at the lunches, in his great dining hall, they call his name.
+@(1.C.J.1 = 1-8)  @gap{1 line fragmentary}  …… far away …… the great gods. Lord @wDN{Enlil}, king of the lands, looked maliciously at @wGN{Sumer}. He demolished it. He destroyed the @wTN{Ki-ur}, the great place. He razed with the pickaxe all of the shining @wTN{E-kur}. He destroyed it but did not abandon it -- at the lunches, in his great dining hall, they call his name.
 
 @(1.C.J.9 = 9-20) @wDN{Aruru}, the sister of @wDN{Enlil}, destroyed her city @wSN{Iri-saŋ-rig}. In @wSN{Keš}, the creation place of the Land, the people saw inside its holy sanctuary where daylight had been unknown. She destroyed it but did not abandon it -- at the lunches, in her great dining hall, they call her name. Lord @wDN{Nanna}, Lord @wDN{Ašimbabbar}, destroyed his city @wSN{Urim}. He decimated the Land with famine. He committed a sacrilege against the @wTN{E-kiš-nu-ŋal}. He struck at its heart. He destroyed it but did not abandon it -- at the lunches, in his great dining hall, they call his name.
 
@@ -172,7 +172,7 @@ $ (continuation of 6th @fsux{kirugu})
 #lg N	kirugu
 
 
-@(1.C.N.56 = 56-59) …… and may he restore it for you.  ((2 lines fragmentary))  Do not hide like a criminal …….
+@(1.C.N.56 = 56-59) …… and may he restore it for you.  @gap{2 lines fragmentary}  Do not hide like a criminal …….
 
 
 
@@ -186,7 +186,7 @@ $ (continuation of 6th @fsux{kirugu})
 
 @(2.A.A.6 = 6-7) At the @fsux{giguna} shrine, the sacred house, evildoers ……. The @wTN{E-unir} -- the shrine raises its head as high as heaven. Its shadow …….
 
-@(2.A.A.8 = 8-14) At the great gate, the lion-faced gate, the place where fates are determined, evildoers ……. They set fire to its door. @wDN{Ka-ḫeŋala} and @wDN{Igi-ḫeŋala}, the doorkeepers of the house, ……. …… @wDN{Enki}, at the …… place, …… its people. …… the destroyed place, the @wTN{Abzu} …… the powers of the @wDN{Anuna} gods.  ((3 lines fragmentary))   ((unknown no. of lines missing))  @notegap{continuation of 3rd @fsux{kirugu}}
+@(2.A.A.8 = 8-14) At the great gate, the lion-faced gate, the place where fates are determined, evildoers ……. They set fire to its door. @wDN{Ka-ḫeŋala} and @wDN{Igi-ḫeŋala}, the doorkeepers of the house, ……. …… @wDN{Enki}, at the …… place, …… its people. …… the destroyed place, the @wTN{Abzu} …… the powers of the @wDN{Anuna} gods.  @gap{3 lines fragmentary}   @gap{unknown no. of lines missing}  @notegap{continuation of 3rd @fsux{kirugu}}
 
 
 #lg A	kirugu

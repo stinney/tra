@@ -56,7 +56,7 @@ $ (unknown no. of lines missing)
 #lg E	unknown
 
 
-@(x = x)  ((unknown no. of lines missing)) 
+@(x = x)  @gap{unknown no. of lines missing} 
 
 
 

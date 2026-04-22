@@ -48,7 +48,7 @@
 
 #lg 9.a11	proverb
 
-@(A.9.a11.12 = 12-14)  No one can rival the wise man.  ((1 line fragmentary))  {  ((1 line fragmentary))  }  {@note{1 ms. has instead:} ……, let him be cut down. } 
+@(A.9.a11.12 = 12-14)  No one can rival the wise man.  @gap{1 line fragmentary}  {  @gap{1 line fragmentary}  }  {@note{1 ms. has instead:} ……, let him be cut down. } 
 
 
 #lg 9.a12	proverb
@@ -65,19 +65,19 @@
 
 #lg 9.a15	proverb
 
-@(A.9.a15.20 = 20)   ((1 line fragmentary)) 
+@(A.9.a15.20 = 20)   @gap{1 line fragmentary} 
 
 #lg 9.a16	proverb
 
-@(A.9.a16.21 = 21)   ((1 line fragmentary)) 
+@(A.9.a16.21 = 21)   @gap{1 line fragmentary} 
 
 #lg 9.a17	proverb
 
-@(A.9.a17.22 = 22)   ((1 line fragmentary)) 
+@(A.9.a17.22 = 22)   @gap{1 line fragmentary} 
 
 #lg 9.a18	proverb
 
-@(A.9.a18.23 = 23)   ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(A.9.a18.23 = 23)   @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 9.b1	proverb
@@ -118,29 +118,29 @@
 
 #lg 9.b10	proverb
 
-@(B.9.b10.18 = 18)  @note{= Alster 1997 9 Sec. B 8}  ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(B.9.b10.18 = 18)  @note{= Alster 1997 9 Sec. B 8}  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 9.c1	proverb
 
-@(C.9.c1.1 = 1)   ((1 line fragmentary)) 
+@(C.9.c1.1 = 1)   @gap{1 line fragmentary} 
 
 #lg 9.c2	proverb
 
-@(C.9.c2.2 = 2-3)   ((2 lines fragmentary)) 
+@(C.9.c2.2 = 2-3)   @gap{2 lines fragmentary} 
 
 #lg 9.c3	proverb
 
-@(C.9.c3.4 = 4-5)   ((2 lines fragmentary)) 
+@(C.9.c3.4 = 4-5)   @gap{2 lines fragmentary} 
 
 #lg 9.c4	proverb
 
-@(C.9.c4.6 = 6)   ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(C.9.c4.6 = 6)   @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 9.d1	proverb
 
-@(D.9.d1.1 = 1)   ((1 line fragmentary)) 
+@(D.9.d1.1 = 1)   @gap{1 line fragmentary} 
 
 #lg 9.d2	proverb
 
@@ -156,16 +156,16 @@
 
 #lg 9.d5	proverb
 
-@(D.9.d5.10 = 10)   ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(D.9.d5.10 = 10)   @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 9.e1	proverb
 
-@(E.9.e1.1 = 1-2)   ((1 line fragmentary))  …… his child …….
+@(E.9.e1.1 = 1-2)   @gap{1 line fragmentary}  …… his child …….
 
 #lg 9.e2	proverb
 
-@(E.9.e2.3 = 3-5)   ((1 line fragmentary))  …… spouse …… intelligence …….
+@(E.9.e2.3 = 3-5)   @gap{1 line fragmentary}  …… spouse …… intelligence …….
 
 #lg 9.e3	proverb
 
@@ -185,12 +185,12 @@
 
 #lg 9.e7	proverb
 
-@(E.9.e7.14 = 14)  Who can compare with humility? -- It is set in goodness.  ((unknown no. of lines missing)) 
+@(E.9.e7.14 = 14)  Who can compare with humility? -- It is set in goodness.  @gap{unknown no. of lines missing} 
 
 
 #lg 9.f1	proverb
 
-@(F.9.f1.1 = 1)   ((1 line fragmentary)) 
+@(F.9.f1.1 = 1)   @gap{1 line fragmentary} 
 
 #lg 9.f2	proverb
 
@@ -202,40 +202,40 @@
 
 #lg 9.f4	proverb
 
-@(F.9.f4.4 = 4)   ((1 line fragmentary)) 
+@(F.9.f4.4 = 4)   @gap{1 line fragmentary} 
 
 #lg 9.f5	proverb
 
-@(F.9.f5.5 = 5)   ((1 line fragmentary)) 
+@(F.9.f5.5 = 5)   @gap{1 line fragmentary} 
 
 #lg 9.f6	proverb
 
-@(F.9.f6.6 = 6)   ((1 line fragmentary)) 
+@(F.9.f6.6 = 6)   @gap{1 line fragmentary} 
 
 #lg 9.f7	proverb
 
-@(F.9.f7.7 = 7)   ((1 line fragmentary)) 
+@(F.9.f7.7 = 7)   @gap{1 line fragmentary} 
 
 #lg 9.f8	proverb
 
-@(F.9.f8.8 = 8)   ((1 line fragmentary)) 
+@(F.9.f8.8 = 8)   @gap{1 line fragmentary} 
 
 #lg 9.f9	proverb
 
-@(F.9.f9.9 = 9)   ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(F.9.f9.9 = 9)   @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 9.g1	proverb
 
-@(G.9.g1.1 = 1-2)  @note{= Alster 1997 p. 187 N 4304 1'}  ((2 lines fragmentary)) 
+@(G.9.g1.1 = 1-2)  @note{= Alster 1997 p. 187 N 4304 1'}  @gap{2 lines fragmentary} 
 
 #lg 9.g2	proverb
 
-@(G.9.g2.3 = 3-4)  @note{= Alster 1997 p. 187 N 4304 2'}  ((2 lines fragmentary)) 
+@(G.9.g2.3 = 3-4)  @note{= Alster 1997 p. 187 N 4304 2'}  @gap{2 lines fragmentary} 
 
 #lg 9.g3	proverb
 
-@(G.9.g3.5 = 5-6)  @note{= Alster 1997 9 Sec. G 1}  ((2 lines fragmentary)) 
+@(G.9.g3.5 = 5-6)  @note{= Alster 1997 9 Sec. G 1}  @gap{2 lines fragmentary} 
 
 #lg 9.g4	proverb
 
@@ -243,20 +243,20 @@
 
 #lg 9.g5	proverb
 
-@(G.9.g5.10 = 10)  @note{= Alster 1997 9 Sec. G 3; cf. @xref[t.6.1.16,t.6.1.16.e7]{6.1.16.e7}} Like a mountain mined for metal ore, this man is not in a right state of mind.  ((unknown no. of lines missing)) 
+@(G.9.g5.10 = 10)  @note{= Alster 1997 9 Sec. G 3; cf. @xref[t.6.1.16,t.6.1.16.e7]{6.1.16.e7}} Like a mountain mined for metal ore, this man is not in a right state of mind.  @gap{unknown no. of lines missing} 
 
 
 #lg 9.h1	proverb
 
-@(H.9.h1.1 = 1)   ((1 line fragmentary)) 
+@(H.9.h1.1 = 1)   @gap{1 line fragmentary} 
 
 #lg 9.h2	proverb
 
-@(H.9.h2.2 = 2-5)   ((2 lines fragmentary))  …… puts the standard (?) in his hands; …… do not fill my hands with dust!
+@(H.9.h2.2 = 2-5)   @gap{2 lines fragmentary}  …… puts the standard (?) in his hands; …… do not fill my hands with dust!
 
 #lg 9.h3	proverb
 
-@(H.9.h3.6 = 6-8)  …… that man like an ignoramus  ((1 line fragmentary))  …… reaches the little (?) …….
+@(H.9.h3.6 = 6-8)  …… that man like an ignoramus  @gap{1 line fragmentary}  …… reaches the little (?) …….
 
 #lg 9.h4	proverb
 

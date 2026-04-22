@@ -28,25 +28,36 @@
     <xsl:text>} </xsl:text>
   </xsl:template>
   <xsl:template mode="p" match="foreign">
-    <xsl:call-template name="foreign"/>
+    <xsl:call-template name="foreign">
+      <xsl:with-param name="p" select="true()"/>
+    </xsl:call-template>
   </xsl:template>
   <xsl:template mode="p" match="gap">
-    <xsl:value-of select="concat(' ((',@extent,')) ')"/>
+    <xsl:value-of select="concat(' @gap{',@extent,'} ')"/>
   </xsl:template>
   <xsl:template mode="p" match="note">
     <xsl:variable name="targ" select="id(@target)"/>
     <xsl:value-of select="concat('@note',local-name($targ),'{')"/>
-    <xsl:apply-templates/>
+    <xsl:apply-templates mode="p"/>
     <xsl:text>}</xsl:text>
   </xsl:template>
   <xsl:template mode="p" match="q">
-    <xsl:call-template name="q"/>
+    <xsl:call-template name="q">
+      <xsl:with-param name="p" select="true()"/>
+    </xsl:call-template>
   </xsl:template>
   <xsl:template mode="p" match="ref">
-    <xsl:apply-templates/>
+    <xsl:apply-templates mode="p"/>
   </xsl:template>
   <xsl:template mode="p" match="w">
-    <xsl:call-template name="w"/>
+    <xsl:call-template name="w">
+      <xsl:with-param name="p" select="true()"/>
+    </xsl:call-template>
+  </xsl:template>
+  <xsl:template mode="p" match="xref">
+    <xsl:call-template name="xref">
+      <xsl:with-param name="p" select="true()"/>
+    </xsl:call-template>
   </xsl:template>
   <xsl:template mode="p" match="text()">
     <xsl:value-of select="translate(.,'&#xa;',' ')"/>
@@ -94,6 +105,9 @@
   <xsl:template match="w">
     <xsl:call-template name="w"/>
   </xsl:template>
+  <xsl:template match="xref">
+    <xsl:call-template name="xref"/>
+  </xsl:template>
   <!-- non-p-mode uses the default definition of match="text()"-->
   
   <!-- these are elements that only occur outside of <p> -->
@@ -116,11 +130,6 @@
     <xsl:text>&#xa;&#xa;</xsl:text>
     <xsl:apply-templates/>
   </xsl:template>
-  <xsl:template match="xref">
-    <xsl:value-of select="concat('@xref[',@doc,',',@from,']{')"/>
-    <xsl:apply-templates/>
-    <xsl:text>}</xsl:text>
-  </xsl:template>
   <xsl:template match="altGrp"/>
   <xsl:template match="TEI.2|teiHeader|text|group|body|div1">
     <xsl:apply-templates/>
@@ -133,22 +142,59 @@
   <!-- function definitions for some elements that are treated the
        same in p-mode and non-p-mode -->
   <xsl:template name="foreign">
+    <xsl:param name="p" select="false()"/>
     <xsl:value-of select="concat('@f',@lang,'{')"/>
-    <xsl:apply-templates/>
+    <xsl:choose>
+      <xsl:when test="$p = true()">
+	<xsl:apply-templates mode="p"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
     <xsl:text>}</xsl:text>
   </xsl:template>
   <xsl:template name="q">
+    <xsl:param name="p" select="false()"/>
     <xsl:text>@q</xsl:text>
     <xsl:if test="string-length(@who)>0 or string-length(@toWhom)>0">
       <xsl:value-of select="concat('[',@who,',',@toWhom,']')"/>
     </xsl:if>
     <xsl:text>{“</xsl:text>
-    <xsl:apply-templates/>
+    <xsl:choose>
+      <xsl:when test="$p = true()">
+	<xsl:apply-templates mode="p"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
     <xsl:text>”}</xsl:text>
   </xsl:template>
   <xsl:template name="w">
+    <xsl:param name="p" select="false()"/>
     <xsl:value-of select="concat('@w',@type,'{')"/>
-    <xsl:apply-templates/>
+    <xsl:choose>
+      <xsl:when test="$p = true()">
+	<xsl:apply-templates mode="p"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
+    <xsl:text>}</xsl:text>
+  </xsl:template>
+  <xsl:template name="xref">
+    <xsl:param name="p" select="false()"/>
+    <xsl:value-of select="concat('@xref[',@doc,',',@from,']{')"/>
+    <xsl:choose>
+      <xsl:when test="$p = true()">
+	<xsl:apply-templates mode="p"/>
+      </xsl:when>
+      <xsl:otherwise>
+	<xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
     <xsl:text>}</xsl:text>
   </xsl:template>
 

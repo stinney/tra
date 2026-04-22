@@ -22,7 +22,7 @@ $ (approx. 4 lines missing)
 
 #lg 11.7	proverb
 
-@(A.11.7.10 = 10-13)  @note{cf. @xref[t.6.1.01,t.6.1.01.150]{6.1.01.150}}  ((1 line unclear))  Let an articulate man live in the house with you like a wicked poor man. Like my own affairs, antimony paste (?) is air: let …… fat be eaten in the mist.
+@(A.11.7.10 = 10-13)  @note{cf. @xref[t.6.1.01,t.6.1.01.150]{6.1.01.150}}  @gap{1 line unclear}  Let an articulate man live in the house with you like a wicked poor man. Like my own affairs, antimony paste (?) is air: let …… fat be eaten in the mist.
 
 #lg 11.8	proverb
 
@@ -30,11 +30,11 @@ $ (approx. 4 lines missing)
 
 #lg 11.9	proverb
 
-@(A.11.9.16 = 16-18)  @note{cf. @xref[t.6.1.02,t.6.1.02.103]{6.1.02.103}} @wDN{Enki}  ((2 lines fragmentary)) 
+@(A.11.9.16 = 16-18)  @note{cf. @xref[t.6.1.02,t.6.1.02.103]{6.1.02.103}} @wDN{Enki}  @gap{2 lines fragmentary} 
 
 #lg 11.10	proverb
 
-@(A.11.10.19 = 19-23)   ((5 lines fragmentary))   ((approx. 14 lines missing)) 
+@(A.11.10.19 = 19-23)   @gap{5 lines fragmentary}   @gap{approx. 14 lines missing} 
 
 
 #lg 11.18	proverb
@@ -43,7 +43,7 @@ $ (approx. 4 lines missing)
 
 #lg 11.19	proverb
 
-@(B.11.19.6 = 6-7)  @note{cf. @xref[t.6.1.03,t.6.1.03.71]{6.1.03.71}, @xref[t.6.1.19,t.6.1.19.b6]{6.1.19.b6}, @xref[t.6.1.24,t.6.1.24.5]{6.1.24.5}}  ((1 line fragmentary))  …… its hands …… to the edge of the desert.
+@(B.11.19.6 = 6-7)  @note{cf. @xref[t.6.1.03,t.6.1.03.71]{6.1.03.71}, @xref[t.6.1.19,t.6.1.19.b6]{6.1.19.b6}, @xref[t.6.1.24,t.6.1.24.5]{6.1.24.5}}  @gap{1 line fragmentary}  …… its hands …… to the edge of the desert.
 
 #lg 11.20	proverb
 
@@ -75,28 +75,28 @@ $ (approx. 4 lines missing)
 
 #lg 11.26B	proverb
 
-@(B.11.26.17 = 17)  @note{cf. @xref[t.6.1.02,t.6.1.02.d7]{6.1.02.d7}} The rats of the reedbeds will eat you.  ((approx. 5 lines missing)) 
+@(B.11.26.17 = 17)  @note{cf. @xref[t.6.1.02,t.6.1.02.d7]{6.1.02.d7}} The rats of the reedbeds will eat you.  @gap{approx. 5 lines missing} 
 
 #lg 11.29	proverb
 
-@(B.11.29.23 = 23-26)   ((2 lines fragmentary))  …… guard …… reach out to you …….  ((approx. 21 lines missing)) 
+@(B.11.29.23 = 23-26)   @gap{2 lines fragmentary}  …… guard …… reach out to you …….  @gap{approx. 21 lines missing} 
 
 
 #lg 11.35	proverb
 
-@(C.11.35.1 = 1)   ((1 line fragmentary)) 
+@(C.11.35.1 = 1)   @gap{1 line fragmentary} 
 
 #lg 11.36	proverb
 
-@(C.11.36.2 = 2)   ((1 line missing)) 
+@(C.11.36.2 = 2)   @gap{1 line missing} 
 
 #lg 11.37	proverb
 
-@(C.11.37.3 = 3)   ((1 line fragmentary)) 
+@(C.11.37.3 = 3)   @gap{1 line fragmentary} 
 
 #lg 11.38	proverb
 
-@(C.11.38.4 = 4-5)   ((2 lines fragmentary)) 
+@(C.11.38.4 = 4-5)   @gap{2 lines fragmentary} 
 
 #lg 11.39	proverb
 
@@ -108,7 +108,7 @@ $ (approx. 4 lines missing)
 
 #lg 11.41	proverb
 
-@(C.11.41.12 = 12-14)   ((1 line fragmentary))  Letting water flow into the dykes  ((1 line fragmentary)) 
+@(C.11.41.12 = 12-14)   @gap{1 line fragmentary}  Letting water flow into the dykes  @gap{1 line fragmentary} 
 
 #lg 11.42	proverb
 
@@ -120,12 +120,12 @@ $ (approx. 4 lines missing)
 
 #lg 11.44	proverb
 
-@(C.11.44.17 = 17)  Rats dig the ground.  ((approx. 24 lines missing)) 
+@(C.11.44.17 = 17)  Rats dig the ground.  @gap{approx. 24 lines missing} 
 
 
 #lg 11.51	proverb
 
-@(D.11.51.1 = 1-3)   ((3 lines fragmentary)) 
+@(D.11.51.1 = 1-3)   @gap{3 lines fragmentary} 
 
 #lg 11.52	proverb
 
@@ -149,7 +149,7 @@ $ (approx. 4 lines missing)
 
 #lg 11.57	proverb
 
-@(D.11.57.11 = 11-12)  @note{cf. @xref[t.6.1.18,t.6.1.18.15]{6.1.18.15}} Oh whirlwind, I despatched you towards @wSN{Agade}. What did you accomplish in @wSN{Agade}? The dream was favourable!  ((approx. 26 lines missing)) 
+@(D.11.57.11 = 11-12)  @note{cf. @xref[t.6.1.18,t.6.1.18.15]{6.1.18.15}} Oh whirlwind, I despatched you towards @wSN{Agade}. What did you accomplish in @wSN{Agade}? The dream was favourable!  @gap{approx. 26 lines missing} 
 
 
 #lg 11.66	proverb
@@ -174,39 +174,39 @@ $ (approx. 4 lines missing)
 
 #lg 11.71	proverb
 
-@(E.11.71.9 = 9-10)  Living is living. But to live (?) like (?) a lord!  ((approx. 30 lines missing)) 
+@(E.11.71.9 = 9-10)  Living is living. But to live (?) like (?) a lord!  @gap{approx. 30 lines missing} 
 
 
 #lg 11.82	proverb
 
-@(F.11.82.1 = 1-3)   ((3 lines fragmentary)) 
+@(F.11.82.1 = 1-3)   @gap{3 lines fragmentary} 
 
 #lg 11.83	proverb
 
-@(F.11.83.4 = 4-6)   ((3 lines missing)) 
+@(F.11.83.4 = 4-6)   @gap{3 lines missing} 
 
 #lg 11.84	proverb
 
-@(F.11.84.7 = 7-11)   ((3 lines fragmentary))  …… merchant …… partner …….
+@(F.11.84.7 = 7-11)   @gap{3 lines fragmentary}  …… merchant …… partner …….
 
 #lg 11.85	proverb
 
-@(F.11.85.12 = 12-13)  @note{cf. @xref[t.6.2.5,t625.h16]{6.2.5: YBC 7345}} The cripple (?) took a reed basket. For (?) his words a man beats him.  ((unknown no. of lines missing)) 
+@(F.11.85.12 = 12-13)  @note{cf. @xref[t.6.2.5,t625.h16]{6.2.5: YBC 7345}} The cripple (?) took a reed basket. For (?) his words a man beats him.  @gap{unknown no. of lines missing} 
 
 
 #lg 11.g1	proverb
 
-@(G.11.g1.1 = 1-2)  @note{= Alster 1997 p. 195 A viii}  ((2 lines fragmentary))  ((unknown no. of lines missing)) 
+@(G.11.g1.1 = 1-2)  @note{= Alster 1997 p. 195 A viii}  @gap{2 lines fragmentary}  @gap{unknown no. of lines missing} 
 
 
 #lg 11.h1	proverb
 
-@(H.11.h1.1 = 1-4)  @note{= Alster 1997 p. 195 A ix}  ((4 lines fragmentary))  ((unknown no. of lines missing)) 
+@(H.11.h1.1 = 1-4)  @note{= Alster 1997 p. 195 A ix}  @gap{4 lines fragmentary}  @gap{unknown no. of lines missing} 
 
 
 #lg 11.130	proverb
 
-@(I.11.130.1 = 1-2)   ((2 lines fragmentary)) 
+@(I.11.130.1 = 1-2)   @gap{2 lines fragmentary} 
 
 #lg 11.131	proverb
 
@@ -222,7 +222,7 @@ $ (approx. 4 lines missing)
 
 #lg 11.134	proverb
 
-@(I.11.134.9 = 9-12)   ((4 lines fragmentary))   ((approx. 29 lines missing)) 
+@(I.11.134.9 = 9-12)   @gap{4 lines fragmentary}   @gap{approx. 29 lines missing} 
 
 
 #lg 11.146	proverb
@@ -243,12 +243,12 @@ $ (approx. 4 lines missing)
 
 #lg 11.150	proverb
 
-@(J.11.150.7 = 7)  @note{cf. @xref[t.5.6.1,]{5.6.1: l. 208}} Don't choose a wife during a festival!  ((approx. 30 lines missing)) 
+@(J.11.150.7 = 7)  @note{cf. @xref[t.5.6.1,]{5.6.1: l. 208}} Don't choose a wife during a festival!  @gap{approx. 30 lines missing} 
 
 
 #lg 11.160	proverb
 
-@(K.11.160.1 = 1-2)   ((2 lines fragmentary)) 
+@(K.11.160.1 = 1-2)   @gap{2 lines fragmentary} 
 
 #lg 11.161	proverb
 
@@ -256,7 +256,7 @@ $ (approx. 4 lines missing)
 
 #lg 11.162	proverb
 
-@(K.11.162.4 = 4-8)  I am a capable scribe. There will be a prominent place for me. I will bring my …… protection …… to the stewardship.  ((2 lines fragmentary))   ((approx. 18 lines missing)) 
+@(K.11.162.4 = 4-8)  I am a capable scribe. There will be a prominent place for me. I will bring my …… protection …… to the stewardship.  @gap{2 lines fragmentary}   @gap{approx. 18 lines missing} 
 
 
 

@@ -245,7 +245,7 @@
 
 #lg 2.58A	proverb
 
-@(A.2.58A.101 = 101)   ((1 line fragmentary)) 
+@(A.2.58A.101 = 101)   @gap{1 line fragmentary} 
 
 #lg 2.59	proverb
 
@@ -431,11 +431,11 @@
 
 #lg 2.102	proverb
 
-@(A.2.102.171 = 171-173)  The lamentation priest …… to his house …… let me ……  ((1 line fragmentary))  …… for someone.
+@(A.2.102.171 = 171-173)  The lamentation priest …… to his house …… let me ……  @gap{1 line fragmentary}  …… for someone.
 
 #lg 2.103	proverb
 
-@(A.2.103.174 = 174-176)  @note{cf. @xref[t.6.1.11,t.6.1.11.8]{6.1.11.8-9}} {Although the lamentation priest's grain boat was sinking, he was walking on dry land.  ((1 line fragmentary))  }  {@note{1 ms. has instead:} When the lamentation priest's boat …… @wDN{Enki} …….  ((2 lines fragmentary))  } 
+@(A.2.103.174 = 174-176)  @note{cf. @xref[t.6.1.11,t.6.1.11.8]{6.1.11.8-9}} {Although the lamentation priest's grain boat was sinking, he was walking on dry land.  @gap{1 line fragmentary}  }  {@note{1 ms. has instead:} When the lamentation priest's boat …… @wDN{Enki} …….  @gap{2 lines fragmentary}  } 
 
 
 #lg 2.104	proverb
@@ -528,7 +528,7 @@
 
 #lg 2.126	proverb
 
-@(A.2.126.206 = 206-207)  @note{cf. @xref[t.6.1.04,t.6.1.04.56]{6.1.04.56}, @xref[t.6.1.11,t.6.1.11.131]{6.1.11.131}} Says the man lying on the roof to the man living in the house: @q{“It is too bright up here!”}  ((unknown no. of lines missing)) 
+@(A.2.126.206 = 206-207)  @note{cf. @xref[t.6.1.04,t.6.1.04.56]{6.1.04.56}, @xref[t.6.1.11,t.6.1.11.131]{6.1.11.131}} Says the man lying on the roof to the man living in the house: @q{“It is too bright up here!”}  @gap{unknown no. of lines missing} 
 
 
 #lg 2.131	proverb
@@ -598,11 +598,11 @@
 
 #lg 2.147	proverb
 
-@(B.2.147.28 = 28-29)  @note{= Alster 1997 2.147 = 6 Sec. A 6}  ((2 lines fragmentary)) 
+@(B.2.147.28 = 28-29)  @note{= Alster 1997 2.147 = 6 Sec. A 6}  @gap{2 lines fragmentary} 
 
 #lg 2.148	proverb
 
-@(B.2.148.30 = 30)  @note{= Alster 1997 2.148 = 6 Sec. A 7}  ((1 line fragmentary)) 
+@(B.2.148.30 = 30)  @note{= Alster 1997 2.148 = 6 Sec. A 7}  @gap{1 line fragmentary} 
 
 #lg 2.149	proverb
 
@@ -614,11 +614,11 @@
 
 #lg 2.151	proverb
 
-@(B.2.151.35 = 35)  @note{= Veldhuis 2000 2.151}  ((1 line fragmentary)) 
+@(B.2.151.35 = 35)  @note{= Veldhuis 2000 2.151}  @gap{1 line fragmentary} 
 
 #lg 2.152	proverb
 
-@(B.2.152.36 = 36-37)  @note{= Veldhuis 2000 2.152}  ((1 line fragmentary))  …… someone in the river …….
+@(B.2.152.36 = 36-37)  @note{= Veldhuis 2000 2.152}  @gap{1 line fragmentary}  …… someone in the river …….
 
 #lg 2.153	proverb
 
@@ -670,7 +670,7 @@
 
 #lg 2.165	proverb
 
-@(B.2.165.57 = 57)  @note{= Alster 1997 6.11}  ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(B.2.165.57 = 57)  @note{= Alster 1997 6.11}  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 2.c1	proverb
@@ -732,7 +732,7 @@
 
 #lg 2.c15	proverb
 
-@(C.2.c15.15 = 15)  @note{= Alster 1997 6.34} The voice of the …… is the glory of the palace.  ((unknown no. of lines missing)) 
+@(C.2.c15.15 = 15)  @note{= Alster 1997 6.34} The voice of the …… is the glory of the palace.  @gap{unknown no. of lines missing} 
 
 
 #lg 2.d1	proverb
@@ -749,12 +749,12 @@
 
 #lg 2.d4	proverb
 
-@(D.2.d4.4 = 4)  @note{= Alster 1997 6.40} { ((1 line fragmentary))  }  {@note{1 ms. has instead:}  ((1 line fragmentary))  } 
+@(D.2.d4.4 = 4)  @note{= Alster 1997 6.40} { @gap{1 line fragmentary}  }  {@note{1 ms. has instead:}  @gap{1 line fragmentary}  } 
 
 
 #lg 2.d5	proverb
 
-@(D.2.d5.5 = 5)  @note{= Alster 1997 6.41} {…… does not come back, it comes back from the oven. }  {@note{1 ms. has instead:}  ((1 line fragmentary))  } 
+@(D.2.d5.5 = 5)  @note{= Alster 1997 6.41} {…… does not come back, it comes back from the oven. }  {@note{1 ms. has instead:}  @gap{1 line fragmentary}  } 
 
 
 #lg 2.d6	proverb
@@ -768,7 +768,7 @@
 
 #lg 2.d8	proverb
 
-@(D.2.d8.8 = 8)  @note{= Alster 1997 6.44}  ((1 line unclear)) 
+@(D.2.d8.8 = 8)  @note{= Alster 1997 6.44}  @gap{1 line unclear} 
 
 #lg 2.d9	proverb
 
@@ -784,7 +784,7 @@
 
 #lg 2.d12	proverb
 
-@(D.2.d12.15 = 15-16)  @note{= Alster 1997 p. 153 CBS 11335 5}  ((2 lines fragmentary)) 
+@(D.2.d12.15 = 15-16)  @note{= Alster 1997 p. 153 CBS 11335 5}  @gap{2 lines fragmentary} 
 
 
 #lg 2.d13	proverb
@@ -803,15 +803,15 @@
 
 #lg 2.d16	proverb
 
-@(D.2.d16.25 = 25)  @note{= Alster 1997 6.51}  ((1 line fragmentary)) 
+@(D.2.d16.25 = 25)  @note{= Alster 1997 6.51}  @gap{1 line fragmentary} 
 
 #lg 2.d17	proverb
 
-@(D.2.d17.26 = 26)  @note{= Alster 1997 6.52}  ((1 line fragmentary)) 
+@(D.2.d17.26 = 26)  @note{= Alster 1997 6.52}  @gap{1 line fragmentary} 
 
 #lg 2.d18	proverb
 
-@(D.2.d18.27 = 27)  @note{= Alster 1997 6.53}  ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(D.2.d18.27 = 27)  @note{= Alster 1997 6.53}  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 

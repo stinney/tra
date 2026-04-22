@@ -10,7 +10,7 @@
 $ (approx. 25 lines missing)
 #lg 26.a1	proverb
 
-@(A.26.a1.26 = 26)   ((1 line fragmentary)) 
+@(A.26.a1.26 = 26)   @gap{1 line fragmentary} 
 
 #lg 26.a2	proverb
 
@@ -58,16 +58,16 @@ $ (approx. 25 lines missing)
 
 #lg 26.a13	proverb
 
-@(A.26.a13.41 = 41-42)  @note{cf. @xref[t.6.1.01,t.6.1.01.79]{6.1.01.79}} I did not answer the curse uttered against me with a curse of my own. My answering a curse would be answered with another curse.  ((approx. 33 lines missing)) 
+@(A.26.a13.41 = 41-42)  @note{cf. @xref[t.6.1.01,t.6.1.01.79]{6.1.01.79}} I did not answer the curse uttered against me with a curse of my own. My answering a curse would be answered with another curse.  @gap{approx. 33 lines missing} 
 
 
 #lg 26.b1	proverb
 
-@(B.26.b1.1 = 1)   ((1 line fragmentary)) 
+@(B.26.b1.1 = 1)   @gap{1 line fragmentary} 
 
 #lg 26.b2	proverb
 
-@(B.26.b2.2 = 2)   ((1 line fragmentary)) 
+@(B.26.b2.2 = 2)   @gap{1 line fragmentary} 
 
 #lg 26.b3	proverb
 
@@ -91,12 +91,12 @@ $ (approx. 25 lines missing)
 
 #lg 26.b8	proverb
 
-@(B.26.b8.10 = 10-11)   ((2 lines fragmentary))   ((unknown no. of lines missing)) 
+@(B.26.b8.10 = 10-11)   @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg 26.c1	proverb
 
-@(C.26.c1.1 = 1)   ((1 line fragmentary)) 
+@(C.26.c1.1 = 1)   @gap{1 line fragmentary} 
 
 #lg 26.c2	proverb
 
@@ -136,16 +136,16 @@ $ (approx. 25 lines missing)
 
 #lg 26.c11	proverb
 
-@(C.26.c11.17 = 17)  @note{cf. @xref[t.6.1.01,t.6.1.01.80]{6.1.01.80}} It is an insult resulting from an insult.  ((approx. 25 lines missing)) 
+@(C.26.c11.17 = 17)  @note{cf. @xref[t.6.1.01,t.6.1.01.80]{6.1.01.80}} It is an insult resulting from an insult.  @gap{approx. 25 lines missing} 
 
 
 #lg 26.d1	proverb
 
-@(D.26.d1.1 = 1-2)   ((1 line fragmentary))  do not let a garment dry out.
+@(D.26.d1.1 = 1-2)   @gap{1 line fragmentary}  do not let a garment dry out.
 
 #lg 26.d2	proverb
 
-@(D.26.d2.3 = 3)  @note{cf. @xref[t.6.1.02,t.6.1.02.132]{6.1.02.132}}  ((1 line unclear)) 
+@(D.26.d2.3 = 3)  @note{cf. @xref[t.6.1.02,t.6.1.02.132]{6.1.02.132}}  @gap{1 line unclear} 
 
 #lg 26.d3	proverb
 
@@ -197,7 +197,7 @@ $ (approx. 25 lines missing)
 
 #lg 26.d15	proverb
 
-@(D.26.d15.20 = 20-22)  @note{cf. @xref[t.6.1.02,t.6.1.02.149]{6.1.02.149}, @xref[t.6.1.11,t.6.1.11.69]{6.1.11.69}} Those who live near the water look into the mountains. They don't look in their own direction.  ((1 line fragmentary))   ((approx. 23 lines missing)) 
+@(D.26.d15.20 = 20-22)  @note{cf. @xref[t.6.1.02,t.6.1.02.149]{6.1.02.149}, @xref[t.6.1.11,t.6.1.11.69]{6.1.11.69}} Those who live near the water look into the mountains. They don't look in their own direction.  @gap{1 line fragmentary}   @gap{approx. 23 lines missing} 
 
 
 

@@ -21,7 +21,7 @@ $ (unknown no. of lines missing)
 #lg B	barsud
 
 
-@(A.B.3 = 3-6) Wise @wRN{Šu-@wDN{Suen}} …….  ((1 line fragmentary))  …… dais ……. …… the beauty and ornament …….
+@(A.B.3 = 3-6) Wise @wRN{Šu-@wDN{Suen}} …….  @gap{1 line fragmentary}  …… dais ……. …… the beauty and ornament …….
 
 #trailer rubric	barsud
 
@@ -31,13 +31,13 @@ $ (unknown no. of lines missing)
 #lg C	unknown
 
 
-@(A.C.8 = 8-11) @wDN{An} ……. @wRN{Šu-@wDN{Suen}} …….  ((2 lines fragmentary))   ((unknown no. of lines missing)) 
+@(A.C.8 = 8-11) @wDN{An} ……. @wRN{Šu-@wDN{Suen}} …….  @gap{2 lines fragmentary}   @gap{unknown no. of lines missing} 
 
 
 #lg D	sa-gida
 
 
-@(B.D.1 = 1-2)  ((1 line fragmentary))  @wRN{Šu-@wDN{Suen}} …… rising …….
+@(B.D.1 = 1-2)  @gap{1 line fragmentary}  @wRN{Šu-@wDN{Suen}} …… rising …….
 
 #trailer rubric	sa-gida
 
@@ -47,7 +47,7 @@ $ (unknown no. of lines missing)
 #lg E	jicgijal
 
 
-@(B.E.4 = 4)  ((1 line fragmentary)) 
+@(B.E.4 = 4)  @gap{1 line fragmentary} 
 
 #trailer rubric	jicgijal
 

@@ -123,7 +123,7 @@
 
 @(17.1 = 1-2) @note{cf. @xref[t.6.1.02,t.6.1.02.37]{6.1.02.37}, @xref[t.6.1.11,t.6.1.11.146]{6.1.11.146}} You are a scribe and you don't know you own name? Shame on you!
 
-@(17.3 = 3-4)  ((2 lines fragmentary)) 
+@(17.3 = 3-4)  @gap{2 lines fragmentary} 
 
 @(17.5 = 5-7) @note{cf. @xref[t.6.1.02,t.6.1.02.54]{6.1.02.54}} A disgraced scribe becomes an incantation priest. A disgraced singer becomes a flute-player. A disgraced merchant becomes a con-man.
 
@@ -169,15 +169,15 @@
 
 @h1 UET 6/3 31
 
-@(24.1 = 1)  ((1 line fragmentary)) 
+@(24.1 = 1)  @gap{1 line fragmentary} 
 
-@(24.2 = 2)  ((1 line fragmentary)) 
+@(24.2 = 2)  @gap{1 line fragmentary} 
 
-@(24.3 = 3)  ((1 line missing)) 
+@(24.3 = 3)  @gap{1 line missing} 
 
-@(24.4 = 4)  ((1 line missing)) 
+@(24.4 = 4)  @gap{1 line missing} 
 
-@(24.5 = 5-6) @note{cf. @xref[t.6.1.02,t.6.1.02.93]{6.1.02.93}, @xref[t.6.1.07,t.6.1.07.81]{6.1.07.81}}  ((1 line fragmentary))  A stranger's ox eats grass while my own lies hungry.
+@(24.5 = 5-6) @note{cf. @xref[t.6.1.02,t.6.1.02.93]{6.1.02.93}, @xref[t.6.1.07,t.6.1.07.81]{6.1.07.81}}  @gap{1 line fragmentary}  A stranger's ox eats grass while my own lies hungry.
 
 @(24.7 = 7-8) @note{cf. @xref[t.6.1.22,]{6.1.22: ll. 62-63}, @xref[t.6.1.22,]{6.1.22: l. 67}, @xref[t.5.6.1,]{5.6.1: l. 195}, @xref[t.5.6.1,]{5.6.1: l. 199}} Good is in the hands. Evil is also in the hands. Wickedness does not feed a storehouse with interest.
 
@@ -193,7 +193,7 @@
 
 @(26.1 = 1-3) @note{cf. @xref[t.6.1.02,t.6.1.02.155]{6.1.02.155}, @xref[t.6.1.28,t.6.1.28.24]{6.1.28.24}, @xref[t.1.8.1.5,]{1.8.1.5: ll. 193-199}} The palace is a forest, and the king is a lion; like @wDN{Ninegala} @note{an epithet of @wDN{Nungal}} he covers men with a huge battle-net.
 
-@(26.4 = 4-6) …… genitals ……  ((2 lines fragmentary)) 
+@(26.4 = 4-6) …… genitals ……  @gap{2 lines fragmentary} 
 
 
 
@@ -223,7 +223,7 @@
 
 @h1 UET 6/2 382
 
-@(30.1 = 1-2)  ((2 lines unclear)) 
+@(30.1 = 1-2)  @gap{2 lines unclear} 
 
 @(30.3 = 3) @note{cf. @xref[t.6.1.03,t.6.1.03.77]{6.1.03.77}} @wDN{Iškur} splits the heavens, yet he does not split the waterskin.
 
@@ -245,7 +245,7 @@
 
 @h1 UET 6/2 322
 
-@(33.1 = 1)  ((1 line fragmentary)) 
+@(33.1 = 1)  @gap{1 line fragmentary} 
 
 @(33.2 = 2-3) @note{cf. @xref[t.6.1.03,t.6.1.03.177]{6.1.03.177}, @xref[t.6.2.2,t622.h2]{6.2.2: MDP 27 89}} From the mouth …… from the mouth ……. Whatever comes from his mouth will not be put in his hand.
 
@@ -267,7 +267,7 @@
 
 @(36.1 = 1-4) @note{cf. @xref[t.6.1.05,t.6.1.05.42]{6.1.05.42}} A donkey was floating in the river, and a dog watching him from dry land said: @q{“My own dear father, where are you going? When you come near, I will shed my tears on behalf of you.”}
 
-@(36.5 = 5-9) @note{cf. @xref[t.6.1.02,t.6.1.02.140]{6.1.02.140}} In a household of several grown-up young men, …… battle fray ……  ((2 lines fragmentary)) 
+@(36.5 = 5-9) @note{cf. @xref[t.6.1.02,t.6.1.02.140]{6.1.02.140}} In a household of several grown-up young men, …… battle fray ……  @gap{2 lines fragmentary} 
 
 @(36.10 = 10-13) @note{cf. @xref[t.6.1.09,t.6.1.09.d4]{6.1.09.d4}, @xref[t.6.2.1,]{6.2.1: N 4248 Seg. A ll. 8-13}, @xref[t.6.2.1,]{6.2.1: Ni 9824 Seg. B ll. 3-5}} @q{“Run!”} …… the king ……. Because of silver, because of gold, because of the money chest, because of the …… chest, I am finished!
 
@@ -519,7 +519,7 @@
 
 @h1 UET 6/3 80
 
-@(76.1 = 1)  ((1 line fragmentary)) 
+@(76.1 = 1)  @gap{1 line fragmentary} 
 
 @(76.2 = 2) …… wearing it, it is good, …….
 
@@ -531,13 +531,13 @@
 
 @(76.8 = 8) …… the gods are three. So it is said, so let it be!
 
-@(76.9 = 9-10) …… mankind …… without ……  ((1 line fragmentary)) 
+@(76.9 = 9-10) …… mankind …… without ……  @gap{1 line fragmentary} 
 
-@(76.11 = 11)  ((1 line fragmentary)) 
+@(76.11 = 11)  @gap{1 line fragmentary} 
 
 @(76.12 = 12-13) …… troubled …… strike his master.
 
-@(76.14 = 14-15)  ((1 line fragmentary))  a women weaver …….
+@(76.14 = 14-15)  @gap{1 line fragmentary}  a women weaver …….
 
 @(76.16 = 16) …… not do …… equipment …… master …… submit …….
 
@@ -549,7 +549,7 @@
 
 @(76.20 = 20) …… who will do it?
 
-@(76.21 = 21)  ((1 line fragmentary)) 
+@(76.21 = 21)  @gap{1 line fragmentary} 
 
 
 
@@ -558,16 +558,16 @@
 
 
 $ (unknown no. of lines missing)
-@(77.A.1 = 1-11)  ((11 lines fragmentary))   ((unknown no. of lines missing)) 
+@(77.A.1 = 1-11)  @gap{11 lines fragmentary}   @gap{unknown no. of lines missing} 
 
 
-@(77.B.1 = 1)  ((1 line fragmentary)) 
+@(77.B.1 = 1)  @gap{1 line fragmentary} 
 
 @(77.B.2 = 2) @note{cf. @xref[t.6.2.3,t623.h3]{UET 6/2 239}, @xref[t.6.2.3,t623.h4]{UET 6/2 320}, @xref[t.6.1.01,t.6.1.01.09]{6.1.01.09}, @xref[t.6.1.22,]{6.1.22: ll. 140-145}} If bread is left over, the mongoose eats it. If I have bread left over, a stranger consumes it.
 
 @(77.B.3 = 3) @note{cf. @xref[t.6.2.3,t623.h5]{UET 6/2 261 and UET 6/2 262}, @xref[t.6.1.01,t.6.1.01.23]{6.1.01.23}, @xref[t.4.14.1,]{4.14.1: l. 144}} To be wealthy and demand more is an abomination to one's god.
 
-@(77.B.4 = 4-6) Because he lives as though deaf, because of you, my son is not fit to be a scribe.  ((1 line fragmentary))   ((unknown no. of lines missing)) 
+@(77.B.4 = 4-6) Because he lives as though deaf, because of you, my son is not fit to be a scribe.  @gap{1 line fragmentary}   @gap{unknown no. of lines missing} 
 
 
 
@@ -579,13 +579,13 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/2 350
 
-@(79.1 = 1-9)  ((1 line fragmentary))  …… ascends to heaven.  ((1 line unclear))  When battle approaches, when war arises, the plans of the gods, beloved by the gods, are destroyed. You cause fire to devour the Land. May my god know that my hand is suited to the stylus.
+@(79.1 = 1-9)  @gap{1 line fragmentary}  …… ascends to heaven.  @gap{1 line unclear}  When battle approaches, when war arises, the plans of the gods, beloved by the gods, are destroyed. You cause fire to devour the Land. May my god know that my hand is suited to the stylus.
 
 
 
 @h1 UET 6/2 365
 
-@(80.1 = 1-4) As for me, what did my god do?  ((1 line unclear))  the basket and my debt, no expenditures were made for him!
+@(80.1 = 1-4) As for me, what did my god do?  @gap{1 line unclear}  the basket and my debt, no expenditures were made for him!
 
 @(80.5 = 5-9) A wealthy man had accumulated a fortune. @q{“I am spending it for him.”} That said, it was dispersed. Afterwards he could not work out what went wrong. Things change. No one knows what will happen.
 
@@ -593,7 +593,7 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/2 368
 
-@(81.1 = 1)  ((1 line fragmentary)) 
+@(81.1 = 1)  @gap{1 line fragmentary} 
 
 @(81.2 = 2-5) A child without sin was never born by his mother. The idea was never conceived that there was anyone who was not a sinner. Such a situation never existed.
 
@@ -627,7 +627,7 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/2 310
 
-@(85.1 = 1-7) Should not intelligence, wisdom and understanding become perfect …… to the mouth …… mankind? At the place of testimony …… friendship ……  ((1 line unclear))  the slippery place …… the place of god …… let …… who knows what to say …… to the mouth.
+@(85.1 = 1-7) Should not intelligence, wisdom and understanding become perfect …… to the mouth …… mankind? At the place of testimony …… friendship ……  @gap{1 line unclear}  the slippery place …… the place of god …… let …… who knows what to say …… to the mouth.
 
 
 
@@ -645,9 +645,9 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/3 302
 
-@(88.1 = 1-3)  ((3 lines fragmentary)) 
+@(88.1 = 1-3)  @gap{3 lines fragmentary} 
 
-@(88.4 = 4)  ((1 line fragmentary)) 
+@(88.4 = 4)  @gap{1 line fragmentary} 
 
 @(88.5 = 5-6) A companion …… sleeping place.
 
@@ -661,7 +661,7 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/2 272
 
-@(90.1 = 1-5)  ((2 lines fragmentary))  his …… not draw a boat …… his bucket …… it is good.
+@(90.1 = 1-5)  @gap{2 lines fragmentary}  his …… not draw a boat …… his bucket …… it is good.
 
 
 
@@ -673,13 +673,13 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/2 349
 
-@(92.1 = 1-5) A goose spoke as follows: @q{“…… seven times …… dwelling well, one of my feet in the middle of the night.”}  ((1 line unclear)) 
+@(92.1 = 1-5) A goose spoke as follows: @q{“…… seven times …… dwelling well, one of my feet in the middle of the night.”}  @gap{1 line unclear} 
 
 
 
 @h1 UET 6/2 367
 
-@(93.1 = 1-5) @note{cf. @xref[t.6.2.5,]{6.2.5: IM 43438 Seg. B l. 4}, @xref[t.5.6.1,]{5.6.1: l. 184}} The poor man caused all kinds of trouble for the wealthy man.  ((1 line unclear))  …… skin disease lasts forever; …… forever; …… skin disease lasts forever.
+@(93.1 = 1-5) @note{cf. @xref[t.6.2.5,]{6.2.5: IM 43438 Seg. B l. 4}, @xref[t.5.6.1,]{5.6.1: l. 184}} The poor man caused all kinds of trouble for the wealthy man.  @gap{1 line unclear}  …… skin disease lasts forever; …… forever; …… skin disease lasts forever.
 
 
 
@@ -709,7 +709,7 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/3 378
 
-@(98.1 = 1-4) …… erection …… Sumerian …… forehead …… kneading dough ……  ((1 line unclear)) 
+@(98.1 = 1-4) …… erection …… Sumerian …… forehead …… kneading dough ……  @gap{1 line unclear} 
 
 
 
@@ -729,7 +729,7 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/2 229
 
-@(101.1 = 1-3) A dog ……  ((2 lines fragmentary)) 
+@(101.1 = 1-3) A dog ……  @gap{2 lines fragmentary} 
 
 
 
@@ -783,7 +783,7 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/2 321
 
-@(110.1 = 1-3) A slave girl should not …… a slave girl. …… whatever ……  ((1 line fragmentary)) 
+@(110.1 = 1-3) A slave girl should not …… a slave girl. …… whatever ……  @gap{1 line fragmentary} 
 
 
 
@@ -813,13 +813,13 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/3 463
 
-@(115.1 = 1-3)  ((3 lines fragmentary)) 
+@(115.1 = 1-3)  @gap{3 lines fragmentary} 
 
 
 
 @h1 U.15084 (UET 6/3 p. 84)
 
-@(116.1 = 1-3)  ((1 line fragmentary))  …… following it …… belongs to the palace.
+@(116.1 = 1-3)  @gap{1 line fragmentary}  …… following it …… belongs to the palace.
 
 
 
@@ -967,7 +967,7 @@ $ (unknown no. of lines missing)
 
 @(140.1 = 1) Like a sweet voice …….
 
-@(140.2 = 2)  ((1 line fragmentary)) 
+@(140.2 = 2)  @gap{1 line fragmentary} 
 
 
 
@@ -985,7 +985,7 @@ $ (unknown no. of lines missing)
 
 @h1 UET 6/3 588
 
-@(143.1 = 1-2)  ((2 lines unclear)) 
+@(143.1 = 1-2)  @gap{2 lines unclear} 
 
 
 

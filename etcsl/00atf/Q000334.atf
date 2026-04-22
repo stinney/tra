@@ -152,10 +152,12 @@
 #lem: X; X; X; sig[put into]; kaskal[way]; rah[beat]
 #etcsl: line-id=36
 
-37. [... ...] X |DAG.KISIM₅×AB₂| du₃-a a₂-bi na-sud-e
-#lem: X; X; X; DAG.KISIM₅×AB₂[cowshed]; du[build]; a[arm]; sud[distant]
+37. [... ...] X |BAHAR₂×AB₂| du₃-a a₂-bi na-sud-e
+#lem: X; X; X; X; du[build]; a[arm]; sud[distant]
 #etcsl: line-id=37
 
+# DAG.KISIM₅×AB₂[cowshed]
+ 
 38. [en-en]-e-ne barag-barag-ge₂-e#-ne
 #lem: en[lord]; barag[sanctum]
 #etcsl: line-id=38

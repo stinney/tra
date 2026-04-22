@@ -22,8 +22,7 @@
 #trailer rubric	kirugu
 
 
-@(A.50 = 50)  1st @fsux{kirugu
-}
+@(A.50 = 50)  1st @fsux{kirugu }
 
 #lg B	jicgijal
 
@@ -33,8 +32,7 @@
 #trailer rubric	jicgijal
 
 
-@(B.52 = 52) Its @fsux{ŋišgiŋal
-}
+@(B.52 = 52) Its @fsux{ŋišgiŋal }
 
 #lg C	kirugu
 
@@ -48,8 +46,7 @@
 #trailer rubric	kirugu
 
 
-@(C.76 = 76) 2nd @fsux{kirugu
-}
+@(C.76 = 76) 2nd @fsux{kirugu }
 
 #lg D	jicgijal
 
@@ -59,8 +56,7 @@
 #trailer rubric	jicgijal
 
 
-@(D.78 = 78) Its @fsux{ŋišgiŋal
-}
+@(D.78 = 78) Its @fsux{ŋišgiŋal }
 #lg E	kirugu
 
 
@@ -75,8 +71,7 @@
 #trailer rubric	kirugu
 
 
-@(E.113 = 113) 3rd @fsux{kirugu
-}
+@(E.113 = 113) 3rd @fsux{kirugu }
 
 #lg F	jicgijal
 
@@ -86,8 +81,7 @@
 #trailer rubric	jicgijal
 
 
-@(F.116 = 116) Its @fsux{ŋišgiŋal
-}
+@(F.116 = 116) Its @fsux{ŋišgiŋal }
 
 #lg G	kirugu
 
@@ -99,8 +93,7 @@
 #trailer rubric	kirugu
 
 
-@(G.136 = 136) 4th @fsux{kirugu
-}
+@(G.136 = 136) 4th @fsux{kirugu }
 
 #lg H	jicgijal
 
@@ -110,8 +103,7 @@
 #trailer rubric	jicgijal
 
 
-@(H.138 = 138) Its @fsux{ŋišgiŋal
-}
+@(H.138 = 138) Its @fsux{ŋišgiŋal }
 
 #lg I	kirugu
 
@@ -123,8 +115,7 @@
 #trailer rubric	kirugu
 
 
-@(I.154 = 154) 5th @fsux{kirugu
-}
+@(I.154 = 154) 5th @fsux{kirugu }
 
 #lg J	jicgijal
 
@@ -134,21 +125,19 @@
 #trailer rubric	jicgijal
 
 
-@(J.156 = 156) Its @fsux{ŋišgiŋal
-}
+@(J.156 = 156) Its @fsux{ŋišgiŋal }
 
 #lg K	kirugu
 
 
 @(K.157 = 157-166) Even now your lord has smitten the enemy fury for you! He has had mercy on you and decreed your fate! He has said @q[Enlil,]{“Enough”}, so that he has removed lamentation from your brick buildings! In good mood and with a joyful heart he has entered in there again for you! @wDN{Ninurta}, the mighty commissioner, has looked after things! He stood there before the hero, his provider @wRN{Išme-@wDN{Dagan}}, and issued the command to him to completely rebuild the @wTN{E-kur}, the most precious shrine! He has restored its ancient property! @wDN{Enlil} has ordered @wRN{Išme-@wDN{Dagan}} to restore its ziggurat temple, to make it shine like the day, to make fitting the dais upon its platform!
 
-@(K.167 = 167-177) He has put back in their place the rites which the enemy disordered and desecrated, along with the scattered divine powers! He has given him his sacred unchangeable decision that they should sanctify and purify again the cleansing-rites which the enemy had put a stop to! He has told @wRN{Išme-@wDN{Dagan}}, his beloved shepherd, that faultless bulls and faultless bucks should be slaughtered! When decrees the fate of the sacred royal offering place (?), he will offer salutations and stand there daily in supplication and prayer.  ((2 lines fragmentary)) 
+@(K.167 = 167-177) He has put back in their place the rites which the enemy disordered and desecrated, along with the scattered divine powers! He has given him his sacred unchangeable decision that they should sanctify and purify again the cleansing-rites which the enemy had put a stop to! He has told @wRN{Išme-@wDN{Dagan}}, his beloved shepherd, that faultless bulls and faultless bucks should be slaughtered! When decrees the fate of the sacred royal offering place (?), he will offer salutations and stand there daily in supplication and prayer.  @gap{2 lines fragmentary} 
 
 #trailer rubric	kirugu
 
 
-@(K.178 = 178) 6th @fsux{kirugu
-}
+@(K.178 = 178) 6th @fsux{kirugu }
 
 #lg L	jicgijal
 
@@ -158,8 +147,7 @@
 #trailer rubric	jicgijal
 
 
-@(L.180 = 180) Its @fsux{ŋišgiŋal
-}
+@(L.180 = 180) Its @fsux{ŋišgiŋal }
 
 #lg M	kirugu
 
@@ -175,8 +163,7 @@
 #trailer rubric	kirugu
 
 
-@(M.211 = 211) 7th @fsux{kirugu
-}
+@(M.211 = 211) 7th @fsux{kirugu }
 
 #lg N	jicgijal
 
@@ -186,8 +173,7 @@
 #trailer rubric	jicgijal
 
 
-@(N.213 = 213) Its @fsux{ŋišgiŋal
-}
+@(N.213 = 213) Its @fsux{ŋišgiŋal }
 
 #lg O	kirugu
 
@@ -203,8 +189,7 @@
 #trailer rubric	kirugu
 
 
-@(O.244 = 244) 8th @fsux{kirugu
-}
+@(O.244 = 244) 8th @fsux{kirugu }
 
 #lg P	jicgijal
 
@@ -214,8 +199,7 @@
 #trailer rubric	jicgijal
 
 
-@(P.246 = 246) Its @fsux{ŋišgiŋal
-}
+@(P.246 = 246) Its @fsux{ŋišgiŋal }
 
 #lg Q	kirugu
 
@@ -227,8 +211,7 @@
 #trailer rubric	kirugu
 
 
-@(Q.262 = 262) 9th @fsux{kirugu
-}
+@(Q.262 = 262) 9th @fsux{kirugu }
 
 #lg R	kirugu
 
@@ -240,8 +223,7 @@
 #trailer rubric	kirugu
 
 
-@(R.283 = 283) 10th @fsux{kirugu
-}
+@(R.283 = 283) 10th @fsux{kirugu }
 
 #lg S	kirugu
 
@@ -251,8 +233,7 @@
 #trailer rubric	kirugu
 
 
-@(S.296 = 296) 11th @fsux{kirugu
-}
+@(S.296 = 296) 11th @fsux{kirugu }
 
 #lg T	kirugu
 
@@ -266,8 +247,7 @@
 #trailer rubric	kirugu
 
 
-@(T.323 = 323) 12th @fsux{kirugu
-}
+@(T.323 = 323) 12th @fsux{kirugu }
 
 
 
