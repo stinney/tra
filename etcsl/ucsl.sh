@@ -1,4 +1,5 @@
 #!/bin/sh
+(cd t ; for a in *.atf ; do mv $a `/bin/echo -n $a | cut -d= -f1`.tra ; done )
 rm -f ${ORACC}/ucsl/00atf/*
 for a in 00atf/*.atf ; do
     Q=`/bin/echo -n $a | cut -d/ -f2 | cut -d. -f1`
@@ -10,3 +11,4 @@ for a in 00atf/*.atf ; do
 	cp $a $ucsl
     fi
 done
+(cd ${ORACC}/ucsl/etcsl ; atfproject.plx -replace -proj ucsl/etcsl)

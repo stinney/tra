@@ -5,7 +5,7 @@
 
 
 
-@h Version A
+@h1 Version A
 
 @(1.1 = 1-26) In those days, in those distant days, in those nights, in those remote nights, in those years, in those distant years; in days of yore, when the necessary things had been brought into manifest existence, in days of yore, when the necessary things had been for the first time properly cared for, when bread had been tasted for the first time in the shrines of the Land, when the ovens of the Land had been made to work, when the heavens had been separated from the earth, when the earth had been delimited from the heavens, when the fame of mankind had been established, when @wDN{An} had taken the heavens for himself, when @wDN{Enlil} had taken the earth for himself, when the nether world had been given to @wDN{Ereškigala} as a gift; when he set sail, when he set sail, when the father set sail for the nether world, when @wDN{Enki} set sail for the nether world -- against the king a storm of small hailstones arose, against @wDN{Enki} a storm of large hailstones arose. The small ones were light hammers, the large ones were like stones from catapults (?). The keel of @wDN{Enki's} little boat was trembling as if it were being butted by turtles, the waves at the bow of the boat rose to devour the king like wolves and the waves at the stern of the boat were attacking @wDN{Enki} like a lion.
 
@@ -18,8 +18,9 @@
 @(1.70 = 70-78) @q{“At that time, there was a single tree, a single @fsux{ḫalub} tree, a single tree (?), growing on the bank of the pure @wWN{Euphrates}, being watered by the @wWN{Euphrates}. The force of the south wind uprooted it and stripped its branches, and the @wWN{Euphrates} picked it up and carried it away. I, a woman, respectful of @wDN{An's} words, was walking along; I, a woman, respectful of @wDN{Enlil's} words, was walking along, and took the tree and brought it into @wSN{Unug}, into holy @wDN{Inana's} luxuriant garden.”}
 
 @(1.79 = 79-90) @q{“I, the woman, planted the tree with my feet, but not with my hands. I, 
-{@wDN{Inana}} {@noteanchor{1 ms. has instead:} the woman
-} , watered it using my feet but not my hands. She said: @q[Inana,]{“When will this be a luxuriant chair on which I can take a seat?”} She said: @q[Inana,]{“When will this be a luxuriant bed on which I can lie down?”} Five years, 10 years had gone by, the tree had grown massive; its bark, however, did not split. At its roots, a snake immune to incantations made itself a nest. In its branches, the Anzud bird settled its young. In its trunk, the phantom maid built herself a dwelling, the maid who laughs with a joyful heart. But holy @wDN{Inana} cried!”} Her brother, the young warrior @wDN{Utu}, however, did not stand by her in the matter.
+@wDN{Inana}$ (1 ms. has instead:)
+ the woman
+, watered it using my feet but not my hands. She said: @q[Inana,]{“When will this be a luxuriant chair on which I can take a seat?”} She said: @q[Inana,]{“When will this be a luxuriant bed on which I can lie down?”} Five years, 10 years had gone by, the tree had grown massive; its bark, however, did not split. At its roots, a snake immune to incantations made itself a nest. In its branches, the Anzud bird settled its young. In its trunk, the phantom maid built herself a dwelling, the maid who laughs with a joyful heart. But holy @wDN{Inana} cried!”} Her brother, the young warrior @wDN{Utu}, however, did not stand by her in the matter.
 
 
 @(1.91 = 91-113) When dawn was breaking, when the horizon became bright, when the little birds, at the break of dawn, began to clamour, when @wDN{Utu} had left his bedchamber, his sister holy @wDN{Inana} said to the warrior @wDN{Gilgameš}: @q[Inana,Gilgamec]{“My brother, in those days when destiny was determined, when abundance overflowed in the Land, when @wDN{An} had taken the heavens for himself, when @wDN{Enlil} had taken the earth for himself, when the nether world had been given to @wDN{Ereškigala} as a gift; when he set sail, when he set sail, when the father set sail for the nether world, when @wDN{Enki} set sail for the nether world -- against the lord a storm of small hailstones arose, against @wDN{Enki} a storm of large hailstones arose. The small ones were light hammers, the large ones were like stones from catapults (?). The keel of @wDN{Enki's} little boat was trembling as if it were being butted by turtles, the waves at the bow of the boat rose to devour the lord like wolves and the waves at the stern of the boat were attacking @wDN{Enki} like a lion.”}
@@ -27,64 +28,42 @@
 @(1.114 = 114-122) @q{“At that time, there was a single tree, a single @fsux{ḫalub} tree, a single tree (?), growing on the bank of the pure @wWN{Euphrates}, being watered by the @wWN{Euphrates}. The force of the south wind uprooted it and stripped its branches, and the @wWN{Euphrates} picked it up and carried it away. I, a woman, respectful of @wDN{An's} words, was walking along; I, a woman, respectful of @wDN{Enlil's} words, was walking along, and took the tree and brought it into @wSN{Unug}, into @wDN{Inana's} luxuriant garden.”}
 
 @(1.123 = 123-135) @q{“The woman planted the tree with her feet, but not with her hands. @wDN{Inana} watered it using her feet but not her hands. She said: @q[Inana,]{“When will this be a luxuriant chair on which I can take a seat?”} She said: @q[Inana,]{“When will this be a luxuriant bed on which I can lie down?”} Five years, 10 years had gone by, the tree had grown massive; its bark, however, did not split. At its roots, a snake immune to incantations made itself a nest. In its branches, the Anzud bird settled its young. In its trunk, the phantom maid built herself a dwelling, the maid who laughs with a joyful heart. But 
-{holy @wDN{Inana}} {@noteanchor{1 ms. has instead:} I, holy @wDN{Inana},
-}  cried!”} In the matter which his sister had told him about, her brother, the warrior @wDN{Gilgameš}, stood by her.
+holy @wDN{Inana}$ (1 ms. has instead:)
+ I, holy @wDN{Inana},
+ cried!”} In the matter which his sister had told him about, her brother, the warrior @wDN{Gilgameš}, stood by her.
 
 
-@(1.136 = 136-150) He 
-{strapped
-} 
-{@noteanchor{1 ms. has instead:} ……
-}  his …… belt of 50 minas weight to his waist -- 50 minas were to him as 30 shekels. He took his bronze axe used for expeditions, which weighs seven talents and seven minas, in his hand. He killed the snake immune to incantations living at its roots. The Anzud bird living in its branches took up its young and went into the mountains. The phantom maid living in its trunk left (?) her dwelling and sought refuge in the wilderness. As for the tree, he uprooted it and stripped its branches, and the sons of his city, who went with him, cut up its branches and 
-{bundled them
-} 
-{@noteanchor{1 ms. has instead:} piled them up
-} . He gave it to his sister holy @wDN{Inana} for her chair. He gave it to her for her bed. As for himself, from its roots, he manufactured his ball (?) and, from its branches, he manufactured his mallet (?).
+@(1.136 = 136-150) He  {strapped }  {@noteanchor{1 ms. has instead:} …… }  his …… belt of 50 minas weight to his waist -- 50 minas were to him as 30 shekels. He took his bronze axe used for expeditions, which weighs seven talents and seven minas, in his hand. He killed the snake immune to incantations living at its roots. The Anzud bird living in its branches took up its young and went into the mountains. The phantom maid living in its trunk left (?) her dwelling and sought refuge in the wilderness. As for the tree, he uprooted it and stripped its branches, and the sons of his city, who went with him, cut up its branches and  {bundled them }  {@noteanchor{1 ms. has instead:} piled them up } . He gave it to his sister holy @wDN{Inana} for her chair. He gave it to her for her bed. As for himself, from its roots, he manufactured his ball (?) and, from its branches, he manufactured his mallet (?).
 
 
-@(1.151 = 151-165) He played with the ball (?) in the broad square, never wanting to stop playing it, and he praised himself in the broad square, never wanting to stop praising himself. 
-{@noteanchor{mss. from Urim add:} The young men of his city were playing with the ball (?).
-}  For (?) him who made the team of the widows' children ……, they lamented: @q{“O my neck! O my hips!”} For those that had a mother, the mother brought bread for her son; for those that had a sister, the sister poured water for her brother. As the evening came, he marked the spot where the ball (?) had been placed, and he picked up his ball (?) from in front of him and took it home. But early in the morning as he …… the place marked, the widows' accusation and the young girls' complaint caused his ball (?) and his mallet (?) to fall down to the bottom of the nether world. 
-{@noteanchor{1 ms. adds:} He could not reach them by …….
-}  He tried with his hand but could not 
-{reach
-} 
-{@noteanchor{1 ms. has instead:} touch
-}  them, tried with his foot but could not 
-{reach
-} 
-{@noteanchor{1 ms. has instead:} touch
-}  them.
+@(1.151 = 151-165) He played with the ball (?) in the broad square, never wanting to stop playing it, and he praised himself in the broad square, never wanting to stop praising himself.  {@noteanchor{mss. from Urim add:} The young men of his city were playing with the ball (?). }  For (?) him who made the team of the widows' children ……, they lamented: @q{“O my neck! O my hips!”} For those that had a mother, the mother brought bread for her son; for those that had a sister, the sister poured water for her brother. As the evening came, he marked the spot where the ball (?) had been placed, and he picked up his ball (?) from in front of him and took it home. But early in the morning as he …… the place marked, the widows' accusation and the young girls' complaint caused his ball (?) and his mallet (?) to fall down to the bottom of the nether world.  {@noteanchor{1 ms. adds:} He could not reach them by ……. }  He tried with his hand but could not  {reach }  {@noteanchor{1 ms. has instead:} touch }  them, tried with his foot but could not  {reach }  {@noteanchor{1 ms. has instead:} touch }  them.
 
 
 @(1.166 = 166-175) At the gate of @wGN{Ganzer}, in front of the nether world, he sat down. @wDN{Gilgameš} wept, crying bitterly: @q[Gilgamec,]{“O my ball (?)! O my mallet (?)! O my ball (?), I am still not satiated with its charms, the game with it has not yet palled for me! If only my ball (?) waited still in the carpenter's house for me! I would treat the carpenter's wife like my own mother -- if only it waited still there for me! I would treat the carpenter's child like my little sister -- if only it waited still there for me! 
-{My ball (?) has fallen down to the nether world -- who will retrieve it for me?
-} {@noteanchor{1 ms. has instead:} Who will retrieve my ball (?) from the nether world?
-} {My mallet (?) has fallen down to @wGN{Ganzer} -- who will retrieve it for me?
-} {@noteanchor{1 ms. has instead:} Who will retrieve my mallet (?) from @wGN{Ganzer}?
-} ”}
+My ball (?) has fallen down to the nether world -- who will retrieve it for me?
+$ (1 ms. has instead:)
+ Who will retrieve my ball (?) from the nether world?
+My mallet (?) has fallen down to @wGN{Ganzer} -- who will retrieve it for me?
+$ (1 ms. has instead:)
+ Who will retrieve my mallet (?) from @wGN{Ganzer}?
+”}
 
 
-@(1.176 = 176-183) His servant @wPN{Enkidu} 
-{answered
-} 
-{@noteanchor{1 ms. has instead:} said to
-}  
-{him
-} 
-{@noteanchor{1 ms. has instead:} @wDN{Gilgameš}
-} : @q[Enkidu,Gilgamec]{“My king, you weep; why does your heart worry? Today I shall retrieve your ball (?) from the nether world, I shall retrieve your mallet (?) from @wGN{Ganzer}.”} @wDN{Gilgameš} answered @wPN{Enkidu}: @q[Gilgamec,Enkidu]{“{If today
-} {@noteanchor{1 ms. has instead:} If
-}  you are going to go down to the nether world, let me advise you! My instructions should be followed. Let me talk to you! 
-{Pay attention to my words
-} {@noteanchor{1 ms. has instead:} My words should be followed
-} !”}
+@(1.176 = 176-183) His servant @wPN{Enkidu}  {answered }  {@noteanchor{1 ms. has instead:} said to }   {him }  {@noteanchor{1 ms. has instead:} @wDN{Gilgameš} } : @q[Enkidu,Gilgamec]{“My king, you weep; why does your heart worry? Today I shall retrieve your ball (?) from the nether world, I shall retrieve your mallet (?) from @wGN{Ganzer}.”} @wDN{Gilgameš} answered @wPN{Enkidu}: @q[Gilgamec,Enkidu]{“If today
+$ (1 ms. has instead:)
+ If
+ you are going to go down to the nether world, let me advise you! My instructions should be followed. Let me talk to you! 
+Pay attention to my words
+$ (1 ms. has instead:)
+ My words should be followed
+!”}
 
 
 @(1.184 = 184-198) @q{“You should not put on your clean garments: they would recognise immediately that you are alien. You should not anoint yourself with fine oil from a bowl: they would surround you at 
-{its
-} {@noteanchor{1 ms. has instead:} your
-}  scent. You should not hurl throw-sticks in the nether world: those struck down by the throw-sticks would surround you. You should not not hold a cornel-wood stick in your hand: the spirits would feel insulted by you. You should not put sandals on your feet. You should not shout in the nether world. You should not kiss your beloved wife. You should not hit your wife even if you are annoyed with her. You should not kiss your beloved child. You should not hit your son even if you are annoyed with him. The outcry aroused would detain you in the nether world.”}
+its
+$ (1 ms. has instead:)
+ your
+ scent. You should not hurl throw-sticks in the nether world: those struck down by the throw-sticks would surround you. You should not not hold a cornel-wood stick in your hand: the spirits would feel insulted by you. You should not put sandals on your feet. You should not shout in the nether world. You should not kiss your beloved wife. You should not hit your wife even if you are annoyed with her. You should not kiss your beloved child. You should not hit your son even if you are annoyed with him. The outcry aroused would detain you in the nether world.”}
 
 
 @(1.199 = 199-204) @q{“She who lies there, she who lies there, @wDN{Ninazu's} mother who lies there -- her pure shoulders are not covered with a garment, and no linen is spread over her pure breast. She has fingers like a pickaxe, she plucks her hair out like leeks.”}
@@ -102,19 +81,16 @@
 
 @(1.254 = 254-267) @q[Gilgamec,Enkidu]{“Did you see him who had one son?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He weeps bitterly at the wooden peg which was driven into his wall.”} @q[Gilgamec,Enkidu]{“Did you see him who had two sons?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He sits on a couple of bricks, eating bread.”} @q[Gilgamec,Enkidu]{“Did you see him who had three sons?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He drinks water from a saddle waterskin.”} @q[Gilgamec,Enkidu]{“Did you see him who had four sons?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“His heart rejoices like a man who has four asses to yoke.”} @q[Gilgamec,Enkidu]{“Did you see him who had five sons?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like a good scribe he is indefatigable, he enters the palace easily.”} @q[Gilgamec,Enkidu]{“Did you see him who had six sons?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He is a cheerful as a ploughman.”} @q[Gilgamec,Enkidu]{“Did you see him who had seven sons?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“As a companion of the gods, he sits on a throne and listens to judgments.”}
 
-@(1.268 = 268-285) @q[Gilgamec,Enkidu]{“Did you see the palace eunuch?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like a useless @fsux{alala} stick he is propped in a corner.”} @q[Gilgamec,Enkidu]{“Did you see the woman who never gave birth?”} @q[Enkidu,Gilgamec]{“I saw her.”} @q[Gilgamec,Enkidu]{“How does she fare?”} @q[Enkidu,Gilgamec]{“Like a …… pot, she is thrown away violently, she gives no man joy.”} @q[Gilgamec,Enkidu]{“Did you see the young man who never undressed his wife?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“You finish a rope, and he weeps over the rope.”} @q[Gilgamec,Enkidu]{“Did you see the young woman who never undressed her husband?”} @q[Enkidu,Gilgamec]{“I saw her.”} @q[Gilgamec,Enkidu]{“How does she fare?”} @q[Enkidu,Gilgamec]{“You finish a reed mat, and she weeps over the reed mat.”} @q[Gilgamec,Enkidu]{“Did you see him who had no heir?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like him who …… bricks (?), he eats bread.”} @q[Gilgamec,Enkidu]{“……?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}
+@(1.268 = 268-285) @q[Gilgamec,Enkidu]{“Did you see the palace eunuch?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like a useless @fsux{alala} stick he is propped in a corner.”} @q[Gilgamec,Enkidu]{“Did you see the woman who never gave birth?”} @q[Enkidu,Gilgamec]{“I saw her.”} @q[Gilgamec,Enkidu]{“How does she fare?”} @q[Enkidu,Gilgamec]{“Like a …… pot, she is thrown away violently, she gives no man joy.”} @q[Gilgamec,Enkidu]{“Did you see the young man who never undressed his wife?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“You finish a rope, and he weeps over the rope.”} @q[Gilgamec,Enkidu]{“Did you see the young woman who never undressed her husband?”} @q[Enkidu,Gilgamec]{“I saw her.”} @q[Gilgamec,Enkidu]{“How does she fare?”} @q[Enkidu,Gilgamec]{“You finish a reed mat, and she weeps over the reed mat.”} @q[Gilgamec,Enkidu]{“Did you see him who had no heir?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“Like him who …… bricks (?), he eats bread.”} @q[Gilgamec,Enkidu]{“……?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”}  ((7 lines fragmentary or missing)) 
 
-$ (7 lines fragmentary or missing)
-
-@(1.286 = 286-303) @q[Gilgamec,Enkidu]{“Did you see ……?”} @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart, he eats the food offered (?) to him, he drinks the water offered (?) to him.”} 
-{@noteanchor{1 ms. adds:} @q[Gilgamec,Enkidu]{“Did you see him who was eaten by a lion?”} @q[Enkidu,Gilgamec]{“He cries bitterly @q{“O my hands! O my legs!”}”} @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof?”} @q[Enkidu,Gilgamec]{“They cannot …… his bones.”}
-}  @q[Gilgamec,Enkidu]{“Did you see the leprous man?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”} @q[Gilgamec,Enkidu]{“Did you see him who fell in battle?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“His father and mother are not there to hold his head, and his wife weeps.”} @q[Gilgamec,Enkidu]{“Did you see the spirit of him who has no funerary offerings?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He eats the scraps and the crumbs …… tossed out in the street.”} @q[Gilgamec,Enkidu]{“Did you see him hit by a ship's board 
-{@noteanchor{1 ms. adds:} when diving (?)
-} ? How does he fare?”} @q[Enkidu,Gilgamec]{“@q{“Alas, my mother!”} the man cries to her, as he pulls out the ship's board ……, he …… cross beam …… crumbs.”} @q[Gilgamec,Enkidu]{“Did you see my little stillborn children who never knew existence?”} @q[Enkidu,Gilgamec]{“I saw them.”} @q[Gilgamec,Enkidu]{“How do they fare?”} @q[Enkidu,Gilgamec]{“They play at a table of gold and silver, laden with honey and ghee.”} @q[Gilgamec,Enkidu]{“Did you see him who died ……?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He lies on a bed of the gods.”} @q[Gilgamec,Enkidu]{“Did you see him who was set on fire?”} @q[Enkidu,Gilgamec]{“I did not see him. His spirit is not about. His smoke went up to the sky.”}
+@(1.286 = 286-303) @q[Gilgamec,Enkidu]{“Did you see ……?”} @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart, he eats the food offered (?) to him, he drinks the water offered (?) to him.”}  {@noteanchor{1 ms. adds:} @q[Gilgamec,Enkidu]{“Did you see him who was eaten by a lion?”} @q[Enkidu,Gilgamec]{“He cries bitterly @q{“O my hands! O my legs!”}”} @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof?”} @q[Enkidu,Gilgamec]{“They cannot …… his bones.”} }  @q[Gilgamec,Enkidu]{“Did you see the leprous man?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”} @q[Gilgamec,Enkidu]{“Did you see him who fell in battle?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“His father and mother are not there to hold his head, and his wife weeps.”} @q[Gilgamec,Enkidu]{“Did you see the spirit of him who has no funerary offerings?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He eats the scraps and the crumbs …… tossed out in the street.”} @q[Gilgamec,Enkidu]{“Did you see him hit by a ship's board 
+$ (1 ms. adds:)
+ when diving (?)
+? How does he fare?”} @q[Enkidu,Gilgamec]{“@q{“Alas, my mother!”} the man cries to her, as he pulls out the ship's board ……, he …… cross beam …… crumbs.”} @q[Gilgamec,Enkidu]{“Did you see my little stillborn children who never knew existence?”} @q[Enkidu,Gilgamec]{“I saw them.”} @q[Gilgamec,Enkidu]{“How do they fare?”} @q[Enkidu,Gilgamec]{“They play at a table of gold and silver, laden with honey and ghee.”} @q[Gilgamec,Enkidu]{“Did you see him who died ……?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He lies on a bed of the gods.”} @q[Gilgamec,Enkidu]{“Did you see him who was set on fire?”} @q[Enkidu,Gilgamec]{“I did not see him. His spirit is not about. His smoke went up to the sky.”}
 
 
 
-@h A version from Urim (UET 6 58)
+@h1 A version from Urim (UET 6 58)
 
 @(2.1 = 1-7) @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“They cannot …… his bones.”} @q[Gilgamec,Enkidu]{“Did you see him who was struck in (?) a flood-storm of (?) @wDN{Iškur}?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”} @q[Gilgamec,Enkidu]{“Did you see the leprous man?”} @q[Enkidu,Gilgamec]{“I saw him.”} @q[Gilgamec,Enkidu]{“How does he fare?”} @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart, he eats the food offered (?) to him, he drinks the water offered (?) to him. He lives outside the city.”}
 
@@ -124,20 +100,17 @@ $ (7 lines fragmentary or missing)
 
 
 
-@h Another version from Urim (UET 6 59)
+@h1 Another version from Urim (UET 6 59)
 
 
-@(3.A.1 = 1-9) @q[Gilgamec,Enkidu]{“Did you see him hit by a ship's board? How does he fare?”} @q[Enkidu,Gilgamec]{“@q{“Alas, my mother!”} the man cries to her, as he pulls out ……, he …… crossbeam …… crumbs.”} @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof? How does he fare?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”} @q[Gilgamec,Enkidu]{“Did you see him who was reached by the curse of his mother? How does he fare?”} @q[Enkidu,Gilgamec]{“He is deprived of an heir. His spirit roams (?) about.”} @q[Gilgamec,Enkidu]{“Did you see him who had no respect for the word of his father and his mother? How does he fare?”}
-
-$ (1 line fragmentary)
-$ (unknown no. of lines missing)
+@(3.A.1 = 1-9) @q[Gilgamec,Enkidu]{“Did you see him hit by a ship's board? How does he fare?”} @q[Enkidu,Gilgamec]{“@q{“Alas, my mother!”} the man cries to her, as he pulls out ……, he …… crossbeam …… crumbs.”} @q[Gilgamec,Enkidu]{“Did you see him who fell down from the roof? How does he fare?”} @q[Enkidu,Gilgamec]{“He twitches like an ox as the worms eat at him.”} @q[Gilgamec,Enkidu]{“Did you see him who was reached by the curse of his mother? How does he fare?”} @q[Enkidu,Gilgamec]{“He is deprived of an heir. His spirit roams (?) about.”} @q[Gilgamec,Enkidu]{“Did you see him who had no respect for the word of his father and his mother? How does he fare?”}  ((1 line fragmentary))   ((unknown no. of lines missing)) 
 
 
 @(3.B.1 = 1-11) @q[Enkidu,Gilgamec]{“His food is set apart, his water is set apart, he eats the food offered (?) to him, he drinks the water offered (?) to him.”} @q[Gilgamec,Enkidu]{“Did you see him who fell in battle? How does he fare?”} @q[Enkidu,Gilgamec]{“His father and mother are not there to hold his head, and his wife weeps.”} @q[Gilgamec,Enkidu]{“Did you see him who ……? How does he fare?”} @q[Enkidu,Gilgamec]{“…… from his (?) hand …….”} @q[Gilgamec,Enkidu]{“Did you see the spirit of him who has no funerary offerings? How does he fare?”} @q[Enkidu,Gilgamec]{“He eats the scraps and the crumbs tossed out in the street.”} @q[Gilgamec,Enkidu]{“Did you see my little stillborn children who never knew existence? How do they fare?”} @q[Enkidu,Gilgamec]{“They play with a bucket of gold and silver, full of honey and ghee.”} @q[Gilgamec,Enkidu]{“Did you see him who was set on fire?”} @q[Enkidu,Gilgamec]{“I did not see him. His spirit is not there. His smoke went up to the sky.”}
 
 
 
-@h A third version from Urim (UET 6 60)
+@h1 A third version from Urim (UET 6 60)
 
 @(4.1 = 1-10) They returned to @wSN{Unug}, they returned to their city. He entered outfitted with tools and armaments, with an axe and a spear, and deposited them in his palace happily. Looking at the statue, the young men and women of @wSN{Unug} and the old men (?) and women of @wSN{Kulaba} rejoiced. As @wDN{Utu} came forth from his bedchamber, @wDN{Gilgameš} (?) raised his head and told them (?): @q[Gilgamec,]{“My father and my mother, drink clean water!”} Midday had hardly passed when they touched the statue's (?) crown.
 
@@ -147,26 +120,20 @@ $ (unknown no. of lines missing)
 
 
 
-@h A version from Me-Turan
+@h1 A version from Me-Turan
 
 
-@(5.A.1 = 1-9) …… surrounded him. He carried …… and the spirits felt insulted (?) by him. He caused (?) …….
-
-$ (1 line fragmentary)
-He kissed his beloved wife, and hit his wife when he was angry with her. He kissed his beloved child, and hit his son when he was angry with him. He aroused an outcry and was detained in the nether world.
+@(5.A.1 = 1-9) …… surrounded him. He carried …… and the spirits felt insulted (?) by him. He caused (?) …….  ((1 line fragmentary))  He kissed his beloved wife, and hit his wife when he was angry with her. He kissed his beloved child, and hit his son when he was angry with him. He aroused an outcry and was detained in the nether world.
 
 @(5.A.10 = 10-16) From that fateful day and for seven days his servant, @wPN{Enkidu}, did not come out from the nether world. The king was lamenting, crying bitterly: @q[Gilgamec,]{“My beloved servant, my faithful companion, my counsellor, has been seized in the nether world! @wDN{Namtar} did not seize him, the Asag did not seize him; but he was seized in the nether world. The @fsux{udug} of @wDN{Nergal} who …… did not seize him, but he was seized in the nether world. He did not fall in battle on the field of ……, but he was seized in the nether world.”}
 
-@(5.A.17 = 17-24) He directed his steps on his own to @wTN{E-kur}, the temple of @wDN{Enlil}. Before @wDN{Enlil}, he ……: @q[Gilgamec,Enlil]{“My ball (?) fell down into the nether world, my mallet (?) fell down into @wGN{Ganzer}. But @wPN{Enkidu}, going down to retrieve them, my beloved servant, my faithful companion, my counsellor, was seized in the nether world. @wDN{Namtar} did not seize him, the Asag did not seize him, but he was seized in the nether world. …… did not seize him, but he was seized in the nether world.”}
-
-$ (unknown no. of lines missing)
+@(5.A.17 = 17-24) He directed his steps on his own to @wTN{E-kur}, the temple of @wDN{Enlil}. Before @wDN{Enlil}, he ……: @q[Gilgamec,Enlil]{“My ball (?) fell down into the nether world, my mallet (?) fell down into @wGN{Ganzer}. But @wPN{Enkidu}, going down to retrieve them, my beloved servant, my faithful companion, my counsellor, was seized in the nether world. @wDN{Namtar} did not seize him, the Asag did not seize him, but he was seized in the nether world. …… did not seize him, but he was seized in the nether world.”}  ((unknown no. of lines missing)) 
 
 
 @(5.B.1 = 1-28) @q[Gilgamec,Enkidu]{“Did you see him who had one son? How does he fare?”} @q[Enkidu,Gilgamec]{“He weeps bitterly …….”} @q[Gilgamec,Enkidu]{“Did you see him who had two sons? How does he fare?”} @q[Enkidu,Gilgamec]{“He sits on …….”} @q[Gilgamec,Enkidu]{“Did you see him who had three sons? How does he fare?”} @q[Enkidu,Gilgamec]{“He drinks water …….”} @q[Gilgamec,Enkidu]{“Did you see him who had four sons? How does he fare?”} @q[Enkidu,Gilgamec]{“His heart is happy 
-{@noteanchor{1 ms. adds:} like a man who has four asses to yoke
-} .”} @q[Gilgamec,Enkidu]{“Did you see him who had five sons? How does he fare?”} @q[Enkidu,Gilgamec]{“Like a good scribe he is indefatigable, he enters the palace easily.”} @q[Gilgamec,Enkidu]{“Did you see him who had six sons? How does he fare?”} @q[Enkidu,Gilgamec]{“He is cheerful as a ploughman.”} @q[Gilgamec,Enkidu]{“Did you see him who had seven sons? How does he fare?”} @q[Enkidu,Gilgamec]{“As a companion of the gods he sits on a throne and listens to judgments.”} @q[Gilgamec,Enkidu]{“Did you see him who had no heir? How does he fare?”} @q[Enkidu,Gilgamec]{“Like (?) …… he eats bread.”}
-
-$ (approx. 3 lines missing)
+$ (1 ms. adds:)
+ like a man who has four asses to yoke
+.”} @q[Gilgamec,Enkidu]{“Did you see him who had five sons? How does he fare?”} @q[Enkidu,Gilgamec]{“Like a good scribe he is indefatigable, he enters the palace easily.”} @q[Gilgamec,Enkidu]{“Did you see him who had six sons? How does he fare?”} @q[Enkidu,Gilgamec]{“He is cheerful as a ploughman.”} @q[Gilgamec,Enkidu]{“Did you see him who had seven sons? How does he fare?”} @q[Enkidu,Gilgamec]{“As a companion of the gods he sits on a throne and listens to judgments.”} @q[Gilgamec,Enkidu]{“Did you see him who had no heir? How does he fare?”} @q[Enkidu,Gilgamec]{“Like (?) …… he eats bread.”}  ((approx. 3 lines missing)) 
 
 @(5.B.29 = 29-51) @q[Gilgamec,Enkidu]{“Did you see him ……? How does he fare?”} @q[Enkidu,Gilgamec]{“He drinks water …….”} @q[Gilgamec,Enkidu]{“Did you see him ……? How does he fare?”} @q[Enkidu,Gilgamec]{“He …… as the worms eat at him.”} @q[Gilgamec,Enkidu]{“Did you see him who was eaten by a dog? How does he fare?”} @q[Enkidu,Gilgamec]{“He …… @q{“O my hands! O my legs! O ……!”}”} @q[Gilgamec,Enkidu]{“Did you see him hit (?) by the mast of a boat? How does he fare?”} @q[Enkidu,Gilgamec]{“@q{“Alas, my mother”} the man cries to her, …… wooden peg ……, he …… food, cross beam (?), crumbs …….”} @q[Gilgamec,Enkidu]{“Did you see the woman who never gave birth? How does she fare?”} @q[Enkidu,Gilgamec]{“Like a …… pot, she is thrown away violently, she …… nobody.”} @q[Gilgamec,Enkidu]{“Did you see the young man who never undressed his wife? How does he fare?”} @q[Enkidu,Gilgamec]{“You finish a reed mat and he weeps over the reed mat.”} @q[Gilgamec,Enkidu]{“Did you see the young woman who never undressed her husband? How does she fare?”} @q[Enkidu,Gilgamec]{“You finish a …… garment and she weeps over the …… garment.”}
 

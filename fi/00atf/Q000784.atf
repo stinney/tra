@@ -89,8 +89,8 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 #lem: saŋkešed[strap]; bareda[strap]; kadu[cover]; usan[whip]; saŋ[head]; haza[hold]
 #etcsl: line-id=20
 
-21. {gi}ba-an-du₈-zu kab₂ di# hu-mu-ra-ab-ak a₂ kalag-ga hu-mu-ra-an-ak-e
-#lem: bandudu[seeding basket of a plow]; kab[test]; di[speak]; ak[do]; a[arm]; kalag[strong]; ak[do]
+21. {gi}ba-an-du₈-zu kab₂-di# hu-mu-ra-ab-ak a₂ kalag-ga hu-mu-ra-an-ak-e
+#lem: bandudu[seeding basket of a plow]; kab-di[inspection]; ak[do]; a[arm]; kalag[strong]; ak[do]
 #etcsl: line-id=21
 
 22. a₂-aš₂ a-šag₄-ga-zu da he₂-en-ŋal₂ kiŋ₂-zu igi kar₂-ka-ab
@@ -114,7 +114,7 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 #etcsl: line-id=26
 
 27. za-e 144 iku ŋiš du₃-ba-ab
-#lem: zaʾe[you]; n; iku[unit of area]; ŋeš[tree]; du[build]
+#lem: zaʾe[you]; n; iku[unit of area]; ŋeš[tree//tool]; du[build]
 #etcsl: line-id=27
 
 28. a₂# šag₄ hul₂-gin₇ a-ra-ab-dim₂-e
@@ -134,7 +134,7 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 #etcsl: line-id=31
 
 32. ŋiš ur₃-ra-ab ŋiš gi₄-a-ab ŋiš peš-bi₂-ib
-#lem: ŋeš[tree]; ur[drag]; ŋeš[tree]; gi[turn]; ŋeš[tree]; peš[do something three times]
+#lem: ŋeš[tree//tool]; ur[drag]; ŋeš[tree//tool]; gi[turn//repeat]; ŋeš[tree//tool]; peš[do something three times]
 #etcsl: line-id=32
 
 33. ki sumur-bi {ŋiš}niŋ₂-gul-ta {ŋiš}gag-dag₂-aš u₃-bi₂-ak
@@ -245,8 +245,8 @@ $ (Line numbering after ETCSL; translation from M. Civil, Farmer's Instructions)
 #lem: absin[furrow]; abkiz[cleaned furrow]; X; gana[field]; kud[cut]; uru[sow]
 #etcsl: line-id=59
 
-60. lag-bi ha-ra-ri-ri
-#lem: lag[clod (of earth)]; ri[impose]
+60. lag-bi ha-ra-de₅-de₅
+#lem: lag[clod (of earth)]; deg[collect]
 #etcsl: line-id=60
 
 61. ki-sahar us₂-bi ab-sin₂ ha-ra-ni-ib-ra
