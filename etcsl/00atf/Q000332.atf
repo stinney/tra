@@ -1,6 +1,6 @@
 &Q000332 = Enki and Ninḫursaŋa
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.1.1

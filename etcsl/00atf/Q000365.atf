@@ -1,6 +1,6 @@
 &Q000365 = Gilgameš and Ḫuwawa (Version A)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.8.1.5

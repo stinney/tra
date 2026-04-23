@@ -1,6 +1,6 @@
 &Q000550 = Letter from Ur-DUN to Šulgi about Apillaša
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.11.1

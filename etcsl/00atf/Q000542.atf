@@ -1,6 +1,6 @@
 &Q000542 = Letter from Aradŋu to Šulgi about the country
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.1.04
@@ -8,63 +8,63 @@
 
 @div segment A
 
-1. lugal-ŋu₁₀-ra u₃-na-a-dug₄
+A.1. lugal-ŋu₁₀-ra u₃-na-a-dug₄
 #lem: lugal[king]; dug[speak]
 #etcsl: line-id=A.1
 
-2. {[m]}[arad]-ŋu₁₀# arad₂-zu na-ab-be₂-a
+A.2. {[m]}[arad]-ŋu₁₀# arad₂-zu na-ab-be₂-a
 #lem: Aradŋu[1]PN; arad[slave]; e[speak]
 #etcsl: line-id=A.2
 
-3. [lugal]-ŋu₁₀ ma-da daŋal-la niŋ₂ nam-ra#-aš mu-ra-an-šum₂-ma-a
+A.3. [lugal]-ŋu₁₀ ma-da daŋal-la niŋ₂ nam-ra#-aš mu-ra-an-šum₂-ma-a
 #lem: lugal[king]; mada[land]; daŋal[wide]; niŋ[thing]; namra[booty]; šum[give]
 #etcsl: line-id=A.3
 
-4. gu₃# teš₂-a sig₁₀-ge₅ dim₂-ma-bi 1(AŠ)-am₃
+A.4. gu₃# teš₂-a sig₁₀-ge₅ dim₂-ma-bi 1(AŠ)-am₃
 #lem: gu[voice]; teš[unity]; sig[put into]; dimma[thought]; n
 #etcsl: line-id=A.4
 
-5. uŋ₃# u₂-gin₇ lu-lu {d}šul-gi-ra sipad inim# gen₆#-na-bi
+A.5. uŋ₃# u₂-gin₇ lu-lu {d}šul-gi-ra sipad inim# gen₆#-na-bi
 #lem: uŋ[people]; u[plant(s)]; lu[abundant]; Šulgir[1]RN; sipad[shepherd]; inim[word]; gin[confirm]
 #etcsl: line-id=A.5
 
-6. nam#-lu₂-ulu₃ sig igi-nim-ma diŋir-bi za-e-me-en#
+A.6. nam#-lu₂-ulu₃ sig igi-nim-ma diŋir-bi za-e-me-en#
 #lem: namlulu[humanity]; sig[weak]; iginim[upper land]; diŋir[deity]; zaʾe[you]
 #etcsl: line-id=A.6
 
-7. igi#-bi ma-ra-ši-ŋal₂
+A.7. igi#-bi ma-ra-ši-ŋal₂
 #lem: igi[eye]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=A.7
 
-8. uŋ₃# daŋal-la u₂-gin₇ lu-lu a mah {id₂}idigna {id₂}buranun-na-ta
+A.8. uŋ₃# daŋal-la u₂-gin₇ lu-lu a mah {id₂}idigna {id₂}buranun-na-ta
 #lem: uŋ[people]; daŋal[wide]; u[plant(s)]; lu[abundant]; a[water]; mah[great]; Idigna[1 Tigris]; Buranun[1 Euphrates]
 #etcsl: line-id=A.8
 
-9. [...] X {id₂}idigna-še₃# lugal-ŋu₁₀ silim-ma ab-dug₄-ga
+A.9. [...] X {id₂}idigna-še₃# lugal-ŋu₁₀ silim-ma ab-dug₄-ga
 #lem: X; X; Idigna[1 Tigris]; lugal[king]; silim[healthy]; dug[speak]
 #etcsl: line-id=A.9
 
-10. [...] X ib₂-zi-zi
+A.10. [...] X ib₂-zi-zi
 #lem: X; X; zig[rise]
 #etcsl: line-id=A.10
 
-11. [...] ba-da-an-ŋar
+A.11. [...] ba-da-an-ŋar
 #lem: X; ŋar[put]
 #etcsl: line-id=A.11
 
-12. [...] X-ak-en
+A.12. [...] X-ak-en
 #lem: X; ak[do]
 #etcsl: line-id=A.12
 
-13. [...]-kal-la-bi
+A.13. [...]-kal-la-bi
 #lem: kal[rare]
 #etcsl: line-id=A.13
 
-14. [...] X u₃-bi₂-si
+A.14. [...] X u₃-bi₂-si
 #lem: X; X; si[fill]
 #etcsl: line-id=A.14
 
-15. [...] X
+A.15. [...] X
 #lem: X; X
 #etcsl: line-id=A.15
 
@@ -73,35 +73,35 @@ $ (unknown no. of lines missing)
 
 @div segment B
 
-1. [...] X
+B.1. [...] X
 #lem: X; X
 #etcsl: line-id=B.1
 
-2. [...]-an#-tuku-a
+B.2. [...]-an#-tuku-a
 #lem: tuku[acquire]
 #etcsl: line-id=B.2
 
-3. [...] X-me-en
+B.3. [...] X-me-en
 #lem: X; X
 #etcsl: line-id=B.3
 
-4. [...] X X X
+B.4. [...] X X X
 #lem: X; X; X; X
 #etcsl: line-id=B.4
 
-5. [...] dumu# ma-da gu-tu#-u₂-um{ki}
+B.5. [...] dumu# ma-da gu-tu#-u₂-um{ki}
 #lem: X; dumu[child]; mada[land]; Gutium[1]GN
 #etcsl: line-id=B.5
 
-6. [...]{ki#} ma#-ri₂{ki} u₃ ra-pi₂-qum{ki}
+B.6. [...]{ki#} ma#-ri₂{ki} u₃ ra-pi₂-qum{ki}
 #lem: X[1]SN; Mari[1]SN; u[and]; Rapiqum[1]SN
 #etcsl: line-id=B.6
 
-7. [lu₂] ŋiš# tuku-tuku-ne igi-ŋa₂ i₃-ŋal₂
+B.7. [lu₂] ŋiš# tuku-tuku-ne igi-ŋa₂ i₃-ŋal₂
 #lem: lu[person]; ŋeš[tree]; tuku[acquire]; igi[eye]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=B.7
 
-8. niŋ₂ lugal-ŋu₁₀ ab-be₂-na ga-ab-ak
+B.8. niŋ₂ lugal-ŋu₁₀ ab-be₂-na ga-ab-ak
 #lem: niŋ[thing]; lugal[king]; e[speak]; ak[do]
 #etcsl: line-id=B.8
 

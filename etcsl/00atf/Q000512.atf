@@ -1,6 +1,6 @@
 &Q000512 = A prayer to Nanna for Rīm-Sîn (Rīm-Sîn E)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.6.9.5

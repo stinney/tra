@@ -1,6 +1,6 @@
 &Q000811 = Proverbs: collection 18
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.18
@@ -11,7 +11,7 @@
 $ (approx. 13 lines missing)
 @div proverb 18.1
 
-14. [...]-ib#-ze₂-e#
+A.18.1.14. [...]-ib#-ze₂-e#
 #lem: zir[tear out]
 #etcsl: line-id=A.18.1.14
 
@@ -19,11 +19,11 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.2
 
-15. [...] lum-lum#-e
+A.18.2.15. [...] lum-lum#-e
 #lem: X; lum[fruit]
 #etcsl: line-id=A.18.2.15
 
-16. [... ... ...]-ta# lugal#-zu ba-an-gu₇
+A.18.2.16. [... ... ...]-ta# lugal#-zu ba-an-gu₇
 #lem: X; X; X; lugal[king]; gu[eat]
 #etcsl: line-id=A.18.2.16
 
@@ -31,11 +31,11 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.3
 
-17. [...] MU# RI# a-šag₄ dur₂-ru-na še gu₇-gu₇-a
+A.18.3.17. [...] MU# RI# a-šag₄ dur₂-ru-na še gu₇-gu₇-a
 #lem: X; X; X; ašag[field]; durun[sit]; še[barley]; gu[eat]
 #etcsl: line-id=A.18.3.17
 
-18. lum-lum a-na ba-e-kal#
+A.18.3.18. lum-lum a-na ba-e-kal#
 #lem: lum[fruit]; ana[what?]; kal[rare]
 #etcsl: line-id=A.18.3.18
 
@@ -43,11 +43,11 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.4
 
-19.  %e  da-ra-an-šub  %s  a-hur-rum i-bi₂-za
+A.18.4.19.  %e  da-ra-an-šub  %s  a-hur-rum i-bi₂-za
 #lem: šub[fall]; hurum[junior]; ibiza[financial loss]
 #etcsl: line-id=A.18.4.19
 
-20. gur#-da# niŋ₂ ud da-ri₂-kam
+A.18.4.20. gur#-da# niŋ₂ ud da-ri₂-kam
 #lem: gur[turn]; niŋ[thing]; ud[sun]; dari[eternal]
 #etcsl: line-id=A.18.4.20
 
@@ -55,11 +55,11 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.5
 
-21. [a]-hur#-rum keše₂-ra-ab
+A.18.5.21. [a]-hur#-rum keše₂-ra-ab
 #lem: hurum[junior]; kešed[bind]
 #etcsl: line-id=A.18.5.21
 
-22. ud MAŠ-a du₈-du₈-a-ab
+A.18.5.22. ud MAŠ-a du₈-du₈-a-ab
 #lem: ud[sun]; n; du[spread]
 #etcsl: line-id=A.18.5.22
 
@@ -67,7 +67,7 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.6
 
-23. kug kalag-ga la₂ ka kalag-ga sam₂
+A.18.6.23. kug kalag-ga la₂ ka kalag-ga sam₂
 #lem: kug[metal]; kalag[strong]; la[hang]; kag[mouth]; kalag[strong]; sa[pay for]
 #etcsl: line-id=A.18.6.23
 
@@ -77,7 +77,7 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.7
 
-24. za#-e ŋiš-šub-e ni₂ bi₂-ib-kal
+A.18.7.24. za#-e ŋiš-šub-e ni₂ bi₂-ib-kal
 #lem: zaʾe[you]; ŋeššub[lot]; ni[self]; kal[rare]
 #etcsl: line-id=A.18.7.24
 
@@ -85,17 +85,17 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.8
 
-25. [dub₃-tuku bar] in-dab₅
+A.18.8.25. [dub₃-tuku bar] in-dab₅
 #lem: dubtuku[runner]; bar[outside]; dab[seize]
 #etcsl: line-id=A.18.8.25
 
 #note: cf. 6.2.3: UET 6/2 281
 
-26. usu-tuku ba-da-an!-kar
+A.18.8.26. usu-tuku ba-da-an!-kar
 #lem: usutuku[strong]; kar[flee]
 #etcsl: line-id=A.18.8.26
 
-27. [ka tuku] e₂-gal-la ba-ni-in-kur₉
+A.18.8.27. [ka tuku] e₂-gal-la ba-ni-in-kur₉
 #lem: kag[mouth]; tuku[acquire]; egal[palace]; kur[enter]
 #etcsl: line-id=A.18.8.27
 
@@ -103,11 +103,11 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.9
 
-28. [...]-a-kam
+A.18.9.28. [...]-a-kam
 #lem: X
 #etcsl: line-id=A.18.9.28
 
-29. [...]-na-kam
+A.18.9.29. [...]-na-kam
 #lem: X
 #etcsl: line-id=A.18.9.29
 
@@ -115,7 +115,7 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.10
 
-30. [...] igi-ni# a zal-bi
+A.18.10.30. [...] igi-ni# a zal-bi
 #lem: X; igi[eye]; a[water]; zal[pass time]
 #etcsl: line-id=A.18.10.30
 
@@ -123,7 +123,7 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.11
 
-31. he₂#-em-dirig {urud}ha-zi-in al-su-su
+A.18.11.31. he₂#-em-dirig {urud}ha-zi-in al-su-su
 #lem: dirig[make more than]; hazin[ax]; sug[replace]
 #etcsl: line-id=A.18.11.31
 
@@ -131,7 +131,7 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.12
 
-32. du₆-la₂ dul₂-bi bi₂-ib-sig₉-sig₉
+A.18.12.32. du₆-la₂ dul₂-bi bi₂-ib-sig₉-sig₉
 #lem: dud[(ruin) mound]; dul[lower]; sig[put into]
 #etcsl: line-id=A.18.12.32
 
@@ -139,7 +139,7 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.13
 
-33. saŋ# ki-tum₃ a₂ aŋ₂-ŋa₂ še-ba-e-da-e-še#
+A.18.13.33. saŋ# ki-tum₃ a₂ aŋ₂-ŋa₂ še-ba-e-da-e-še#
 #lem: saŋ[head]; kitum[burial]; a[arm]; aŋ[measure]; šebida[disdain]
 #etcsl: line-id=A.18.13.33
 
@@ -147,7 +147,7 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.14
 
-34. saŋ bul-e id₂-da bal-e#
+A.18.14.34. saŋ bul-e id₂-da bal-e#
 #lem: saŋ[head]; bul[shake]; id[river]; bala[turn]
 #etcsl: line-id=A.18.14.34
 
@@ -157,29 +157,29 @@ $ (approx. 13 lines missing)
 
 @div proverb 18.15
 
-35. si-si-ig a-ga-de₃{ki}-še₃ i₃-gi₄-[in]
+A.18.15.35. si-si-ig a-ga-de₃{ki}-še₃ i₃-gi₄-[in]
 #lem: sisig[breeze]; Agade[1]SN; gi[turn]
 #etcsl: line-id=A.18.15.35
 
 #note: cf. 6.1.11.57
 
-36. a-ga-de₃{ki}-a a-na-am₃ mu-e-ni!-ak
+A.18.15.36. a-ga-de₃{ki}-a a-na-am₃ mu-e-ni!-ak
 #lem: Agade[1]SN; ana[what?]; ak[do]
 #etcsl: line-id=A.18.15.36
 
-37. maš₂-ŋi₆ lul-la im-ma-an-na-ŋar
+A.18.15.37. maš₂-ŋi₆ lul-la im-ma-an-na-ŋar
 #lem: mašŋik[(nocturnal) vision]; lul[false]; ŋar[put]
 #etcsl: line-id=A.18.15.37
 
-38. lu₂ bur₂-ru-bi bi₂-in-tuku
+A.18.15.38. lu₂ bur₂-ru-bi bi₂-in-tuku
 #lem: lu[person]; bur[spread out]; tuku[acquire]
 #etcsl: line-id=A.18.15.38
 
-39. a-ga-de₃{ki}-a# a-ga-de₃#{[ki]} [... ...]-a-gin₇
+A.18.15.39. a-ga-de₃{ki}-a# a-ga-de₃#{[ki]} [... ...]-a-gin₇
 #lem: Agade[1]SN; Agade[1]SN; X; X
 #etcsl: line-id=A.18.15.39
 
-40. [...] BI X [...] X
+A.18.15.40. [...] BI X [...] X
 #lem: X; X; X; X; X
 #etcsl: line-id=A.18.15.40
 
@@ -192,7 +192,7 @@ $ (approx. 13 lines missing)
 $ (unplaced)
 @div proverb 18.b1
 
-1. BA# X [...]
+B.18.b1.1. BA# X [...]
 #lem: X; X; X
 #etcsl: line-id=B.18.b1.1
 

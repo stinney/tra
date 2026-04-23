@@ -1,6 +1,6 @@
 &Q000738 = A šir-gida to Nuska (Nuska B)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.29.2

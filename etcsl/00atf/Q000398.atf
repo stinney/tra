@@ -1,6 +1,6 @@
 &Q000398 = A praise poem of Šulgi (Šulgi D)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.2.04

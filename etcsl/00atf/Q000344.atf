@@ -1,6 +1,6 @@
 &Q000344 = Dumuzid and Ŋeštin-ana
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.4.1.1

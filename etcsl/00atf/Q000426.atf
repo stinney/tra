@@ -1,6 +1,6 @@
 &Q000426 = An adab to An for Šu-Suen (Šu-Suen E)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.4.5
@@ -11,13 +11,13 @@
 @div cagbatuku A
 
 $ (unknown no. of lines missing)
-1. šag₄-ta ur#-[saŋ ...]
+A.A.1. šag₄-ta ur#-[saŋ ...]
 #lem: šag[heart]; ursaŋ[warrior]; X
 #etcsl: line-id=A.A.1
 
 @div trailer 
 
-2. šag₄#-[ba-tuku ...]
+A.A.2. šag₄#-[ba-tuku ...]
 #lem: šagbatuku[liturgical rubric]; X
 #etcsl: line-id=A.A.2
 
@@ -27,25 +27,25 @@ $ (unknown no. of lines missing)
 
 @div barsud B
 
-3. {d}šu-{d}suen gal-zu X X [...]
+A.B.3. {d}šu-{d}suen gal-zu X X [...]
 #lem: Šusuen[1]RN; galanzu[wise]; X; X; X
 #etcsl: line-id=A.B.3
 
-4. X X MU lu₂ X X X [...]
+A.B.4. X X MU lu₂ X X X [...]
 #lem: X; X; X; lu[person]; X; X; X; X
 #etcsl: line-id=A.B.4
 
-5. [...] X U₃ barag X [...]
+A.B.5. [...] X U₃ barag X [...]
 #lem: X; X; X; barag[sanctum]; X; X
 #etcsl: line-id=A.B.5
 
-6. X X [... ...] mu-na-ab-X [...] hi-li me-te# [...]
+A.B.6. X X [... ...] mu-na-ab-X [...] hi-li me-te# [...]
 #lem: X; X; X; X; X; X; hili[attractiveness]; mete[appropriate thing]; X
 #etcsl: line-id=A.B.6
 
 @div trailer 
 
-7. bar-sud [2-kam-ma-am₃]
+A.B.7. bar-sud [2-kam-ma-am₃]
 #lem: barsud[musical notation]; n
 #etcsl: line-id=A.B.7
 
@@ -55,19 +55,19 @@ $ (unknown no. of lines missing)
 
 @div unknown C
 
-8. an-e X [...] KA [...]
+A.C.8. an-e X [...] KA [...]
 #lem: An[1]DN; X; X; X; X
 #etcsl: line-id=A.C.8
 
-9. {d}šu-{d}suen# [...]
+A.C.9. {d}šu-{d}suen# [...]
 #lem: Šusuen[1]RN; X
 #etcsl: line-id=A.C.9
 
-10. AN [...]
+A.C.10. AN [...]
 #lem: X; X
 #etcsl: line-id=A.C.10
 
-11. KI# [...]
+A.C.11. KI# [...]
 #lem: X; X
 #etcsl: line-id=A.C.11
 
@@ -80,17 +80,17 @@ $ (unknown no. of lines missing)
 
 @div sa-gida D
 
-1. X [...]
+B.D.1. X [...]
 #lem: X; X
 #etcsl: line-id=B.D.1
 
-2. {d}[šu]-{d}suen# [...] zig₃-ga# [...]
+B.D.2. {d}[šu]-{d}suen# [...] zig₃-ga# [...]
 #lem: Šusuen[1]RN; X; zig[rise]; X
 #etcsl: line-id=B.D.2
 
 @div trailer 
 
-3. sa-[gid₂-da]
+B.D.3. sa-[gid₂-da]
 #lem: sagida[musical notation]
 #etcsl: line-id=B.D.3
 
@@ -100,13 +100,13 @@ $ (unknown no. of lines missing)
 
 @div jicgijal E
 
-4. AN DA X mu-un-X X [...]
+B.E.4. AN DA X mu-un-X X [...]
 #lem: X; X; X; X; X; X
 #etcsl: line-id=B.E.4
 
 @div trailer 
 
-5. ŋiš-gi₄-ŋal₂ sa-gid₂-da-[bi-im]
+B.E.5. ŋiš-gi₄-ŋal₂ sa-gid₂-da-[bi-im]
 #lem: ŋešgiŋal[musical refrain]; sagida[musical notation]
 #etcsl: line-id=B.E.5
 
@@ -116,21 +116,21 @@ $ (unknown no. of lines missing)
 
 @div uru F
 
-6. an-e nam mu-un-tar-ra# [...]
+B.F.6. an-e nam mu-un-tar-ra# [...]
 #lem: An[1]DN; nam[fate]; tar[cut]; X
 #etcsl: line-id=B.F.6
 
-7. an kug-ga nam mu-un-tar eš₃ urim₂# [...]
+B.F.7. an kug-ga nam mu-un-tar eš₃ urim₂# [...]
 #lem: An[1]DN; kug[pure]; nam[fate]; tar[cut]; eš[shrine]; Urim[1]SN; X
 #etcsl: line-id=B.F.7
 
-8. an-e ud-gin₇ {d}šu-{d}suen-ra me X [...] KA mu-un-na-ni-in-[...]
+B.F.8. an-e ud-gin₇ {d}šu-{d}suen-ra me X [...] KA mu-un-na-ni-in-[...]
 #lem: An[1]DN; ud[sun]; Šusuen[1]RN; me[Being]; X; X; X; X
 #etcsl: line-id=B.F.8
 
 @div trailer 
 
-9. u₁₈-ru₁₂-bi-im
+B.F.9. u₁₈-ru₁₂-bi-im
 #lem: uru[literary subscript]
 #etcsl: line-id=B.F.9
 
@@ -140,7 +140,7 @@ $ (unknown no. of lines missing)
 
 @div trailer 
 
-10. a-da-ab an#-[na-kam]
+B.F.10. a-da-ab an#-[na-kam]
 #lem: adab[drum]; An[1]DN
 #etcsl: line-id=B.F.10
 

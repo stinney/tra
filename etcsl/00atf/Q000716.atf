@@ -1,6 +1,6 @@
 &Q000716 = A šir-gida (?) to Ninšubur (Ninšubur A)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.25.1
@@ -8,43 +8,43 @@
 
 @div segment A
 
-1. nin# numun# zid# kalam-ma sukkal an-na
+A.1. nin# numun# zid# kalam-ma sukkal an-na
 #lem: nin[lady]; numun[seed]; zid[right]; kalam[the Land (of Sumer)]; sukkal[secretary]; An[1]DN
 #etcsl: line-id=A.1
 
-2. sukkal an-na ama {d}nin-šubur ŋidru za-gin₃ šu u₃-me-ti
+A.2. sukkal an-na ama {d}nin-šubur ŋidru za-gin₃ šu u₃-me-ti
 #lem: sukkal[secretary]; An[1]DN; ama[mother]; Ninšubur[1]DN; ŋidru[scepter]; zagin[lapis lazuli]; šu[hand]; teŋ[approach]
 #etcsl: line-id=A.2
 
-3. igi an-na ši-im-me-dib-dib-be₂
+A.3. igi an-na ši-im-me-dib-dib-be₂
 #lem: igi[eye]; An[1]DN; dib[pass]
 #etcsl: line-id=A.3
 
-4. an-ne₂ an-šag₄-ta saŋ-e-eš mu-ni-in-rig₇
+A.4. an-ne₂ an-šag₄-ta saŋ-e-eš mu-ni-in-rig₇
 #lem: An[1]DN; anšag[the interior of heaven]; saŋ[head]; rig[donate]
 #etcsl: line-id=A.4
 
-5. {d}en-lil₂-le nam-e-eš mu-ni-in-tar
+A.5. {d}en-lil₂-le nam-e-eš mu-ni-in-tar
 #lem: Enlil[1]DN; nam[fate]; tar[cut]
 #etcsl: line-id=A.5
 
-6. u₈ zid sila₄ sag₉-sag₉ ud₅ zid maš₂ sag₉-sag₉-ga
+A.6. u₈ zid sila₄ sag₉-sag₉ ud₅ zid maš₂ sag₉-sag₉-ga
 #lem: u[sheep]; zid[right]; sila[lamb]; sag[good]; uzud[(female) goat]; zid[right]; maš[goat]; sag[good]
 #etcsl: line-id=A.6
 
-7. ama gan zid-gin₇ dumu sag₉-sag₉-ga
+A.7. ama gan zid-gin₇ dumu sag₉-sag₉-ga
 #lem: ama[mother]; gan[child-bearing]; zid[right]; dumu[child]; sag[good]
 #etcsl: line-id=A.7
 
-8. tur₃ hu-mu-u₈-da-du₃ amaš hu-mu-u₈-da-niŋin₂
+A.8. tur₃ hu-mu-u₈-da-du₃ amaš hu-mu-u₈-da-niŋin₂
 #lem: tur[animal stall]; du[build]; amaš[sheepfold]; niŋin[encircle]
 #etcsl: line-id=A.8
 
-9. tur₃ du₃-a-za amaš niŋin₂-na-za
+A.9. tur₃ du₃-a-za amaš niŋin₂-na-za
 #lem: tur[animal stall]; du[build]; amaš[sheepfold]; niŋin[encircle]
 #etcsl: line-id=A.9
 
-10. [...] X X [...]
+A.10. [...] X X [...]
 #lem: X; X; X; X
 #etcsl: line-id=A.10
 
@@ -53,41 +53,41 @@ $ (unknown no. of lines missing)
 
 @div segment B
 
-1. [šag₄] %e de₃-em-huŋ#-[e %s bar %e de₃-em-huŋ-e]
+B.1. [šag₄] %e de₃-em-huŋ#-[e %s bar %e de₃-em-huŋ-e]
 #lem: šag[heart]; huŋ[pacify]; bar[outside]; huŋ[pacify]
 #etcsl: line-id=B.1
 
-2. %e dim₃#-me₈-er# %s {d}a-nun-na# [GAR-ŋa₂-e %e de₃-en-huŋ-e]
+B.2. %e dim₃#-me₈-er# %s {d}a-nun-na# [GAR-ŋa₂-e %e de₃-en-huŋ-e]
 #lem: dimmer[deity]N; Anunak[1]DN; X; huŋ[pacify]
 #etcsl: line-id=B.2
 
-3. %e me-e da-gub-be₂-ŋen %s an-gub %e da-gub-X [...]
+B.3. %e me-e da-gub-be₂-ŋen %s an-gub %e da-gub-X [...]
 #lem: meʾe[I]IP; gub[stand]; gub[stand]; gub[stand]; X
 #etcsl: line-id=B.3
 
-4. ki-sikil %e ga-ša-an-an-na %s <kur> šuba₄ tud!-da %e de₃-em-hul₂-e#
+B.4. ki-sikil %e ga-ša-an-an-na %s <kur> šuba₄ tud!-da %e de₃-em-hul₂-e#
 #lem: kisikil[young woman]; Gašanana[1]DN; kur[mountain(s)]; šuba[multicoloured]; utud[give birth (to)]; hul[rejoice]
 #etcsl: line-id=B.4
 
-5. %e ga-ša-an-ŋen %s AŊ₂# BA# MU-ŋen %e de₃-em-hul₂-e
+B.5. %e ga-ša-an-ŋen %s AŊ₂# BA# MU-ŋen %e de₃-em-hul₂-e
 #lem: gašan[lady]N; X; X; X; hul[rejoice]
 #etcsl: line-id=B.5
 
-6. šag₄ %e de₃-em-huŋ-e %s bar %e de₃-em-huŋ-e
+B.6. šag₄ %e de₃-em-huŋ-e %s bar %e de₃-em-huŋ-e
 #lem: šag[heart]; huŋ[pacify]; bar[outside]; huŋ[pacify]
 #etcsl: line-id=B.6
 
-7. %e dim₃-me₈-er %s {d}a-nun-na GAR-ŋa₂-e %e de₃-en-huŋ-e
+B.7. %e dim₃-me₈-er %s {d}a-nun-na GAR-ŋa₂-e %e de₃-en-huŋ-e
 #lem: dimmer[deity]N; Anunak[1]DN; X; huŋ[pacify]
 #etcsl: line-id=B.7
 
-8. nin-e {a}akkilₓ(|GADA.KID₂.SI.A|){ki} asila(|EZEN×LAL₂|) ba-ni-in-ŋar
+B.8. nin-e {a}akkilₓ(|GADA.KID₂.SI.A|){ki} asila(|EZEN×LAL₂|) ba-ni-in-ŋar
 #lem: nin[lady]; Akkil[1]SN; asilala[joy]; ŋar[put]
 #etcsl: line-id=B.8
 
 @div trailer 
 
-9. šir₃#-gid₂#-da# {d#}nin#-[šubur]-ra#-kam#
+B.9. šir₃#-gid₂#-da# {d#}nin#-[šubur]-ra#-kam#
 #lem: širgida[literary subscript]; Ninšubur[1]DN
 #etcsl: line-id=B.9
 

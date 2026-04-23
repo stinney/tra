@@ -1,6 +1,6 @@
 &Q000809 = Proverbs: collection 16
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.16
@@ -10,27 +10,27 @@
 
 @div proverb 16.a1
 
-1. [...] NE
+A.16.a1.1. [...] NE
 #lem: X; X
 #etcsl: line-id=A.16.a1.1
 
-2. [...] šum₂
+A.16.a1.2. [...] šum₂
 #lem: X; šum[give]
 #etcsl: line-id=A.16.a1.2
 
-3. [... hul₂]
+A.16.a1.3. [... hul₂]
 #lem: X; hul[rejoice]
 #etcsl: line-id=A.16.a1.3
 
-4. [...] X KU
+A.16.a1.4. [...] X KU
 #lem: X; X; X
 #etcsl: line-id=A.16.a1.4
 
-5. [...]-gu₇-e
+A.16.a1.5. [...]-gu₇-e
 #lem: gu[eat]
 #etcsl: line-id=A.16.a1.5
 
-6. [...]-bi
+A.16.a1.6. [...]-bi
 #lem: X
 #etcsl: line-id=A.16.a1.6
 
@@ -38,15 +38,15 @@
 
 @div proverb 16.a2
 
-7. [...] he₂-X X
+A.16.a2.7. [...] he₂-X X
 #lem: X; X; X
 #etcsl: line-id=A.16.a2.7
 
-8. [...] tum₂#-ma
+A.16.a2.8. [...] tum₂#-ma
 #lem: X; tum[suitable]
 #etcsl: line-id=A.16.a2.8
 
-9. [...] DU
+A.16.a2.9. [...] DU
 #lem: X; X
 #etcsl: line-id=A.16.a2.9
 
@@ -54,31 +54,31 @@
 
 @div proverb 16.a3
 
-10. [...]-an-tur
+A.16.a3.10. [...]-an-tur
 #lem: tur[small]
 #etcsl: line-id=A.16.a3.10
 
-11. [...] X-e
+A.16.a3.11. [...] X-e
 #lem: X; X
 #etcsl: line-id=A.16.a3.11
 
-12. [...] 7
+A.16.a3.12. [...] 7
 #lem: X; n
 #etcsl: line-id=A.16.a3.12
 
-13. [...] gu₂#-uš#
+A.16.a3.13. [...] gu₂#-uš#
 #lem: X; gu[neck]
 #etcsl: line-id=A.16.a3.13
 
-14. [...] GA
+A.16.a3.14. [...] GA
 #lem: X; X
 #etcsl: line-id=A.16.a3.14
 
-15. [...] šum₂#
+A.16.a3.15. [...] šum₂#
 #lem: X; šum[give]
 #etcsl: line-id=A.16.a3.15
 
-16. [...] X
+A.16.a3.16. [...] X
 #lem: X; X
 #etcsl: line-id=A.16.a3.16
 
@@ -91,15 +91,15 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.b1
 
-1. [...] X [...] X [...]
+B.16.b1.1. [...] X [...] X [...]
 #lem: X; X; X; X; X
 #etcsl: line-id=B.16.b1.1
 
-2. [...] X X X [...] X X [...]
+B.16.b1.2. [...] X X X [...] X X [...]
 #lem: X; X; X; X; X; X; X; X
 #etcsl: line-id=B.16.b1.2
 
-3. X X AN AB X GAL X X ab-gu₇
+B.16.b1.3. X X AN AB X GAL X X ab-gu₇
 #lem: X; X; X; X; X; X; X; X; gu[eat]
 #etcsl: line-id=B.16.b1.3
 
@@ -107,13 +107,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.b2
 
-4. sipad he₂-em-ta-ed₃-de₃-e-en
+B.16.b2.4. sipad he₂-em-ta-ed₃-de₃-e-en
 #lem: sipad[shepherd]; ed[go up]
 #etcsl: line-id=B.16.b2.4
 
 #note: cf. 6.1.03.10
 
-5. udu-ni šu-a li-bi₂-in-gi₄
+B.16.b2.5. udu-ni šu-a li-bi₂-in-gi₄
 #lem: udu[sheep]; šu[hand]; gi[turn]
 #etcsl: line-id=B.16.b2.5
 
@@ -121,13 +121,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.b3
 
-6. sipad kug-zu mu#-un#-na#-bir-am₃
+B.16.b3.6. sipad kug-zu mu#-un#-na#-bir-am₃
 #lem: sipad[shepherd]; kugzu[wise]; bir[scatter]
 #etcsl: line-id=B.16.b3.6
 
 #note: cf. 6.1.03.11
 
-7. udu-ni šu-a li-bi₂-in-gi₄
+B.16.b3.7. udu-ni šu-a li-bi₂-in-gi₄
 #lem: udu[sheep]; šu[hand]; gi[turn]
 #etcsl: line-id=B.16.b3.7
 
@@ -135,13 +135,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.b4
 
-8. sipad!(TUR₃) ŋiš₃-a-ni
+B.16.b4.8. sipad!(TUR₃) ŋiš₃-a-ni
 #lem: sipad[shepherd]; ŋeš[penis]
 #etcsl: line-id=B.16.b4.8
 
 #note: cf. 6.1.03.9, 6.1.23.7
 
-9. nu-{ŋiš}kiri₆ suhur-ni
+B.16.b4.9. nu-{ŋiš}kiri₆ suhur-ni
 #lem: nukirik[gardener]; suhur[tuft]
 #etcsl: line-id=B.16.b4.9
 
@@ -149,7 +149,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.b5
 
-10. ibila nu-gen₆-na dam nu-il₂ dumu nu-il₂ giri₁₇-zal-še₃ nu-il₂
+B.16.b5.10. ibila nu-gen₆-na dam nu-il₂ dumu nu-il₂ giri₁₇-zal-še₃ nu-il₂
 #lem: ibila[heir]; gin[confirm]; dam[spouse]; il[raise]; dumu[child]; il[raise]; kirizal[joy]; il[raise]
 #etcsl: line-id=B.16.b5.10
 
@@ -159,11 +159,11 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.b6
 
-11. sipad X HA ud 1(DIŠ)-a itid na-an-X-X
+B.16.b6.11. sipad X HA ud 1(DIŠ)-a itid na-an-X-X
 #lem: sipad[shepherd]; X; X; ud[sun]; n; itud[moon]; X
 #etcsl: line-id=B.16.b6.11
 
-12. [...] ŠU [...]
+B.16.b6.12. [...] ŠU [...]
 #lem: X; X; X
 #etcsl: line-id=B.16.b6.12
 
@@ -171,21 +171,21 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.b7
 
-13. ud-da ga-ŋen na-gada#-[kam]
+B.16.b7.13. ud-da ga-ŋen na-gada#-[kam]
 #lem: ud[sun]; ŋen[go]; nagada[herdsman]
 #etcsl: line-id=B.16.b7.13
 
 #note: cf. 6.1.03.6
 
-14. ul-la ga-ŋen sipad#-[tur-ra-kam]
+B.16.b7.14. ul-la ga-ŋen sipad#-[tur-ra-kam]
 #lem: ul[distant time]; ŋen[go]; sipadtur[junior shepherd]
 #etcsl: line-id=B.16.b7.14
 
-15. niŋ₂-gur₁₁#-ni# X [...]
+B.16.b7.15. niŋ₂-gur₁₁#-ni# X [...]
 #lem: niŋgur[property]; X; X
 #etcsl: line-id=B.16.b7.15
 
-16. ga-ŋen#-am₃ [...]
+B.16.b7.16. ga-ŋen#-am₃ [...]
 #lem: ŋen[go]; X
 #etcsl: line-id=B.16.b7.16
 
@@ -193,11 +193,11 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.b8
 
-17. KU X [...]
+B.16.b8.17. KU X [...]
 #lem: X; X; X
 #etcsl: line-id=B.16.b8.17
 
-18. X X [...]
+B.16.b8.18. X X [...]
 #lem: X; X; X
 #etcsl: line-id=B.16.b8.18
 
@@ -210,13 +210,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.c1
 
-1. [igi engar-e mu-e-ši-in-il₂-e]
+C.16.c1.1. [igi engar-e mu-e-ši-in-il₂-e]
 #lem: igi[eye]; engar[farmer]; il[raise]
 #etcsl: line-id=C.16.c1.1
 
 #note: cf. 6.1.14.3, 6.2.5: UM 29-16-519 Seg. A ll. 7-8
 
-2. {[d]}[en-lil₂-le iri nam ku₅-ra₂-ni ha-ba]-ši-[in-il₂-e]
+C.16.c1.2. {[d]}[en-lil₂-le iri nam ku₅-ra₂-ni ha-ba]-ši-[in-il₂-e]
 #lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
 #etcsl: line-id=C.16.c1.2
 
@@ -224,13 +224,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.c2
 
-3. igi sipad-tur-re [mu-e-ši-in-il₂-e]
+C.16.c2.3. igi sipad-tur-re [mu-e-ši-in-il₂-e]
 #lem: igi[eye]; sipadtur[junior shepherd]; il[raise]
 #etcsl: line-id=C.16.c2.3
 
 #note: cf. 6.1.14.4, 6.1.15.b1, 6.2.5: UM 29-16-519 Seg. A ll. 9-10
 
-4. {d}en-lil₂-le iri nam# [ku₅-ra₂-ni] ha-ba-ši-in-il₂#-[e]
+C.16.c2.4. {d}en-lil₂-le iri nam# [ku₅-ra₂-ni] ha-ba-ši-in-il₂#-[e]
 #lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
 #etcsl: line-id=C.16.c2.4
 
@@ -238,13 +238,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.c3
 
-5. igi bahar₂-e mu-e-ši-[in-il₂-e]
+C.16.c3.5. igi bahar₂-e mu-e-ši-[in-il₂-e]
 #lem: igi[eye]; bahar[potter]; il[raise]
 #etcsl: line-id=C.16.c3.5
 
 #note: cf. 6.1.14.5, 6.1.15.b2, 6.2.5: UM 29-16-519 Seg. A ll. 11-12
 
-6. {d}en-lil₂-le iri nam [ku₅-ra₂-ni] ha-ba-ši-in-[il₂-e]
+C.16.c3.6. {d}en-lil₂-le iri nam [ku₅-ra₂-ni] ha-ba-ši-in-[il₂-e]
 #lem: Enlil[1]DN; iri[city]; nam[fate]; kud[cut]; il[raise]
 #etcsl: line-id=C.16.c3.6
 
@@ -252,7 +252,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.c4
 
-7. engar igi uru₃-a a-na-am₃ [... ak ...]
+C.16.c4.7. engar igi uru₃-a a-na-am₃ [... ak ...]
 #lem: engar[farmer]; igi[eye]; uru[guard]; ana[what?]; X; ak[do]; X
 #etcsl: line-id=C.16.c4.7
 
@@ -262,17 +262,17 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.c5
 
-8. ud al-šu₂-šu₂-ru# [im nu-šeŋ₃-am₃]
+C.16.c5.8. ud al-šu₂-šu₂-ru# [im nu-šeŋ₃-am₃]
 #lem: ud[sun]; šuš[cover]; im[rain]; šeŋ[rain]
 #etcsl: line-id=C.16.c5.8
 
 #note: cf. 6.1.03.149, 6.1.14.6, 6.1.22: ll. 172-175, 6.1.25.1
 
-9. im al-šeŋ₃# {[kuš]}[e-sir₂ nu-du₈]
+C.16.c5.9. im al-šeŋ₃# {[kuš]}[e-sir₂ nu-du₈]
 #lem: im[rain]; šeŋ[rain]; esir[sandal(s)]; du[spread]
 #etcsl: line-id=C.16.c5.9
 
-10. {id₂}idigna# [ka-ba nu-un-zur-re a-gar₃-re nu-si-si]
+C.16.c5.10. {id₂}idigna# [ka-ba nu-un-zur-re a-gar₃-re nu-si-si]
 #lem: Idigna[1 Tigris]; kag[mouth]; zur[roil]; agar[meadow]; si[fill]
 #etcsl: line-id=C.16.c5.10
 
@@ -285,11 +285,11 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.d1
 
-1. ki#-sikil# [...]
+D.16.d1.1. ki#-sikil# [...]
 #lem: kisikil[young woman]; X
 #etcsl: line-id=D.16.d1.1
 
-2. šum₂ ba-ab#-[...]
+D.16.d1.2. šum₂ ba-ab#-[...]
 #lem: šum[give]; X
 #etcsl: line-id=D.16.d1.2
 
@@ -297,13 +297,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.d2
 
-3. gu₅-li-ŋu₁₀# [niŋ₂ ud 1(DIŠ)-kam]
+D.16.d2.3. gu₅-li-ŋu₁₀# [niŋ₂ ud 1(DIŠ)-kam]
 #lem: guli[friend]; niŋ[thing]; ud[sun]; n
 #etcsl: line-id=D.16.d2.3
 
 #note: cf. 6.1.03.17
 
-4. gi-me-[a-aš-ŋu₁₀ niŋ₂ ud da-ri₂-kam]
+D.16.d2.4. gi-me-[a-aš-ŋu₁₀ niŋ₂ ud da-ri₂-kam]
 #lem: gimeaʾaš[colleague]; niŋ[thing]; ud[sun]; dari[eternal]
 #etcsl: line-id=D.16.d2.4
 
@@ -311,11 +311,11 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.d3
 
-5. šeš šag₄ [...]
+D.16.d3.5. šeš šag₄ [...]
 #lem: šeš[brother]; šag[heart]; X
 #etcsl: line-id=D.16.d3.5
 
-6. eme KA [...]
+D.16.d3.6. eme KA [...]
 #lem: eme[tongue]; X; X
 #etcsl: line-id=D.16.d3.6
 
@@ -328,17 +328,17 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e1
 
-1. MU# [...]
+E.16.e1.1. MU# [...]
 #lem: X; X
 #etcsl: line-id=E.16.e1.1
 
 #note: = Alster 1997 16 Sec. E 1
 
-2. niŋ₂ na-[me ...]
+E.16.e1.2. niŋ₂ na-[me ...]
 #lem: niŋ[thing]; name[any]; X
 #etcsl: line-id=E.16.e1.2
 
-3. kisal X X [...]
+E.16.e1.3. kisal X X [...]
 #lem: kisal[courtyard]; X; X; X
 #etcsl: line-id=E.16.e1.3
 
@@ -346,7 +346,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e2
 
-4. GA me-a X X šag₄ [...]
+E.16.e2.4. GA me-a X X šag₄ [...]
 #lem: X; mea[where?]; X; X; šag[heart]; X
 #etcsl: line-id=E.16.e2.4
 
@@ -356,13 +356,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e3
 
-5. ab geme₂-ta na-ab-ku₄#-ku₄#-[...]
+E.16.e3.5. ab geme₂-ta na-ab-ku₄#-ku₄#-[...]
 #lem: ab[window]; geme[female worker]; kur[enter]
 #etcsl: line-id=E.16.e3.5
 
 #note: = Alster 1997 16 Sec. E 3
 
-6. dam-gara₃ e-ne
+E.16.e3.6. dam-gara₃ e-ne
 #lem: damgar[merchant]; ane[he]
 #etcsl: line-id=E.16.e3.6
 
@@ -370,17 +370,17 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e4
 
-7. anše-e niŋ₂ 50-me-eš
+E.16.e4.7. anše-e niŋ₂ 50-me-eš
 #lem: anše[equid]; niŋ[thing]; n
 #etcsl: line-id=E.16.e4.7
 
 #note: = Alster 1997 16 Sec. E 4 = 21 Sec. C 1
 
-8. {ŋiš}dusu il₂-il₂-ne am₃-eš
+E.16.e4.8. {ŋiš}dusu il₂-il₂-ne am₃-eš
 #lem: dupsik[basket (for carrying earth and bricks)]; il[raise]; e[speak]
 #etcsl: line-id=E.16.e4.8
 
-9. 1(DIŠ)-am₃ kur₉-ra-am₃ a-na ba-an-il₂-e-še
+E.16.e4.9. 1(DIŠ)-am₃ kur₉-ra-am₃ a-na ba-an-il₂-e-še
 #lem: n; kur[enter]; ana[what?]; il[raise]
 #etcsl: line-id=E.16.e4.9
 
@@ -388,7 +388,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e5
 
-10. u₂ ur₂#-bi gid₂-da in-na#-bur₁₂-uš X-X-e-še
+E.16.e5.10. u₂ ur₂#-bi gid₂-da in-na#-bur₁₂-uš X-X-e-še
 #lem: u[plant(s)]; ur[root]; gid[long]; bur[tear out]; X
 #etcsl: line-id=E.16.e5.10
 
@@ -398,25 +398,25 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e6
 
-11. UN erin mu-un-ni-te# mu-da-an-BU
+E.16.e6.11. UN erin mu-un-ni-te# mu-da-an-BU
 #lem: X; eren[cedar]; teŋ[approach]; X
 #etcsl: line-id=E.16.e6.11
 
 #note: = Alster 1997 21 Sec. C 3
 
-12. na₄ UN ŊA₂ šeš# E X
+E.16.e6.12. na₄ UN ŊA₂ šeš# E X
 #lem: na[stone weight]; X; X; šeš[brother]; X; X
 #etcsl: line-id=E.16.e6.12
 
-13. X mu-da-DIB-gin₇#
+E.16.e6.13. X mu-da-DIB-gin₇#
 #lem: X; X
 #etcsl: line-id=E.16.e6.13
 
-14. X UŠ nam-ban₃-da
+E.16.e6.14. X UŠ nam-ban₃-da
 #lem: X; X; nambanda[youth]
 #etcsl: line-id=E.16.e6.14
 
-15. <niŋ₂-gig> {d}suen-na-kam
+E.16.e6.15. <niŋ₂-gig> {d}suen-na-kam
 #lem: niŋgig[evil]; Suen[1]DN
 #etcsl: line-id=E.16.e6.15
 
@@ -424,13 +424,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e7
 
-16. kur kug ba-al-[gin₇]
+E.16.e7.16. kur kug ba-al-[gin₇]
 #lem: kur[mountain(s)]; kug[metal]; bal[dig]
 #etcsl: line-id=E.16.e7.16
 
 #note: = Alster 1997 16 Sec. F 1 = 21 Sec. C 4; cf. 6.1.09.g5
 
-17. lu₂ dim₂-ma nu-sag₉
+E.16.e7.17. lu₂ dim₂-ma nu-sag₉
 #lem: lu[person]; dimma[thought]; sag[good]
 #etcsl: line-id=E.16.e7.17
 
@@ -438,13 +438,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e8
 
-18. šu-i-gin₇ nam X [...]
+E.16.e8.18. šu-i-gin₇ nam X [...]
 #lem: šuʾi[barber]; nam[fate]; X; X
 #etcsl: line-id=E.16.e8.18
 
 #note: = Alster 1997 16 Sec. F 2
 
-19. suhur im-ši-la₂-e#
+E.16.e8.19. suhur im-ši-la₂-e#
 #lem: suhur[tuft]; la[hang]
 #etcsl: line-id=E.16.e8.19
 
@@ -452,13 +452,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e9
 
-20. u₂ MUNUS+NI ak [...]
+E.16.e9.20. u₂ MUNUS+NI ak [...]
 #lem: u[plant(s)]; X; ak[do]; X
 #etcsl: line-id=E.16.e9.20
 
 #note: = Alster 1997 16 Sec. F 3
 
-21. gaba du₆-da i₃-ak [... ...]-e-[še]
+E.16.e9.21. gaba du₆-da i₃-ak [... ...]-e-[še]
 #lem: gaba[breast]; dud[(ruin) mound]; ak[do]; X; X
 #etcsl: line-id=E.16.e9.21
 
@@ -466,7 +466,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e10
 
-22. X ZI TUG₂ X [...] {[d]}nirah-gin₇ dar-ra-me-en#
+E.16.e10.22. X ZI TUG₂ X [...] {[d]}nirah-gin₇ dar-ra-me-en#
 #lem: X; X; X; X; X; Nirah[1]DN; dar[split]
 #etcsl: line-id=E.16.e10.22
 
@@ -476,7 +476,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e11
 
-23. {[u₂]}numun₂ in-degₓ(RI)-degₓ(RI)-ga
+E.16.e11.23. {[u₂]}numun₂ in-degₓ(RI)-degₓ(RI)-ga
 #lem: numun[alfalfa grass]; deg[gather up]
 #etcsl: line-id=E.16.e11.23
 
@@ -486,7 +486,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e12
 
-24. [...]-ka-am₃ i₃-bar-re
+E.16.e12.24. [...]-ka-am₃ i₃-bar-re
 #lem: X; bar[place outside]
 #etcsl: line-id=E.16.e12.24
 
@@ -496,7 +496,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e13
 
-25. X ma₂ bi₂-in-dirig-ge₄# (1:ni₂-zu ba-da-an-tum₃:1)
+E.16.e13.25. X ma₂ bi₂-in-dirig-ge₄# (1:ni₂-zu ba-da-an-tum₃:1)
 #lem: X; ma[ship]; dirig[make more than]; ni[self]; tum[bring]
 #etcsl: line-id=E.16.e13.25
 
@@ -509,7 +509,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e14
 
-26. eŋer# ni₂-zuh ti-ri₂-da mu-dehi₂#
+E.16.e14.26. eŋer# ni₂-zuh ti-ri₂-da mu-dehi₂#
 #lem: egir[back]; nizuh[thief]; tirida[runaway]; tehi[approach]
 #etcsl: line-id=E.16.e14.26
 
@@ -519,7 +519,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e15
 
-27. IM-ni-a (1:zag-am₃:1) šu ba-ab-KAL
+E.16.e15.27. IM-ni-a (1:zag-am₃:1) šu ba-ab-KAL
 #lem: X; zag[side]; šu[hand]; X
 #etcsl: line-id=E.16.e15.27
 
@@ -528,14 +528,14 @@ $ (unknown no. of lines missing)
 
 #note: = Alster 1997 16 Sec. F 7
 
-28. (1:nu-{ŋiš}kiri₆-ke₄:1) mu-un-dab₅-be₂-ne
+E.16.e15.28. (1:nu-{ŋiš}kiri₆-ke₄:1) mu-un-dab₅-be₂-ne
 #lem: nukirik[gardener]; dab[seize]
 #etcsl: line-id=E.16.e15.28
 
 :28v.1.1: (#note: 1 ms. has instead:#) nu-{ŋiš}kiri₆ iri
 #lem: nukirik[gardener]; iri[city]
 
-29. (1:ŋiri₃# {ŋiš}kiri₆-še₃ im-tum₂-tum₂-ma:1)
+E.16.e15.29. (1:ŋiri₃# {ŋiš}kiri₆-še₃ im-tum₂-tum₂-ma:1)
 #lem: ŋiri[foot]; kiri[(fruit) plantation]; tum[bring]
 #etcsl: line-id=E.16.e15.29
 
@@ -546,7 +546,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.e16
 
-30. [... ...]-rin-na IM-ni-a zag-bi [... ...] NI NE he₂-en-MUŠ₂
+E.16.e16.30. [... ...]-rin-na IM-ni-a zag-bi [... ...] NI NE he₂-en-MUŠ₂
 #lem: X; X; X; zag[side]; X; X; X; X; X
 #etcsl: line-id=E.16.e16.30
 
@@ -561,7 +561,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.f1
 
-1. [...] X-e-še
+F.16.f1.1. [...] X-e-še
 #lem: X; X
 #etcsl: line-id=F.16.f1.1
 
@@ -571,7 +571,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 16.f2
 
-2. [...] X A ŠE# [...] X-i gid₂-i X-ŋa₂-ŋa₂ {{%akk iš-hi-[...]-ik# %akk X %akk el %akk ra-ma-ni-šu %akk IZ %akk NU %akk UR}}
+F.16.f2.2. [...] X A ŠE# [...] X-i gid₂-i X-ŋa₂-ŋa₂ {{%akk iš-hi-[...]-ik# %akk X %akk el %akk ra-ma-ni-šu %akk IZ %akk NU %akk UR}}
 #lem: X; X; X; X; X; X; gid[long]; ŋar[put]; L; L; L; L; L; L; L
 #etcsl: line-id=F.16.f2.2
 

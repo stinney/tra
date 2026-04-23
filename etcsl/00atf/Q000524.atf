@@ -1,6 +1,6 @@
 &Q000524 = Samsu-iluna and Inana (Samsu-iluna A)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.8.3.1

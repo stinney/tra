@@ -1,6 +1,6 @@
 &Q000327 = OB catalogue possibly from Zimbir (B1)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.07
@@ -8,60 +8,60 @@
 
 @div segment A
 
-1. [...] X X X [...] im-me %e uru₂# %s am₃#-ma!-er₂-ra-bi
+A.1. [...] X X X [...] im-me %e uru₂# %s am₃#-ma!-er₂-ra-bi
 #lem: X; X; X; X; X; dug[speak]; uru[city]; er[weep]
 #etcsl: line-id=A.1
 
-2. [...] balaŋ# {d}nin-X
+A.2. [...] balaŋ# {d}nin-X
 #lem: X; balaŋ[an instrument]; Nin.X[0]DN
 #etcsl: line-id=A.2
 
-3. [...] DU
+A.3. [...] DU
 #lem: X; X
 #etcsl: line-id=A.3
 
-4. [...] il-la-lum# X a il-la-lum
+A.4. [...] il-la-lum# X a il-la-lum
 #lem: X; illalum[an expression]; X; aya[cry]; illalum[an expression]
 #etcsl: line-id=A.4
 
-5. [...] balaŋ {d}suen
+A.5. [...] balaŋ {d}suen
 #lem: X; balaŋ[an instrument]; Suen[1]DN
 #etcsl: line-id=A.5
 
-6. %e u₃#-mu-un#-bi# %s nu#-til₃ %e u₃-mu-un-na %s kur-ra-na
+A.6. %e u₃#-mu-un#-bi# %s nu#-til₃ %e u₃-mu-un-na %s kur-ra-na
 #lem: umun[lord]N; til[live (of a single person)]; umun[lord]N; kur[mountain(s)]
 #etcsl: line-id=A.6
 
-7. 1 šir₃-nam-šu-ub {d}[...]
+A.7. 1 šir₃-nam-šu-ub {d}[...]
 #lem: n; širnamšubak[subscript]; X[1]DN
 #etcsl: line-id=A.7
 
-8. 1 {kuš}balaŋ 1 šir₃-nam#-[šu-ub] {[d]}suen#
+A.8. 1 {kuš}balaŋ 1 šir₃-nam#-[šu-ub] {[d]}suen#
 #lem: n; balaŋ[an instrument]; n; širnamšubak[subscript]; Suen[1]DN
 #etcsl: line-id=A.8
 
-9. 1 [...]
+A.9. 1 [...]
 #lem: n; X
 #etcsl: line-id=A.9
 
-10. [en zu sa₂] %e mar#-mar %s lu₂ %e ta-zu# %s [mu-un-zu]
+A.10. [en zu sa₂] %e mar#-mar %s lu₂ %e ta-zu# %s [mu-un-zu]
 #lem: en[lord]; zu[know]; sa[advice]; mar[place]V/t; lu[person]; ta[what?]QP; zu[know]
 #etcsl: line-id=A.10
 
-11. [...] X X [...] X
+A.11. [...] X X [...] X
 #lem: X; X; X; X; X
 #etcsl: line-id=A.11
 
-12. [...] X KU X [...]
+A.12. [...] X KU X [...]
 #lem: X; X; X; X; X
 #etcsl: line-id=A.12
 
-13. [...] A [...]
+A.13. [...] A [...]
 #lem: X; X; X
 #etcsl: line-id=A.13
 
 $ 1 line missing
-15. [...] X [...]
+A.15. [...] X [...]
 #lem: X; X; X
 #etcsl: line-id=A.15
 
@@ -70,91 +70,91 @@ $ (unknown no. of lines missing)
 
 @div segment B
 
-1. [...] X [...]
+B.1. [...] X [...]
 #lem: X; X; X
 #etcsl: line-id=B.1
 
-2. [...] LU I AN# [...]
+B.2. [...] LU I AN# [...]
 #lem: X; X; X; X; X
 #etcsl: line-id=B.2
 
-3. [...] X I ME A
+B.3. [...] X I ME A
 #lem: X; X; X; X; X
 #etcsl: line-id=B.3
 
-4. [...] X i#-lu# NA X [...]
+B.4. [...] X i#-lu# NA X [...]
 #lem: X; X; ilu[lament]; X; X; X
 #etcsl: line-id=B.4
 
-5. 3 er₂-šem₃ [...]
+B.5. 3 er₂-šem₃ [...]
 #lem: n; eršemak[song]; X
 #etcsl: line-id=B.5
 
-6. X [...] A AN# X [...]
+B.6. X [...] A AN# X [...]
 #lem: X; X; X; X; X; X
 #etcsl: line-id=B.6
 
-7. [...] 1# šir₃-nam-šu-ub# [...]
+B.7. [...] 1# šir₃-nam-šu-ub# [...]
 #lem: X; n; širnamšubak[subscript]; X
 #etcsl: line-id=B.7
 
-8. [...] X ib-zal X X X
+B.8. [...] X ib-zal X X X
 #lem: X; X; zal[pass time]; X; X; X
 #etcsl: line-id=B.8
 
-9. [...] HI# KI iri-gal
+B.9. [...] HI# KI iri-gal
 #lem: X; X; X; irigal[underworld]
 #etcsl: line-id=B.9
 
-10. [...] ŋar#-ra na-an-DU
+B.10. [...] ŋar#-ra na-an-DU
 #lem: X; ŋar[put]; X
 #etcsl: line-id=B.10
 
-11. [...] 3 šir₃-nam-šu-ub diŋir-mah
+B.11. [...] 3 šir₃-nam-šu-ub diŋir-mah
 #lem: X; n; širnamšubak[subscript]; Diŋirmah[1]DN
 #etcsl: line-id=B.11
 
-12. [...] HI# KI X
+B.12. [...] HI# KI X
 #lem: X; X; X; X
 #etcsl: line-id=B.12
 
-13. [...] X AD MU %e {d}mu-ul#-[lil₂ %s ...] gul#-gul
+B.13. [...] X AD MU %e {d}mu-ul#-[lil₂ %s ...] gul#-gul
 #lem: X; X; X; X; Mullil[]DN; X; gul[destroy]
 #etcsl: line-id=B.13
 
-14. [...] X %e aŋ₂-ŋa₂# %s [...] A
+B.14. [...] X %e aŋ₂-ŋa₂# %s [...] A
 #lem: X; X; aŋ[thing]N; X; X
 #etcsl: line-id=B.14
 
-15. [...] nam# tar-tar-re
+B.15. [...] nam# tar-tar-re
 #lem: X; nam[fate]; tar[cut]
 #etcsl: line-id=B.15
 
-16. [...] X a-ma-ru na-nam
+B.16. [...] X a-ma-ru na-nam
 #lem: X; X; amaru[flood]; me[be]
 #etcsl: line-id=B.16
 
-17. [...] lu₂ %e ta-zu %s mu-un-zu
+B.17. [...] lu₂ %e ta-zu %s mu-un-zu
 #lem: X; lu[person]; ta[what?]QP; zu[know]
 #etcsl: line-id=B.17
 
-18. [...] er₂#-šem₃ {d}nin-urta
+B.18. [...] er₂#-šem₃ {d}nin-urta
 #lem: X; eršemak[song]; Ninurtak[1]DN
 #etcsl: line-id=B.18
 
-19. [...]-li-ia X NI mu-un-zu
+B.19. [...]-li-ia X NI mu-un-zu
 #lem: X; X; X; zu[know]
 #etcsl: line-id=B.19
 
-20. [...] SU
+B.20. [...] SU
 #lem: X; X
 #etcsl: line-id=B.20
 
-21. [...] er₂-šem₃# diŋir-mah
+B.21. [...] er₂-šem₃# diŋir-mah
 #lem: X; eršemak[song]; Diŋirmah[1]DN
 #etcsl: line-id=B.21
 
-22. [...] X mu-bar-ra
+B.22. [...] X mu-bar-ra
 #lem: X; X; bar[place outside]
 #etcsl: line-id=B.22
 

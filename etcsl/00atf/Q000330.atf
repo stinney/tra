@@ -1,6 +1,6 @@
 &Q000330 = OB catalogue at Yale (Y2)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.0.2.12
@@ -8,71 +8,71 @@
 
 @div segment A
 
-1. [lugal-me]-en#
+A.1. [lugal-me]-en#
 #lem: lugal[king]
 #etcsl: line-id=A.1
 
 #note: Culgi A, 2.4.2.01
 
-2. lugal mi₂ dug₄
+A.2. lugal mi₂ dug₄
 #lem: lugal[king]; mi[cvne]; dug[speak]
 #etcsl: line-id=A.2
 
 #note: Lipit-Ectar A, 2.5.5.1
 
-3. en-e niŋ₂
+A.3. en-e niŋ₂
 #lem: en[lord]; niŋdu[that which is appropriate]
 #etcsl: line-id=A.3
 
 #note: The song of the hoe, 5.5.4
 
-4. nin me
+A.4. nin me
 #lem: nin[lady]; me[Being]
 #etcsl: line-id=A.4
 
 #note: Inana B, 4.07.2
 
-5. bur-šu
+A.5. bur-šu
 #lem: buršuma[dowager]
 #etcsl: line-id=A.5
 
 #note: Icbi-Erra E, 2.5.1.5
 
-6. dumu# e₂
+A.6. dumu# e₂
 #lem: dumu[child]; edubbaʾa[scribal school]
 #etcsl: line-id=A.6
 
 #note: five compositions are known with this incipit: E-dub-ba-a A, 5.1.1; E-dub-ba-a C, 5.1.3; E-dub-ba-a E, 5.1.5; Dialogue 1, 5.4.01; Dialogue 3, 5.4.03
 
-7. dumu e₂
+A.7. dumu e₂
 #lem: dumu[child]; edubbaʾa[scribal school]
 #etcsl: line-id=A.7
 
 #note: five compositions are known with this incipit: E-dub-ba-a A, 5.1.1; E-dub-ba-a C, 5.1.3; E-dub-ba-a E, 5.1.5; Dialogue 1, 5.4.01; Dialogue 3, 5.4.03
 
-8. dumu e₂
+A.8. dumu e₂
 #lem: dumu[child]; edubbaʾa[scribal school]
 #etcsl: line-id=A.8
 
 #note: five compositions are known with this incipit: E-dub-ba-a A, 5.1.1; E-dub-ba-a C, 5.1.3; E-dub-ba-a E, 5.1.5; Dialogue 1, 5.4.01; Dialogue 3, 5.4.03
 
-9. NAM
+A.9. NAM
 #lem: X
 #etcsl: line-id=A.9
 
-10. {d}inana
+A.10. {d}inana
 #lem: Inanak[1]DN
 #etcsl: line-id=A.10
 
-11. šag₄-ga AN
+A.11. šag₄-ga AN
 #lem: šag[heart]; X
 #etcsl: line-id=A.11
 
-12. in-nin
+A.12. in-nin
 #lem: innin[lady]
 #etcsl: line-id=A.12
 
-13. <(e₂)>-u₆#-<(nir)>
+A.13. <(e₂)>-u₆#-<(nir)>
 #lem: Eunir[1]TN
 #etcsl: line-id=A.13
 
@@ -83,47 +83,47 @@ $ (unknown no. of lines missing)
 
 @div segment B
 
-1. DIŠ a
+B.1. DIŠ a
 #lem: X; aʾa[text]
 #etcsl: line-id=B.1
 
-2. DIŠ an
+B.2. DIŠ an
 #lem: X; An[1]DN
 #etcsl: line-id=B.2
 
-3. {ŋiš}taškarin
+B.3. {ŋiš}taškarin
 #lem: taškarin[box tree]
 #etcsl: line-id=B.3
 
-4. {gi}gašam
+B.4. {gi}gašam
 #lem: gašam[reed]
 #etcsl: line-id=B.4
 
-5. udu
+B.5. udu
 #lem: udu[sheep]
 #etcsl: line-id=B.5
 
-6. {na₄}ka-gen₆-na
+B.6. {na₄}ka-gen₆-na
 #lem: kagina[stone]
 #etcsl: line-id=B.6
 
-7. ZI DU₈
+B.7. ZI DU₈
 #lem: X; X
 #etcsl: line-id=B.7
 
-8. lu₂ X
+B.8. lu₂ X
 #lem: lu[person]; X
 #etcsl: line-id=B.8
 
-9. NE# BI
+B.9. NE# BI
 #lem: X; X
 #etcsl: line-id=B.9
 
-10. X X
+B.10. X X
 #lem: X; X
 #etcsl: line-id=B.10
 
-11. X X
+B.11. X X
 #lem: X; X
 #etcsl: line-id=B.11
 

@@ -1,6 +1,6 @@
 &Q000748 = A hymn to Sadarnuna (Sadarnuna A)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.33.1
@@ -8,63 +8,63 @@
 
 @div segment A
 
-1. munus zid me gal-la dur₂ ŋar-ra
+A.1. munus zid me gal-la dur₂ ŋar-ra
 #lem: munus[woman]; zid[right]; me[Being]; gal[big]; dur[buttocks]; ŋar[put]
 #etcsl: line-id=A.1
 
-2. nin nam-nin-a dib-ba-am₃
+A.2. nin nam-nin-a dib-ba-am₃
 #lem: nin[lady]; namnin[ladyship]; dib[pass]
 #etcsl: line-id=A.2
 
-3. {d}sa#-[dar₃]-nun-na munus zid ŋalga sud zid ki aŋ₂ an-na-kam
+A.3. {d}sa#-[dar₃]-nun-na munus zid ŋalga sud zid ki aŋ₂ an-na-kam
 #lem: Sadarnuna[1]DN; munus[woman]; zid[right]; ŋalga[(fore)thought]; sud[distant]; zid[right]; ki[place]; aŋ[measure]; An[1]DN
 #etcsl: line-id=A.3
 
-4. nir gal kar mah {d}en-ul {d}nin-ul-e eš₃-mah-a tum₂-ma
+A.4. nir gal kar mah {d}en-ul {d}nin-ul-e eš₃-mah-a tum₂-ma
 #lem: nir[lordly]; gal[big]; kar[harbor]; mah[great]; Enul[1]DN; Ninul[1]DN; Ešmah[1]TN; tum[suitable]
 #etcsl: line-id=A.4
 
-5. munus zid-de₃ kisal {d}en-lil₂-la₂-ka barag mah-a-na mu-un-ri
+A.5. munus zid-de₃ kisal {d}en-lil₂-la₂-ka barag mah-a-na mu-un-ri
 #lem: munus[woman]; zid[right]; kisal[courtyard]; Enlil[1]DN; barag[sanctum]; mah[great]; ri[impose]
 #etcsl: line-id=A.5
 
-6. {e₂}šutum kug eš₃-mah ki X X gub-bu-na ni₂ huš gur₃-ru-am₃
+A.6. {e₂}šutum kug eš₃-mah ki X X gub-bu-na ni₂ huš gur₃-ru-am₃
 #lem: šutum[storehouse]; kug[purify]; Ešmah[1]TN; ki[place]; X; X; gub[stand]; ni[fear]; huš[reddish]; gur[lift]
 #etcsl: line-id=A.6
 
-7. u₃-tud-da ki aŋ₂ an lugal-la
+A.7. u₃-tud-da ki aŋ₂ an lugal-la
 #lem: utud[give birth (to)]; ki[place]; aŋ[measure]; An[1]DN; lugal[king]
 #etcsl: line-id=A.7
 
-8.  %e  pad₃#-da#-nu#-nus#-e#  %s  he₂-du₇-na X eš₃-mah X X X
+A.8.  %e  pad₃#-da#-nu#-nus#-e#  %s  he₂-du₇-na X eš₃-mah X X X
 #lem: Padanunus[1]TN; hedu[ornament]; X; Ešmah[1]TN; X; X; X
 #etcsl: line-id=A.8
 
-9. e₂-me-lem₄-huš ni₂ gal gur₃-ru-na su zig₃ X [...]
+A.9. e₂-me-lem₄-huš ni₂ gal gur₃-ru-na su zig₃ X [...]
 #lem: Emelemhuš[1]TN; ni[fear]; gal[big]; gur[lift]; su[flesh]; zig[rise]; X; X
 #etcsl: line-id=A.9
 
-10. diŋir gal-gal an ki-ke₄-ne šu-kin mu-ra#-[...]
+A.10. diŋir gal-gal an ki-ke₄-ne šu-kin mu-ra#-[...]
 #lem: diŋir[deity]; gal[big]; an[sky]; ki[place]; šukin[prostration]; X
 #etcsl: line-id=A.10
 
-11. nitalam#-a-ni kingal {d}nuska [...]
+A.11. nitalam#-a-ni kingal {d}nuska [...]
 #lem: ŋidlam[(equal ranking) spouse]; kingal[an official]; Nuska[1]DN; X
 #etcsl: line-id=A.11
 
-12. [... ...] X-ni u₁₈-ru šu zid [...]
+A.12. [... ...] X-ni u₁₈-ru šu zid [...]
 #lem: X; X; X; urun[exalted]; šu[hand]; zid[right]; X
 #etcsl: line-id=A.12
 
-13. [... ...] X iti₆ kalam X [...]
+A.13. [... ...] X iti₆ kalam X [...]
 #lem: X; X; X; itud[moon]; kalam[the Land (of Sumer)]; X; X
 #etcsl: line-id=A.13
 
-14. [...] a-ŋi₆ du₇-du₇# [...]
+A.14. [...] a-ŋi₆ du₇-du₇# [...]
 #lem: X; aŋi[wave]; du[push]; X
 #etcsl: line-id=A.14
 
-15. [...] X X [...]
+A.15. [...] X X [...]
 #lem: X; X; X; X
 #etcsl: line-id=A.15
 
@@ -73,23 +73,23 @@ $ (unknown no. of lines missing)
 
 @div segment B
 
-1. nam X [...] X X [...]
+B.1. nam X [...] X X [...]
 #lem: nam[fate]; X; X; X; X; X
 #etcsl: line-id=B.1
 
-2. {d}en-lil₂ X X X [...]
+B.2. {d}en-lil₂ X X X [...]
 #lem: Enlil[1]DN; X; X; X; X
 #etcsl: line-id=B.2
 
-3. X X X X X [...]
+B.3. X X X X X [...]
 #lem: X; X; X; X; X; X
 #etcsl: line-id=B.3
 
-4. šag₄ {d}nin-lil₂-la₂# X X [...]
+B.4. šag₄ {d}nin-lil₂-la₂# X X [...]
 #lem: šag[heart]; Ninlil[1]DN; X; X; X
 #etcsl: line-id=B.4
 
-5. {d}sa-dar₃-nun-na X X X X za₃-mi₂-zu dug₃-ga-am₃#
+B.5. {d}sa-dar₃-nun-na X X X X za₃-mi₂-zu dug₃-ga-am₃#
 #lem: Sadarnuna[1]DN; X; X; X; X; zamin[praise]; dug[good]
 #etcsl: line-id=B.5
 

@@ -1,6 +1,6 @@
 &Q000803 = Proverbs: collection 10
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.10
@@ -8,7 +8,7 @@
 
 @div proverb 10.1
 
-1. [nir]-ŋal₂#-e a-na# [bi₂-in]-dug₄# nu-sag₉
+10.1.1. [nir]-ŋal₂#-e a-na# [bi₂-in]-dug₄# nu-sag₉
 #lem: nirŋal[authoritative]; ana[what?]; dug[speak]; sag[good]
 #etcsl: line-id=10.1.1
 
@@ -18,7 +18,7 @@
 
 @div proverb 10.2
 
-2. nir-ŋal₂-e a-na bi₂#-in-dug₄ nu-zid
+10.2.2. nir-ŋal₂-e a-na bi₂#-in-dug₄ nu-zid
 #lem: nirŋal[authoritative]; ana[what?]; dug[speak]; zid[right]
 #etcsl: line-id=10.2.2
 
@@ -28,13 +28,13 @@
 
 @div proverb 10.3-4
 
-3. nir-ŋal₂ kug-zu-am₃ ukur₃ šu dim₄-am₃
+10.3-4.3. nir-ŋal₂ kug-zu-am₃ ukur₃ šu dim₄-am₃
 #lem: nirŋal[authoritative]; kugzu[wise]; ukur[poor]; šu[hand]; dim[check]
 #etcsl: line-id=10.3-4.3
 
 #note: cf. 6.1.09.a3, 6.2.2: MDP 27 216, 6.2.5: IM 43438 Seg. A l. 2
 
-4. šu ŋar ŋal₂-la aratta{ki}-ka
+10.3-4.4. šu ŋar ŋal₂-la aratta{ki}-ka
 #lem: šu[hand]; ŋar[put]; ŋal[⟦be⟧ to be (there]; Aratta[1]GN
 #etcsl: line-id=10.3-4.4
 
@@ -42,7 +42,7 @@
 
 @div proverb 10.5
 
-5. a₂-tuku lugal ki-in-du-ke₄
+10.5.5. a₂-tuku lugal ki-in-du-ke₄
 #lem: atuku[powerful]; lugal[king]; kindu[earth]
 #etcsl: line-id=10.5.5
 
@@ -52,7 +52,7 @@
 
 @div proverb 10.6
 
-6. usu ka lu₂-ta-am₃ am₃-ku₄-ku₄
+10.6.6. usu ka lu₂-ta-am₃ am₃-ku₄-ku₄
 #lem: usu[strength]; kag[mouth]; lu[person]; kur[enter]
 #etcsl: line-id=10.6.6
 
@@ -62,7 +62,7 @@
 
 @div proverb 10.7
 
-7. usu igi-ŋal₂-tuku nu-mu-e-da-sa₂
+10.7.7. usu igi-ŋal₂-tuku nu-mu-e-da-sa₂
 #lem: usu[strength]; igiŋaltuku[wise]; sa[equal]
 #etcsl: line-id=10.7.7
 
@@ -72,7 +72,7 @@
 
 @div proverb 10.8
 
-8. usu diŋir-ŋa₂ ni₂-ŋa₂ ba-til
+10.8.8. usu diŋir-ŋa₂ ni₂-ŋa₂ ba-til
 #lem: usu[strength]; diŋir[deity]; ni[self]; til[complete]
 #etcsl: line-id=10.8.8
 
@@ -82,7 +82,7 @@
 
 @div proverb 10.9
 
-9. [nam]-ŋuruš# anše kar#-ra-gin₇ haš₂-ŋa₂ ba-e-taka₄
+10.9.9. [nam]-ŋuruš# anše kar#-ra-gin₇ haš₂-ŋa₂ ba-e-taka₄
 #lem: namŋuruš[manliness]; anše[equid]; kar[flee]; haš[thigh]; taka[set aside]
 #etcsl: line-id=10.9.9
 
@@ -92,7 +92,7 @@
 
 @div proverb 10.10
 
-10. [hur-saŋ] gig₂#-ŋu₁₀ im#-babbar ba-an-mu₂
+10.10.10. [hur-saŋ] gig₂#-ŋu₁₀ im#-babbar ba-an-mu₂
 #lem: hursaŋ[mountain]; giggig[black]; imbabbar[gypsum]; mu[grow]
 #etcsl: line-id=10.10.10
 
@@ -102,13 +102,13 @@
 
 @div proverb 10.11
 
-11. ama-ŋu₁₀ {ŋiš}tir-ta lu₂ mu-ši-in-gi₄
+10.11.11. ama-ŋu₁₀ {ŋiš}tir-ta lu₂ mu-ši-in-gi₄
 #lem: ama[mother]; tir[forest]; lu[person]; gi[turn]
 #etcsl: line-id=10.11.11
 
 #note: cf. 6.1.17.b3: l. 15, 6.1.19.a1: ll. 2-3, 5.6.7: l. 30
 
-12. šu dab₅-ŋu₁₀ ma-an-šum₂
+10.11.12. šu dab₅-ŋu₁₀ ma-an-šum₂
 #lem: šu[hand]; dab[seize]; šum[give]
 #etcsl: line-id=10.11.12
 
@@ -116,7 +116,7 @@
 
 @div proverb 10.12
 
-13. {d}nin-kilim (1:niŋ₂:1) hab₂-ba gu₇-gu₇-ŋu₁₀
+10.12.13. {d}nin-kilim (1:niŋ₂:1) hab₂-ba gu₇-gu₇-ŋu₁₀
 #lem: ninkilim[mongoose]; niŋ[thing]; hab[malodorous]; gu[eat]
 #etcsl: line-id=10.12.13
 
@@ -125,7 +125,7 @@
 
 #note: cf. 6.1.17.b3: ll. 16-17, 6.1.19.a1: ll. 4-5, 5.6.7: l. 31
 
-14. dug i₃-nun-na-še₃ gu₂ nu-mu-un-ši-la₂-e
+10.12.14. dug i₃-nun-na-še₃ gu₂ nu-mu-un-ši-la₂-e
 #lem: dug[(clay) pot]; inun[ghee]; gu[neck]; la[hang]
 #etcsl: line-id=10.12.14
 
@@ -133,11 +133,11 @@
 
 @div proverb 10.13
 
-15. ur₂ %es am-mu-uš-e i-bi₂ %s imin-e
+10.13.15. ur₂ %es am-mu-uš-e i-bi₂ %s imin-e
 #lem: ur[loin]; ammuš[three]; ibi[eye]N; imin[seven]
 #etcsl: line-id=10.13.15
 
-16. bad₃-si gul-gul-e na-ab-be₂-a
+10.13.16. bad₃-si gul-gul-e na-ab-be₂-a
 #lem: badsi[parapet]; gul[destroy]; e[speak]
 #etcsl: line-id=10.13.16
 
@@ -145,7 +145,7 @@
 
 @div proverb 10.14
 
-17. esaŋ₂ gibil-za in-nu sumun-a-ŋu₁₀ ga-an-si-e-še
+10.14.17. esaŋ₂ gibil-za in-nu sumun-a-ŋu₁₀ ga-an-si-e-še
 #lem: esaŋ[grain-store]; gibil[new]; inu[straw]; sumun[old]; si[fill]
 #etcsl: line-id=10.14.17
 
@@ -153,7 +153,7 @@
 
 @div proverb 10.15
 
-18. lu₂ mu-e-ši-in-gi₄ %e ta-am₃ %s bi₂-ib-dab₅
+10.15.18. lu₂ mu-e-ši-in-gi₄ %e ta-am₃ %s bi₂-ib-dab₅
 #lem: lu[person]; gi[turn]; ta[what?]QP; dab[seize]
 #etcsl: line-id=10.15.18
 
@@ -161,7 +161,7 @@
 
 @div proverb 10.16
 
-19. [ma]-la#-ga-ni mu-na-ni-ib-gi₄-gi₄
+10.16.19. [ma]-la#-ga-ni mu-na-ni-ib-gi₄-gi₄
 #lem: malag[female neighbor]; gi[turn]
 #etcsl: line-id=10.16.19
 

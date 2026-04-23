@@ -1,6 +1,6 @@
 &Q000562 = Letter from Sîn-illat to Iddin-Dagan about confronting the Martu
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.2.01

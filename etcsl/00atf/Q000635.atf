@@ -1,6 +1,6 @@
 &Q000635 = A balbale to Inana (Dumuzid-Inana D)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.4.08.04

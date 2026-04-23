@@ -1,6 +1,6 @@
 &Q000818 = Proverbs: collection 26
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.6.1.26
@@ -11,7 +11,7 @@
 $ (approx. 25 lines missing)
 @div proverb 26.a1
 
-26. [...] mu#-ni-DU [...]
+A.26.a1.26. [...] mu#-ni-DU [...]
 #lem: X; X; X
 #etcsl: line-id=A.26.a1.26
 
@@ -19,7 +19,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a2
 
-27. e₂#-gal ni₂-bi-še₃# [gam-e-dam]
+A.26.a2.27. e₂#-gal ni₂-bi-še₃# [gam-e-dam]
 #lem: egal[palace]; ni[self]; gurum[bend]
 #etcsl: line-id=A.26.a2.27
 
@@ -29,13 +29,13 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a3
 
-28. an-ku₄-ku₄ [... ...] X
+A.26.a3.28. an-ku₄-ku₄ [... ...] X
 #lem: kur[enter]; X; X; X
 #etcsl: line-id=A.26.a3.28
 
 #note: cf. 6.1.25.12, 6.2.5: YBC 9908, 5.6.1: ll. 95-96
 
-29. ib₂-ta-e₃ nu-silig-ge#-[dam]
+A.26.a3.29. ib₂-ta-e₃ nu-silig-ge#-[dam]
 #lem: e[leave]; silig[cease]
 #etcsl: line-id=A.26.a3.29
 
@@ -43,7 +43,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a4
 
-30. aš₂ a₂ zig₃-ga bal-e di X [...] dumu-nitah e₂ ad-da-[na-ta] sar-ra niŋ₂-gig {d}nin-urta-[ke₄]
+A.26.a4.30. aš₂ a₂ zig₃-ga bal-e di X [...] dumu-nitah e₂ ad-da-[na-ta] sar-ra niŋ₂-gig {d}nin-urta-[ke₄]
 #lem: aš[curse]; a[arm]; zig[rise]; bala[turn]; di[speak]; X; X; dumunita[son]; e[house]; adda[father]; sar[run]; niŋgig[evil]; Ninurtak[1]DN
 #etcsl: line-id=A.26.a4.30
 
@@ -53,7 +53,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a5
 
-31. uš₇ dug₄-ga sahar nu-gi-[a] eme ak an-bar₇ an-dul₃ nu-ŋal₂-la niŋ₂-gig {d}utu-ke₄
+A.26.a5.31. uš₇ dug₄-ga sahar nu-gi-[a] eme ak an-bar₇ an-dul₃ nu-ŋal₂-la niŋ₂-gig {d}utu-ke₄
 #lem: uš[poison]; dug[speak]; sahar[soil]; gi[turn]; eme[tongue]; ak[do]; anbar[mid-day]; andul[shade]; ŋal[⟦be⟧ to be (there]; niŋgig[evil]; Utu[1]DN
 #etcsl: line-id=A.26.a5.31
 
@@ -63,7 +63,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a6
 
-32. šu gi₄-gi₄ niŋ₂-gig {d}nin-urta-ke₄
+A.26.a6.32. šu gi₄-gi₄ niŋ₂-gig {d}nin-urta-ke₄
 #lem: šu[hand]; gi[turn]; niŋgig[evil]; Ninurtak[1]DN
 #etcsl: line-id=A.26.a6.32
 
@@ -73,7 +73,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a7
 
-33. nu-dug₄-ga niŋ₂-gig {d}nin-urta-ke₄
+A.26.a7.33. nu-dug₄-ga niŋ₂-gig {d}nin-urta-ke₄
 #lem: dug[speak]; niŋgig[evil]; Ninurtak[1]DN
 #etcsl: line-id=A.26.a7.33
 
@@ -81,7 +81,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a8
 
-34. niŋ₂ zu a-na-am₃ ga-ra-ad-da-be₂# niŋ₂ nu-zu a-na-am₃ lu₂-ki-inim ba-ab-e₃ niŋ₂-gig {d}utu-ke₄
+A.26.a8.34. niŋ₂ zu a-na-am₃ ga-ra-ad-da-be₂# niŋ₂ nu-zu a-na-am₃ lu₂-ki-inim ba-ab-e₃ niŋ₂-gig {d}utu-ke₄
 #lem: niŋ[thing]; zu[know]; ana[what?]; dug[speak]; niŋ[thing]; zu[know]; ana[what?]; lukiʾinimak[witness]; e[leave]; niŋgig[evil]; Utu[1]DN
 #etcsl: line-id=A.26.a8.34
 
@@ -91,7 +91,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a9
 
-35. ki-ta kur₂ niŋ₂-gig {d}nin-urta-ke₄
+A.26.a9.35. ki-ta kur₂ niŋ₂-gig {d}nin-urta-ke₄
 #lem: ki[place]; kur[alienate]; niŋgig[evil]; Ninurtak[1]DN
 #etcsl: line-id=A.26.a9.35
 
@@ -99,7 +99,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a10
 
-36. lu₂ {ŋiš}ma₂ dirig-ga lu₂ {ŋiš}ma₂ ru-ru-gu₂# niŋ₂ kab₂ di-dam niŋ₂-gig {d}suen-na-ke₄
+A.26.a10.36. lu₂ {ŋiš}ma₂ dirig-ga lu₂ {ŋiš}ma₂ ru-ru-gu₂# niŋ₂ kab₂ di-dam niŋ₂-gig {d}suen-na-ke₄
 #lem: lu[person]; ma[ship]; dirig[make more than]; lu[person]; ma[ship]; rugu[withstand]; niŋ[thing]; kab[test]; di[speak]; niŋgig[evil]; Suen[1]DN
 #etcsl: line-id=A.26.a10.36
 
@@ -109,7 +109,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a11
 
-37. {ŋiš}ma₂ niŋ₂-gen₆-na ni₂ ba-ab-dirig {d#}utu kar gen₆-na mu-un-na-ši-kiŋ₂-kiŋ₂
+A.26.a11.37. {ŋiš}ma₂ niŋ₂-gen₆-na ni₂ ba-ab-dirig {d#}utu kar gen₆-na mu-un-na-ši-kiŋ₂-kiŋ₂
 #lem: ma[ship]; niŋgina[truth]; ni[self]; dirig[make more than]; Utu[1]DN; kar[harbor]; gin[confirm]; kiŋ[seek]
 #etcsl: line-id=A.26.a11.37
 
@@ -119,15 +119,15 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a12
 
-38. ni₂ teŋ₃-ŋe₂₆ nam-sag₉-ga in-tu-ud
+A.26.a12.38. ni₂ teŋ₃-ŋe₂₆ nam-sag₉-ga in-tu-ud
 #lem: ni[fear]; teŋ[approach]; namsag[pleasure]; utud[give birth (to)]
 #etcsl: line-id=A.26.a12.38
 
-39. er₂ nam-tag al-du₈-am₃#
+A.26.a12.39. er₂ nam-tag al-du₈-am₃#
 #lem: er[tears]; namtaga[sin]; du[spread]
 #etcsl: line-id=A.26.a12.39
 
-40. sizkur nam-til₃ ba-ab-tah-e
+A.26.a12.40. sizkur nam-til₃ ba-ab-tah-e
 #lem: siškur[prayer]; namtil[life]; tah[add]
 #etcsl: line-id=A.26.a12.40
 
@@ -135,13 +135,13 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.a13
 
-41. aš₂# dug₄-ga-ŋu₁₀ aš₂ nu-mu-un-[gi]
+A.26.a13.41. aš₂# dug₄-ga-ŋu₁₀ aš₂ nu-mu-un-[gi]
 #lem: aš[curse]; dug[speak]; aš[curse]; gi[turn]
 #etcsl: line-id=A.26.a13.41
 
 #note: cf. 6.1.01.79
 
-42. [aš₂]-e# gi-a-ŋu₁₀ aš₂ mu-un-gi#
+A.26.a13.42. [aš₂]-e# gi-a-ŋu₁₀ aš₂ mu-un-gi#
 #lem: aš[curse]; gi[turn]; aš[curse]; gi[turn]
 #etcsl: line-id=A.26.a13.42
 
@@ -154,7 +154,7 @@ $ (approx. 33 lines missing)
 
 @div proverb 26.b1
 
-1. [...] X [...]
+B.26.b1.1. [...] X [...]
 #lem: X; X; X
 #etcsl: line-id=B.26.b1.1
 
@@ -162,7 +162,7 @@ $ (approx. 33 lines missing)
 
 @div proverb 26.b2
 
-2. nin# [...] {ŋiš}li# [...]
+B.26.b2.2. nin# [...] {ŋiš}li# [...]
 #lem: nin[lady]; X; li[juniper]; X
 #etcsl: line-id=B.26.b2.2
 
@@ -170,17 +170,17 @@ $ (approx. 33 lines missing)
 
 @div proverb 26.b3
 
-3. {kuš}a₂-si# udu# [ha-ba-šum₂]
+B.26.b3.3. {kuš}a₂-si# udu# [ha-ba-šum₂]
 #lem: asi[strap]; udu[sheep]; šum[give]
 #etcsl: line-id=B.26.b3.3
 
 #note: cf. 6.1.15.c2, 6.1.28.7
 
-4. ŋiš sipad [...]
+B.26.b3.4. ŋiš sipad [...]
 #lem: ŋeš[tree]; sipad[shepherd]; X
 #etcsl: line-id=B.26.b3.4
 
-5. ki saŋ-ki nu-ŋal₂-la# [lu₂ nu-dib₂]
+B.26.b3.5. ki saŋ-ki nu-ŋal₂-la# [lu₂ nu-dib₂]
 #lem: ki[place]; saŋki[forehead]; ŋal[⟦be⟧ to be (there]; lu[person]; dib[pass]
 #etcsl: line-id=B.26.b3.5
 
@@ -188,7 +188,7 @@ $ (approx. 33 lines missing)
 
 @div proverb 26.b4
 
-6. šag₄ {ŋiš}ŋidru-kam i₃ he₂#-[en-de₂] lu₂ na-me [nu-zu]
+B.26.b4.6. šag₄ {ŋiš}ŋidru-kam i₃ he₂#-[en-de₂] lu₂ na-me [nu-zu]
 #lem: šag[heart]; ŋidru[scepter]; i[oil]; de[pour]; lu[person]; name[any]; zu[know]
 #etcsl: line-id=B.26.b4.6
 
@@ -198,7 +198,7 @@ $ (approx. 33 lines missing)
 
 @div proverb 26.b5
 
-7. šum₂-ma-ab lugal-la-kam# [...]
+B.26.b5.7. šum₂-ma-ab lugal-la-kam# [...]
 #lem: šum[give]; lugal[king]; X
 #etcsl: line-id=B.26.b5.7
 
@@ -208,7 +208,7 @@ $ (approx. 33 lines missing)
 
 @div proverb 26.b6
 
-8. šum₂-ma-ab lugal#-la#-[kam ...]
+B.26.b6.8. šum₂-ma-ab lugal#-la#-[kam ...]
 #lem: šum[give]; lugal[king]; X
 #etcsl: line-id=B.26.b6.8
 
@@ -218,7 +218,7 @@ $ (approx. 33 lines missing)
 
 @div proverb 26.b7
 
-9. gu₅-li# [...]
+B.26.b7.9. gu₅-li# [...]
 #lem: guli[friend]; X
 #etcsl: line-id=B.26.b7.9
 
@@ -226,11 +226,11 @@ $ (approx. 33 lines missing)
 
 @div proverb 26.b8
 
-10. du₁₄# [...]
+B.26.b8.10. du₁₄# [...]
 #lem: dud[combat]; X
 #etcsl: line-id=B.26.b8.10
 
-11. X [...]
+B.26.b8.11. X [...]
 #lem: X; X
 #etcsl: line-id=B.26.b8.11
 
@@ -243,7 +243,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c1
 
-1. X [...]
+C.26.c1.1. X [...]
 #lem: X; X
 #etcsl: line-id=C.26.c1.1
 
@@ -251,7 +251,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c2
 
-2. kug kalag-ga la₂# [ka kalag-ga sam₂]
+C.26.c2.2. kug kalag-ga la₂# [ka kalag-ga sam₂]
 #lem: kug[metal]; kalag[strong]; la[hang]; kag[mouth]; kalag[strong]; sa[pay for]
 #etcsl: line-id=C.26.c2.2
 
@@ -261,7 +261,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c3
 
-3. niŋ₂ sam₂-ma niŋ₂ sag₉#-[ga ...]
+C.26.c3.3. niŋ₂ sam₂-ma niŋ₂ sag₉#-[ga ...]
 #lem: niŋ[thing]; sa[pay for]; niŋ[thing]; sag[good]; X
 #etcsl: line-id=C.26.c3.3
 
@@ -269,7 +269,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c4
 
-4. {ninda}gug₂ du₈ šag₄ niŋ₂-silaŋ-ŋa₂ in#-[nu-u₃]
+C.26.c4.4. {ninda}gug₂ du₈ šag₄ niŋ₂-silaŋ-ŋa₂ in#-[nu-u₃]
 #lem: gug[cake]; du[spread]; šag[heart]; niŋsilaŋ[dough]; nu[not]
 #etcsl: line-id=C.26.c4.4
 
@@ -279,13 +279,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c5
 
-5. ninda min MAŠ-ta#-am₃ du₈-de₃# šag₄-ŋu₁₀ {tu₂}ba-ab-tum₂-<<ŠE>>-tum₂-am₃
+C.26.c5.5. ninda min MAŠ-ta#-am₃ du₈-de₃# šag₄-ŋu₁₀ {tu₂}ba-ab-tum₂-<<ŠE>>-tum₂-am₃
 #lem: ninda[bread]; min[two]; n; du[spread]; šag[heart]; tum[bring]
 #etcsl: line-id=C.26.c5.5
 
 #note: cf. 6.1.01.53
 
-6. {im}šu-rin-na-ta šu-ŋu₁₀ nu-ub-ta-e₃
+C.26.c5.6. {im}šu-rin-na-ta šu-ŋu₁₀ nu-ub-ta-e₃
 #lem: šurin[oven]; šu[hand]; e[leave]
 #etcsl: line-id=C.26.c5.6
 
@@ -293,11 +293,11 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c6
 
-7. lu₂ kal-la-ŋu₁₀ la-ba-an-na-kal-e
+C.26.c6.7. lu₂ kal-la-ŋu₁₀ la-ba-an-na-kal-e
 #lem: lu[person]; kal[rare]; kal[rare]
 #etcsl: line-id=C.26.c6.7
 
-8. a₂ dub₂-ŋu₁₀-ta mušen ku-dun mu-un-dug₄
+C.26.c6.8. a₂ dub₂-ŋu₁₀-ta mušen ku-dun mu-un-dug₄
 #lem: a[arm]; dub[tremble]; mušen[bird]; kugdun[profit]; dug[speak]
 #etcsl: line-id=C.26.c6.8
 
@@ -305,15 +305,15 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c7
 
-9. lu₂ kal-la-ŋu₁₀ la-ba-an-na-kal-e
+C.26.c7.9. lu₂ kal-la-ŋu₁₀ la-ba-an-na-kal-e
 #lem: lu[person]; kal[rare]; kal[rare]
 #etcsl: line-id=C.26.c7.9
 
-10. KI ŠE₃ KAL šu-na bi₂-in-dab₅
+C.26.c7.10. KI ŠE₃ KAL šu-na bi₂-in-dab₅
 #lem: X; X; X; šu[hand]; dab[seize]
 #etcsl: line-id=C.26.c7.10
 
-11. e-ne-še₃ sahar šu-ŋu₁₀ bi₂-in-si
+C.26.c7.11. e-ne-še₃ sahar šu-ŋu₁₀ bi₂-in-si
 #lem: ane[he]; sahar[soil]; šu[hand]; si[fill]
 #etcsl: line-id=C.26.c7.11
 
@@ -321,7 +321,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c8
 
-12. lu₂ kaš nu-zu-gin₇ ni₂ dar-dar-ra-am₃#
+C.26.c8.12. lu₂ kaš nu-zu-gin₇ ni₂ dar-dar-ra-am₃#
 #lem: lu[person]; kaš[beer]; zu[know]; ni[fear]; dar[split]
 #etcsl: line-id=C.26.c8.12
 
@@ -329,13 +329,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c9
 
-13. {tum₉}u₁₈-lu igi-ŋa₂ sahar-ra bi₂-in#-[sig₉]
+C.26.c9.13. {tum₉}u₁₈-lu igi-ŋa₂ sahar-ra bi₂-in#-[sig₉]
 #lem: ulu[south wind]; igi[eye]; sahar[soil]; sig[put into]
 #etcsl: line-id=C.26.c9.13
 
 #note: cf. 6.1.03.142
 
-14. a-na-am₃ egir-ra-[ŋa₂] ne mu-un-su-ub-su-ub-[be₂-en]
+C.26.c9.14. a-na-am₃ egir-ra-[ŋa₂] ne mu-un-su-ub-su-ub-[be₂-en]
 #lem: ana[what?]; egir[back]; ne[cvne]; sub[rub]
 #etcsl: line-id=C.26.c9.14
 
@@ -343,13 +343,13 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c10
 
-15. nam-tar-ŋu₁₀ ga-am₃-dug₄# [in-na-am₃]
+C.26.c10.15. nam-tar-ŋu₁₀ ga-am₃-dug₄# [in-na-am₃]
 #lem: namtar[fate]; dug[speak]; in[abuse]
 #etcsl: line-id=C.26.c10.15
 
 #note: cf. 6.1.02.2, 6.2.3: UET 6/2 292 ll. 1-2
 
-16. pa ga-ab-e₃# [su-lum %e mar-am₃]
+C.26.c10.16. pa ga-ab-e₃# [su-lum %e mar-am₃]
 #lem: pa[branch]; e[leave]; sulum[contempt]; mar[place]V/t
 #etcsl: line-id=C.26.c10.16
 
@@ -357,7 +357,7 @@ $ (unknown no. of lines missing)
 
 @div proverb 26.c11
 
-17. in-na in-bi#-[im ...]
+C.26.c11.17. in-na in-bi#-[im ...]
 #lem: in[abuse]; in[abuse]; X
 #etcsl: line-id=C.26.c11.17
 
@@ -372,11 +372,11 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d1
 
-1. X NA TAB DU X [...]
+D.26.d1.1. X NA TAB DU X [...]
 #lem: X; X; X; X; X; X
 #etcsl: line-id=D.26.d1.1
 
-2. tug₂ nam-ba#-ša-ra-ge-[en]
+D.26.d1.2. tug₂ nam-ba#-ša-ra-ge-[en]
 #lem: tug[textile]; šarag[dry out]
 #etcsl: line-id=D.26.d1.2
 
@@ -384,7 +384,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d2
 
-3. [ab]-ba i-degₓ(RI)-degₓ(RI)-ga ba-[...]
+D.26.d2.3. [ab]-ba i-degₓ(RI)-degₓ(RI)-ga ba-[...]
 #lem: abba[father]; deg[gather up]; X
 #etcsl: line-id=D.26.d2.3
 
@@ -394,13 +394,13 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d3
 
-4. u₂ degₓ(RI)-degₓ(RI)-ga kalag!(SIG₉)-[ga-še₃]
+D.26.d3.4. u₂ degₓ(RI)-degₓ(RI)-ga kalag!(SIG₉)-[ga-še₃]
 #lem: u[plant(s)]; deg[gather up]; kalag[strong]
 #etcsl: line-id=D.26.d3.4
 
 #note: cf. 6.1.02.133, 6.1.11.6, 6.1.22: l. 80
 
-5. sig₉!(KALAG)-ga bar-rim₄-ma ba-e-[tuš]
+D.26.d3.5. sig₉!(KALAG)-ga bar-rim₄-ma ba-e-[tuš]
 #lem: sig[weak]; barim[dry land]; tuš[sit (down)]
 #etcsl: line-id=D.26.d3.5
 
@@ -408,13 +408,13 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d4
 
-6. en-te-en-na-ka a-šag₄ nu-ur₁₁-ru#
+D.26.d4.6. en-te-en-na-ka a-šag₄ nu-ur₁₁-ru#
 #lem: enten[winter]; ašag[field]; uru[sow]
 #etcsl: line-id=D.26.d4.6
 
 #note: cf. 6.1.02.20
 
-7. ud# buru₁₄-a-ka šu-ni ga-rig₂ an-du₃-du₃-e
+D.26.d4.7. ud# buru₁₄-a-ka šu-ni ga-rig₂ an-du₃-du₃-e
 #lem: ud[sun]; buru[harvest]; šu[hand]; garig[comb]; du[build]
 #etcsl: line-id=D.26.d4.7
 
@@ -422,13 +422,13 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d5
 
-8. gud uš-ša numun nu-ŋa₂-ŋa₂
+D.26.d5.8. gud uš-ša numun nu-ŋa₂-ŋa₂
 #lem: gud[bull]; uš[foundation]; numun[seed]; ŋar[put]
 #etcsl: line-id=D.26.d5.8
 
 #note: cf. 6.1.02.87-88
 
-9. buru₁₄-ta gu₃-e lag nu-bur₁₂-re
+D.26.d5.9. buru₁₄-ta gu₃-e lag nu-bur₁₂-re
 #lem: buru[harvest]; gu[voice]; lag[clod (of earth)]; bur[tear out]
 #etcsl: line-id=D.26.d5.9
 
@@ -436,7 +436,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d6
 
-10. gud sur₁₂-ra ab-sin₂-bi ab-sag₉-sag₉
+D.26.d6.10. gud sur₁₂-ra ab-sin₂-bi ab-sag₉-sag₉
 #lem: gud[bull]; sur[threshing floor]; absin[furrow]; sag[good]
 #etcsl: line-id=D.26.d6.10
 
@@ -446,7 +446,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d7
 
-11. ga-zi-in-bu lugal-ŋu₁₀ ur-saŋ mu-bi-im
+D.26.d7.11. ga-zi-in-bu lugal-ŋu₁₀ ur-saŋ mu-bi-im
 #lem: gazinbu[pole]; lugal[king]; ursaŋ[warrior]; mu[name]
 #etcsl: line-id=D.26.d7.11
 
@@ -454,7 +454,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d8
 
-12. ga-zi-in-bu su la₂-a nu₂-nu₂
+D.26.d8.12. ga-zi-in-bu su la₂-a nu₂-nu₂
 #lem: gazinbu[pole]; su[flesh]; la[hang]; nud[lie down]
 #etcsl: line-id=D.26.d8.12
 
@@ -464,7 +464,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d9
 
-13. gud gu₃ ra-ah lag-bi nu-bur₁₂-re
+D.26.d9.13. gud gu₃ ra-ah lag-bi nu-bur₁₂-re
 #lem: gud[bull]; gu[voice]; rah[beat]; lag[clod (of earth)]; bur[tear out]
 #etcsl: line-id=D.26.d9.13
 
@@ -472,7 +472,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d10
 
-14. gud sig₉-ga sahar-ra igi-bi zid₂ ak-a
+D.26.d10.14. gud sig₉-ga sahar-ra igi-bi zid₂ ak-a
 #lem: gud[bull]; sig[put into]; sahar[soil]; igi[eye]; zid[flour]; ak[do]
 #etcsl: line-id=D.26.d10.14
 
@@ -482,7 +482,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d11
 
-15. {u₂}numun₂-bi {gi}en₃-bar sumun₂-bi niŋ₂ izi sag₃-ge niŋ₂ an-ta ed₂-de₃
+D.26.d11.15. {u₂}numun₂-bi {gi}en₃-bar sumun₂-bi niŋ₂ izi sag₃-ge niŋ₂ an-ta ed₂-de₃
 #lem: numun[alfalfa grass]; enbar[reed]; sumun[old]; niŋ[thing]; izi[fire]; sag[strike]; niŋ[thing]; an[sky]; e[leave]
 #etcsl: line-id=D.26.d11.15
 
@@ -490,7 +490,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d12
 
-16. id₂ niŋ₂ ŋal₂-la he₂-gid₂-i
+D.26.d12.16. id₂ niŋ₂ ŋal₂-la he₂-gid₂-i
 #lem: id[river]; niŋ[thing]; ŋal[⟦be⟧ to be (there]; gid[long]
 #etcsl: line-id=D.26.d12.16
 
@@ -498,13 +498,13 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d13
 
-17. engar#-e a-šag₄ na-ab-daŋal-la
+D.26.d13.17. engar#-e a-šag₄ na-ab-daŋal-la
 #lem: engar[farmer]; ašag[field]; daŋal[wide]
 #etcsl: line-id=D.26.d13.17
 
 #note: cf. 6.1.02.131
 
-18. diŋir# lu₂-u₁₈-lu šag₄-gal-la-ni nam#-ba-ab-tah-e
+D.26.d13.18. diŋir# lu₂-u₁₈-lu šag₄-gal-la-ni nam#-ba-ab-tah-e
 #lem: diŋir[deity]; lulu[man]; šaggal[food]; tah[add]
 #etcsl: line-id=D.26.d13.18
 
@@ -512,7 +512,7 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d14
 
-19. ŋi₆# 50-am₃ ud 50-am₃# ud# lul 55-[am₃]
+D.26.d14.19. ŋi₆# 50-am₃ ud 50-am₃# ud# lul 55-[am₃]
 #lem: ŋi[night]; n; ud[sun]; n; ud[sun]; lul[false]; n
 #etcsl: line-id=D.26.d14.19
 
@@ -522,17 +522,17 @@ $ (approx. 25 lines missing)
 
 @div proverb 26.d15
 
-20. [a]-da tuš! kur-šag₄-ga igi# [du₈]
+D.26.d15.20. [a]-da tuš! kur-šag₄-ga igi# [du₈]
 #lem: a[water]; tuš[sit (down)]; kuršag[center of the mountains]; igi[eye]; du[spread]
 #etcsl: line-id=D.26.d15.20
 
 #note: cf. 6.1.02.149, 6.1.11.69
 
-21. [ni₂]-bi-še₃ [igi nu-du₈]
+D.26.d15.21. [ni₂]-bi-še₃ [igi nu-du₈]
 #lem: ni[self]; igi[eye]; du[spread]
 #etcsl: line-id=D.26.d15.21
 
-22. [...] X [...]
+D.26.d15.22. [...] X [...]
 #lem: X; X; X
 #etcsl: line-id=D.26.d15.22
 

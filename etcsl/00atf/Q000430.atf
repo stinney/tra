@@ -1,6 +1,6 @@
 &Q000430 = A praise poem of Šu-Suen (Šu-Suen I)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.4.9

@@ -1,6 +1,6 @@
 &Q000354 = The marriage of Martu
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.1.7.1

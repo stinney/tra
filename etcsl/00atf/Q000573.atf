@@ -1,6 +1,6 @@
 &Q000573 = Letter from Ur-saga to a king fearing the loss of his father's household
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.3.3.01

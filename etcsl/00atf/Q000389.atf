@@ -1,6 +1,6 @@
 &Q000389 = Ur-Namma the canal-digger (Ur-Namma D)
 @composite
-#project: epsd2/literary
+#project: ucsl/etcsl
 #atf: use unicode
 #atf: use math
 #etcsl: text-id=c.2.4.1.4
@@ -8,77 +8,77 @@
 
 @div version 1 (A version from Nibru)
 
-1. a-ba-a mu-un#-[ba]-al#-e a-ba-a mu-un-ba-al-e
+1.1. a-ba-a mu-un#-[ba]-al#-e a-ba-a mu-un-ba-al-e
 #lem: aba[who?]; bal[dig]; aba[who?]; bal[dig]
 #etcsl: line-id=1.1
 
 #note: OB catalogue from Nibru (N4), 0.2.08, Seg. D, line 3
 
-2. {id₂}asila-kug [a]-ba# mu-un-ba-al-e
+1.2. {id₂}asila-kug [a]-ba# mu-un-ba-al-e
 #lem: Asilakug[1]WN; aba[who?]; bal[dig]
 #etcsl: line-id=1.2
 
-3. {id₂}pa₅-bi-[luh a]-ba mu-un-ba-al-e
+1.3. {id₂}pa₅-bi-[luh a]-ba mu-un-ba-al-e
 #lem: Pabiluh[1]WN; aba[who?]; bal[dig]
 #etcsl: line-id=1.3
 
-4. X ur#-{d#}[namma ...] tuku# mu-un-ba-al-e
+1.4. X ur#-{d#}[namma ...] tuku# mu-un-ba-al-e
 #lem: X; Urnamma[1]RN; X; tuku[acquire]; bal[dig]
 #etcsl: line-id=1.4
 
-5. [...] tuku# mu-un-ba-al-e
+1.5. [...] tuku# mu-un-ba-al-e
 #lem: X; tuku[acquire]; bal[dig]
 #etcsl: line-id=1.5
 
-6. [...]-za {d}en-lil₂#-le [...] {d}dil-im₂-babbar
+1.6. [...]-za {d}en-lil₂#-le [...] {d}dil-im₂-babbar
 #lem: X; Enlil[1]DN; X; Dilimbabbar[1]DN
 #etcsl: line-id=1.6
 
-7. [... a]-ra₂#-bi ku₆-<a> dal-bi mušen-a
+1.7. [... a]-ra₂#-bi ku₆-<a> dal-bi mušen-a
 #lem: X; ara[way]; kud[fish]; dal[fly]; mušen[bird]
 #etcsl: line-id=1.7
 
-8. [...] a dug₃-bi ku₆-a [dal]-bi mušen-a
+1.8. [...] a dug₃-bi ku₆-a [dal]-bi mušen-a
 #lem: X; a[water]; dug[good]; kud[fish]; dal[fly]; mušen[bird]
 #etcsl: line-id=1.8
 
-9. [... u₂]-lal₃-a mu-un-du suhur#{ku₆} am₃-gur-gur
+1.9. [... u₂]-lal₃-a mu-un-du suhur#{ku₆} am₃-gur-gur
 #lem: X; ulal[plant]; du[build]; suhur[carp]; gur[thick]
 #etcsl: line-id=1.9
 
-10. [... u₂]-lal₃-a mu-un-du [suhur]{ku₆#} am₃-gur-gur
+1.10. [... u₂]-lal₃-a mu-un-du [suhur]{ku₆#} am₃-gur-gur
 #lem: X; ulal[plant]; du[build]; suhur[carp]; gur[thick]
 #etcsl: line-id=1.10
 
-11. [... gi]-zi-bi lal₃-am₃ ku₆ ha-ma-gu₇-e
+1.11. [... gi]-zi-bi lal₃-am₃ ku₆ ha-ma-gu₇-e
 #lem: X; gizi[fresh reed]; lal[syrup]; kud[fish]; gu[eat]
 #etcsl: line-id=1.11
 
-12. [...] gi-zi-bi lal₃-am₃ ku₆ ha-ma-gu₇-e
+1.12. [...] gi-zi-bi lal₃-am₃ ku₆ ha-ma-gu₇-e
 #lem: X; gizi[fresh reed]; lal[syrup]; kud[fish]; gu[eat]
 #etcsl: line-id=1.12
 
-13. [...]-ŋu₁₀# ki ŋar-ra-bi-ta ku₆ mušen sug₄-ga-am₃
+1.13. [...]-ŋu₁₀# ki ŋar-ra-bi-ta ku₆ mušen sug₄-ga-am₃
 #lem: X; ki[place]; ŋar[put]; kud[fish]; mušen[bird]; sug[full]
 #etcsl: line-id=1.13
 
-14. [...] X ki ŋar-ra-bi-ta ku₆ mušen sug₄-ga-am₃
+1.14. [...] X ki ŋar-ra-bi-ta ku₆ mušen sug₄-ga-am₃
 #lem: X; X; ki[place]; ŋar[put]; kud[fish]; mušen[bird]; sug[full]
 #etcsl: line-id=1.14
 
-15. [...]-bi# lugal eridug{ki}-ga uₓ(PA)#-a-zu sug₄-ga-am₃
+1.15. [...]-bi# lugal eridug{ki}-ga uₓ(PA)#-a-zu sug₄-ga-am₃
 #lem: X; lugal[king]; Eridug[1]SN; ua[provisioner]; sug[full]
 #etcsl: line-id=1.15
 
-16. {[d]}[nu-dim₂]-mud lugal eridug{ki}-ga uₓ(PA)-a-zu sug₄-ga-am₃
+1.16. {[d]}[nu-dim₂]-mud lugal eridug{ki}-ga uₓ(PA)-a-zu sug₄-ga-am₃
 #lem: Nudimmud[1]DN; lugal[king]; Eridug[1]SN; ua[provisioner]; sug[full]
 #etcsl: line-id=1.16
 
-17. [...] a dug₃ hu-mu-un-tum₂-mu {[ŋiš]}dusu-e ha-ma-la₂-e
+1.17. [...] a dug₃ hu-mu-un-tum₂-mu {[ŋiš]}dusu-e ha-ma-la₂-e
 #lem: X; a[water]; dug[good]; tum[bring]; dupsik[basket (for carrying earth and bricks)]; la[hang]
 #etcsl: line-id=1.17
 
-18. [...] X a dug₃ hu-mu-un-tum₂-mu {[ŋiš]}dusu-e ha-ma-la₂-e
+1.18. [...] X a dug₃ hu-mu-un-tum₂-mu {[ŋiš]}dusu-e ha-ma-la₂-e
 #lem: X; X; a[water]; dug[good]; tum[bring]; dupsik[basket (for carrying earth and bricks)]; la[hang]
 #etcsl: line-id=1.18
 
@@ -86,163 +86,163 @@
 
 @div version 2 (A version of unknown provenance)
 
-1. [a-ba-a mu-un]-ba#-al-e a-ba-a# mu#-[un-ba-al-e id₂] a-ba-a mu-un#-[ba-al-e]
+2.1. [a-ba-a mu-un]-ba#-al-e a-ba-a# mu#-[un-ba-al-e id₂] a-ba-a mu-un#-[ba-al-e]
 #lem: aba[who?]; bal[dig]; aba[who?]; bal[dig]; id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=2.1
 
-2. {[id₂]}[keše₂-kug] a-ba-a mu-un-ba-[al-e] id₂# a-ba-a mu-un-ba-al-e
+2.2. {[id₂]}[keše₂-kug] a-ba-a mu-un-ba-[al-e] id₂# a-ba-a mu-un-ba-al-e
 #lem: Kešekug[1]WN; aba[who?]; bal[dig]; id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=2.2
 
-3. {[id₂]}[pa₅-bi]-luh a-ba-a mu-un-ba-al-e id₂# a-ba-a mu-un-ba-al-e
+2.3. {[id₂]}[pa₅-bi]-luh a-ba-a mu-un-ba-al-e id₂# a-ba-a mu-un-ba-al-e
 #lem: Pabiluh[1]WN; aba[who?]; bal[dig]; id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=2.3
 
-4. {d}ur-{d}namma kug tuku mu-un-ba-al-e
+2.4. {d}ur-{d}namma kug tuku mu-un-ba-al-e
 #lem: Urnamma[1]RN; kug[purify]; tuku[acquire]; bal[dig]
 #etcsl: line-id=2.4
 
-5. šul zid niŋ₂-tuku# mu-un-ba-al-e#
+2.5. šul zid niŋ₂-tuku# mu-un-ba-al-e#
 #lem: šul[youth]; zid[right]; niŋtuku[rich]; bal[dig]
 #etcsl: line-id=2.5
 
-6. lugal-ŋu₁₀ barag-za {d}en-lil₂-le en {d}dil-im₂-babbar
+2.6. lugal-ŋu₁₀ barag-za {d}en-lil₂-le en {d}dil-im₂-babbar
 #lem: lugal[king]; barag[sanctum]; Enlil[1]DN; en[lord]; Dilimbabbar[1]DN
 #etcsl: line-id=2.6
 
-7. šul {d}suen barag-za {d}en-lil₂-le en {d}dil-im₂-babbar
+2.7. šul {d}suen barag-za {d}en-lil₂-le en {d}dil-im₂-babbar
 #lem: šul[youth]; Suen[1]DN; barag[sanctum]; Enlil[1]DN; en[lord]; Dilimbabbar[1]DN
 #etcsl: line-id=2.7
 
-8. lugal šag₄ zid-ta nam tar-ra nam-nir-ra saŋ il₂
+2.8. lugal šag₄ zid-ta nam tar-ra nam-nir-ra saŋ il₂
 #lem: lugal[king]; šag[heart]; zid[right]; nam[fate]; tar[cut]; namnir[supremacy]; saŋ[head]; il[raise]
 #etcsl: line-id=2.8
 
-9. {d}ur-{d}namma šul igi il₂-la kur gal# {d}en-lil₂-le
+2.9. {d}ur-{d}namma šul igi il₂-la kur gal# {d}en-lil₂-le
 #lem: Urnamma[1]RN; šul[youth]; igi[eye]; il[raise]; kur[mountain(s)]; gal[big]; Enlil[1]DN
 #etcsl: line-id=2.9
 
-10. {d}nu-nam-nir-re ki-en-gi ki-uri-a# ŋe₂₆-e mu-un-suh-en
+2.10. {d}nu-nam-nir-re ki-en-gi ki-uri-a# ŋe₂₆-e mu-un-suh-en
 #lem: Nunamnir[1]DN; Kengir[1]; Akkad[1 Akkad]; ŋaʾe[I]; suh[choose]
 #etcsl: line-id=2.10
 
-11. nibru{ki}-a hur-saŋ nam-til₃-la-ka# nam-ŋu₁₀ im-mi-in-tar
+2.11. nibru{ki}-a hur-saŋ nam-til₃-la-ka# nam-ŋu₁₀ im-mi-in-tar
 #lem: Nibru[1]SN; hursaŋ[mountain]; namtil[life]; nam[fate]; tar[cut]
 #etcsl: line-id=2.11
 
-12. saŋ-ki zalag-ga-ni mu-un-ši-in-bar nam#-lugal ma!(BA)-an-šum₂#
+2.12. saŋ-ki zalag-ga-ni mu-un-ši-in-bar nam#-lugal ma!(BA)-an-šum₂#
 #lem: saŋki[forehead]; zalag[bright]; bar[place outside]; namlugal[kingship]; šum[give]
 #etcsl: line-id=2.12
 
-13. urim₂{ki}-ma e₂-mud-kur-ra-ka
+2.13. urim₂{ki}-ma e₂-mud-kur-ra-ka
 #lem: Urim[1]SN; Emudkurak[1]TN
 #etcsl: line-id=2.13
 
-14. {ŋiš#}[gu]-za#-ŋa₂ suhuš-[bi ...]-ge#-en
+2.14. {ŋiš#}[gu]-za#-ŋa₂ suhuš-[bi ...]-ge#-en
 #lem: guza[chair]; suhuš[foundation]; X
 #etcsl: line-id=2.14
 
-15. ŋidru kug uŋ₃ šar₂ si# sa₂-sa₂#-e# šu#-[ŋa₂ ...]
+2.15. ŋidru kug uŋ₃ šar₂ si# sa₂-sa₂#-e# šu#-[ŋa₂ ...]
 #lem: ŋidru[scepter]; kug[purify]; uŋ[people]; šar[numerous]V/i; si[horn]; sa[equal]; šu[hand]; X
 #etcsl: line-id=2.15
 
-16. šibir ešgiri₂ uŋ₃ daŋal lu-a X he₂#-em#-[...]
+2.16. šibir ešgiri₂ uŋ₃ daŋal lu-a X he₂#-em#-[...]
 #lem: šibir[shepherd's staff]; ešgiri[staff]; uŋ[people]; daŋal[wide]; lu[abundant]; X; X
 #etcsl: line-id=2.16
 
-17. en {d}dil-im₂-babbar-ke₄# zi ud sud-sud# [...]
+2.17. en {d}dil-im₂-babbar-ke₄# zi ud sud-sud# [...]
 #lem: en[lord]; Dilimbabbar[1]DN; zi[life]; ud[sun]; sud[distant]; X
 #etcsl: line-id=2.17
 
-18. {d}en-lil₂-le# ub-da 4-ba X X [...]
+2.18. {d}en-lil₂-le# ub-da 4-ba X X [...]
 #lem: Enlil[1]DN; ub[corner]; n; X; X; X
 #etcsl: line-id=2.18
 
-19. mu da-ri₂ mu ka-ge ba-ab-du₇# [...]
+2.19. mu da-ri₂ mu ka-ge ba-ab-du₇# [...]
 #lem: mu[name]; dari[eternal]; mu[name]; kag[mouth]; du[perfect]; X
 #etcsl: line-id=2.19
 
-20. {d}en-ki-ke₄# ŋeštug₂ daŋal-la-ŋu₁₀# saŋ#-e-eš mu#-[rig₇]
+2.20. {d}en-ki-ke₄# ŋeštug₂ daŋal-la-ŋu₁₀# saŋ#-e-eš mu#-[rig₇]
 #lem: Enkik[1]DN; ŋeštug[ear]; daŋal[wide]; saŋ[head]; rig[donate]
 #etcsl: line-id=2.20
 
-21. ŋe₂₆#-e iri{ki}-ŋa₂ id₂# he₂-ŋal₂-la# mu#-ba-al {id₂}keše₂-kug mu-sa₄
+2.21. ŋe₂₆#-e iri{ki}-ŋa₂ id₂# he₂-ŋal₂-la# mu#-ba-al {id₂}keše₂-kug mu-sa₄
 #lem: ŋaʾe[I]; iri[city]; id[river]; heŋal[plenty]; bal[dig]; Kešekug[1]WN; še[call by name]
 #etcsl: line-id=2.21
 
-22. urim₂{ki}-ma id₂# he₂-ŋal₂#-la mu-ba-al {id₂}keše₂#-kug mu-sa₄
+2.22. urim₂{ki}-ma id₂# he₂-ŋal₂#-la mu-ba-al {id₂}keše₂#-kug mu-sa₄
 #lem: Urim[1]SN; id[river]; heŋal[plenty]; bal[dig]; Kešekug[1]WN; še[call by name]
 #etcsl: line-id=2.22
 
-23. mu da-ri₂ ka-ge ba-ab-du₇-am₃ {id₂}pa₅-bi-luh mušen-am₃
+2.23. mu da-ri₂ ka-ge ba-ab-du₇-am₃ {id₂}pa₅-bi-luh mušen-am₃
 #lem: mu[name]; dari[eternal]; kag[mouth]; du[perfect]; Pabiluh[1]WN; mušen[bird]
 #etcsl: line-id=2.23
 
-24. ŋe₂₆-e iri-ŋa₂ a-ra₂-a-bi ku₆-am₃ dirig-bi mušen-am₃
+2.24. ŋe₂₆-e iri-ŋa₂ a-ra₂-a-bi ku₆-am₃ dirig-bi mušen-am₃
 #lem: ŋaʾe[I]; iri[city]; ara[way]; kud[fish]; dirig[make more than]; mušen[bird]
 #etcsl: line-id=2.24
 
-25. urim₂{ki}-ma a-ra₂-a-bi ku₆-am₃ dirig-bi mušen-am₃
+2.25. urim₂{ki}-ma a-ra₂-a-bi ku₆-am₃ dirig-bi mušen-am₃
 #lem: Urim[1]SN; ara[way]; kud[fish]; dirig[make more than]; mušen[bird]
 #etcsl: line-id=2.25
 
-26. ŋe₂₆-e id₂-ŋa₂ u₂-lal₃-e mu-un-du₃ suhur{ku₆}-e am₃-gur-gur-e
+2.26. ŋe₂₆-e id₂-ŋa₂ u₂-lal₃-e mu-un-du₃ suhur{ku₆}-e am₃-gur-gur-e
 #lem: ŋaʾe[I]; id[river]; ulal[plant]; du[build]; suhur[carp]; gur[thick]
 #etcsl: line-id=2.26
 
-27. urim₂{ki}-ma u₂-lal₃-e mu-un-du₃ suhur{ku₆}-e [am₃]-gur#-gur-e
+2.27. urim₂{ki}-ma u₂-lal₃-e mu-un-du₃ suhur{ku₆}-e [am₃]-gur#-gur-e
 #lem: Urim[1]SN; ulal[plant]; du[build]; suhur[carp]; gur[thick]
 #etcsl: line-id=2.27
 
-28. ŋe₂₆-e iri-ŋa₂ gi-zi-bi lal₃-am₃ ab₂-e ha-ma-gu₇-e
+2.28. ŋe₂₆-e iri-ŋa₂ gi-zi-bi lal₃-am₃ ab₂-e ha-ma-gu₇-e
 #lem: ŋaʾe[I]; iri[city]; gizi[fresh reed]; lal[syrup]; ab[cow]; gu[eat]
 #etcsl: line-id=2.28
 
-29. urim₂{ki}-ma gi-zi-bi lal₃-am₃ ab₂-e ha-ma-gu₇-e
+2.29. urim₂{ki}-ma gi-zi-bi lal₃-am₃ ab₂-e ha-ma-gu₇-e
 #lem: Urim[1]SN; gizi[fresh reed]; lal[syrup]; ab[cow]; gu[eat]
 #etcsl: line-id=2.29
 
-30. ŋe₂₆-e [...]-ta# ku₆ mušen sug₄-ga-am₃
+2.30. ŋe₂₆-e [...]-ta# ku₆ mušen sug₄-ga-am₃
 #lem: ŋaʾe[I]; X; kud[fish]; mušen[bird]; sug[full]
 #etcsl: line-id=2.30
 
-31. urim₂{ki#}-[ma ...]
+2.31. urim₂{ki#}-[ma ...]
 #lem: Urim[1]SN; X
 #etcsl: line-id=2.31
 
-32. ŋe₂₆-e id-ŋa₂ a-[ra₂-a hu]-mu#-un-[tum₃] {ŋiš}dusu-e hu-mu-un-na-la₂-e
+2.32. ŋe₂₆-e id-ŋa₂ a-[ra₂-a hu]-mu#-un-[tum₃] {ŋiš}dusu-e hu-mu-un-na-la₂-e
 #lem: ŋaʾe[I]; id[river]; ara[way]; tum[bring]; dupsik[basket (for carrying earth and bricks)]; la[hang]
 #etcsl: line-id=2.32
 
-33. urim₂{ki}-ma id-ŋa₂ a-ra₂-a hu-mu-un-tum₃ {[ŋiš]}dusu-e hu-mu-un-na-la₂-e
+2.33. urim₂{ki}-ma id-ŋa₂ a-ra₂-a hu-mu-un-tum₃ {[ŋiš]}dusu-e hu-mu-un-na-la₂-e
 #lem: Urim[1]SN; id[river]; ara[way]; tum[bring]; dupsik[basket (for carrying earth and bricks)]; la[hang]
 #etcsl: line-id=2.33
 
-34. lugal-bi lugal eridug{ki}-ga uₓ(PA)-a-zu sug₄-am₃
+2.34. lugal-bi lugal eridug{ki}-ga uₓ(PA)-a-zu sug₄-am₃
 #lem: lugal[king]; lugal[king]; Eridug[1]SN; ua[provisioner]; sug[full]
 #etcsl: line-id=2.34
 
-35. {d}nu-dim-mud lugal eridug{ki}-ga uₓ(PA)-a-zu sug₄-am₃
+2.35. {d}nu-dim-mud lugal eridug{ki}-ga uₓ(PA)-a-zu sug₄-am₃
 #lem: Nudimmud[1]DN; lugal[king]; Eridug[1]SN; ua[provisioner]; sug[full]
 #etcsl: line-id=2.35
 
-36. lugal an ub-da 4-ba šag₄ {d}en-lil₂-la₂ dug₃-ge-en
+2.36. lugal an ub-da 4-ba šag₄ {d}en-lil₂-la₂ dug₃-ge-en
 #lem: lugal[king]; an[sky]; ub[corner]; n; šag[heart]; Enlil[1]DN; dug[good]
 #etcsl: line-id=2.36
 
-37. {d}ur-{d}namma u₂-a nibru{ki} saŋ us₂ urim₂{ki}-ma
+2.37. {d}ur-{d}namma u₂-a nibru{ki} saŋ us₂ urim₂{ki}-ma
 #lem: Urnamma[1]RN; ua[provisioner]; Nibru[1]SN; saŋ[head]; us[accompany]; Urim[1]SN
 #etcsl: line-id=2.37
 
-38. iti₆-še₃ kalam urim₂{ki}-ma-še₃
+2.38. iti₆-še₃ kalam urim₂{ki}-ma-še₃
 #lem: itud[moon]; kalam[the Land (of Sumer)]; Urim[1]SN
 #etcsl: line-id=2.38
 
-39. asila(|EZEN×LAL₂|) ud mi-ni-ib-zal-zal-e-ne
+2.39. asila(|EZEN×LAL₂|) ud mi-ni-ib-zal-zal-e-ne
 #lem: asilala[joy]; ud[sun]; zal[pass time]
 #etcsl: line-id=2.39
 
-40. {d}ur-{d}namma lugal urim₂{ki}-ma za₃-mi₂-zu dug₃-ga-am₃
+2.40. {d}ur-{d}namma lugal urim₂{ki}-ma za₃-mi₂-zu dug₃-ga-am₃
 #lem: Urnamma[1]RN; lugal[king]; Urim[1]SN; zamin[praise]; dug[good]
 #etcsl: line-id=2.40
 
@@ -251,161 +251,161 @@
 @div version 3 (A version from Urim)
 
 $ (unknown no. of lines missing)
-1. [...] X [...]
+3.1. [...] X [...]
 #lem: X; X; X
 #etcsl: line-id=3.1
 
-2. [a-ba] mu-un-ba-[al-e]
+3.2. [a-ba] mu-un-ba-[al-e]
 #lem: aba[who?]; bal[dig]
 #etcsl: line-id=3.2
 
-3. {[id₂]}[X-X]-luh-ha a-ba mu-un#-[ba-al-e]
+3.3. {[id₂]}[X-X]-luh-ha a-ba mu-un#-[ba-al-e]
 #lem: X[1]WN; aba[who?]; bal[dig]
 #etcsl: line-id=3.3
 
-4. id₂# a-ba# mu-un-ba-al-[e]
+3.4. id₂# a-ba# mu-un-ba-al-[e]
 #lem: id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=3.4
 
-5. {id₂}{ŋiš}ŋisal-a-ŋar-ra# a-ba# mu#-[un-ba-al-e]
+3.5. {id₂}{ŋiš}ŋisal-a-ŋar-ra# a-ba# mu#-[un-ba-al-e]
 #lem: Ŋisalaŋara[1]WN; aba[who?]; bal[dig]
 #etcsl: line-id=3.5
 
-6. id₂ a-ba mu-un-ba-al#-[e]
+3.6. id₂ a-ba mu-un-ba-al#-[e]
 #lem: id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=3.6
 
-7. ur-{d}namma kug tuku mu-un-ba-[al-e]
+3.7. ur-{d}namma kug tuku mu-un-ba-[al-e]
 #lem: Urnamma[1]RN; kug[purify]; tuku[acquire]; bal[dig]
 #etcsl: line-id=3.7
 
-8. id₂ a-ba mu-un-ba-al-e
+3.8. id₂ a-ba mu-un-ba-al-e
 #lem: id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=3.8
 
-9. {d}šul-gi niŋ₂-tuku mu-un-ba-al-e
+3.9. {d}šul-gi niŋ₂-tuku mu-un-ba-al-e
 #lem: Šulgir[1]RN; niŋtuku[rich]; bal[dig]
 #etcsl: line-id=3.9
 
-10. id₂ a-ba mu-un-ba-al-e
+3.10. id₂ a-ba mu-un-ba-al-e
 #lem: id[river]; aba[who?]; bal[dig]
 #etcsl: line-id=3.10
 
-11. lugal šag₄ zid-da nam tar-ra nam-nir-ra saŋ il₂
+3.11. lugal šag₄ zid-da nam tar-ra nam-nir-ra saŋ il₂
 #lem: lugal[king]; šag[heart]; zid[right]; nam[fate]; tar[cut]; namnir[supremacy]; saŋ[head]; il[raise]
 #etcsl: line-id=3.11
 
-12. ur-{d}namma šul igi il₂-la kur gal-e!(UD) {d}en-lil₂-la₂-ke₄
+3.12. ur-{d}namma šul igi il₂-la kur gal-e!(UD) {d}en-lil₂-la₂-ke₄
 #lem: Urnamma[1]RN; šul[youth]; igi[eye]; il[raise]; kur[mountain(s)]; gal[big]; Enlil[1]DN
 #etcsl: line-id=3.12
 
-13. {d}nun-nam-nir ki-en-gi ki-uri-e %e me-am₃ %s mu-un-suh-e
+3.13. {d}nun-nam-nir ki-en-gi ki-uri-e %e me-am₃ %s mu-un-suh-e
 #lem: Nunamnir[1]DN; Kengir[1]; Akkad[1 Akkad]; meʾe[I]IP; suh[choose]
 #etcsl: line-id=3.13
 
-14. nibru{ki}-e hur-saŋ nam-til₃-la-ka nam-ŋi₆ im-mi-in-tar
+3.14. nibru{ki}-e hur-saŋ nam-til₃-la-ka nam-ŋi₆ im-mi-in-tar
 #lem: Nibru[1]SN; hursaŋ[mountain]; namtil[life]; nam[fate]; tar[cut]
 #etcsl: line-id=3.14
 
-15. urim₅{ki}-e e₂-mud-kur-ra-kam
+3.15. urim₅{ki}-e e₂-mud-kur-ra-kam
 #lem: Urim[1]SN; Emudkurak[1]TN
 #etcsl: line-id=3.15
 
-16. {ŋiš}gu-za-ŋa₂! suhuš-bi im-mi-in-gen₆
+3.16. {ŋiš}gu-za-ŋa₂! suhuš-bi im-mi-in-gen₆
 #lem: guza[chair]; suhuš[foundation]; gin[confirm]
 #etcsl: line-id=3.16
 #note: Text gu-za-a-ni.
 
-17. aga me-lem₄ me-teš₂ nam-lugal-la saŋ-ŋa₂ im-mi-ŋal₂
+3.17. aga me-lem₄ me-teš₂ nam-lugal-la saŋ-ŋa₂ im-mi-ŋal₂
 #lem: aga[tiara]; melim[frightening splendor]; mete[appropriate thing]; namlugal[kingship]; saŋ[head]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.17
 
-18. {ŋiš}ŋidru kug uŋ₃ šar₂ si-si-e sa₂ šu-ŋa₂ im-mi-in-sa₂
+3.18. {ŋiš}ŋidru kug uŋ₃ šar₂ si-si-e sa₂ šu-ŋa₂ im-mi-in-sa₂
 #lem: ŋidru[scepter]; kug[purify]; uŋ[people]; šar[numerous]V/i; si[horn]; sa[equal]; šu[hand]; sa[equal]
 #etcsl: line-id=3.18
 
-19. ešgiri₂ šibir# eš₂#-giri₁₇ zi-ŋal₂ lah₆-lah₆-e šu-ŋu₁₀#-uš im-ma-an-X
+3.19. ešgiri₂ šibir# eš₂#-giri₁₇ zi-ŋal₂ lah₆-lah₆-e šu-ŋu₁₀#-uš im-ma-an-X
 #lem: ešgiri[staff]; šibir[shepherd's staff]; eškiri[nose rope]; ziŋal[living things]; lah[plural stem of tum ⟦bring⟧]; šu[hand]; X
 #etcsl: line-id=3.19
 
-20. [...] saŋ X X e₂ u₆ di-da-bi [...] X im#-mi-in-sa₂
+3.20. [...] saŋ X X e₂ u₆ di-da-bi [...] X im#-mi-in-sa₂
 #lem: X; saŋ[head]; X; X; e[house]; u[admiration]; di[speak]; X; X; sa[equal]
 #etcsl: line-id=3.20
 
-21. [...] X [...] X GA
+3.21. [...] X [...] X GA
 #lem: X; X; X; X; X
 #etcsl: line-id=3.21
 
-22. [...] X [...]
+3.22. [...] X [...]
 #lem: X; X; X
 #etcsl: line-id=3.22
 
 $ 1 line missing
-24. [e₂-kiš]-nu#-ŋal₂ saŋ kun ŋal₂-la#
+3.24. [e₂-kiš]-nu#-ŋal₂ saŋ kun ŋal₂-la#
 #lem: Ekišnuŋal[1]TN; saŋ[head]; kun[tail]; ŋal[⟦be⟧ to be (there]
 #etcsl: line-id=3.24
 
-25. [e₂-temen-ni₂]-gur₃#-ru ki-tuš šag₄ hul₂-la#
+3.25. [e₂-temen-ni₂]-gur₃#-ru ki-tuš šag₄ hul₂-la#
 #lem: Etemenniguru[1]TN; kituš[dwelling place]; šag[heart]; hul[rejoice]
 #etcsl: line-id=3.25
 
-26. [...] X X-da ur₂-bi im-mi-in-gen₆
+3.26. [...] X X-da ur₂-bi im-mi-in-gen₆
 #lem: X; X; X; ur[root]; gin[confirm]
 #etcsl: line-id=3.26
 
-27. [... ...] X-na-kam gu₂-da am-bi šu₂
+3.27. [... ...] X-na-kam gu₂-da am-bi šu₂
 #lem: X; X; X; gu[neck]; am[wild bull]; šuš[cover]
 #etcsl: line-id=3.27
 
-28. [...] X X ZI# kug-babbar-ra gub-ba-am₃ im-mi-ir-mi-ri
+3.28. [...] X X ZI# kug-babbar-ra gub-ba-am₃ im-mi-ir-mi-ri
 #lem: X; X; X; X; kugbabbar[silver]; gub[stand]; X
 #etcsl: line-id=3.28
 
-29. na-ri-ŋu₁₀ ud he₂-ŋal₂-la bal UB-ba {id₂}keše₂-kug mu-še
+3.29. na-ri-ŋu₁₀ ud he₂-ŋal₂-la bal UB-ba {id₂}keše₂-kug mu-še
 #lem: nari[canal]; ud[sun]; heŋal[plenty]; bala[turn]; X; Kešekug[1]WN; še[call by name]
 #etcsl: line-id=3.29
 
-30. mu da-ri ka-ge₅ du-a-ba {id₂}pa₅-bi-luh-ha mu-še
+3.30. mu da-ri ka-ge₅ du-a-ba {id₂}pa₅-bi-luh-ha mu-še
 #lem: mu[name]; dari[eternal]; kag[mouth]; du[perfect]; Pabiluh[1]WN; še[call by name]
 #etcsl: line-id=3.30
 
-31. ŋe₂₆# iri{ki}-ŋa₂ a-ra₂-bi ku₆-ab te-li-bi mu-še-na
+3.31. ŋe₂₆# iri{ki}-ŋa₂ a-ra₂-bi ku₆-ab te-li-bi mu-še-na
 #lem: ŋaʾe[I]; iri[city]; ara[way]; kud[fish]; dal[fly]; mušen[bird]
 #etcsl: line-id=3.31
 
-32. {id₂}keše₂-kug iri{ki}-bi ku₆-ab te-li-bi mu-še-na
+3.32. {id₂}keše₂-kug iri{ki}-bi ku₆-ab te-li-bi mu-še-na
 #lem: Kešekug[1]WN; iri[city]; kud[fish]; dal[fly]; mušen[bird]
 #etcsl: line-id=3.32
 
-33. {id₂}pa₅-bi-luh a-ra₂-bi ku₆-ab te-li-bi mu-še-na
+3.33. {id₂}pa₅-bi-luh a-ra₂-bi ku₆-ab te-li-bi mu-še-na
 #lem: Pabiluh[1]WN; ara[way]; kud[fish]; dal[fly]; mušen[bird]
 #etcsl: line-id=3.33
 
-34. he₂-ŋal₂-bi ku₆ mušen ma-ra-ab-de₆ e₂-kiš-nu-ŋal₂-še₃
+3.34. he₂-ŋal₂-bi ku₆ mušen ma-ra-ab-de₆ e₂-kiš-nu-ŋal₂-še₃
 #lem: heŋal[plenty]; kud[fish]; mušen[bird]; de[carry]; Ekišnuŋal[1]TN
 #etcsl: line-id=3.34
 
-35. gu₂-gu₂-bi {u₂}munzer lu₂-a u₂-lal₃-e gu₇-e
+3.35. gu₂-gu₂-bi {u₂}munzer lu₂-a u₂-lal₃-e gu₇-e
 #lem: gu[neck]; munzer[licorice?]; lu[abundant]; ulal[plant]; gu[eat]
 #etcsl: line-id=3.35
 
-36. a-gar₃ gal-bi še gu-nu mu₂-mu₂ {ŋiš}tir-gin₇ su-su-u₃-e
+3.36. a-gar₃ gal-bi še gu-nu mu₂-mu₂ {ŋiš}tir-gin₇ su-su-u₃-e
 #lem: agar[meadow]; gal[big]; še[barley]; gunu[qualification of barley]; mu[grow]; tir[forest]; sud[distant]
 #etcsl: line-id=3.36
 
-37. lugal an ub-[da 4]-bi še-ga {d}en-lil₂-la₂
+3.37. lugal an ub-[da 4]-bi še-ga {d}en-lil₂-la₂
 #lem: lugal[king]; an[sky]; ub[corner]; n; šeg[agree]; Enlil[1]DN
 #etcsl: line-id=3.37
 
-38. ur#-{d#}namma sipad# u₂-a ki-en-gi ki-uri-e ki aŋ₂ {d}en-lil₂-la₂
+3.38. ur#-{d#}namma sipad# u₂-a ki-en-gi ki-uri-e ki aŋ₂ {d}en-lil₂-la₂
 #lem: Urnamma[1]RN; sipad[shepherd]; ua[provisioner]; Kengir[1]; Akkad[1 Akkad]; ki[place]; aŋ[measure]; Enlil[1]DN
 #etcsl: line-id=3.38
 
-39. [...] X X NA niŋ₂ urim₂{ki}-ma-ke₄ X sila-am₃ ud mi-ni-in-za-e-en-za-e-le za-e-me-en
+3.39. [...] X X NA niŋ₂ urim₂{ki}-ma-ke₄ X sila-am₃ ud mi-ni-in-za-e-en-za-e-le za-e-me-en
 #lem: X; X; X; X; niŋ[thing]; Urim[1]SN; X; asilala[joy]; ud[sun]; zal[pass time]; zaʾe[you]
 #etcsl: line-id=3.39
 
-40. ur-{d}namma lugal mu da-a-ri za₃-mi₂-zu dug₃-ga
+3.40. ur-{d}namma lugal mu da-a-ri za₃-mi₂-zu dug₃-ga
 #lem: Urnamma[1]RN; lugal[king]; mu[name]; dari[eternal]; zamin[praise]; dug[good]
 #etcsl: line-id=3.40
 
