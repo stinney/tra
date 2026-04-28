@@ -31,14 +31,15 @@ GetOptions(
 
 while (<>) {
     chomp;
-    my($q,$r,$n,$p) = split(/\t/,$_);
+    my($q,$r,$n,$p,$c) = split(/\t/,$_);
     warn "$p\n" unless $per{$p};
     my $rim = '';
     $rim = " \[$n\]" if $n;
     warn "$.: $q: bad t{q}\n" unless $t{$q};
     my $t = 'undefined';
     $t = $t{$q} if $t{$q};
-    print "$q\t$per{$p} Royal\t$t\t$r$rim\n";
+    # my $f = $r; $f =~ s/\s+\d.*$//;
+    print "$q\t$per{$p} Royal\t$t\t$c\t$r$rim\n";
 }
 
 1;
