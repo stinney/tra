@@ -1,0 +1,3360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<table cellpadding="0" cellspacing="0" class="table cdli-table mx-0">
+  <thead>
+    <tr>
+      <th scope="col">
+        <a href="https://cdli.earth/publications/1671339?artifacts%5Bsort%5D=3Did&amp;artifacts%5Bdirection%5D=3Dasc">Identifier</a>
+      </th>
+      <th scope="col">
+        <a href="https://cdli.earth/publications/1671339?artifacts%5Bsort%5D=3Ddesignation&amp;artifacts%5Bdirection%5D=3Dasc">Designation</a>
+      </th>
+      <th scope="col">Museum Collections</th>
+      <th scope="col">
+        <a href="https://cdli.earth/publications/1671339?artifacts%5Bsort%5D=3DPeriods.period&amp;artifacts%5Bdirection%5D=3Dasc">Period</a>
+      </th>
+      <th scope="col">
+        <a href="https://cdli.earth/publications/1671339?artifacts%5Bsort%5D=3DProveniences.provenience&amp;artifacts%5Bdirection%5D=3Dasc">Provenience</a>
+      </th>
+      <th scope="col">
+        <a href="https://cdli.earth/publications/1671339?artifacts%5Bsort%5D=3DArtifactTypes.artifact_type&amp;artifacts%5Bdirection%5D=3Dasc">Artifact Type</a>
+      </th>
+      <th scope="col">
+        <a href="https://cdli.earth/publications/1671339?artifacts%5Bsort%5D=3DEntitiesPublications.publication_type&amp;artifacts%5Bdirection%5D=3Dasc">Publication Type</a>
+      </th>
+      <th scope="col">
+        <a href="https://cdli.earth/publications/1671339?artifacts%5Bsort%5D=3DEntitiesPublications.exact_reference&amp;artifacts%5Bdirection%5D=3Dasc">Exact Reference</a>
+      </th>
+      <th scope="col">Publication Comments</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/572460">P572460</a>
+      </td>
+      <td>BM 043974 + BM 046971</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+                                                            </td>
+      <td>
+                                                            </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>primary</td>
+      <td>text no. 2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/572477">P572477</a>
+      </td>
+      <td>BM 046804</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+                                                            </td>
+      <td>
+                                                            </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>primary</td>
+      <td>text m2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343646">P343646</a>
+      </td>
+      <td>CDLI Literary 000350, ex. 014 &amp; 000351, ex. 164</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2, 018 G4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/278351">P278351</a>
+      </td>
+      <td>CDLI Literary 000350, ex. 052 &amp; 000351, ex. 166</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1973) 017 X2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/346516">P346516</a>
+      </td>
+      <td>CDLI Literary 000350, ex. 054 &amp; 000351, ex. 167</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/21">Ur (mod. Tell Muqayyar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2, 017 D3 (cited as 70)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357087">P357087</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 001</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 t</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/414333">P414333</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 002</td>
+      <td>
+        <a href="https://cdli.earth/collections/215">Vorderasiatisches Museum, Berlin, Germany</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/27">Hellenistic (323-63 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/200">Babylon (mod. B=C4=81bil)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 b1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357102">P357102</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 003</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 p</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357099">P357099</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 004</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 a1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357089">P357089</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 005</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 f1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357110">P357110</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 006</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 k</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/264622">P264622</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 007</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 H1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/265221">P265221</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 008</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 I1 (citations p. lxxxiv)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/258539">P258539</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 009</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 H3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/266252">P266252</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 010</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 C2 (citations pl. lxxxvi)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/259285">P259285</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 011</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 Y2 (citations p. lxxxvi)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/268188">P268188</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 012</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 C1 (citations pl.lxxxiii)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/259251">P259251</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 013 &amp; 000396, ex. 072</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017, Z2 + W4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/414088">P414088</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 014</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 w</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357108">P357108</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 015</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 ( l + o)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345084">P345084</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 016</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 N2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345085">P345085</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 017</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 Z3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345105">P345105</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 018</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 D1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/461892">P461892</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 019</td>
+      <td>
+        <a href="https://cdli.earth/collections/647">Louvre Museum, Paris, France</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/35">Neo-Babylonian (ca. 626-539 BC)</a>
+      </td>
+      <td>
+                                                            </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 y</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/282599">P282599</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 020</td>
+      <td>
+        <a href="https://cdli.earth/collections/215">Vorderasiatisches Museum, Berlin, Germany</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/21">Middle Assyrian (ca. 1400-1000 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/211">Assur (mod. Qalat Sherqat)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 h</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/282600">P282600</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 021</td>
+      <td>
+        <a href="https://cdli.earth/collections/215">Vorderasiatisches Museum, Berlin, Germany</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/21">Middle Assyrian (ca. 1400-1000 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/211">Assur (mod. Qalat Sherqat)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 d1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/373820">P373820</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 022</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 f</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/269182">P269182</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 023</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 A4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345310">P345310</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 024</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 L1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345312">P345312</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 025</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 N1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345426">P345426</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 026</td>
+      <td>
+        <a href="https://cdli.earth/collections/647">Louvre Museum, Paris, France</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/306">uncertain (mod. uncertain)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 b</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/262987">P262987</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 027</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 O1 (citations p. lxxxiv)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/262932">P262932</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 028</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 K1 (citations p.lxxxiv)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/262188">P262188</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 029</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 W1 (citations p. lxxxv)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/264331">P264331</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 030</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 K2 (+) L2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/263283">P263283</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 031</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 T3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/268891">P268891</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 032</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 U</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/266186">P266186</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 033</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 V (citations pl. lxxxiii)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/262174">P262174</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 034</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 (O)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345137">P345137</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 035</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 C</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345138">P345138</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 036</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 B</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345139">P345139</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 037</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 X1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345140">P345140</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 038</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 N</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345264">P345264</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 039</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 U3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/413913">P413913</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 040</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/211">Assur (mod. Qalat Sherqat)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 n</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/461685">P461685</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 041</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 X3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/237384">P237384</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 042</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 g</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/237352">P237352</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 043</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 c</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357140">P357140</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 044</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 c1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/346088">P346088</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 045</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/21">Ur (mod. Tell Muqayyar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>015, M1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/346089">P346089</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 046</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/21">Ur (mod. Tell Muqayyar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 S1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/346090">P346090</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 047</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/21">Ur (mod. Tell Muqayyar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 F2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/346091">P346091</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 048</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/21">Ur (mod. Tell Muqayyar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 H2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/338470">P338470</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 049</td>
+      <td>
+        <a href="https://cdli.earth/collections/705">Anadolu Medeniyetleri M=C3=BCzesi, Ankara, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/263">Huzirina (mod. Sultantepe)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 e</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343177">P343177</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 050</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 X</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343185">P343185</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 051</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 U1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343215">P343215</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 052</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 R1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343227">P343227</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 053</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 Q3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343355">P343355</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 054</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 D</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343359">P343359</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 055</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 R3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343378">P343378</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 056</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 S3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343418">P343418</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 057</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 Q</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343424">P343424</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 058</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 B1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343431">P343431</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 059</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 R</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343536">P343536</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 060</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 V3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343590">P343590</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 061</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 U4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343621">P343621</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 062</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 T1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343633">P343633</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 063</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 P</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343642">P343642</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 064</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 H</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343643">P343643</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 065</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 V1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343644">P343644</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 066</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 J1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/459571">P459571</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 067</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 I2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343645">P343645</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 068</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 F</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/459575">P459575</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 069</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 F4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343647">P343647</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 070</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 P1+E2+G2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/459573">P459573</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 071</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 A3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/343772">P343772</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 072</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 S</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/345782">P345782</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 073</td>
+      <td>
+        <a href="https://cdli.earth/collections/1418">Ashmolean Museum, Oxford, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/184">Kish (mod. Tell Uhaimir)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 Z</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/461682">P461682</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 074</td>
+      <td>
+        <a href="https://cdli.earth/collections/494">Birmingham Museums and Art Gallery, Birmingham, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 C5</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357319">P357319</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 076</td>
+      <td>
+        <a href="https://cdli.earth/collections/6">Yale Babylonian Collection, New Haven, Connecticut, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/306">uncertain (mod. uncertain)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 A</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/263109">P263109</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 077</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 E</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/256809">P256809</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 078</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 G</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356663">P356663</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 079</td>
+      <td>
+        <a href="https://cdli.earth/collections/1100">National Museum of Iraq, Baghdad, Iraq</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 I</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356987">P356987</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 080</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 013 JISET 3, 082, Ni 09454</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/461683">P461683</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 081</td>
+      <td>
+        <a href="https://cdli.earth/collections/1100">National Museum of Iraq, Baghdad, Iraq</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+                                                            </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 A1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356647">P356647</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 082</td>
+      <td>
+        <a href="https://cdli.earth/collections/1100">National Museum of Iraq, Baghdad, Iraq</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 E1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/256797">P256797</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 083</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 L</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/269650">P269650</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 084</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 M</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/279008">P279008</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 085</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 W+R4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/278276">P278276</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 086 &amp; 000397, ex. 016</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 014 Y</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/279001">P279001</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 087</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 A2 + B2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356828">P356828</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 088</td>
+      <td>
+        <a href="https://cdli.earth/collections/1100">National Museum of Iraq, Baghdad, Iraq</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 Q1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356718">P356718</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 089</td>
+      <td>
+        <a href="https://cdli.earth/collections/1100">National Museum of Iraq, Baghdad, Iraq</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 015 Z1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/230705">P230705</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 090</td>
+      <td>
+                                                            </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 J2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/278689">P278689</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 091</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 M2 + Q2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/255517">P255517</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 092</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 R2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/255622">P255622</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 093</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 S2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/269648">P269648</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 094</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 016 T2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/263561">P263561</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 095</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 F3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356460">P356460</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 096</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 G3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/429735">P429735</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 097</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 I3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356563">P356563</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 098</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 J3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356260">P356260</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 099</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 K3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356198">P356198</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 100</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 L3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356485">P356485</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 101</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 M3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/429734">P429734</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 102</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 N3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356194">P356194</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 103</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 O3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356137">P356137</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 104</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 P3</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/256941">P256941</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 105</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 U2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/459572">P459572</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 106</td>
+      <td>
+        <a href="https://cdli.earth/collections/1100">National Museum of Iraq, Baghdad, Iraq</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 W2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/278322">P278322</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 107</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 B4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/265528">P265528</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 108</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/20">Middle Babylonian (ca. 1400-1100 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 C4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/278416">P278416</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 109</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 D4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/268200">P268200</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 110</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 I4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/276672">P276672</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 111</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 K4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/276913">P276913</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 112</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 L4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356497">P356497</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 113</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 M4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356407">P356407</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 114</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 N4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356155">P356155</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 115</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 O4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356489">P356489</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 116</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 P4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/256927">P256927</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 117</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 Q4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/278179">P278179</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 118</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 T4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357188">P357188</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 119</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/25">Sippar-Yahrurum (mod. Tell Abu Habbah)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 018 Y3 + E5</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/370905">P370905</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 120</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 d</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/276569">P276569</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 121</td>
+      <td>
+        <a href="https://cdli.earth/collections/429">Penn Museum, Philadelphia, Pennsylvania, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/35">Neo-Babylonian (ca. 626-539 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 D5</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/459576">P459576</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 122</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 X4</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356985">P356985</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 123</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 Y4ISET 3, 081, Ni 09963</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/356983">P356983</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 124</td>
+      <td>
+        <a href="https://cdli.earth/collections/326">Arkeoloji M=C3=BCzeleri, Istanbul, Turkey</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 Z4ISET 3, 080, Ni 09840</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357132">P357132</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 125</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 i</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357174">P357174</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 126</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/35">Neo-Babylonian (ca. 626-539 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/306">uncertain (mod. uncertain)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 j</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/452719">P452719</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 127</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 m</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357208">P357208</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 128</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/306">uncertain (mod. uncertain)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 v</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357176">P357176</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 129</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/306">uncertain (mod. uncertain)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 x</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357179">P357179</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 130</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/35">Neo-Babylonian (ca. 626-539 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/306">uncertain (mod. uncertain)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020 z</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357126">P357126</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 131</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 g1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/424848">P424848</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 132</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 h1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357207">P357207</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 133</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/306">uncertain (mod. uncertain)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 i1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357086">P357086</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 134</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 j1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357206">P357206</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 135</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/21">Middle Assyrian (ca. 1400-1000 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 n1 (BM 122625)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/403233">P403233</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 136</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 022 a2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357106">P357106</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 137</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 022 q1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357133">P357133</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 138</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 022 v1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357079">P357079</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 139</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 022, p1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/452395">P452395</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 140</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 022, w1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/461208">P461208</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 141</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+                                                            </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 023 (o2)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357181">P357181</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 142</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/35">Neo-Babylonian (ca. 626-539 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/25">Sippar-Yahrurum (mod. Tell Abu Habbah)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 023 c2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/404409">P404409</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 143</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 023 d2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/404559">P404559</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 144</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 023 e2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/461893">P461893</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 145</td>
+      <td>
+        <a href="https://cdli.earth/collections/994">Institute for the Study of Ancient Cultures West Asia &amp; North Africa Museum, Chicago, Illinois, USA</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/35">Neo-Babylonian (ca. 626-539 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/22">Nippur (mod. Nuffar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 023 g2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357205">P357205</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 146</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/306">uncertain (mod. uncertain)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 023 h2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/461247">P461247</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 147</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+                                                            </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>pl. 75-76, BM 051213 +</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/401981">P401981</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 148</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/279">Nineveh (mod. Kuyunjik)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 023 q2</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/349103">P349103</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 151</td>
+      <td>
+                                                            </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/105">Uruk (mod. Warka)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 019 B5</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/346514">P346514</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 152</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/21">Ur (mod. Tell Muqayyar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 B3 (cited as 260)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/346515">P346515</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 153</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/21">Ur (mod. Tell Muqayyar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 C3 (cited as 94)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/346517">P346517</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 154</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/21">Ur (mod. Tell Muqayyar)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 017 E3 (cited as 237)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/453277">P453277</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 156</td>
+      <td>
+        <a href="https://cdli.earth/collections/215">Vorderasiatisches Museum, Berlin, Germany</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/23">Neo-Assyrian (ca. 911-612 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/211">Assur (mod. Qalat Sherqat)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 022 (o1)</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/453278">P453278</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 157</td>
+      <td>
+        <a href="https://cdli.earth/collections/215">Vorderasiatisches Museum, Berlin, Germany</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/21">Middle Assyrian (ca. 1400-1000 BC)</a>
+      </td>
+      <td>
+                                                            </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 021 m1</td>
+      <td/>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://cdli.earth/artifacts/357180">P357180</a>
+      </td>
+      <td>CDLI Literary 000351, ex. 158</td>
+      <td>
+        <a href="https://cdli.earth/collections/868">British Museum, London, UK</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/periods/18">Old Babylonian (ca. 1900-1600 BC)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/proveniences/306">uncertain (mod. uncertain)</a>
+      </td>
+      <td>
+        <a href="https://cdli.earth/artifact-types/4">tablet</a>
+      </td>
+      <td>history</td>
+      <td>2 (1983) 020, u</td>
+      <td/>
+    </tr>
+  </tbody>
+</table>
