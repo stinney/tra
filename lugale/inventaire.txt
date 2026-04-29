@@ -1,0 +1,1098 @@
+A YBC 9867* (= 1 /4) @@ v. Dijk @@
+f. 1 @@= 1-39
+2 @@= 46-85
+rev. 3 @@ = 91-130
+4 @@ = 141-162; 165-182
+
+B Ni 2767(+P) @@SLTN 7 @@
+f. 1 @@= 1-12
+(= 1 / 2) @@ 2 @@= 44-55
+3-4 @@ = pérdues
+rev. 5-6 = perdus
+7 @@ = traces (± 310-320)
+8 @@ = 369-375
+
+C Ni 1153 @@ SLTN 6 @@
+f. @@= 1-4; 7-8
+rev. @@= 20-24
+(= 1 col.) @@
+
+D Ni 9495 @@ ISET l, 110 (168) @@
+f. 1 @@= 3-14
+2 @@= 52-59
+(= 1 col.) @@
+
+E CBS 8243*+ @@Bergmann @@
+f. @@= 7-19
+rev. @@= anépigraphe
+(= 1 col.) @@
+
+F Ni 4366 @@ (= 1/3 ) @@ISET 2, 24 . @@
+f.! 1 @@= 8-20
+2 @@= 67-73
+rev.' 3 @@ = 158-165
+4 @@ = 230-245
+
+G UM 29-16-242+29-16-439*+ @@ (= 1/4) @@ Bergmann @@
+f. 1 @@= 10-19
+2 @@= 44-58
+rev. 3 @@ = 110-123
+4 @@ = 159-168
+
+H Ni 4138 @@ ( 1/2 ) @@ ISET 2, 23 @@
+f. 1 @@= 27-33
+2 @@= 55-58
+4-6 @@ = perdues
+rev. 7-10 = perdus
+11 = @@ 316-318('?)
+12 = 347-352
+
+I 3 NT 384* + Bergmann
+f. @@ 1 = 30-45
+(= 1 /4) 2 = 84-92
+rev. 3 = 93-107
+4 = @@ 140-156
+
+J Ni 9454* v. Dijk
+f. = 584-587
+(= 1 col.) rev. = 588-591
+
+K HS 1603 TMHNF 4, 78
+f. @@ 1 = 41-49
+(= 1 / 1 ) +coll. Wilcke, 2 = 98-110
++H₃+S₄+T+F₁+G₁+P₂ ASAW 65/4
+
+L UM 29-16-223*+ @@ Bergmann
+f. = 52-70
+rev. = 102-118
+(= 1 col.)
+
+M CBS 15088*+ @@ Bergmann
+f. = 71-76
+r. = 77-83
+(= 1 col.)
+
+N Ni 2339 SLTN 9
+f. = 76-83
+r. = 112-120
+
+O CBS 7138 STVC 114
+f = 367-373
+r = 405-410
+(= 1 col.)
+
+P Ni 9723+ (+B) ISET 2, 19;  FTS 201, fig. 64 @@
+f. 1=perdue
+2 = 46-63
+3 = 83-96
+4 = perdue
+r. 5 = perdu
+6 = 253-273
+7 = 302-315
+8 = perdu
+(= 1/2)
+
+Q Ni 9772 ISET 1, 124 (182)
+f. = 95-99
+  
+R Ni 9919 ISET 1, 128 (186)
+f. = 95-97
+r. = ?
+(douteux)
+
+S Ni 9631 ISET 2, 107; FTS 201, fig. 65
+f. @@ 1 = perdues
+2 = perdues
+(= 1/4) rev. @@
+1 = 97-127
+2 143-152
+
+T CBS 2161*+ Bergmann
+f.2 = 117-123
+3 = @@ 175-181
+rev. 10 = 552-559
+11 = 608-616
+(1/4) +K+H₃+S₄+F₁+G₁+P₂ 
+
+U CBS 13876+ SEM 44
+f. 121-141
+rev. 174-182
+(= @@ 1 col.)
+
+V CBS 11006+ SEM 45
+f. 124-142
+(= @@ 1 col.) rev. 155-170
+
+W N 4135*+(+R4) Bergmann
+f. = @@ 128-133
+(= @@ 1 col.) rev. 141-151
+
+X Ni 4097 ISET 1, 71 (129)
+f. 148-153
+(= @@ 1 col.) rev. = @@161-163
+
+Y N 3224*+ Bergmann
+f. = @@ 148-156
+(= 1 col.) rev. = 159-165
+
+Z Ashm. 1924, 560 OECT 5, 1
+f. = 159-173
+(= @@ 1 col.) rev. = 228-237 + col.
+
+A₁ IM 43424 SUMER 18 (1962) pl. 1
+f. = 162-177
+(= 1 col.) rev. = @@ 178-192
+
+B₁ Ni 9785 ISET 1, 127 (185)
+183-191
+(fgm.)
+
+C₁ CBS 13103+ BE 29/1. 11
+f. = 221-230
+(= 1 col.) rev. = 231-240
+
+D₁ Ni 2374+ BE 31, 32
+f. = 251-264
+(= 1 col.) [coll.: Kramer,JAOS 60 (1940) 234ff]
+rev. = 270-280
+
+E₁ 3 NT 353*+ Bergmann f. = 253-282
+(= 1 col.) rev. = 283-313
+
+F₁ CBS 1837+ 1839+ 1205 *+ BE 29/1, 8
+(= 1/4 ) = 12 col. Bergmann
+f. 1 = K+H₃+-S₄
+2 = K+T
+3 = T
+4 = G₁
+5 273-286; G₁
+6 = 338-355
+rev. 7 = @@ 395-412; G₁
+8 = 459-473; G₁
+9 = 524-534; G₁
+10 = 574-581; T+P₂
+11 = T+P₂
+12 = S4+P₂
++K+T+G₁+P₂+H₃+S₄
+
+G₁ @@ CBS 2347 BE 29/1, 6
+f. 4 = 237-245
+5 = 290-304
+rev. 7 = 388-391
+8 = 432-450
+9 = 503-510
+(= 1/4) cf. F₁
+
+H₁ @@ CBS 9232+ BE 29/1, 2
+f. = 334-358
+(= 1 col.) rev. = 359-375
+
+I₁ @@ CBS 9935 + BE 29/1, 3
+f. = 334-354
+(= 1 col.) rev. = 355-375
+
+J₁ @@ Ni 4419 ISET 2, 23
+f. = 335-345
+(= @@ 1 col.) rev. = 346-358
+
+K₁ @@ CBS 7994+ SEM 35
+f. = 349-355
+(= 1 col.) rev. = anépigraphe
+
+L₁ @@ Ni 2499 SRT 18
+f. ; 349-363
+(= @@ 1 col.) [coll., Kramer, ZA 52 (1957) 76-90]
+rev. = 364-376
+
+M₁ U 16879 M UET 6, 3
+rev. = 358-375
+(= @@ 1 col.)
+
+N₁ @@ Ni 2501 SRT 20
+f. = 372-387
+(= 1 col.) [coll.: cf. L₁] rev. = 388-403
+
+O₁ @@ CBS 8070k SEM 32
+f. @@ 1 = 375-406
+(= 1 /4) 2 = 416-450
+rev. 3 = 469-500
+4 = 510-545
+
+P₁ @@ Ni 4195 (=E₁+G2 ) ISET 2, 25
+f. @@ 1 = 383-389
+(=@@ 1 /4 ) rev.! 4 = 524-537
+
+Q₁ @@ 3 NT 770*+ Bergmann
+f. = 393-409
+(= 1 col.) rev. = 410-416
+
+R₁ @@ Ni 4272 ISET 1, 80 (138)
+= 394-398
+(fgm.)
+
+S₁ @@ U 16877 UET 6, 4
+f. = 404-419
+(= 1 col.) rev. = 420-436
+
+T₁ @@ Ni 4290+ ISET 2, 12
+f. = 308-316
+(= 1 col.) (ductus cassite!)
+rev. = 355-363
+
+U₁ @@ Ni 4115 ISET I, 73 (131)
+f. = 412-416
+(= 1 col.) rev. = 435-441
+
+V₁ @@ Ni 4395(+X,) ISET 2, 23
+f. = 416-421
+(= 1 col.) rev. = 462-463
+
+W₁ CBS 7154+ SEM 36
+f. = 418-424
+(= 1 col.) rev. = 427-434
+
+X₁ @@ Ni 2743(+V,) SLTN 8
+f. = 420-433
+(= 1 col.) rev. = 452-459
+
+Y₁ @@ UM 29-13-249* + Bergmann
+f. = perdue
+rev. = 425-432
+edge = 448-449
+
+Z₁ @@ 3 NT 477*+ Bergmann
+= 428-447
+
+A₂ @@ N 4126* + (+B 2) Bergmann
+f. = 432-436
+(= 1 col.) rev. = 441-445
+
+B₂ N 4170*+(+A₁) Bergmann
+f. = 436-438
+(= 1 col.) rev. = 439-442
+
+C₂ CBS 11087+ BE 29', 7
+f. 450-478
+(= 1 col.) rev. 480-512
+
+D₂ N 3284* v. Dijk
+f. = perdue
+(= 1/4) rev. 1 = 452-462
+2 = 495-505
+
+E₂ Ni 9678(+P, +G 2 ) ISET 2, 25 f.
+= perdue
+(= 1 /4) rev. 1 = 470-474
+2 = 515-525
+
+F₂ «DD» UET 6, 5
+f. = perdue
+(= 1 /4) = rev. 1 = 476-490
+2 528-536
+
+G₂ Ni 9727(+P₁+E₁) ISET 2, 25
+f. = perdue
+(= 1 /4) rev. 1 = 480-490
+2 = 532-542
+
+H₂ U 16884 UET 6, 6
+f. = 487-504
+(= 1 col.) rev. = 532-546
+
+I₂ Ni 9640 ISET 23
+f. = 508-518
+(= @@ 1 col.) rev. = 525-530; 543; 546-548
+
+J₂ 3 NT 295*+ @@Bergmann
+f. = 524-544
+(= 1 col.)
+rev. = 545-557
+
+K₂ N 1327*+(+L₂) @@Bergmann
+f. = perdue
+(= 1/4?; 12 col.? n'appartient pas à F₁+)
+rev. 9 = 528-543
+10 = 579-596
+
+L₂ CBS 6903+7842* + (+K₂) SEM 38; Bergmann/v. Dijk
+f. 4 = @@ 186-192(?)
+(= 1/4?)
+rev. 9 = 556-568
+10 = 614-623
+
+M₂ Ni 2502(+Q2) @@ SRT 21
+f. @@ 1 = 564-574
+(= 1 /4) @@ [coll.: cf. L₁]
+2 = 598-612
+rev. 3 = 657-678
+4 = 707-722
+
+N₂ Ni 2375+ @@ BE 31, 8
+f. = 568-584
+(= 1 col.) @@ [coll.: cf. D₁]
+rev. = 587-598
+
+O₂ @@ UET 6, 7
+f. = 569-582
+(= 1 col.)
+rev. = 628-636
+
+P₂ CBS 2166*+(+F₁+) @@Bergmann
+f. @@ 1 = perdu
+2 = perdues
+3 = perdues
+(1/1 ; 12 col.)
+rev. 10 = 572-582
+11 = 628-645
+12 = 695-706
+
+Q₂ N 3674*+(+M₂) @@Bergmann
+f. @@ 1 = 586-595
+(= 1 /4)
+2 = perdue
+rev. 3 = perdu
+4 @@ = 691-702
+
+R₂ UM 29-13-583*+ @@Bergmann @@
+f. @@= 589-604
+(= 1 col.) @@
+rev. @@=. 605-618
+
+S₂ UM 29-13-699+N 1852+N 3208 v. Dijk @@
+f. @@= 595-603
+rev. @@= 613-622
+(= 1 col.)
+
+T₂ CBS 15086*+ @@Bergmann @@
+f. 1 @@= perdue
+(= 1 /4) @@ 2 @@= 607-624
+rev. 3 @@ = 683-693
+4 @@ = perdu
+
+U₂ UM 29-16-43+29-16-444*+ Bergmann
+(= 1/4)
+f. @@ 1 = perdue
+2 = 613-634
+rev. 3 = 635-652
+4 = 685
+
+V₂ Ni 9682 ISET 1, 126 (184)
+f. 1 = perdu
+2 = perdues
+rev 3 = 617-622
+4 = 667-674
+(?)
+
+W₂ 2NT 415 (IM 58961)* @@ Civil
+(= 1 col.)
+f. = 634-638
+rev. = 639-643
+
+X₂ N 3309*+ Bergmann
+(= 1 col.)
+f. = 647-667
+rev. = 703-728
+
+Y₂ CBS 2237+ @@ BE 29', 10
+(= 1 col.)
+f. 670-678
+rev. = 723-728
+
+Z₂ CBS 2205+CBS 2196* @@ BE 29 1 , 13; @@ v. Dijk
+(= 1 col.) (+W₂)
+f. = 711-722
+rev. = 723-728
+
+A₃ Ni 9689 @@ ISET 2, 27
+(fgm.)
+= 323-332
+
+B₃ @@ Shaffer, UET 6 3 , «260»
+(= 1 col.)
+f. = 20-25
+rev. = 26-45
+
+C₃ @@ Shaffer, UET 63 , «94»
+(= 1 col.)
+f. = 457-462
+rev. = 465-469
+
+D₃ @@ Shaffer, UET 63 , «70»
+(fgm.)
+= 527-532
+
+E₃ @@ Shaffer, UET 6 3 , «237»
+(= 1 col.)
+f. = 664-682
+rev. = 694-709
+
+F₃ CBS 8736* @@ v. Dijk
+(= 1 col.)
+f. = 1-9
+rev. = 49-50
+
+G₃ 3 NT 918, 404* @@v. Dijk
+(= 1 col.)
+f. = 11-14
+rev. = 15-17
+
+H₃ N 839*
+@@ v. Dijk
+(= 1/4 ?; cf. F₁)
+f. = 24-32
+rev. = perdu
+
+I₃ 3 NT 927, 534* @@v. Dijk
+(fgm.)
+f. = 27-40
+rev. = perdu
+
+J₃ 3 NT 927, 514+515* @@v. Dijk
+(= 1 col.)
+f. = 56-67
+rev. anépigraphe
+
+K₃ 3 NT 905, 199* @@v. Dijk
+(= 1 col.)
+f. = 274-277
+rev. = 282-288
+
+L₃ 3 NT 903, 133* @@v. Dijk
+(fgm.)
+= 379-387
+
+M₃ 3 NT 918, 430* @@v. Dijk @@ (fgm.)
+= 412-422
+
+N₃ 3 NT 927, 533* @@v. Dijk
+(= 4 col.; recension aberrante)
+f. @@ 1 = 421-426
+2 = 494; 474; 495-496; 479-480
+rev. perdu
+
+O₃ 3 NT 903, 128* @@v. Dijk
+(fgm.)
+f. 487-490
+rev. = anépigraphe
+
+P₃ 3 NT 902, 65* @@v. Dijk
+(= 1 col.)
+f. = 501-508
+rev. = 509-515
+
+Q₃ Ni 4522 @@ ISET 1, 81 (139)
+= 454-459
+(fgm.)
+
+R₃ Ni 9522 @@ ISET 1, 111 (169)
+@@= 614-621
+(fgm.)
+
+S₃ Ni 9592 ISET 1, 115 (173)
+= 652-657
+(fgm.)
+
+T₃ CBS 8476* SEM 43; v. Dijk
+f. = 211-220
+(= 1 col.) rev. = 221-234
+
+U₃ Ni 4261 SLTN 133
+= 486-494
+(fgm.)
+
+V₃ Ni 9929 ISET 1, 145 (203)
+= 236-241
+(fgm.)
+
+X₃ Ni 4120 TAD 8/2 pl. XXX
+f. = @@ 138-143
+rev. = @@ 169-173
+
+Y₃ BM 62360+BM 64255* (= AH 82-9-18, 2329+4231) Lambert
+= @@ 578-591
+(fgm.; Sippar) (+E₅)
+
+Z₃ Ni 2371 @@ BE 31, 9
+= @@ les incipit des pierres
+[coll.: cf. D₁]
+ 
+A₄ CBS 14212* @@ UMBS 13, 59; v. Dijk
+(= ? col.)
+f. = 375(?)
+rev. = 544-546
+
+B₄ N 3279* @@ v. Dijk
+(= 1/4)
+rev. 1 = 462-468
+2 = 510-514
+
+C₄ CBS 10295* @@ v. Dijk
+(fgm.)
+= 515-522a
+
+D₄ N 3379* @@ v. Dijk
+(= 1 col.)
+f. = 1-7
+rev. = 35-39
+
+E₄ N 3351 @@ v. Dijk
+(= 1 col.)
+f. = 694-701
+rev. = 702-707
+
+F₄ Ni 4517 @@ ISET 2, 24
+(fgm.)
+= 191-198
+
+G₄ Ni 13166 @@ ISET 2, 24
+(fgm.)
+= 241-254
+
+H₄ Si 521* v. Dijk
+(= 1 col.)
+f. = 213-231
+rev. = 276-288
+
+I₄ CBS 13114* v. Dijk
+(= 1 col.)
+f. = 682-697
+rev. = 706-720
+
+J₄ Si 533* @@ v. Dijk
+(= 1 col.)
+f. = 674-687
+rev. = 688-700
+
+K₄ N 1543* v. Dijk
+(fgm.)
+f. = 181-188
+
+L₄ N 1794* v. Dijk
+(= 1 col.)
+f. = 373-387
+rev. = 388-403
+
+M₄ 3 NT 918, 442* @@v. Dijk
+(fgm.)
+f.? = 268-277
+
+N₄ 3 NT 916, 353* v. Dijk
+(= 1 col.)
+f. = 223-229
+rev. = 260-263
+
+O₄ 3 NT 902, 83* v. Dijk
+(= 1 col.)
+f. = 490-494
+rev. = 517-524
+
+P₄ 3 NT 918, 434* @@v. Dijk
+(= 1 col.)
+f. = 112-125
+rev. = 130-137
+
+Q₄ UM 29-16-429* v. Dijk
+(= 1 col.)
+f. = 71-82
+rev. = 91-103
+
+R₄ N 3716*(+W) @@v. Dijk
+f. = 127-128
+rev. = 146-151
+
+S₄ N 3037* @@ v. Dijk
+(= 1 /4) cf. F,
+f. @@ 1 = 37-50
+rev. 12 = 687-696
+
+T₄ N 3122* @@ v. Dijk
+(= 1 / 1 ? mais n'est pas: F, +);
+(fgm.)
+rev. 12? = 690-700
+
+U₄ Ni 9452 ISET 1, 170 (228)
+(= 1 col.)
+f. = 136-137
+rev. 138
+
+W₄ CBS 2293*(+Z₂) v. Dijk
+(= 1 col.)
+f. 702-711
+rev. anépigraphe
+
+X₄ Ni 4478* v. Dijk
+(= 1 col.)
+f. = 377-383
+rev. = 412-415
+
+Y₄ Ni 9963* v. Dijk
+(fgm.; = 1 /4)
+f. = 252-260
+rev. = perdu
+
+Z₄ Ni 9840* v. Dijk
+(= 1 col.)
+f. = perdue
+rev. 690-703
+
+A₅ Si 982* v. Dijk
+f. = 377-389
+rev. = anépigraphe
+
+B₅ W 17259,v* Falkenstein
+(= 1 col.)
+f. = 77-89
+rev. 90-110
+
+C₅ Birmingham City Museum 280, 62 IRAQ 41 (1979) 133, 40
+51-53
+
+D₅ N 1424* v. Dijk
+(fgm. d'une grande composition dédiée à Ninurta)
+
+E₅ BM 54681(+Y₃) @@J. Geller
+(voir: additions)
+530-540
+rev. @@= 574-587
+
+a VAT 17012* v. Dijk
+f. = @@ 1-23
+(= 1 col.) (= Geller: J 5326; Bergmann: BE 5326)
+rev.= 25-45
+
+b AO 7748 TCL 16, 82
+f. = 2-13
+(= 1 col.)
+rev. = 35-44
+
+c 83-1-18, 488(+g) ZA 54 (1961) 73s. fig. 2-3
+f. = @@ 9-11
+(= @@ 1 col.)
+rev. = 44-45
+
+d K 133 ASKT 79ss.
+f. = 10-24
+(= @@ 1 col.) [coll.: ZK 2 (1885) 273 ss.]
+rev. = 25-40
+
+e 52-203 STT 2, 150
+f. = 10-24
+(= @@ 1 col.) rev. = 30-42
+
+f K 7604* (extrait) RA 17 (1920) 151; ZA 34 (1922) 29
+= @@ 9-12; 16-19
+
+g 83-1-18, 693 83-1-i8, ZA 54 (1961) 72s. fig. 1-2
+f. = @@ 18-28
+(= 1 col.)
+rev. = 29-39
+
+h VAT 9306 KAR 13
+f.! 1 = 39-45
+(= 1 /4)
+2 = 92-93
+rev.! 1 = perdu
+2 @@ = 140-141
+
+i @@ K 13521* @@ v. Dijk @@f. @@= 49-54
+(= 1 col.) @@
+rev. @@
+—88-89+1. d'app.+col.
+asb.
+
+j @@ BM 38155*
+@@v. Dijk @@f. @@= 53-66
+(= 1 col.) @@
+rev. @@= 75-87
+néo-bab.
+
+k @@ K 5124 @@ BA 10, 709 n° 63 @@
+f.! @@= 59-71
+(= 1 col.) @@
+rev.! @@ = 72-83
+
+l @@ K 6657*(+o) @@BL 98(+BL 110) @@
+f:- ' @@= 70-77
+(_ ? col.)
+unilingue ?; = extrait
+asb.
+
+m 83-1-18, 516 @@ZA 54 (1961) 88 @@
+f. @@= 70-79
+(= ? col.) @@
+rev. @@= perdu
+unilingue?
+
+n gd/Assur 13955, @@LKA 9 @@f. 2 @@= 74-86
+Photo 4124 et K 436/7;
+tablette a 4 col. contenant
+diverses compositions
+
+o K 5036*(+l) @@BL 110`(-4!BL 98) @@
+f.' @@= 77-87; 7(!); ??
+asb.
+
+p K 4827 @@ MVAG 8/5 (1903) @@f. @@= perdue
+(= 1 col.) @@ pl. XI @@
+rev. @@= 87-89+1. d'app.+col.
+asb.
+
+q VAT 10567 @@
+KAR 17 @@f. @@= 90-99
+(= 1 col.) @@
+rev. @@= 132-135+l. d'app.
+Assur; médio-assyrien
+
+r DT @@ ZA 54 (1961) 88 @@
+f. @@= 90-101
+(= 1 col.) @@
+fi g. 6 @@ rev. @@= perdu
+asb.
+
+s @@
+Th 1905-4-9, @@ZA 54 (1961) 80s. @@f. @@= 105-114
+10+12+13+322+394 @@AJSL 35 (1918-19) @@
+rev. @@— 117-128
+(= 1 col.) @@
+140-43
+asb.
+
+t @@ K 2863 @@
+4 R2 23 n° 2 @@
+f. @@= 136-145
+(= 1 col.) @@
+rev. @@= 179-181+l. d'app.-i-col.
+asb'
+
+u BM 47892*
+Lambert @@
+f. @@= 137-148
+(= 1 col.) @@
+rev. @@= 174-181+l. d'app.+col.
+néo-babylonien
+
+v BM 123445*
+Lambert @@
+f. @@= 159-161
+(= Th 1932, 12-10, 388) @@
+rev. @@= 162-166
+(= 1 col.)
+asb'
+
+w @@ 80-7-19, 127 @@BA 10, 1 n° 28 @@
+f. @@= 182-189
+(= 1 col.) @@
+rev. @@= 234-236+l. d'app.+col.
+asb.
+
+x @@ BM 38433*
+@@v. Dijk @@f. @@= 182-195
+(= 1 col.) @@
+rev. @@= 225-236+l. d'app.+col.
+néo-babylonien
+
+y @@ AO 4135 @@ RA 11 (1917) 81 ss. @@
+f. @@= 250-261
+(= 1 col.) @@
+rev. @@= 262-272
+néo-babylonien
+
+z @@ BM 46956=81-8-30, 422* @@
+Lambert @@
+f. @@— 281-289
+(= 1 col.) @@
+rev. @@= 328- 332+l. d'app.
+
+a₁ K 4814
+(= 1 co
+asb.
+
+b₁ VAT 172+fgm.
+(= 1 col.)
+temps des Séleucides; le fgm.
+fgm'
+reproduit SBH 71 ne peut pas
+être placé avec certitude; cf.
+texte
+
+e₁ K 15178
+(fgm.)
+asb.
+
+d₁ VAT 9710
+(= 1 /4)
+recension médio-ass.
+Assur
+MVAG 8/5 (1903
+pl. XII
+XlI
+
+f₁ @@= 293-296
+rev.
+= 326- 332+1. d'app.
+SBH 71 f.
+rev.
+= 345-357
+= 358-371
+ZA 54 (1961) 88, fig:-8 @@= 347-351
+
+e
+ND 4388
+(= 1 col.)
+KAR 14 @@f. 1 @@= 375-397
+2 @@= 418-443
+rev. 3 @@ = 486-512
+4 @@ = 546-556+1. d'app. de la
+14e(!) tablette; cf. n,
+ZA 54 (1961) 83,
+fig. 5
+f.
+rev.
+= 375-386
+= 389-400
+Kalah (Nimrud)
+
+f₁
+K 2871
+(= 1 col.)
+MVAG 8/5 (1903) =
+BA 5, 676 ss.
+f.
+rev.
+= 385-399
+= 400-414
+asb.
+
+g₁ K 10374*
+(fgm.)
+Falkenstein Ms.
+Lambert
+= 401-406
+asb.
+
+h₁ Rm 585* v. Dijk f. = 432-438
+rev. = 449-453
+(= @@ 1 col.)
+asb.
+
+i₁ BM 123372* v. Dijk f. = 435-442
+(= Th 1932, 12-10, 315) rev. = 456-462
+(= 1 col.)
+Ninive, médio-assyrien
+
+j₁ K 2862+2868+5065a+ 4 R2 13, n° 1 f. = 463-489
+Rm 111* (+add. p. 2) rev. = 490-512+1. d'app.
+(= @@ 1 col.)
+asb.
+
+k₁ VAT 251 Abel-Winckler, 60s' f. = 513-533
+(= 1 col.)
+rev. = 543-556+1. d'app.
+néo-babylonien
+(= 1 col.) Sm 769* v. Dijk f. = 517-522a
+rev. = 551- 556+l. d'app.
+
+m₁ VAT 10643 KAR 370a f. = 568; 524-530; 569
+(+s 1 +x 1 +y 1 ) rev. = 591-600
+(— @@ 1 col.?) Assur; médio-assyrien.
+La même recension que n,
+avec transposition des 11. 524-
+531, et prob. tabl. 13/14
+
+n₁ BM 122625*
+v. Dijk (= 1930, 5-8, 14)
+f. 1 @@= 613-627
+2 @@= 565-568; 524-530; 569-586
+(= 1 /4)
+rec. médio-assyrienne; est la
+même recension aberrante que
+rev' 3 @@ = 672-689;
+rev. 4 @@ = 717-728+ col.m 1 + ; elle transpose le pas-
+sage 524-531 et interchange
+22 @@
+INVENTAIRE DES TEXTES
+tabl. 13 et 14; cf. pour cela la
+„ma.y
+1. d'app. de d„ recension mé-
+dio-assyrienne, elle aussi.
+
+o₁ VAT 10628
+KAR 363
+(= 1 col.?)
+f.
+rev.
+= 540-544
+= 545-550
+Assur; médio-ass.
+
+p₁ K 1299 @@ AOTU 1, 361
+(= 1 col.?)
+f.
+rev.
+= 550-556
+= perdu
+asb.
+
+q₁ K 5033* @@ v. Dijk
+= 557-565
+(fgm.)
+asb'
+
+r₁ VAT 17041* (= BE 21157) v. Dijk
+= 560-577
+(fgm.)
+néo-babylonien
+
+s₁ VAT 10959(+m,) @@KAR 251
+Assur; médio-ass.
+
+t₁ VAT 18723+18728* @@v. Dijk
+(— W 17718)
+f.' = 568(!); 524-526
+rev.!
+rev.' = 595-599
+f'
+f. = 7-10
+rev. = 31-42
+(= 1 col.)
+néo-bab. de Warka
+
+u₁ BM 47660*
+Finkel
+(= 81-11-3, 365)(+ k 2 )
+f. = 3-16
+rev. = 37-45
+(= 1 col.)
+néo-bab.
+
+v₁ K 13552* @@ v. Dijk
+(= 1 col.)
+f.
+re
+621-627
+= 634-638
+asb.
+
+w₁ 81-7-27, 120* @@v. Dijk
+(= 1 col.) @@ (cf. 4 R2 add. p. 2)
+f. = 485-490
+rev. = 491-496
+asb.
+
+x₁ VAT 10643c(+m,) @@KAR 370e
+= 559-565
+(fgm.)
+
+y₁ VAT 10643b( +m,) @@KAR 370b
+@@ = 600'-602'
+(fgm.)
+
+z₁ Rm 1022a*
+@@ v. Dijk @@ f. @@= 529-535
+(= 1 col.) @@ rev. @@= 541-545
+asb.
+
+a₂ K 17950* @@ Lambert @@ = 382-386
+(fgm.)
+asb.
+
+b₂ BM 51213+52279+53337 Lambert @@f. @@= 4-94 (extrait)
++78074* (= 82-3-23,
+2209+3313+4372+
+85-11-27, 11) @@ (= 4 col.?); extrait; néo-bab.
+Sippar
+@@
+@@
+rev. 1-2 = 479-480
+3 =
+4 =
+7 =
+8 =
+9 =
+10 =
+11 =
+13 =
+485
+507
+528
+549
+557
+569
+592
+617
+
+c₂ BM 53666*
+Lambert f.
+(= 82-3-23, 4706)
+rev.
+= 2-6
+= 44-45+1. d'app.+col.
+(= 1 col.)
+néo-bab. ; Sippar
+
+d₂ K 19608*
+Lambert = @@ 1-2+col.
+(fgm.); asb.
+
+e₃ K 19780* Lambert = 262-264
+(fgm.)
+
+f₂ Hé (= Éc. Prat. des Hautes Durand/v. Dijk f. = 71-73
+Études) 523*
+rev' @@ _ = 74-76
+néo-babylonien
+
+g₂ A 29946* (= 2 NT 109) Finkel f. = 218-222
+(fgm.); extrait rev. = 345-348
+néo-bab.; Nippur = 566-567
+
+h₂ BM 121092 Cooper; Walker = 165-166
+(fgm.) (Transcription
+seulement)
+
+i₂ BM 38838* Finkel f. = @@ 136-144
+(= 80-11-12, 723)
+rev. =
+@@ 175-181 +I. d'app.+col.
+néo-babylonien (Bab.)
+
+j₂ BM 39356*
+Finkel rev. = @@ 371-374+1. d'app.
+(= 80-11-12, 1242)
+néo-babylonien (Bab.)
+
+k₂ BM 48598* Finkel f. = @@ 17-25
+(= 81-11-3, 1309)(+u 1 ) rev. = 27-33
+(= 1 col.)
+néo-babylonien (Bab.)
+
+l₂ BM 38882* (= 80-11-12,
+Finkel f. = 89+1. d'app'+col.
+768)
+(= @@ 1 col.)
+néo-babylonien (Bab.)
+
+m₂ BM 46804* (= 81-8-30,
+Finkel rev. = 77-87
+270)
+(= 1 col.)
+néo-babylonien (Bab.)
+
+n₂ BM 46971* (= 81-8-30,
+Finkel f.
+= @@ 182-191
+437)+BM 43974 (= 81-7-1,
+1775)
+rev.
+= 229-237
+(= 1 col.) néo- babylonien
+(Bab.)
+
+o₂ BM 42271 (= 81-7-l, 30) 29 = 459
+(= Comm. Aa II 5)
+
+p₂ 4 NT 32 OIP 97, 89 = 58-60
+(fgm.)
+
+q₂ K 20538 Finkel f. = 526-529
+
