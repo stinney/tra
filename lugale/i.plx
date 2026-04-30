@@ -33,7 +33,9 @@ while (<>) {
 	my $vd = 0;
 	my @n = ();
 	foreach my $pb (@pub) {
+	    $pb =~ s#29/#\cA#;
 	    $pb =~ s#/.*$##;
+	    $pb =~ s#\cA#29/#;
 	    if ($pb =~ s/Bergmann|(?:v\.?\s+)?Dijk|Durand|Finkel|Geller|Lambert//) {
 		$vd = 1;
 		push @n, "van Dijk pl. $pl{$s}";
@@ -55,7 +57,7 @@ while (<>) {
 
 sub lines {
     my @x = @_;
-    warn "===\n", join("\n", @x), "\n"
+    warn "===$s===\n", join("\n", @x), "\n"
 	if $trace;
     for (my $i = 0; $i <= $#x; ++$i) {
 	$x[$i] =~ s/\s*\@\@=/=/;
@@ -72,7 +74,7 @@ sub lines {
 	if $trace;
     my $f_or_r = 0;
     my @ll = ();
-    for (my $i = 0; $i < $#x; ++$i) {
+    for (my $i = 0; $i <= $#x; ++$i) {
 	my $bang = 0;
 	warn "$s: $x[$i]\n"
 	    unless $x[$i] =~ /^([0-9]+|f\.\!?(?:\s+[0-9]+)?|r(?:ev)?\.\!?(?:\s+[0-9]+)?)\s*=\s*/;
@@ -89,7 +91,8 @@ sub lines {
 	if ($x[$i] =~ s/^\s*([0-9]+)(\s|=)//) {
 	    my $ar = $1;
 	    $col = Roman::roman($ar);
-	    warn "col = $col\n";
+	    warn "col = $col\n"
+		if $trace;
 	}
 	$x[$i] =~ s/^\s*//; $x[$i] =~ s/^=\s*//;
 	warn "$s: x[$i] after col: `$x[$i]'\n"

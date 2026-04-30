@@ -617,7 +617,7 @@ f.  1 = 37-50
 rev. 12 = 687-696
 
 T₄ N 3122* @@ v. Dijk
-(= 1 / 1 ? mais n'est pas: F, +)
+(= 1 / 1 ? mais n'est pas: F₁+)
 (fgm.)
 rev. 12? = 690-700
 
